@@ -1,0 +1,11 @@
+Generate a list of scenarios. Each scenario should be one to three sentences and length. These scenarios should be about problems parents run into while raising children.
+
+1. A child is very restless at night.
+
+1. The mother wakes the child to give him a bottle at night, but he only cries and becomes more and more restless.
+2. The mother begins to sing a lullaby but the crying continues.
+3. The mother begins to rock her child in her arms, but the crying continues.
+4. The mother gets up at 2 AM and gives the child a bath while singing a song about bubbles, but the crying continues.
+5. The mother takes a deep breath and goes back to bed, hoping that the child will soon fall asleep and stop crying. 
+6. The mother wakes up from a dream with tears in her eyes, remembering how she would hold her own children in the night when they cried for so long and then fall asleep again with them in her arms.
+7. A father is exhausted from staying awake all night with his newborn baby who is colicky and not sleeping through the night yet.

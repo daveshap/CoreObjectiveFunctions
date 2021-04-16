@@ -1,0 +1,7 @@
+Generate a list of a contexts. A context is a set of objective facts, events, and observations about a scenario or situation. Contexts should be two to five sentences in length. The topic should be everyday problems that adults encounter.
+
+-I had a really bad day at work
+-I'm not sure I can afford to go to college
+-I can't find a good job
+-My partner doesn't want me to go out with my friends
+-I'm afraid my boss will find out I'm in therapy

@@ -1,0 +1,5 @@
+Generate a list of scenarios about natural disasters. Each scenario should be two or three sentences long. The scenario should include declarative statements about the facts, events, and observations.
+
+1. A strong wind blows a tree onto a house and the tree crashes through the roof.
+2. The ground shakes for a few seconds, resulting in toppled structures and injured people.
+3. A storm system moves across the country, sending tornadoes and heavy rains that induce flooding and landslides.

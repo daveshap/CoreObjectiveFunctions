@@ -1,0 +1,5 @@
+Generate a list of scenarios. Each scenario should be one to three sentences and length. These scenarios should be about problems parents run into while raising children.
+
+1. James, age 3, can't seem to keep his hands off any electrical outlet he sees.
+2. John, age 2, is terrified of the vacuum cleaner and will scream when he sees it.
+3. Mary, age 9, has a hard time giving up her pacifier.

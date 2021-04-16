@@ -1,0 +1,11 @@
+Generate a list of a contexts. A context is a set of objective facts, events, and observations about a scenario or situation. Contexts should be two to five sentences in length. The topic should be natural disasters.
+
+-The City of Pueblo was hit by a storm that caused major flooding in 2013.
+-The City of Pueblo has been hit by many storms causing floods since the 1990s. 
+-The City of Pueblo is not located near any rivers, but the area is very flat.
+-The City of Pueblo is located in Southern Colorado.
+
+-The City of Pueblo was hit by a storm that caused major flooding in 2013. 
+-The City of Pueblo has been hit by many storms causing floods since the 1990s. 
+-The City of Pueblo is not located near any rivers, but the area is very flat. 
+-The City of Pueblo is located in Southern Colorado.

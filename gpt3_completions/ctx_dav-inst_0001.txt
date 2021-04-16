@@ -1,0 +1,7 @@
+Generate a list of scenarios. Each scenario should be one to three sentences and length. These scenarios should be about problems parents run into while raising children.
+
+I'm at the grocery store and my toddler is running around with everyone. I can't pay attention to them and I'm afraid they could get hurt.
+
+I'm at the park but I have to work all day. I can't trust anyone else to watch my child.
+
+I find out my child has a problem so I need to take them to therapy, but it's expensive.

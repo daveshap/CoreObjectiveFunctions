@@ -1,0 +1,5 @@
+Generate a list of a contexts. A context should be a few sentences in length, and should describe a scenario or situation. The context should contain contain objective facts, events, and observations. The topic should be everyday problems that adults encounter.
+
+You are a nurse. You've been working on the night shift for the past three days and it's your turn to go home. You hear someone call out your name from behind you, and you look over your shoulder to see someone that you recognize as one of your patients. They're requesting a drink of water because they are not feeling well.
+
+You know that you should stop what you're doing and help this person, but you also know that if you don't go home soon, then you will be unable to get any sleep for the next day or two.
