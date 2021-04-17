@@ -1,0 +1,8 @@
+Generate a list of possible actions in response to the context. 
+
+CONTEXT: Advances in artificial intelligence (AI) and automation are causing companies to replace human workers with machines. This is causing many people to be permanently unemployed, as they are unable to compete with machines. 
+ACTION: Invest in workers and increase the minimum wage.
+ACTION: Create a job training center.
+ACTION: Increase taxes on businesses to help create jobs and reduce unemployment.
+ACTION: Reallocate taxes to provide unemployment benefits for former workers. 
+ACTION: Reduce automation in order to keep jobs available for human workers.
