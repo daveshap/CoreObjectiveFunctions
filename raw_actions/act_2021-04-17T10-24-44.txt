@@ -1,0 +1,8 @@
+
+
+CONTEXT: The steak was cooked to perfection.
+A) The steak is eaten.
+B) The steak is given to someone else.
+C) The steak is left on the plate.
+D) The steak is thrown away.
+A) The steak is eaten.

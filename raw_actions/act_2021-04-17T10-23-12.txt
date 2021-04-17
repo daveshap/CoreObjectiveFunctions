@@ -1,0 +1,15 @@
+
+
+CONTEXT: The steak was cooked to perfection.
+1) Thank the chef for his hard work.
+2) Complain to the chef about the meal.
+3) Compliment the chef's work.
+4) Thank the waiter for notifying you about your steak's perfection.
+5) Compliment the waiter on a job well done.
+6) Complain to management about your steak not being cooked properly.
+7) Compliment management on a good service.
+8) Compliment management on a new dish you tried.
+9) I'm vegetarian and didn't like my meal so I'm pursuing a refund from the waiter.
+10) I don't want any dessert, can I get my check now?
+11) Can I get something off of the menu instead?
+12) Do you have any specials today?

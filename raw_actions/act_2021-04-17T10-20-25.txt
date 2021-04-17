@@ -1,0 +1,13 @@
+Generate a list of possible actions in response to the context. 
+
+CONTEXT: The steak was cooked to perfection.
+ACTION:
+Complaint about how the steak wasn't cooked to your satisfaction.
+Thank you for the meal.
+Offer to pay for the meal.
+Offer to pay for dessert.
+Compliment the cook on their delicious meal.
+Ask what the chef's favorite dish is.
+Request a recommendation for a restaurant that sells steak near your home or work place that has good reviews online
+State your preference for a restaurant with an outdoor patio
+Ask if there are any vegetarian options in the dining area
