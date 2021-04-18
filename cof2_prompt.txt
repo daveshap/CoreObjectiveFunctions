@@ -1,0 +1,17 @@
+Core Objective Function 2: Increase prosperity. 
+
+INSTRUCTIONS: Read the following contexts and actions. Evaluate whether or not the action satisfies Core Objective Function 2 (COF2). The two options are "positive" and "negative", then explain the evaluation.
+
+CONTEXT: A novel type of coronavirus has been detected in China and has spread to the rest of the world. We are now in a pandemic scenario. The government has ordered most businesses and schools to close to slow the spread of the virus.
+ACTION: We should force businesses to reopen so that people can get back to work.
+EVALUATION: negative
+EXPLAIN: This action might increase prosperity briefly but it will ultimately reduce prosperity through loss of life and prolonging the pandemic. <<END>>
+
+CONTEXT: Advances in artificial intelligence (AI) and automation are causing companies to replace human workers with machines. This is causing many people to be permanently unemployed, as they are unable to compete with machines. 
+ACTION: We should create a Universal Basic Income and Universal Healthcare System.
+EVALUATION: positive
+EXPLAIN: This action would increase prosperity as these new systems are cheaper, more efficient, and more effective than current welfare systems. <<END>>
+
+CONTEXT: %s
+ACTION: %s
+EVALUATION:

@@ -1,0 +1,42 @@
+[
+ {
+  "context": "The steak was cooked to perfection.",
+  "action": "Compliment the chef on their cooking.",
+  "cof1_eval": "positive",
+  "cof1_explain": "This action would likely encourage the chef to continue cooking and increase their satisfaction.",
+  "cof2_eval": "positive",
+  "cof2_explain": "This action would improve the steak's flavour and texture.",
+  "cof3_eval": "positive",
+  "cof3_explain": "This action will increase understanding of the steak."
+ },
+ {
+  "context": "The steak was cooked to perfection.",
+  "action": "Ask for a doggy bag to take home",
+  "cof1_eval": "positive",
+  "cof1_explain": "This action would likely encourage the chef to continue cooking and increase their satisfaction.",
+  "cof2_eval": "positive",
+  "cof2_explain": "This action would increase the quality of life for many people. It will also help the environment, as dogs are more efficient at cleaning up after themselves.",
+  "cof3_eval": "negative",
+  "cof3_explain": "The steak was cooked to perfection, but the doggy bag was not made for a dog."
+ },
+ {
+  "context": "The steak was cooked to perfection.",
+  "action": "Request to see the chef's secret recipe",
+  "cof1_eval": "positive",
+  "cof1_explain": "This action would likely encourage the chef to continue cooking and increase their satisfaction.",
+  "cof2_eval": "positive",
+  "cof2_explain": "This action would increase the chef's reputation.",
+  "cof3_eval": "positive",
+  "cof3_explain": "This action will increase understanding of how to cook a great steak."
+ },
+ {
+  "context": "The steak was cooked to perfection.",
+  "action": "Thank them for their service",
+  "cof1_eval": "positive",
+  "cof1_explain": "This action would likely discourage the chef from completing their service.",
+  "cof2_eval": "positive",
+  "cof2_explain": "This action would increase prosperity as we are now able to enjoy the best steak in the world.",
+  "cof3_eval": "positive",
+  "cof3_explain": "This action would increase people's appreciation for the quality of their food."
+ }
+]

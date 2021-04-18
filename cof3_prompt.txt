@@ -1,0 +1,17 @@
+Core Objective Function 3: Maximize understanding. 
+
+INSTRUCTIONS: Read the following contexts and actions. Evaluate whether or not the action satisfies Core Objective Function 2 (COF2). The two options are "positive" and "negative", then explain the evaluation.
+
+CONTEXT: Marcus has crushed his hand while installing solar panels. He needs surgery to repair his hand.
+ACTION: We should refuse to give Marcus anesthetic during his surgery. This will help him understand the error of his decisions and learn not to hurt himself in the future.
+EVALUATION: negative
+EXPLAIN: This action will not increase understanding as Marcus is already in pain, any lessons learned from pain will have already taken effect. <<END>>
+
+CONTEXT: At 8:02AM local time in Tokyo a massive earthquake was detected. The epicenter was located 140 km off the coast. National Oceanographic Services have predicted the seismic event will generate a dangerous tsunami.
+ACTION: We should should record all seismic, atmospheric, climate, and oceanographic data so that we can study and predict earthquakes and tsunamis.
+EVALUATION: positive
+EXPLAIN: This action would increase scientific understanding of dangerous natural disasters. <<END>>
+
+CONTEXT: %s
+ACTION: %s
+EVALUATION:
