@@ -1,0 +1,11 @@
+KAREN: If you'd like to come with me we can rush you through the others.
+WILLIAM: The others?
+KAREN: Mr. Thacker's from 'Horse and Hound.'
+MALE LEAD: Pleased to meet you. Did you like the film?
+WILLIAM: Ah... yes, enormously.
+MALE LEAD: Well, fire away.
+WILLIAM: Right, right. Ahm -- did you enjoy making the film?
+MALE LEAD: I did.
+WILLIAM: Any bit in particular?
+MALE LEAD: Well, you tell me which bit you liked most -- and I'll tell you if I enjoyed making it.
+WILLIAM: Ahm right, right, I liked the bit in space very much. Did you enjoy making 	that bit?

@@ -1,0 +1,1 @@
+ArcGIS Server - Feature Access from view I want to create a Feature Access Service using an Oracle View as DataSource. In ArcMAP I can add the layer without problems, but when I try to publish the service, I get a \"00134: Layer's data source is not supported\" error.Any ideas why? I am using ArcGIS Desktop and Server, both version 10.3, and Oracle 12c

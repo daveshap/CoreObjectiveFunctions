@@ -1,0 +1,1 @@
+Where is the \"Send to Archive\" option in High Sierra I have recently updated to Mac OS X High Sierra and noticed that there is no longer a archive or compress option in the context menu in finder.Has this feature been removed or is a there a setting to enable to use this?

@@ -1,0 +1,20 @@
+What does the CLOUD Act do?
+The CLOUD (Clarifying Lawful Overseas Use of Data) Act is an act [proposed by Senators Hatch, Graham, Coons and Whitehouse](https://www.eff.org/deeplinks/2018/02/cloud-act-dangerous-expansion-police-snooping-cross-border-data) on [February 6th](https://en.wikipedia.org/wiki/CLOUD_Act)
+
+The bill itself can be found online [here](https://www.congress.gov/115/bills/s2383/BILLS-115s2383is.pdf), and is not that long of a read. The gist of the bill is that it is amending the Stored Communications Act to fix problems that the proponents claim are in American internet-related laws. 
+
+[Andrew Woods and Peter Swire writing at Lawfare Blog](https://lawfareblog.com/cloud-act-welcome-legislative-fix-cross-border-data-problems) support the legislation, saying things like 
+
+>Moreover, a number of safeguards are built into the bill. The bill creates a mechanism whereby providers can apply for a motion to quash or modify legal process if the provider reasonably believes the subscriber is not a U.S. person and that the required disclosure would create a material risk that the provider would violate the laws of a qualifying foreign government. It also requires a court to conduct a comity analysis in the event of such a motion to quash, which may alleviate foreign government concerns about sovereign interests. It is not clear why this comity provision is in the statute except as a symbolic gesture; courts were already free under the common law to conduct a comity analysis in thinking through whether to issue an order with extraterritorial impact. Its presence in the statute is perhaps a reminder that trust and mutual respect play an important role in these cross-border matters. 
+
+The EFF - Electronic Frontier Foundation - [opposes the bill](https://www.eff.org/deeplinks/2018/02/cloud-act-dangerous-expansion-police-snooping-cross-border-data), stating its issues with the law: 
+
+>The Clarifying Overseas Use of Data (CLOUD) Act expands American and foreign law enforcement’s ability to target and access people’s data across international borders in two ways. First, the bill creates an explicit provision for U.S. law enforcement (from a local police department to federal agents in Immigration and Customs Enforcement) to access “the contents of a wire or electronic communication and any record or other information” about a person regardless of where they live or where that information is located on the globe. In other words, U.S. police could compel a service provider—like Google, Facebook, or Snapchat—to hand over a user’s content and metadata, even if it is stored in a foreign country, without following that foreign country’s privacy laws.
+
+• What does the bill actually do?
+
+• Is the bill an invasion of privacy or is it just clarifying outdated legislation?
+
+• What are the implications on currently active cases?
+
+• Is there similar legislation in US states or other countries?

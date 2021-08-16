@@ -1,0 +1,1 @@
+Minecraft 1.10.2 command block crash I built a command block with some command and I can't play the world anymore. Everytime I try to start the world it crashes and turn off Minecraft. Is there some way how to remove that command block without starting the world?

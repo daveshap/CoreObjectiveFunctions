@@ -1,0 +1,1 @@
+Changing the attribute table view in QGIS 3? How does one change the Attribute table view on QGIS 3?An initial answer says to use the \"Switch to Table view\" button but I can't seem to find this button.

@@ -1,0 +1,1 @@
+Backup data base in oracle 12C We have 12c database. we had create a pdb. Now i want to take a backup throughRMAN. Could you please share the steps to configure this backup.I know to configure backup in 11g..For 12c Please share the steps.thank you,

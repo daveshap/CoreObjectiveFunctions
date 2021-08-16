@@ -1,0 +1,35 @@
+Asian male in CS? Ivies are overrated
+Hellooooo people!
+
+So if you're a rising or graduating Senior, this post will either be helpful or veryyy relatable, so please do read carefully
+
+I'm going to argue that attending your state school or a top public university is better than attending an elite ivy league university if you wish to study computer science, and become a traditional software engineer or technical product manager at google, facebook, amazon, apple, microsoft, etc. you get the idea
+
+First off, cost. I get that your parents come from an upper-middle class background and can pay for that, but don't underestimate just how much undergrad costs. For most students who cant get fin aid, it costs around 75k*4 = 300k for an undergrad education.
+
+State schools on the other hand, especially if in-state, might cost around 30k, and can be done in 3 years with AP Credits. So, we're looking at 90k.
+
+You've just saved 210k
+
+Now, you're probably wondering "but, hey! ivies have prestige and lead to a better life and have more opportunities"
+
+You're right in some ways, but if you're a CS person, you seriously couldn't be more wrong.
+
+Employers in the tech industry go to many of the top public universities, and heavily heavily recruit. I'm talking the public universities some ppl on this subreddit love, like UVA, michigan, berkeley, georgia tech, etc. but I'm ALSO (and this is the imp part) talking ab random universities you've never heard of, like North Carolina Agricultural and Technical Universities. You know those universities with 70% acceptance rates? or 50%? or 60%? Guess what! Google recruits there. (look at pitt, google has an office literally in pittsburgh, and they just pick up the top cs majors at pitt; it's not all cmu)
+
+The point is, you don't need to go to some super prestigious school and pay a shitton of money and get depressed that you got rejected by a lot of other elite universities.
+
+Save yourself the trouble for once in your life. Be HAPPY going to Berkeley or Michigan or your local state university. Don't cry over getting waitlisted at Cornell or Penn or rejected by Harvard and Columbia. If you're at the top of your public university, you can literally get any top CS job you would like.
+
+In hindsight, I wish I recognized this. I personally was accepted by all 5 of the top 5 PUBLIC universities on US News, but at the same time, rejected by several ivies. For a while, I didn't appreciate getting into Berkeley, Michigan, Georgia Tech, etc. to study CS because I was so caught up with the elitism and prestige of Penn or Duke. Don't make the same mistake I did. Be happy and be proud. You got this.
+
+
+
+
+P.S. Keep in mind, as much as some ppl want to deny it, every ivy league university does heavily consider race in building their class. As an asian male applying for cs, you're in the most overrepresented highly qualified demographic there is. Elite universities like duke or penn are looking to build a diverse class, so naturally they can't pick all the numerous highly qualified cs ppl. However, big state schools, like gtech and berkeley, don't care about your race. They look for raw, untamed MERIT: your POTENTIAL to succeed. As much as I hate the budget cuts and huge ass classes at these big public universities, that trait to be race-blind is exactly what I think will make them far stronger over the next decade.
+
+
+P.P.S There are a *few* exceptions to this, but the colleges that fit into the exception are not ivies. Only three: MIT, Stanford, and CMU SCS. These three do have a some unique CS opportunities (especially if you're going for quant or fintech) that might not be readily available elsewhere. However, a great bulk of the CS graduates from even these institutions work the same software engineering jobs as their counterparts from strong public universities. Feel free to include Berkeley, Harvey Mudd, Caltech, UWaterloo, etc. as part of this bunch too. Berkeley and Caltech are self-explanatory, Harvey Mudd has an intensely rigorous engineering/CS curriculum, and Waterloo has a killer co-op program (like GT!).
+
+-----------
+EDIT: Thank you all for the upvotes! #csgangrepresent

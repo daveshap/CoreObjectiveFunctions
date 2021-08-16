@@ -1,0 +1,5 @@
+PRESTON: Is the word given?
+KIRK: The word is given: warp speed.
+PRESTON: Aye...
+SCOTTY: <u>WHY</u>?
+KIRK: He wants to kill me for passing sentence on him 14 years ago -- and he doesn't care who stands between him and his vengeance.

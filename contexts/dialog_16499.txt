@@ -1,0 +1,5 @@
+ALICE: I was here yesterday.
+PETE: Yeah, I remember.
+ALICE: How would you like to take me to dinner?
+PETE: I don't know.
+ALICE: Okay, then, I'll take you to dinner.

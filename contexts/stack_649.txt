@@ -1,0 +1,1 @@
+Playing different music at different channels How to play one music in right channel, another music in left channel of laptop speaker/headphone simultaneously in Ubuntu 16.04

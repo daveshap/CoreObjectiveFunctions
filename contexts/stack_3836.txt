@@ -1,0 +1,1 @@
+I am learning to do stacking. I want to know what will the input be to level 2 classifiers In classification/regression problems, say if we use five different base classifiers, we get 5 predictions for each example. What would be the input to the second level classifiers?

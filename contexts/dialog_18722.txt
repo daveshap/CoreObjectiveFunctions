@@ -1,0 +1,6 @@
+HOOK: The key!? She has the lost key!?
+CURATOR: Yes. No one has ever had so much, been so close. We must stop her, or it will be the end of us all.
+HOOK: Then we will kill her, we will kill her and all those with her.
+CURATOR: And burn the map and retrieve the key.
+HOOK: It will be done. But what of the American expedition? They leave tomorrow as well.
+CURATOR: Forget the bumbling Americans, they will be like all the others. Without the map to guide them, how can they possibly find Hamunaptra?

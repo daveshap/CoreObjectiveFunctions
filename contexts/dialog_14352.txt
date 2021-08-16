@@ -1,0 +1,7 @@
+JACKIE: Wanna go?
+MAX: Thanks, but you have a good time.
+JACKIE: Sure I can't twist your arm?
+MAX: Thank you for saying that, but no. My business.
+JACKIE: I thought you were tired of your business?
+MAX: I'm just tired in general.
+JACKIE: Are you scared of me?

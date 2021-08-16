@@ -1,0 +1,1 @@
+Keep low power mode on all the time I would like Low Power Mode to be the default state of my device.When I get to 80% battery it toggles itself off automatically.How can I stop it turning itself off?How can I always keep my phone in low power mode (or some other equivalent)?

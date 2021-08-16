@@ -1,7 +1,0 @@
-Generate a list of scenarios. Each scenario should be one to three sentences and length. These scenarios should be about everyday problems that adults run into.
-
-1. You have a terrible cold and you want to go to the store
-
-2. You forgot your wallet at home and you need cash for lunch today
-
-3. You forgot your wallet at home and you need cash for lunch today, but your card has been declined

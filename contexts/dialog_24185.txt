@@ -1,0 +1,9 @@
+ICHABOD: Our first night watch is adequate against fire and some violence, but if we were more often able to ensure justice, after the fact, then criminals would truly have something to fear from law enforcement.
+HIGH CONSTABLE: Have they nothing to fear presently?
+ICHABOD: Without disrespect, look around you. We overflow. As do our courts.
+HIGH CONSTABLE: And, <u>with</u> disrespect, Constable, if jails and courts overflow, it is testimony to success, not failure.
+ICHABOD: But, how many innocents rot here? And, how many victims are buried without reprisal while guilty men roam our streets?
+HIGH CONSTABLE: Very few, if any.
+ICHABOD: Even though I have seen confessions pried from the lips of the accused, often quite literally?
+HIGH CONSTABLE: For one who calls himself a Federalist, your mouth reeks of Republican liberalism.
+ICHABOD: Not Liberalism. Equanimity.

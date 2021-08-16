@@ -1,0 +1,13 @@
+TRIPLETTE: Hi. I'm John Triplette.
+BILL: Hi. Come on in. Mary!
+TRIPLETTE: Hello. John Triplette.
+MARY: Hello.
+TRIPLETTE: Glad to meet you.
+BILL: You want anything? A drink?
+TRIPLETTE: Oh, no, listen, I don't want to take up too much of your time.
+BILL: Don't you worry. We're just having a quiet Sunday at home.
+TRIPLETTE: Well, I'm here putting together a show. It's a benefit really.
+BILL: Whose?
+TRIPLETTE: Hal Phillip Walker.
+MARY: Oh, no.
+TRIPLETTE: He's pretty well known down here.

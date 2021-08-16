@@ -1,0 +1,9 @@
+JEFFREY: I don't think we should call anyone just yet, it may not even be all that serious.
+CHANCE: I agree.
+JEFFREY: Let's have a look, do you mind?
+CHANCE: Of course. I would like to look.
+JEFFREY: It's starting to swell, is it painful?
+CHANCE: Yes.
+EVE: ... Won't you let us do something for you? Your leg should be examined, we could take you to a hospital.
+CHANCE: There's no need for a hospital.
+EVE: Why, there certainly is. You must see a doctor, I insist on it. Please, let us take you.

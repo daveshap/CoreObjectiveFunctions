@@ -1,0 +1,8 @@
+SAM: My name is Sam Lowry. I have to report to Mr Warren.
+PORTER: Thirtieth floor, sir. You're expected.
+SAM: Er, don't you want to search me?
+PORTER: No, sir.
+SAM: My I.D. cards.
+PORTER: No need, sir
+SAM: But I could be anybody.
+PORTER: No you couldn't, sir. This is Information Retrieval. the lift's arrived, sir.

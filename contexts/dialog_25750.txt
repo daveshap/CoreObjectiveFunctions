@@ -1,0 +1,4 @@
+KIRK: Klingons... our Epsilon 9 station ... and Ilia!! They seem to be more than just images...
+SPOCK: Exact patterns. The energy bolt that hit them wasn't simply a weapon -- it dematerialized them, stored them. But why?
+KIRK: If this is their ship's data banks, where is the crew? Or is their entire ship automated?
+SPOCK: Captain, I do not believe there <U>is</U> a crew -- or that this is a vessel as such.

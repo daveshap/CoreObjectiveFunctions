@@ -1,0 +1,1 @@
+How do I reset Ubuntu 18.04 to factory defaults? so I have a PC with Ubuntu 18.04 on it and I'm going to be selling it. I'm just asking how I can reset it to factory defaults, like getting rid of everything I installed and everything? Thanks in advance.

@@ -1,0 +1,18 @@
+Is there a health insurance "coverage gap"? If so, why are some people too poor for ACA/"Obamacare" and too rich for Medicaid?
+A common criticism against ACA/"Obamacare" is that there still remains a significant health care coverage gap where people who have no other coverage and can't afford an ACA plan will be fined on their income taxes.
+
+[healthcare.gov outlines the exemption rules as follows:](https://www.healthcare.gov/exemptions-tool/#/results/2016/details/marketplace-affordability)
+
+> Coverage is considered to be unaffordable if the lowest cost Bronze-level plan available to you through the Marketplace in 2016 is more than 8.13% of your household income.
+
+> The total cost to you must be more than 8.13%, accounting for any premium tax credit you would qualify for if you enrolled in that plan.
+
+> If you qualify for this exemption, it may apply to everybody on your tax return.
+
+This sounds completely reasonable and it would surprise me if there really are many people who will unavoidably incur the penalty.
+
+Is there really a coverage gap? If so, how significant is this problem? What estimates have been published for the number of Americans that are uninsured because they do not have an employer that provides health insurance, cannot afford an ACA plan, do not qualify for Medicare or Medicaid, and are not merely refusing or neglecting to purchase a plan? Are there many people who have no other coverage and cannot reasonably afford ACA or do most of these people instead just not *want* to pay for coverage?
+
+If the gap does exist and affects many people, why does it exist? Was it purely an oversight in the ACA itself or is it somehow the unforeseen consequence of a mix of factors?
+
+Here's [an example](http://money.cnn.com/2014/04/21/news/economy/obamacare-medicaid-coverage-gap-texas/) of an article talking about the coverage gap. The article gives a few anecdotes about people in Texas, a state which refused the Medicaid expansion. The numbers do sound pretty bad in that case.

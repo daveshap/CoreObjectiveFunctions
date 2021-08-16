@@ -1,0 +1,17 @@
+COULMIER: You have to believe me, I had no idea --
+ROYER-COLLARD: All France is aghast at this book, yet you've not heard of it?
+COULMIER: I've taken vows to live my life within these walls; not outside them.
+ROYER-COLLARD: Abbe, I admire you; I do. You've a conviction... an idealism... peculiar to the very young. And so I'll be candid. The Ministry has sent me here with the most explicit... the most severe instructions.
+COULMIER: Yes?
+ROYER-COLLARD: Unless we set Charenton on a straight and narrow course, she'll be shut down forever by order of the Emperor.
+COULMIER: Shut down?
+ROYER-COLLARD: In their eyes, the Marquis is the surest barometer of your progress here.
+COULMIER: But he's one among some two hundred wards --
+ROYER-COLLARD: Have you tried bleeding him with leeches? The calming chair? Maybe you should flog him at the stake?
+COULMIER: Why? So he'll learn to fear punishment, rather than pursue virtue for its own reward?
+ROYER-COLLARD: You're a sentimental man.
+COULMIER: A practical man, sir. Given the Marquis' unusual tastes, a sound thrashing on bare flesh may not qualify as a deterrent.
+ROYER-COLLARD: You find this amusing, do you?
+COULMIER: On the contrary. Let me take up this matter with the Marquis myself --
+ROYER-COLLARD: And place my reputation at stake?
+COULMIER: Charenton is my life's work. To have her wrested from beneath me now --

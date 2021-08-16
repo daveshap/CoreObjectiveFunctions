@@ -1,0 +1,1 @@
+How do you type a character with its ASCII code? I need to type the form feed character 0x0C in ASCII on my Mac. Is there any way to do this? I've tried using \"Emoji and Symbols\" from the Edit menu, but it's not in there.

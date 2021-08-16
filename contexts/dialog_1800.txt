@@ -1,0 +1,5 @@
+FORMICA: Your majesty, I'm afraid matters of state keep me from attending the ceremony.
+QUEEN: But General -- this tunnel is your baby! You're sure you can't stay ?
+FORMICA: 'Fraid not, your majesty. Goodbye, your majesty.
+QUEEN: Very well, General -- I know you -- all work and no play!
+FORMICA: Alright, let's move out!

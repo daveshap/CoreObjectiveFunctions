@@ -1,0 +1,4 @@
+DATA: We are passing through the Bassen Rift. The projections will return when we have cleared it.
+PICARD: It's interfering with our uplink from Starfleet cartography?
+DATA: Yes, sir. The Rift effects all long-range communications.
+PICARD: Commander Riker, evasive maneuvers!

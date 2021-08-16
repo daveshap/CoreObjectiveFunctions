@@ -1,0 +1,8 @@
+WENDOVER: I'm - afraid I have some bad news for you, Reef - You'll have to share quarters, this trip.
+REEF: Who with?
+WENDOVER: Dr. Neilsen. He'll be - -
+REEF: 'Doctor' Neilsen? When did <u>that</u> happen?
+WENDOVER: Huh?
+REEF: It'll be all right. We're old friends!
+WENDOVER: Get ready. We shove off as soon as Griff reports all the crew aboard.
+DAVE: Right, Skipper.

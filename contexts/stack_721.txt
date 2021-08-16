@@ -1,0 +1,1 @@
+Dolphin (file manager) shortcuts config-file location Does anyone know where Dolphin keeps the shortcuts stored?I've already looked into the config-files in \"~/.kde/share/config/\there's a dolphinrc there, but the saved shortcuts are nowhere to be found.

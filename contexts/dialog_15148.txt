@@ -1,0 +1,15 @@
+BURGEL: The keeper of the files is still waiting for your final summation of the Erlanger claim.
+KAFKA: I gave it to him yesterday.
+BURGEL: You didn't give it to <u>me</u>.
+KAFKA: No, I left it in his office.
+BURGEL: Did you see him?
+KAFKA: I've never seen him. I don't believe there is a keeper of the files.
+BURGEL: He's usually in the storage room sorting things out. He can't close the file on a case until he has the concluding report.
+KAFKA: He has it, he just hasn't noticed it yet, all right?
+BURGEL: Who's to say he ever will? He's a timid old man and quite careful not to tread on anyone's toes -- In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.
+BURGEL: In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
+KAFKA: Burgel, I thought it would be easier, as long as I was passing --
+BURGEL: But <u>I'm</u> the messenger. An error like this damages my credibility.
+KAFKA: Your credibility -- yes, it's well known.
+BURGEL: When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
+KAFKA: I'll commit that to memory.

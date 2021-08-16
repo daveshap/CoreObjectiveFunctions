@@ -1,0 +1,8 @@
+JOE: Joe Doakes? It's quarter to 10...
+RECEPTIONIST.: I'm sorry. We're running behind. So many applicants...so few jobs... If you'll just have a seat.
+JOE: I have a seat. I've had it since nine.
+RECEPTIONIST.: ...Mr. Athol will be with you as soon as possible. Will you be able to wait?
+RECEPTIONIST.: Is there anything else?
+JOE: A drink...
+RECEPTIONIST.: Water fountain's through that door, down the hall.
+JOE: Thanks.

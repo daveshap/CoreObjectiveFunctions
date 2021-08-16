@@ -1,0 +1,8 @@
+RECEPTIONIST: Mayol... Mayol... No reservation.
+JACQUES: ... Are you sure?
+RECEPTIONIST: Positive, Sir.
+JACQUES: This is the hotel San Domenico?
+RECEPTIONIST: Yes Sir, and it has been so for 127 years.
+JACQUES: Yes, but... So, you haven't got a room left?
+RECEPTIONIST: No Sir, the hotel is full because of the Diving championship.
+JACQUES: Ah?!

@@ -1,0 +1,8 @@
+VINCENT: Try some deep breathing.
+MAX: What?
+VINCENT: Adrenaline's wearing off. You get shaky after. It's not uncommon. Deep breathing helps.
+VINCENT: You better?
+MAX: I think so.
+VINCENT: What are you doing?
+MAX: It's a mess.
+VINCENT: So?

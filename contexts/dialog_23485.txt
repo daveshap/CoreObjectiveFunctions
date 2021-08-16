@@ -1,0 +1,9 @@
+WILL: Follow that boat!
+BOATMAN: Right you are, governor!
+BOATMAN: I know your face. Are you an actor?
+WILL: Yes.
+BOATMAN: Yes, I've seen you in something. That one about a king.
+WILL: Really?
+BOATMAN: I had the Christopher Marlowe in my boat once.
+WILL: Do you know that house?
+BOATMAN: Sir Robert De Lesseps.

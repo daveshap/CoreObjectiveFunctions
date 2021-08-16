@@ -1,0 +1,10 @@
+PETERS: There's no one in the corridor but us.
+STARCK: Not according to the computer.
+MILLER: Peters is right, no one's here.
+PETERS: I don't know, this place is really dark, I can't see a thing...
+MILLER: Easy, Peters, we're okay, we're okay. Let's finish the sweep.
+WEIR: Captain Miller, the foredecks are just ahead.
+PETERS: I can see the hatch.
+MILLER: Starck, you still showing those readings?
+STARCK: That's an affirmative.
+MILLER: Keep your eyes open.

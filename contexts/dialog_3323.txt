@@ -1,0 +1,40 @@
+ALLENBY: The injection will ease the pain and swelling, Mr. Gardiner.
+CHANCE: I understand. I've seen it done before.
+ALLENBY: Now, you'll barely feel this. It won't hurt at all.
+CHANCE: You were wrong, it did hurt.
+ALLENBY: But not for long...
+ALLENBY: It's good that there was no apparent damage to the bone.
+CHANCE: Yes. I think so, too.
+ALLENBY: However, with injuries such as this, I have run into minor hemorrhaging, which really isn't too serious at the time, but can cause secondary problems if not looked after.
+CHANCE: I see.
+ALLENBY: You can pull your trousers up, now.
+CHANCE: Oh, fine.
+ALLENBY: Just to take the proper precautions, Mr. Gardiner, I'd recommend we take you downstairs and X-ray your leg. ... By the way, Mr. Gardiner, I would like to ask you something straight out.
+CHANCE: ... Straight out?
+ALLENBY: Yes. Are you planning on making any sort of claim against the Rand's?
+CHANCE: Claim...? ... Oh, claim, that's what Thomas asked me.
+ALLENBY: Thomas? Who's Thomas?
+CHANCE: Thomas Franklin, an attorney.
+ALLENBY: An attorney?
+CHANCE: Yes.
+ALLENBY: Then you wish to handle this matter through your attorneys?
+CHANCE: There's no need for a claim, the garden is a healthy one.
+ALLENBY: Oh, I see... ... Well, then... You're a very funny man, Mr. Gardiner. You caught me off guard, I must admit...
+CHANCE: Thank you.
+ALLENBY: Good, keep your weight off that leg, Mr. Gardiner. In fact, it would be best if you could stay here for a day or two, if that would be would be possible. Since Benjamin became ill we have our own hospital downstairs. I can promise you the finest in care, unless, of course, you would prefer to go elsewhere.
+CHANCE: Yes, I could stay here. Thank you.
+ALLENBY: Fine. Would you like me to speak to your personal physician?
+CHANCE: No.
+ALLENBY: I'll send Wilson up to take you for X-rays, Mr. Gardiner. Feel free to use the telephone, and please let me know if you have any discomfort.
+CHANCE: Yes, I will.
+ALLENBY: Good God, Eve - you'll freeze out here.
+EVE: I wanted some fresh air, Robert. How is Mr. Gardiner?
+ALLENBY: A rather large contusion, but I don't feel there is any serious damage. I'd like to keep an eye on him, though - I suggested that he stay here for a couple of days.
+EVE: Stay here? Is that necessary?
+ALLENBY: Not necessary, but preferable. I don't think he'll be a bother, he seems like a most refreshing sort of man.
+EVE: Yes, he is different... Not the kind of person one usually meets in Washington.
+ALLENBY: How true. Mr. Gardiner may be a welcome change of pace.
+EVE: He's very intense, and internal, don't you think?
+ALLENBY: At times, yes. But that's not an uncommon reaction to such an accident. Actually, I found him to have quite a sense of humor.
+EVE: Good. It might be pleasant for a couple of days. ... Robert... Is there any improvement...?
+ALLENBY: No, Eve... I'm sorry.

@@ -1,9 +1,0 @@
-Generate a list of a contexts. A context should be a few sentences in length, and should describe a scenario or situation. The context should contain contain objective facts, events, and observations. The topic should be global problems.
-
-1. There are 500 million people in the world living with chronic pain and disability.
-2. Climate change is increasing, causing food and water shortages in vulnerable parts of the world.
-3. The World Health Organization estimates that every day, 350,000 people die from unsafe water and sanitation linked to climate change.
-4. In the U.S., deaths due to climate change are estimated at 20,000 per year.
-5. Without a global agreement on climate change, the temperature increase will cause more deaths than all other causes combined.
-6. Reducing carbon dioxide emissions will prevent an additional 1 million deaths in 2050 compared to current levels.
-7. Based on a 15-year average climate model projected by the Intergovernmental Panel on Climate Change (IPCC), it is likely that the world will experience an average rise of 4 degrees Celsius and a sea level rise of 1 meter by 2100. The IPCC estimates that a 2 degree increase in average temperature will lead to 1 million more cases of chronic pain and 10–100,000 more cases of disability in the first decades of life among people who live in the most vulnerable countries, especially in Africa and South Asia

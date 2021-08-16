@@ -1,0 +1,14 @@
+DAWN: OK...it's open.
+TAYLOR: Seen one like it before?
+DAWN: Sure. It complies with all standard construction codes.
+TAYLOR: Great.
+TAYLOR: Mac, I have a favor to ask you. Mac looks at Taylor -
+MAC: Certainly. If you need anything, please feel free to ask me. Just a reminder we have fabulous cuisine available --
+TAYLOR: Yes I know all that. Mac, I need you to help us out with a little technical problem.
+MAC: Certainly. I have a full working knowledge of the ships operations.
+TAYLOR: Right, I understand that...
+TAYLOR: I need you to actually do something for me. I need to access your CPU, directly.
+MAC: That will not be necessary. You can simply speak to me. I understand most languages fluently.
+TAYLOR: Yeah but the ship's mainframe doesn't. I need you to tell it something.
+MAC: Alteration of my central processing unit should be done only by an authorized service dealer.
+TAYLOR: I know but we're in a bind.

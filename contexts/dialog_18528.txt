@@ -1,0 +1,16 @@
+VICTORIA: Mr Brown.
+BROWN: Ma'am.
+VICTORIA: You are here safely.
+BROWN: Aye, ma'am.
+VICTORIA: You are well?
+BROWN: I am.
+VICTORIA: And the pony?
+BROWN: She's well, too.
+VICTORIA: Your family sent cards. It was much appreciated.
+BROWN: I'm glad of it.
+VICTORIA: My husband was always very complimentary in speaking of you. He would have approved, I am sure, of my calling on you in this way. I trust it does not inconvenience you too much.
+BROWN: I've no family, ma'am, apart from my brothers and sisters.
+VICTORIA: Yes. You have a brother in service here, do you not? I forget his name.
+BROWN: Archie.
+VICTORIA: Yes. That will be company for you.
+BROWN: Yes, ma'am.

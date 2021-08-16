@@ -1,0 +1,1 @@
+How to mute volume on every boot in Kubuntu 18.04? I want to set the speaker and microphone volume to zero or mute them every time my laptop starts, even if the last time I shut down my computer they where not muted. Just like what Kali Linux does.Thanks in advanced.

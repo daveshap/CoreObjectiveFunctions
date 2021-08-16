@@ -1,0 +1,1 @@
+Choosing geometry to store tin format data to support spatial queries? What is the best way to store 3D TIN data in postgis, to support queries like st_intersects, st_within, st_overlaps, etc. I can't use TIN since it only supports st_intersects.

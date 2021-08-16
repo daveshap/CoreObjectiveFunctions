@@ -1,0 +1,5 @@
+TONY: How much?
+MICHAEL: Not bad. $20. Here, $5.
+TONY: Can you spare it?
+MICHAEL: Sure.
+TONY: Thanks.

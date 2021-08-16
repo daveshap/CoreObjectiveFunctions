@@ -1,0 +1,1 @@
+Is a transition from multidomain to single domain a phasetransition? Is the transition from a multodomain state to a single domain state a phase transition? E.g. in a ferromagnet as a function of field from a multidomain state at low fields to a single domain state at high fields?

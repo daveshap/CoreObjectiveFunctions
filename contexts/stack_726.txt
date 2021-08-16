@@ -1,0 +1,1 @@
+Bionic Beaver Distribution for Mac 64-bit PowerPC Will there be a Bionic Beaver Desktop distribution for the Mac G5 64-bit PowerPC?  I have been unable to get 16.04 to work.

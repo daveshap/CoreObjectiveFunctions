@@ -1,0 +1,20 @@
+[META] Introducing new mods and updated policies
+**New Mods**
+
+After our [recent recruitment,](https://www.reddit.com/r/NeutralPolitics/comments/6j3gjt/165k_and_an_open_call_for_mods/) we are pleased to introduce the four newest mods on the team: /u/musedav, /u/amaleigh13, /u/TheAeolian, and /u/haydendavenport.
+
+**Public Modlogs**
+
+
+
+Additionally, thanks to the hard work of /u/vs845 we are pleased to announce that we have now implemented a new [public modlogs system.](https://modlogs.fyi/r/NeutralPolitics)
+
+That system logs all removals, distinguishing of comments, bans, and other relevant information.
+
+**New ban policies**
+
+As most of you have hopefully not noticed, we implemented a new ban policy recently.  The system works on a series of escalating bans (2 day, 14 day, permanent) for repeat violations of rule 1.  The gist of it is that it takes 3 or more violations in 6 months to trigger a ban discussion, and 3 mods need to sign off on a ban.
+
+**A plea for more non-US posts.**
+
+We tend to get heavily focused on US politics here, but NP is not exclusive to US politics at all.  If you have any questions about how things work in some other country, please, ask away!

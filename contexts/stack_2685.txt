@@ -1,0 +1,1 @@
+QGis 3.4 Categorized Symbology: Overlapping objects I have a point layer with categorized symbologyOne object is a big point and one is a smaller one.How do I change which one is displayed in front of the other one?

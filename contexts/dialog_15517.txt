@@ -1,0 +1,25 @@
+ERGO: Oh, my poor stew!
+TORQUIL: Oh, my poor stomach.
+COLWYN: I can't reach her.
+YNYR: What do you see?
+COLWYN: Darkness. Tunnels and corridors. Wait.
+COLWYN: Lyssa ...
+LYSSA: Colwyn ...
+COLWYN: Where is the Fortress?
+LYSSA: I don't know. It's a maze of tunnels. I can't see out.
+COLWYN: I will find you. I will be with you.
+LYSSA: I know it.
+COLWYN: I love you, Lyssa, I love you ...
+LYSSA: Colwyn. Colwyn. I love you, Colwyn.
+COLWYN: She can't see out. She can't tell us where the Fortress is.
+YNYR: Yes, they knew of your first contact, so they drove her below.
+COLWYN: She was very faint. I was barely able to reach her.
+YNYR: The deeper she goes, the harder it is to contact her. Once she is below the second level, you will not be able to reach her at all.
+COLWYN: I will find her!
+YNYR: We'll seek an Emerald Seer. They have great powers of vision.
+TORQUIL: There's an Emerald Circle a few leagues from here. We'll find her.
+COLWYN: Forgive me. It's childish to cry.
+TORQUIL: Those are not child's tear. A child cries for himself, a man cries for those he loves.
+TORQUIL: We can save half a day by crossing the Stone Lake.
+YNYR: Many have perished in that maze.
+TORQUIL: No maze to me, my fried. It is where we take refuge when they hunt us.

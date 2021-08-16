@@ -1,0 +1,8 @@
+DOC: Where are you going?
+CAROL: El Paso.
+DOC: How much?
+CAROL: Twenty eight hundred.
+DOC: Are you hungry?
+CAROL: Not now.
+HAROLD: I've got to stop.
+RUDY: I'll tell you when.

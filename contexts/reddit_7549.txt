@@ -1,0 +1,12 @@
+Issue with committee member. Could use some advice? Long post, TLDR at bottom
+I defended my masters in June of 2019. I passed and got a job that I’ve been at since October. During this time, my committee/co-authors and I have been working on my manuscript via email. During my time as a grad student I never had any issues with my committee members or any of their edits except for one. One member refused to help most of the time, because he saw it as doing it for me. I get where he was coming from so I just taught myself instead of going to him with any questions. And before you ask, no I could not have replaced him on the committee unfortunately.
+
+Now, out of the blue, he’s asked me for all of my data, and all of my Rstudio code under the pretense that he wanted it for another student who is working on a similar project. So I sent him most everything. However, I had a feeling he really just wanted to rerun all stats and analyses. Turns out my suspicions were correct when my advisor told me that my committee member had rerun everything without including me in this discussion. I am lead author on this manuscript, and I don’t appreciate that 1) he lied and 2) he didn’t even discuss with me that he wanted to rerun the analyses. He’s now emailing me for the original files and a key to match up the files to their designated number. Basically he’s not trusting me to have even done the most simple thing in matching up a key.
+
+I’m unsure how to go about this. I don’t want to burn any bridges here, but at the same time I don’t appreciate that I’m being excluded from any and all discussions about this. This is my first lead author paper and I feel like I’m not learning how to go about being a lead author (isn’t that the whole point of being in school? To learn?!). This committee member also has a tendency to do everything for you in the classes he teaches (he’d always just write the r code for you in his informatics class) which is ironic since he refused to help me.
+
+Additionally, my current supervisor (who knows all of my committee members/co-authors well) told me that I have my degree and that I owe this member nothing. I am unsure what to do in this situation. 
+
+Apologies for the long rambling post!
+
+TL;DR: Feel like I’m being pushed out of my own thesis. Unsure what to do!

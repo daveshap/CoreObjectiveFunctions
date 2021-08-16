@@ -1,0 +1,19 @@
+RAND: ... Chauncey... Chauncey...
+CHANCE: Yes, Ben - are you going to die now?
+RAND: ... I'm about to surrender the Horn of Plenty for the Horn of Gabriel, my boy...
+CHANCE: Oh, I see.
+RAND: Let me feel the strength in your hand, Chauncey... Let me feel your strength... Yes, that's good... I hope, Chauncey - I hope that you'll stay with Eve... Take care of her, watch over her, she's a delicate flower, Chauncey...
+CHANCE: A flower...
+RAND: She cares for you and she needs your help, Chauncey... there's much to be looked after...
+CHANCE: Yes. I would like to do that.
+RAND: ... I've worked very hard and enjoyed my life... I've known success... and I've felt love... My associates, Chauncey - I've talked with them about you... They're eager to meet you... very eager to meet you... I'm very fond of you, Chauncey... And I understand Eve... Tell her that... tell her I'm madly in love with her...
+ALLENBY: ... He's gone, Chauncey.
+CHANCE: Yes, Robert. I have seen it before. It happens to old people.
+ALLENBY: Yes, I suppose that's true.
+CHANCE: Will you be leaving now, Robert?
+ALLENBY: In a day or two, yes.
+CHANCE: Eve is going to stay. The house will not be closed.
+ALLENBY: ... You've become quite a close friend of Eve's - haven't you Mr... ... Chance...?
+CHANCE: Yes. I love Eve very much.
+ALLENBY: I see... ... And you are really a gardener, aren't you?
+CHANCE: Yes, Robert - I am. I'll go tell Eve about Ben now, Robert.

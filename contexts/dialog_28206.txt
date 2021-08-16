@@ -1,0 +1,18 @@
+CAUCHON: Good day, sir. I trust my honorable Duke of Burgundy is feeling well?
+DIJON: He's feeling wonderful.
+CAUCHON: Thanks be to God.
+DIJON: And your Duke? The Duke of Bedford?
+CAUCHON: Not so well, I regret to say. This business with the Maiden... it's caused him endless grief and torment. That's why he's entrusted me with the task of... shall we say...
+DIJON: Buying her?
+CAUCHON: This word is -- regrettably appropriate for the situation. In fact what we -- the Church -- wish to do is determine whether or not this girl is sent by God, as she claims. You understand that we cannot allow just anybody to abuse God's name in this manner...
+DIJON: I understand. How much?
+REGNAULT: 5,000 gold crowns.
+DIJON: That's not a lot.
+REGNAULT: It is all his majesty can afford. He has even donated his very own personal savings. His majesty will greatly appreciate a gesture of good will in this delicate negotiation between our two families.
+DIJON: I know... but the English want her very badly, and I have to tell you that they are proving much more generous.
+REGNAULT: May I, without offending you, inquire how generous?
+DIJON: 20,000 gold crowns.
+CAUCHON: 20,000?! But... I heard King Charles was... financially embarrassed.
+DIJON: Don't look at the cost, look at what it brings. What is your last offer?
+REGNAULT: 8,000. We can't raise more... We can only place ourselves at the mercy of your generosity.
+DIJON: I must offer to the Duke. I will give you his answer tomorrow.

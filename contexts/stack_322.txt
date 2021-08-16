@@ -1,0 +1,1 @@
+Do executables in OS X need to be built in specific way to be used as a service? Does an OS X executables need to be built in specific way (e.g. no UI, implement certain interfaces) so it can be used as a service?  Does this vary by its language (e.g. Objective C, Java) or its implementation (compiled versus script)?

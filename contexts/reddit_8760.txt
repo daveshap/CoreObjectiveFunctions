@@ -1,0 +1,8 @@
+What evidence supports/discourages raising the minimum wage?
+As far as I can tell, there is evidence on both sides of this issue.
+
+On one hand, some people aren't able to live off of minimum wage when working full time: https://livingwage.mit.edu/states/06 (This of course is dependent on location. Switch to, say, Wyoming and it might look different.) In addition, an increased minimum wage would supposedly require very little increase in prices and/or decrease in profit taking (a 10% increase in minimum wage is correlated with a 0.3% increase in CPI, see page 3): https://www.bostonfed.org/publications/research-department-working-paper/2017/the-local-aggregate-effects-of-minimum-wage-increases.aspx#:~:text=Abstract,outcomes%20besides%20employment%20and%20wages.&text=minimum-wage%20workers.-,Increases%20in%20minimum%20wages%20also%20lower%20debt%20among%20households%20with,to%20increase%20access%20to%20credit.
+
+On the other hand, small businesses get hurt more than franchises: https://www.sciencedirect.com/science/article/pii/S027843191830968X It seems reasonable to assume that most people would not accept a job that would not provide for them sufficiently (page 6): https://www.peri.umass.edu/fileadmin/pdf/working_papers/working_papers_51-100/WP61.pdf And finally, many people in minimum wage jobs simply view it as a temporary gig or a stepping stone on the way to something better: https://www.bls.gov/opub/reports/minimum-wage/2017/home.htm
+
+What other pros/cons do you see and which position makes the most sense overall?

@@ -1,0 +1,14 @@
+PRINCE: Chevalier, though I cannot say how, I believe you have cheated me.
+CHEVALIER: I deny your Grace's accusations, and beg you to say how you have been cheated?
+PRINCE: I don't know.
+CHEVALIER: Your Grace owes me seventy thousand frederics, which I have honorably won.
+PRINCE: Chevalier, if you will have your money now, you must fight for it. If you will be patient, maybe I will pay you something another time.
+CHEVALIER: Your Grace, if I am so tame as to take this, then I must give up an honorable and lucrative occupation.
+PRINCE: I have said all there is to be said. I am at your disposal for whatever purposes you wish. Good night.
+MINISTER GALGENSTEIN: Was he cheated?
+RODERICK: In so far as I can tell these things -- no. I believe the Chevalier won the money fairly.
+MINISTER GALGENSTEIN: Hmm-mmmm.
+CAPTAIN GALGENSTEIN: What are the Chevalier's intentions?
+RODERICK: I am not sure. The Prince told him quite clearly that if he wished to have the money, he would have to fight for it.
+MINISTER GALGENSTEIN: A meeting with the Prince of Turbingen is impossible.
+RODERICK: The Prince left him only that choice.

@@ -1,0 +1,11 @@
+WHALE: Good morning.
+CLAY: Mornin'.
+WHALE: My name is Whale. This is my house.
+CLAY: Nice place.
+WHALE: And your name is --?
+CLAY: Boone. Clayton Boone.
+WHALE: I couldn't help but notice your tattoo. That phrase? Death Before Dishonor. What does it mean?
+CLAY: Just that I was in the Marines.
+WHALE: The Marines. Good for you. You must have served in Korea.
+WHALE: Getting to be a warm day. A scorcher, as you Yanks call it.
+CLAY: Yeah. I better get on with my work.

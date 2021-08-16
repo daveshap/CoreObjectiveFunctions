@@ -1,0 +1,1 @@
+Ubuntu 18.04 stuck after login in purple screen After putting credentials laptop stuck in purple screen ... I have AMD driver so I can't install proprietery driver either... need help

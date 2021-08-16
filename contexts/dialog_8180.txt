@@ -1,0 +1,22 @@
+SALES CLERK: Do you see anything you like?
+DEAN: I'm married.
+SALES CLERK: That's fine.
+DEAN: I'm married to my wife...of several years...and I'd like to buy...as a Christmas present...
+SALES CLERK: You'd like to buy your wife some lingerie as a Christmas gift.
+DEAN: Yes. I have her permission.
+SALES CLERK: It's okay. I think it's a wonderful gift.
+DEAN: Can you help me?
+SALES CLERK: How 'bout Christian Dior?
+DEAN: Is that good?
+SALES CLERK: Very good.
+DEAN: I don't know anything about this. Well, I mean, I know a <u>little</u> about--from a certain perspective. My point is, I don't want to do anything foolish.
+SALES CLERK: It's a little late for that.
+DEAN: I'll say.
+SALES CLERK: What size?
+DEAN: Pardon?
+SALES CLERK: What size?
+DEAN: Eight. Size eight.
+SALES CLERK: I'll be right back.
+DEAN: Thanks.
+SALES CLERK: Remain calm.
+DEAN: Okay.

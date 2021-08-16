@@ -1,0 +1,23 @@
+BOB: Hello?
+LYDIA: Bob?
+BOB: Hi, Lydia.
+LYDIA: Is this a bad time?
+BOB: Uh, no.
+LYDIA: It's really hard to reach you... Did you get the carpet samples? I like the burgundy.
+BOB: Ok, whatever you think... I'm lost.
+LYDIA: It's just carpet.
+BOB: That's not what I'm talking about.
+LYDIA: What are you talking about?
+BOB: I don't know.
+LYDIA: Is there anything I can do?
+BOB: I don't know... I want to be more healthy. I want to eat better.
+LYDIA: What?
+BOB: You know, eat healthier.
+LYDIA: Alright?
+BOB: Not all that pasta.
+LYDIA: Fine.
+BOB: Like Japanese food.
+LYDIA: Why don't you just stay there, and you can have it everyday.
+BOB: Oh, come on.
+LYDIA: I have to go, Adam's tormenting Zoe, I'll talk to you later. Are you going to be Ok?
+BOB: Yeah, I'll be fine. Bye.

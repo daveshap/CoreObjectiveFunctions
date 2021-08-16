@@ -1,0 +1,14 @@
+CORKY: Truck.
+VIOLET: Truck. Of course.
+CORKY: '63 Chevy.
+VIOLET: I knew it.
+VIOLET: So, how do you know the owner, Mr. Bianchinni?
+CORKY: I don't, really. I was referred to him.
+VIOLET: Oh, really.
+CORKY: Do you know him?
+VIOLET: No, but Caesar does. He likes him. Says he's a good Italian.
+CORKY: Caesar is your husband?
+VIOLET: Oh no, no. I'm not the marrying kind.
+VIOLET: I should be going. You can drop the cup off anytime.
+CORKY: Thanks.
+VIOLET: My pleasure.

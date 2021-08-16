@@ -1,0 +1,4 @@
+SALESMAN: I'm going out that way, lady. You can follow me.
+WOMAN: Then let's go. Now!
+SALESMAN: I haven't finished my drink.
+WOMAN: Put on your coats! Do you want to get trapped here?

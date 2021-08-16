@@ -1,0 +1,1 @@
+Error in CAN reception If one node is transmitting a message to more than one node and if one of the receiver node failed to receive the message, then how does the transmitter node know which node has failed to receive the message?

@@ -1,0 +1,4 @@
+DEL: Why don't you start with that?
+ATHENA: Yes, sir.
+DEL: You're dismissed, Private.
+ATHENA: Thank you, sir.

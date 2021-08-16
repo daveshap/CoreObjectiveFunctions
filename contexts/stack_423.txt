@@ -1,0 +1,1 @@
+Change system tray icons My laptop's system tray currently looks like this:The icons of Mega and Telegram don't follow the style of the others \u2013 they aren't white.Where are these icons stored so I can change them?I use Ubuntu 16.04 with Unity.

@@ -1,0 +1,1 @@
+Magnetic field lines due to two long parallel wires There are two current carrying wires A and B both with same current (i) in same direction (outwards) , the rough representation of magnetic field lines looks like the diagram. O is the mid point of AB. I want to know what the field lines look like near to the point O

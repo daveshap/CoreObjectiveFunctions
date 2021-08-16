@@ -1,0 +1,8 @@
+BIALYSTOCK: Help!
+BLOOM: All right. I'll do it. I'll do it.
+BIALYSTOCK: Thank you, Bloom. I knew I could con you.
+BLOOM: Oh, it's all right ... wha?
+BIALYSTOCK: Nothing. Nothing. Do it. Do it.
+BLOOM: Now let's see, two thousand dollars. That isn't much. I'm sure I can hide it somewhere. After all, the department of internal revenue isn't interested in a show that flopped.
+BIALYSTOCK: Yes. Right. Good thinking. You figure it out. I'm tired. I'm gonna take a little nap. Wake me if there's a fire.
+BLOOM: Now let's see, if we add these figures, we get ...

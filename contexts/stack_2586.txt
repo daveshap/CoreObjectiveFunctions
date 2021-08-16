@@ -1,0 +1,1 @@
+Exporting map to KML using ArcMap? I've been trying to convert a map from ArcMap to KML without exit. The issue is that I want to export the complete map, not only the layers in the data frame but also legend, symbols, grid ticks and so on but the Map to KML tool does not have an option (as far as I know) to keep them. I must do it in ArcMap so does anyone know how to do it?

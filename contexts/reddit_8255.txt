@@ -1,0 +1,28 @@
+New Jersey is considering a bill that would take Presidential candidates off the State ballot unless they release their tax returns. Can individual States remove Presidential candidates from the ballot unless they meet certain conditions? What are the limits of State power being used in this way?
+In 2017, the New Jersey legislature passed a [bill](https://www.njleg.state.nj.us/2016/Bills/S3500/3048_I1.HTM) that would force Presidential candidates to release their tax returns as a condition for being listed on the State ballot. This [bill was ultimately vetoed](https://www.nj.com/politics/index.ssf/2017/05/christie_says_no_to_forcing_trump_others_to_releas.html) by then Governor Chris Christie.
+
+New Jersey is [once again](https://www.northjersey.com/story/news/new-jersey/2019/02/21/nj-bill-trump-2020-ballot-releases-tax-returns/2926652002/) considering such legislation, and at least 28 other states have considered similar legislation (from the 2nd source):
+
+> Similar legislation has been introduced in at least 28 states but has never been enacted, according to the National Conference of State Legislatures...
+
+In Christie's 2017 veto, [he was highly critical of the legislation](https://www.politico.com/states/new-jersey/story/2017/05/01/christie-vetoes-bill-to-require-tax-returns-from-presidential-candidates-111677), calming it was unconstitutional: 
+
+> “Unwilling to cope with the results of last November’s election, the Legislature introduced this unconstitutional bill as a form of therapy to deal with their disbelief at the 2016 election results, and to play politics to their base."
+
+Sponsor of the current iteration of this legislation in New Jersey, State Senator Loretta Weinberg, defends the measure, saying (from 3rd source): 
+
+> “It is so obvious with this president that had voters known some of what seem to be his business interests, he may not have been elected president."
+
+Supporters of the bill may have a constitutional argument (from 3rd source):
+
+> Supporters say states have room under the U.S. Constitution to create ballot access requirements and argue that voters should be able to review candidates’ tax returns in deciding who to send to the White House.
+
+---
+
+I have three questions on this topic:
+
+1: Do any States currently have unique requirements that must be met to be listed on the State ballot in a Presidential election?
+
+2: Specifically to tax returns; can states force a candidate to disclose this information or take them off the State ballot?
+
+3: Are there clear limits for what information States can require of Presidential candidates to include them on their ballots?

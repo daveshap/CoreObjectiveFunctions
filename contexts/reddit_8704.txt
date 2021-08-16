@@ -1,0 +1,36 @@
+Can the President or a regular citizen be held liable for defaming a news organization?
+For reference: [defamation](https://en.wikipedia.org/wiki/Defamation)
+
+> Defamation, calumny, vilification, or traducement is the communication of a false statement that harms the reputation of, depending on the law of the country, an individual, business, product, group, government, religion, or nation.
+
+> Under common law, to constitute defamation, a claim must generally be false and must have been made to someone other than the person defamed. Some common law jurisdictions also distinguish between spoken defamation, called slander, and defamation in other media such as printed words or images, called libel.
+
+Per accounts in the Mueller Report, President Trump lied and encouraged others to lie regarding reports from the media, and he used those lies as evidence of "fake news". 
+
+From [AP](https://www.apnews.com/06c88719c3634e66a15adbbc658978b0)
+
+>  [T]he Mueller’s report shows The New York Times and the Washington Post were correct when they reported in January 2018 that Trump ordered White House counsel Don McGahn to make sure Mueller was fired, and that McGahn decided to resign rather than carry that out. When the Times first reported the story, Trump described it as “fake news, folks, fake news.”
+
+> The Mueller report also showed that Trump directed a series of aides to ask McGahn to publicly deny the story, and ultimately asked himself, too. McGahn refused, saying the story was accurate, the report found.
+
+Could specific instances of examples like the one above be used to show that the President has caused harm to the business via defamation?
+
+For example, if the NYT could show a decline in subscribers or demographics and could correlate that to Trump's "fake news"/lies could the President be held liable?
+
+Follow up question, could a regular citizen be held liable for the same scenario?
+
+
+Here is an additional reference regarding defamation.
+
+[NOLO](https://www.nolo.com/legal-encyclopedia/defamation-law-made-simple-29718.html)
+
+> The law of defamation varies from state to state, but there are some generally accepted rules. If you believe you are have been "defamed," to prove it you usually have to show there's been a statement that is all of the following:
+
+> * published
+* false
+* injurious
+* unprivileged
+
+Unprivileged wasn't clear to me. Here is the NOLO explanation. 
+
+> [T]o qualify as a defamatory statement, the offending statement must be "unprivileged." Under some circumstances, you cannot sue someone for defamation even if they make a statement that can be proved false. For example, witnesses who testify falsely in court or at a deposition can't be sued. (Although witnesses who testify to something they know is false could theoretically be prosecuted for perjury.) Lawmakers have decided that in these and other situations, which are considered "privileged," free speech is so important that the speakers should not be constrained by worries that they will be sued for defamation. Lawmakers themselves also enjoy this privilege: They aren't liable for statements made in the legislative chamber or in official materials, even if they say or write things that would otherwise be defamatory.

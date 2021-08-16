@@ -1,0 +1,3 @@
+STANDARD: The ship's gravitational attraction must have drawn him back.
+HUNTER: Should we go outside and bring him in?
+STANDARD: No... the risk is too great. Perhaps after we've destroyed the thing.

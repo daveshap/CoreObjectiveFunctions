@@ -1,0 +1,1 @@
+What happened to the App Menu in Ubuntu 17.10? I recently upgraded to Ubuntu 17.10 and started noticing that the App menu for applications like Firefox, Thunderbird and others only show \"Quit\".Can somebody tell me how I can see the menus or make Ubuntu show it in the window itself, instead of the top bar?

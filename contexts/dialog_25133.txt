@@ -1,0 +1,15 @@
+KIRK: Lieutenant, are you wearing your hair differently?
+SAAVIK: It is still regulation, Admiral.
+SAAVIK: May I speak, sir?
+KIRK: Lieutenant, self-expression does not seem to be one of your problems.
+SAAVIK: I wish to thank you for the high efficiency rating.
+KIRK: You earned it.
+SAAVIK: I did not think so.
+KIRK: You're bothered by your performance on the <u>Kobayashi Maru</u>.
+SAAVIK: I failed to resolve the situation.
+KIRK: There is no correct resolution. It is a test of character.
+SAAVIK: May I ask how <u>you</u> dealt with the test?
+KIRK: You may ask, Lieutenant.
+KIRK: That was a little joke.
+SAAVIK: Humor... that is a difficult concept ... it is not logical...
+KIRK: We learn by doing, Lieutenant.

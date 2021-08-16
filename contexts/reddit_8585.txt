@@ -1,0 +1,16 @@
+As of August 30th, the Federal Election Commission (FEC) does not have enough commissioners to hold a quorum. Unable to hold a quorum, the FEC cannot enforce campaign finance law. Is campaign finance law unenforceable until the FEC quorums?
+The Federal Election Commission (FEC) currently can't hold a quorum due to a lack of commissioners. Unable to quorum, the [FEC can't conduct regular business](https://www.npr.org/2019/08/30/755523088/as-fec-nears-shutdown-priorities-such-as-stopping-election-interference-on-hold), such as enforcement of campaign finance law, or acting as an advisory to campaigns about following election law:
+
+> Friday [Aug. 30, 2019] will be the last business day that the Federal Election Commission will be able to function for quite a while, leaving the enforcement of federal campaign finance laws unattended ahead of the 2020 election.
+
+> ...
+
+> In addition to collecting campaign finance data, the FEC investigates potential campaign finance violations, issues fines and gives guidance to campaigns about following election law — but not without a working quorum of at least four commissioners.
+
+---
+
+I have a couple of questions on this topic:
+
+1. Aside from the FEC, does any regulatory body, State or Federal, have the ability to investigate presidential candidates for campaign finance violations?
+
+2. What other Federal election laws are under the purview of FEC, and how is their enforcement affected by the FEC's inability to quorum?

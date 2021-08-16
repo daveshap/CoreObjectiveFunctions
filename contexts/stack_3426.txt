@@ -1,0 +1,1 @@
+Do I need SSL/TLS for TCP It might sound stupid but I could not find the straight answer. Do I need to worry about communication security if I use only TCP socket to communicate between 2 machines? Is the byte stream can be intercepted and read in plain?Do I need to SSL/TLS if I am not using application-level protocol(HTTP)?If 2 Yes, then how to that in C++/C.

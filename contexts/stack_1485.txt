@@ -1,0 +1,1 @@
+Electrical apliances overheating when receiving LESS voltage I've been wondering for a while now, why do some electrical appliances overheat and burn out when you lower their incoming voltage? Shouldn't the less voltage mean they receive less current, and less current should mean less heat?For example, I have a LED lamp, which when run through a dimmer burns out its LEDs.

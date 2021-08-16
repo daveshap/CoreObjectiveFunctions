@@ -1,0 +1,6 @@
+WILL: You cheated.
+JACK: Pirate.
+JACK: Move away.
+WILL: No.
+JACK: Move!
+WILL: No. I can not just step aside and let you escape.

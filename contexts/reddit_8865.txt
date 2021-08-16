@@ -1,0 +1,20 @@
+In regards to understanding Trump's way of communicating, do the comments by Michael Cohen in his testimony to the House Oversight Committee meet the legal definition of subornation of perjury by the President?
+On Wednesday, [Michael Cohen testified in front of the House Oversight Committee](https://www.usatoday.com/story/news/politics/2019/02/27/ex-trump-lawyer-michael-cohen-testify-house-oversight-committee/2995659002/).
+
+In [Cohen's opening statement](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/Michael%20Cohen%20Opening%20Statement_Oversight%20Committee_02.27.19%5B4%5D%5B6%5D.pdf) (PDF warning), he made direct reference to Donald Trump communicating to him to lie to Congress, however notes it was not a direct order:
+
+> Mr. Trump did not directly tell me to lie to Congress. That’s not how he operates.
+
+> ...
+
+> And so I lied about it, too – because Mr. Trump had made clear to me, through his personal statements to me that we both knew were false and through his lies to the country, that he wanted me to lie. And he made it clear to me because his personal attorneys reviewed my statement before I gave it to Congress.
+
+---
+
+I'm confused by Cohen's comments and how this mixes with what the Special Counsel has said. 
+
+[BuzzFeed News](https://www.buzzfeednews.com/article/jasonleopold/trump-russia-cohen-moscow-tower-mueller-investigation) put out a report earlier this year that Cohen had been "directed" by Trump to lie to congress. This would seem like obvious subornation of perjury for the President, but then the [Special Counsel put out a statement disputing this](https://www.cnn.com/2019/01/18/politics/mueller-statement-buzzfeed/index.html).
+
+With Cohen's testimony, he affirms the idea that it was not a direct order, but also says he clearly understood what Trump wanted.
+
+Does this constitute [18 U.S. Code § 1622](https://www.law.cornell.edu/uscode/text/18/1622), subornation of perjury for the President?

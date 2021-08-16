@@ -1,0 +1,1 @@
+What is a good measure of correlation between stocks in an equity portfolio? I am trying to analyse the degree to which the stocks in the MSCI AC World index are correlated with each other. As there are thousands of stocks in the index, I would like a single measure of correlation between the stocks.

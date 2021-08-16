@@ -1,0 +1,1 @@
+How do I move one directory to another in Ubuntu For example, how would I move a directory called \"menu\" into the \"data\" directory? Also, I am using Ubuntu and I am new to all of this so I am unsure.

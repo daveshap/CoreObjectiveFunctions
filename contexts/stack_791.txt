@@ -1,0 +1,1 @@
+landscape/api cannot where to input query commands hi guys cannot seem to input query commands , all i get is \"Query API Service\" i cannot see where must i input.example also how to callExample call:?action=GetGPGKeys&amp;names.1=mykey

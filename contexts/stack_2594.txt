@@ -1,0 +1,1 @@
+Using Model to equally distribute points, spatially within known geometry using ArcGIS ModelBuilder? Is it possible to create a model in ArcGIS ModelBuilder where you simply state number of points and an area in the form of a polygon to get the model to try and equally space out the points based on the geometry of the polygon and number of points?

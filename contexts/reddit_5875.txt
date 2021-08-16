@@ -1,0 +1,4 @@
+Advice for Physical pen testing
+Hi, i dunno if this is good.place to post this but i'm gonna try anyway. 
+
+I am 19 years old and i want to start to educate myself for physical pen testing job. I read about it and i am currently listening to  podcast about it. I have read few books about social engineering and manipulation. I am not IT guy, but don't get me wrong i love computers and i am basicly entery lvl at computers. But i want to do physical pen testing as.my job. I know i have to gather a lot of skills ( pick locking, social engineering, ....) but i am asking for general advices on how to start my education for it. Any help is good, and thanks in advance!

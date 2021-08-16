@@ -1,0 +1,23 @@
+PATROLMAN: In quite a hurry.
+MARY: Yes. I didn't mean to sleep so long. I was afraid I'd have an accident last night, from sleepiness... so I decided to pull over...
+PATROLMAN: You slept here all night?
+MARY: Yes. As I said, I couldn't keep my eyes...
+PATROLMAN: There are plenty of motels in this area. You should have... I mean, just to be safe...
+MARY: I didn't intend to sleep all night! I just pulled over... have I broken any laws?
+PATROLMAN: No, m'am.
+MARY: Then I'm free to go...?
+PATROLMAN: Is anything wrong?
+MARY: Of course not! Am I acting as if... something's wrong?
+PATROLMAN: Frankly, yes.
+MARY: Please... I'd like to go...
+PATROLMAN: Is there?
+MARY: Is there what? I've told you there's nothing wrong... except that I'm in a hurry and you're taking up my time...
+PATROLMAN: Now wait just a moment! Turn your motor off, please.
+PATROLMAN: In the course of my duty, I never take up" anyone's time
+MARY: I'm sorry.
+PATROLMAN: No need to apologize...
+PATROLMAN: Wait a minute!
+MARY: Now what?
+PATROLMAN: May I see your license?
+MARY: Why?
+PATROLMAN: Please.

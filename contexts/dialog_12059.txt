@@ -1,0 +1,10 @@
+FELL: Of course, Commendatore...
+PAZZI: Could you tell me: did you ever meet your predecessor, Dottore Fanelli...?
+FELL: I never met him. I knew him only from his writings.
+PAZZI: I know that the officers who first investigated his disappearance searched for a <u>note</u>, a farewell note, a suicide note...
+FELL: ...yes.
+PAZZI: You have taken over his offices, is that not so?
+FELL: It is only temporary, until my confirmation by...
+PAZZI: Of course, <u>in</u> his offices, if you come across anything, any personal papers of his, anything, however trivial, would you contact me, please... Are his personal effects still at the Palazzo?
+FELL: Yes. Packed and with an inventory.
+PAZZI: I'll have them picked up.

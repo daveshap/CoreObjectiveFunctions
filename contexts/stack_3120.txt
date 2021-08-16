@@ -1,0 +1,1 @@
+In which region of diode breakdown starts? i confused about in which region of a diode breakdown start, in some books it is given that breakdown starts in depletion region but in some other is said that it start in p-side or n-side of diode (not mentioned as depletion region).

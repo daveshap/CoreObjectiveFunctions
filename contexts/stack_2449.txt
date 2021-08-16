@@ -1,0 +1,1 @@
+Shapely - convert polygons to lines? Given a shapefile with polygons, how do I convert the polygons to individual lines instead? I know how to do this in QGIS, but I'm looking for a Shapely function which does the same thing.

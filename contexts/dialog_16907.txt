@@ -1,0 +1,8 @@
+SAMUEL: Were you provided with a gun?
+CREASY: Yes.
+SAMUEL: Show me, please.
+SAMUEL: What is it?
+CREASY: Nine millimeter. A Sig Sauer 226.
+SAMUEL: Have you used this type before?
+SAMUEL: Is it loaded?
+CREASY: It's loaded.

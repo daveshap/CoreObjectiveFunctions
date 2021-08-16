@@ -1,0 +1,1 @@
+How to get gdaltranslate to create world file Am trying to recreate \"gdal... -co worldfile=yes\"However whenever I do I get error: \"Warning 6: driver GTiff does not support creation option worldfile\"Though I think it may be working anyway. Any ways to prevent error message, or workarounds?

@@ -1,0 +1,1 @@
+Terminal command to record audio through macbook microphone? Is there a command we can use via terminal to start recording audio through my macbook microphone?

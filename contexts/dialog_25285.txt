@@ -1,0 +1,6 @@
+CHEKOV: Cloaking device is stable... All systems normal.
+KIRK: Stabilize Energy Reserve!... Report helm:
+SULU: Maintaining impulse climb. Wing five by zero, helm steady.
+KIRK: Advise reaching 10,000. Steer three-one-zero.
+SULU: Three-one-zero, aye!
+KIRK: Uhura, scan for the whales. 401 megahertz!

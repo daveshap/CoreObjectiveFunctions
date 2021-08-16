@@ -1,0 +1,26 @@
+Call center / service desk employees -- how leveraged do you feel is 'over-leveraged'?
+I work at a large corporation that provides great benefits and decent pay (for my locale anyhow).
+
+Originally, I was hired on to work on their internal IT helpdesk.  While it was still crappy call-center-esque phone and email support, I still enjoyed the work because I got to talk to a lot of people, troubleshoot issues, and had a lot of autonomy to work on solutions to problems.
+
+Over the past couple of years, though, the department has really gone down hill and has started implementing some really miserable policies (strictly scheduled lunches and breaks, metrics, 60 second wrap-up time, etc).  But we also started taking on many new external contracts -- and many of these contracts each have their very own SOP.  Some clients, besides having their own SOP, have multiple projects under them, and each project may even be handled different.  They are also all *white label*, and many of them are angry assholes (unlike internal employees).
+
+An example would be that one client requires that we open a ticket in one ticketing system, while another requires us to use another ticketing system, except we close that ticket and then send an email.  Another might require us to some combination of steps, while yet another has two completely different SOPs depending on the time of day.  In fact, multiple clients have their own operating hours, and none of them are standardized.  There is no training, either -- we just get an email from management going, "Hey!  New THING is going live today!  Here's a KB article!"
+
+I spend more time digging for KB articles in three different knowledgebase systems to check for proper 'procedure' than I do fixing an issue -- even when I already know what the problem is and how to technically fix it.  I am not even exaggerating here -- my average call handling time has gone from 2 minutes to over 14 minutes.  I literally spend 10+ minutes just figuring out how to route and document the call because I'm not allowed to do that post-call.
+
+&#x200B;
+
+I feel like we're getting over-leveraged, and I'm tempted to approach management about it and try to think of some solutions to suggest.  But I'm also wondering if I'm just being lazy or am not coping well with change -- is this normal in a call center environment?
+
+I work in three different ticketing systems and have so many clients that I actually can't name them all -- I think it's around 25-30, many of which have between 2-6 sub-projects -- and I manage 15 different email boxes.  I can't always depend on "whispers", because many callers will dial into a generic IVR and mash '0' immediately and then just expect me to know who they are and what it is they are talking about.  We're also the "roll over" for other service desks.
+
+&#x200B;
+
+**The point:**  *So -- sanity check -- is this all really over-the-top or am I just getting too old for this shit?  Should I suggest trying to dedicate agents to different projects?*
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;

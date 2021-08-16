@@ -1,0 +1,1 @@
+How to use the datasets in the workspace in a \"PythonCreator\" transformer? I have 2 datasets in my workspace and I want to use \"PythonCreator\" transformer to create a new feature base on those datasets in my workspace but I don't know how to use workspace datasets in \"PythonCreator\" transformer. Could you help me?

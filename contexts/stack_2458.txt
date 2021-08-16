@@ -1,0 +1,1 @@
+Intercepting QGIS panels closings? I would like to be able to intercept QGIS panels (QDockWidgets) closings. I read the API online help but i don't clearly understand it.Is there any usable close signal linked with dockWidgets? In a next step i would like to implement my own QDockWidgets with their own behaviour but ... how can i achieve this for existing integrated QGIS panels?

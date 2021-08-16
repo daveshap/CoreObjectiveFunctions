@@ -1,0 +1,5 @@
+DOC: Be careful with it.
+BECK: Don't worry, I don't want to give up any more.
+DOC: Still bothering you?
+COBB: Itches like hell.
+DOC: Take it off and let me have a look.

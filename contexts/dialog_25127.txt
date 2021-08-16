@@ -1,0 +1,8 @@
+KIRK: Midshipman, you're a tiger.
+SCOTTY: My sister's youngest, Admiral. Crazy to get to space.
+KIRK: Every young boy's fancy. I seem to remember it myself. Very well. Mr. Scott, are your engines capable of handling a minor training cruise?
+SCOTTY: Give the word, Admiral.
+KIRK: Mr. Scott, the word is given.
+SCOTTY: Aye, sir.
+BONES: What about the rest of the inspection, Admiral?
+KIRK: The inspection will continue once we're underway, Doctor.

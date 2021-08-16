@@ -1,0 +1,4 @@
+BASQUIAT: I'll take three big Macs, two chocolate shakes, two orders of fries, and an apple pie.
+COUNTERMAN: You want three Big Macs, two chocolate shakes, two orders of fries, and an apple pie.
+BASQUIAT: Forget it .I'll take six, no, seven chocolate shakes, an order of fries, a Big Mac, and two apple pies.
+COUNTERMAN: You only want one Big Mac?

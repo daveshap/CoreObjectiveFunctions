@@ -1,0 +1,1 @@
+Populating field with values based on another value using ArcPy? How do I populate a field y with info1 or Info2 values, depending on the value of the x field, using if conditions?

@@ -1,0 +1,30 @@
+PSYCHIATRIST: Harold?
+HAROLD: Huh?
+PSYCHIATRIST: You don't seem to be listening. I asked do you have any friends?
+HAROLD: No.
+PSYCHIATRIST: None at all?
+HAROLD: Well, maybe one.
+PSYCHIATRIST: Would you care to talk about this friend?
+HAROLD: No.
+PSYCHIATRIST: Is this a friend you had when you were away at school?
+HAROLD: No.
+PSYCHIATRIST: I see. Were you happy at school, Harold?
+HAROLD: Yes.
+PSYCHIATRIST: You liked your teachers?
+HAROLD: Yes.
+PSYCHIATRIST: Your classmates?
+HAROLD: Yes.
+PSYCHIATRIST: Your studies?
+HAROLD: Yes.
+PSYCHIATRIST: Then why did you leave?
+HAROLD: I burnt down the Chemistry building.
+PSYCHIATRIST: We are not relating today, Harold. I sense a definite resistance. A lack of true and helpful communication. I find you a very interesting case, Harold, but this reluctance of yours is detrimental to the psycho-analytical process, and can only hinder the possibility of effective treatment. Do you understand?
+HAROLD: Yes.
+PSYCHIATRIST: Very well. Now your mother tells me she is arranging several dates for you with some young ladies. How do you feel about that?
+PSYCHIATRIST: I see. Tell me, Harold, do you remember your father at all?
+HAROLD: No. I'd have liked to.
+PSYCHIATRIST: Why?
+HAROLD: I'd have liked to talk to him.
+PSYCHIATRIST: What would you say?
+HAROLD: I'd show him my hearse. And my room, and stuff.
+PSYCHIATRIST: What kind of stuff?

@@ -1,0 +1,4 @@
+JOHN: Give me some money.
+NADIA: I don't have any money.
+JOHN: What?
+NADIA: I said I don't have any.

@@ -1,0 +1,1 @@
+Weapon Damage By Rarity in Battle Royale There are rarity levels for the weapons in the game, I am wondering how much of a difference there is in damage between the rarity for each weapon?

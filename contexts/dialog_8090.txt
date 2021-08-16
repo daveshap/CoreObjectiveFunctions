@@ -1,0 +1,25 @@
+TREVES: Good morning, John.
+MERRICK: Good morning.
+TREVES: John, there's someone here who would like to meet you. Would that be alright?
+TREVES: John, I'd like you to meet one of the brightest lights of the British stage, Mrs. Kendal. Mrs. Kendal, John Merrick.
+KENDAL: Good day, Mr. Merrick.
+MERRICK: Good day...!
+KENDAL: I've brought you some things. I hope you'll like, Mr. Merrick. I hope you don't think it too forward.
+MERRICK: Oh, no.
+KENDAL: I knew you'd understand. Here.
+KENDAL: I want you to know that I don't go about giving my pictures to just anyone.
+MERRICK: Oh, no. I would never think it! It's so beautiful. You are so... I'll give it a place of honor, here, next to my mother.
+KENDAL: She's very pretty, your mother.
+MERRICK: Yes.
+MERRICK: Mr. Treves says that you are in the theatre. Do you live there?
+KENDAL: Oh no, Mr. Merrick. I just work there.
+MERRICK: Well, even to work there would be wonderful. Is it beautiful?
+KENDAL: You've never been?
+MERRICK: Alas, no.
+KENDAL: Well you must go. It is one of the most beautiful places on earth. Of course, I'm rather partial.
+MERRICK: Tell me about it, please!
+KENDAL: It's very difficult to put into a nutshell, but I should say the theater is the shrine of the imagination, where one may suspend disbelief and travel anywhere in the world, to any time you desire. You may look over the shoulders of kings, unobserved, battle with ruthless tyrants, and marry the beautiful princess, all in the space of a few hours. Onstage you may be whoever you wish to be, do anything you please, and always, always live happily ever after. The theatre is all the brightest and best things of the world, Mr. Merrick. It is lights and music, gaiety and joy. It's... well, it's romance.
+MERRICK: Romance!
+KENDAL: That's one thing the theatre has in great store. which reminds me. I have something else for you...
+KENDAL: Have you read it?
+MERRICK: No, but I certainly shall.

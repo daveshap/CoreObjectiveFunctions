@@ -1,0 +1,1 @@
+Run crontab in specific day but only if is in specific weekday I wanna run command with crontab in a specific day, but only if this day is not sunday. I tried with this <blockquote>  1 0 27 12 1-6 command.sh</blockquote>but the command run also wednesday december 26th.How can I tell to crontab run command only the december 27th?ThanksMax

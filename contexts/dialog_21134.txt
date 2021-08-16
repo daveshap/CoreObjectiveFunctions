@@ -1,0 +1,8 @@
+BETTY: No thanks, I've seen Seattle.
+MITCHELL: My name's Larry Mitchell. I live in Vancouver.
+MITCHELL: Same as an hour ago. Remember? I'm the steady type.
+BETTY: I'm afraid there's nothing I can do about it, Mr. Mitchell.
+MITCHELL: You could tell me your name. And where you're going.
+BETTY: How far does this train go?
+MITCHELL: Vancouver, B.C.
+BETTY: I'm going to Vancouver, Mr. Mitchell.

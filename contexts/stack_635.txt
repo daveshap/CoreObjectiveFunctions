@@ -1,0 +1,1 @@
+Does Ubuntu compile all their non-proprietary packages on their repo from source or do they use the dev's pre-compiled binary? I was just curious to know, does Ubuntu compile all the open-source/non-proprietary packages on their repo or do they just take the finished bins from the dev and stick If it in the repo?

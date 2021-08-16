@@ -1,0 +1,8 @@
+CREATURE: Nice.
+GRANDFATHER: The music? Or the fire?
+GRANDFATHER: I'm glad you finally came to the door. A man shouldn't have to scurry in the shadows.
+CREATURE: Better that way... for me.
+GRANDFATHER: Why?
+CREATURE: I'm... very, very ugly. People are afraid. Except you.
+GRANDFATHER: It can't be as bad as that.
+CREATURE: Worse.

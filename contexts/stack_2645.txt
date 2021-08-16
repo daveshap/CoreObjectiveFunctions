@@ -1,0 +1,1 @@
+How to downgrade from ubuntugis-unstable to ubuntugis-stable I have some problems with gdal and I would like to downgrade all of my ubuntugis related libraries on Ubuntu 16.04 again to the stable libraries. How can I do that?

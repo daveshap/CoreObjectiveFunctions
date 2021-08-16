@@ -1,0 +1,18 @@
+Are there any documented instances of forest mismanagement in the areas affected by California's ongoing wildfires?
+[Context](https://www.reuters.com/article/us-california-wildfires/death-toll-rises-to-23-in-california-wildfire-after-14-bodies-found-idUSKCN1NE0WQ):
+
+There are two large ongoing wildfires in California. The Camp Fire has covered more than [156 square miles](https://abc7news.com/maps-a-look-at-the-camp-fire-in-butte-county-and-other-california-fires/4656293/) (404 km^2 ) between Chico and the Plumas National Forest in Northern California and remains only 20% contained. Meanwhile, the Woolsey Fire covers 109 square miles (282 km^2 ) in the area around Thousand Oaks and Malibu west of Los Angeles and is 0% contained.
+
+President Trump has stated that the fires are due to [forest mismanagement](https://www.aljazeera.com/news/2018/11/trump-mismanagement-forests-blame-california-fires-181110085539030.html) on California's part, and has threatened to cut off federal funding if that is not remedied.
+
+However, a spokesperson for CA Governor Jerry Brown and the president of California Professional Firefighters have both stated that nearly [60% of California's forests are under federal control](https://www.washingtonpost.com/nation/2018/11/10/trump-blames-gross-mismanagement-wildfires-leave-trail-death-destruction-california/?noredirect=on&utm_term=.70481f8af284), including a majority of the areas affected by the fires, and that the state has increased its funding for forest services while the federal government has cut back funding for it.
+
+Experts have blamed the unusually intense fires on excessive build-up of flammable material due to [decades of fire suppression](https://www.sfchronicle.com/california-wildfires/article/Trump-on-California-s-Camp-Fire-Forest-13380388.php) as well as "rising temperatures and longer spells of dry weather."
+
+1. Could the conditions allowing for these fires been prevented by better forest management?
+1.  Are there any documented instances of waste, fraud, or abuse within forest services at either the CA state or federal level?
+1. Could any forest services in the areas affected by the fire be characterized as negligent, inefficient, underfunded, or otherwise poorly executed? If, so by whom?
+1. What is the legality of refusing federal payments to states as a punishment for poor state-run environmental services? Is there precedent for it?
+
+
+Edit: Added unit conversion

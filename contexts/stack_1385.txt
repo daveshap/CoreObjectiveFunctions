@@ -1,0 +1,1 @@
+LTSpice y-axis swap When plotting values of 2 different types (in my case voltage vs time and current vs time), is it possible to swap the y axes to the opposite side?At the moment my circuit plot shows voltage on the left hand side and current on the right, but viewing the graphs would be improved by switching to current in the left and voltage on the right.

@@ -1,0 +1,1 @@
+How to revoke the Health App's permissions to Messages Under Privacy -> Health the App Messages is listed as an App accessing my Health data, and in the Health App, Massages is listed as a Source. How do I revoke those permissions?And is there a way to delete the Health App altogether?

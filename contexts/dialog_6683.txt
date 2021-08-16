@@ -1,0 +1,5 @@
+JULIEN: I'll drive.
+RAYMOND: I'm the driver.
+JULIEN: I've never driven a Cadillac before.
+JULIEN: This is a car. I think this is the best American car I've ever driven.
+RAYMOND: This is the only American car you've ever driven.

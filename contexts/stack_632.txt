@@ -1,0 +1,1 @@
+GUI solution for converting PDF to TXT My ultimate requirement is to copy the text of a PDF file to the clipboard. If copying the text in the common viewers including LibreOffice, the text is not continuous but line by line. I wonder if there is a GUI solution for copying the text of a PDF file or perhaps convering the PDF to TXT or Word.

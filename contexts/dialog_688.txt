@@ -1,0 +1,6 @@
+KORSHUNOV: * Please tell me your name.
+MITCHELL: Maria... Maria Mitchell.
+KORSHUNOV: And what is it you do, Ms. Mitchell.
+MITCHELL: I'm responsible for Press Relations for the Flight Office.
+KORSHUNOV: How are your fellow hostages feeling, Ms. Mitchell?
+MITCHELL: Scared. We're scared.

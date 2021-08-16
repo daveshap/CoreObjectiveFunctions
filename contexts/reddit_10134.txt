@@ -1,0 +1,4 @@
+Where to College, and in What?
+Interested in circuit design and small electronics. Utilize Arduino and/or generic microprocessors and such to design consumer electronics.
+
+Breadboards, relays, diodes, chipsets. I want to be able to put together the technology that I can't seem to find available today.

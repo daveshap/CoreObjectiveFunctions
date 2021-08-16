@@ -1,0 +1,13 @@
+ARMITAGE: What's this?
+CASE: Could be your A.I.'s calling card.
+ARMITAGE: Did you trace it?
+CASE: No, but it traced me.
+CASE: Fried Air Tram in the process. Not to mention half my gear.
+ARMITAGE: What about McCoy?
+CASE: He's got a little attitude problem, being that he's dead and all, but he'll come around. Where's Molly?
+ARMITAGE: Prepping your trip.
+CASE: Really? Do I get to know where I'm going? It makes packing so much easier.
+ARMITAGE: Offworld. The A.I.... this Wintermute" thing evolved on a computer mainframe on the satellite Freeside. If you attack it from within the matrix while Molly accesses its original programming we can cripple its defence systems."
+CASE: That could work, but the timing will be a bitch.
+ARMITAGE: You'll be linked during the entire operation.
+CASE: Linked?

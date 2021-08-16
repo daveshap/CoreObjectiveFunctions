@@ -1,0 +1,1 @@
+Hammer Editor: Change NPC Health It seems like a very simple thing, but I just can't find the answer.In the Source Hammer Editor, how does one change the health of a NPC?I don't really think there is anything else I can add.

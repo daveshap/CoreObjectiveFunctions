@@ -1,0 +1,1 @@
+Control iPhone Remotely Can you control an iPhone remotely using Mobile Device Management protocol? or any other protocol/service? Of course, the user's consent will be obtained before performing any actions.I am mainly interested in changing the settings and manually selecting a carrier on behalf of the user. Any suggestions are welcomed.

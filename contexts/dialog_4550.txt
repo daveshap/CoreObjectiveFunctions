@@ -1,0 +1,19 @@
+CORKY: Who?
+VIOLET: Rajeev, the man who usually works on the building.
+CORKY: Oh, he went home to India, but as far as I know he'll be back.
+VIOLET: So this is temporary for you?
+CORKY: Pretty much. One day at a time.
+VIOLET: I guessed you were straight black.
+CORKY: Good guess.
+CORKY: Mmmm ... thanks, I needed this.
+VIOLET: My pleasure ... but to be honest, I did have a slightly ulterior motive here. I was wondering if I could ask a small favor?
+CORKY: A favor?
+VIOLET: Yeah, see, I'm kind of a night person, so I was wondering if it wasn't a terrible inconvenience if you could wait a bit before using power tools.
+CORKY: Oh, I'm sorry --
+VIOLET: No, it isn't your fault. The walls here are just so thin.
+CORKY: Are they really?
+VIOLET: Yes, it really causes problems. Sometimes it's like you're in the same room. But if it's too much trouble, I understand ...
+CORKY: No, no trouble. There's other work to do.
+VIOLET: You're doing everything yourself?
+CORKY: Yeah.
+VIOLET: That is so amazing. I'm in awe of people who can fix things. My dad was like that. We never had anything new. Whenever something broke he would open it up, tinker with it and it would work. His hands were magic.

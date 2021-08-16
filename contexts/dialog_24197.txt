@@ -1,0 +1,13 @@
+ICHABOD: I am not here for revenge. I am here to bring justice.
+YOUNG MASBATH: Whatever. You still need a second to tend to your things.
+ICHABOD: I manage fine alone.
+YOUNG MASBATH: I deserve to help you. Don't you see how much this means? My father... he... he was a good man...
+ICHABOD: Young Masbath, I am sorry for your loss. It is a great and sad tragedy. However... I cannot be the one to look after you now.
+YOUNG MASBATH: I did not ask you to, did I?
+BALTUS: Hail, Constable. How are you?
+ICHABOD: Well enough. Your gathering does honor to the deceased.
+DOCTOR LANCASTER: We must be a curious sight to him.
+ICHABOD: What are you spying on?
+DOCTOR LANCASTER: The Lenape. He comes to gawk at civilization from time to time.
+ICHABOD: He is a behemoth.
+DOCTOR LANCASTER: A diseased monster.

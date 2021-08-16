@@ -1,0 +1,26 @@
+KIT: 'Lo.
+VIVIAN: Kit! Where've you been?
+KIT: I was asleep. You woke me. You okay?
+VIVIAN: Kit, listen, the guy last night, the one in the Ferrari, I'm at this hotel, the Regent Beverly Wilshire, it's this absolutely unbelievable place and he's hired me for a whole week and Kit, listen, he's paying me three thousand bucks! We can get out of the apartment. We can get out of this town. We can do anything! Kit? Hey, you there?
+KIT: Why'd he want you?
+VIVIAN: He... he just does.
+KIT: I'm sorry, Viv'. Carlos has been on my back. Did you get the money up front like I taught ya'?
+VIVIAN: Three hundred for last night and he gave me extra to buy some clothes. Now listen, I'm gonna leave an envelope for you at the front desk. Give me two hundred to the scum bucket and the other hundred to that asshole landlord for part of the rent. Spend it on drugs and I'll pull your hair out.
+KIT: I'm getting dressed now. I'll be over. Bye.
+VIVIAN: Hey Kit, where do I go for the clothes? Good stuff on <u>him</u>.
+KIT: In Beverly Hills?
+VIVIAN: Yeah.
+KIT: Baby! Rodeo Drive.
+SALESWOMAN: May I help you?
+VIVIAN: I'm just looking, thanks.
+SALESWOMAN: Are you looking for something in particular?
+VIVIAN: Yes. Something... conservative.
+SALESWOMAN: Yes...
+VIVIAN: You have beautiful things. How much is this?
+SALESWOMAN: I don't think it would fit you.
+VIVIAN: I didn't ask if it would fit. I asked how much it was.
+SALESWOMAN: It's very expensive.
+VIVIAN: What is with you?
+SALESWOMAN: Excuse me?
+VIVIAN: I'm going to spend <u>money</u>.
+SALESWOMAN: I don't think we have anything for you here. You're obviously in the wrong place.

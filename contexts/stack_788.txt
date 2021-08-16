@@ -1,0 +1,1 @@
+Equalizer in Ubuntu 18.04 Is there any build in Equalizer in Ubuntu 18.04 or a third party program that works with this version best?

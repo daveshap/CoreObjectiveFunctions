@@ -1,0 +1,1 @@
+18.04.1 Software Updater erratic in choosing nearest mirror When trying to obtain a close software updater mirror in Canada, system will show mirror(s) in Vietnam, U.S.A, or any other place other than Canada.Consequently I have to choose a mirror manually.Any suggestions will be greatly appreciated.

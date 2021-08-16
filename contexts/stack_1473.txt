@@ -1,0 +1,1 @@
+AC line from inverter grounded to vehicle chassis What happens if a hot line from an inverter powered by a vehicle battery contacts the vehicle chassis?  This will form a circuit connecting the hot line from the inverter to the negative terminal of the vehicle battery.  Does the DC battery somehow accept the AC electricity, or does the current not flow, leaving the chassis hot?

@@ -1,0 +1,1 @@
+How to force ICMP to run through TOR? As far as I know, ping send ICMP echo request to host. And ICMP is the layer 3 of OSI model.But TOR use TCP , which is the layer 4 of OSI model.So ping can't be run through TOR normally.But here is the question, How can I run ping requests through TOR by force. Is it possible?

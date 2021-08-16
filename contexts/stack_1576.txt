@@ -1,0 +1,1 @@
+Handlebar heater I want to make Arduino controlled handlebar heater with kanthal wire. Heater should heat up handlebar(left &amp; right grip) up to 30\u00b0C max but I'm not sure how I should calculate required length/diameter/resistance of wire. Heater will be Powered with 12V over IRFZ44N MOSFET.

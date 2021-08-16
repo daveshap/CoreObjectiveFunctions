@@ -1,0 +1,1 @@
+Can Mann-Kendall Trend Test be used for a Data set with monthly sales count? Could I use the Mann-Kendall Trend test for a data set of monthly sales (counts)?

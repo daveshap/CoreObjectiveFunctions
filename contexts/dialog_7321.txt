@@ -1,0 +1,7 @@
+JOHN: Yes, Albert?
+ALBERT: John,we're going huntin'.
+JOHN: Who's going?
+ALBERT: We're all going.
+JOHN: Nick's going?
+ALBERT: Nick, Vince, Albert and John.
+JOHN: No women?

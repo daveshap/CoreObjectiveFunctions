@@ -1,0 +1,13 @@
+The "real live experiment" in Kansas has ended. What did we learn?
+In 2012, Republicans in Kansas, led by Governor Sam Brownback, passed [sweeping reforms to the tax law](https://en.wikipedia.org/wiki/Kansas_Senate_Bill_Substitute_HB_2117) that he [touted as a "real live experiment"](http://www2.ljworld.com/news/2012/jun/19/brownback-gets-heat-real-live-experiment-comment-t/) designed to spur job and business growth. Arthur Laffer, the main architect of the supply side economics policies of the Reagan administration, was a [consultant for, and proponent of, the Kansas experiment.](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2012/03/06/laffers-supplyside-economics-staging-a-comeback) 
+
+Yesterday, faced with perennial budget shortfalls, the Kansas Legislature (in which Republicans still hold a majority) [voted to override Gov. Brownback's veto of a tax hike,](https://www.washingtonpost.com/news/wonk/wp/2017/06/07/kansas-republicans-raise-taxes-rebuking-their-gop-governors-real-live-experiment-in-conservative-policy/) thus ending the five-year experiment. The bill enacts a series of changes, phased in over the coming years, that will bring the tax structure roughly back to its pre-2012 form.
+
+So, now that the experiment has ended, what did we learn? Can we extend the conclusions to other states, or was there something specific about the economic situation in Kansas that caused it to have the results it did? Are there states similar to Kansas that did not enact such policies that we can use as a control? Have other states or countries had significantly different results from forays into supply-side economic policy?
+
+----
+
+For those interested in additional reading on this topic, here are opposing perspectives from two think tanks:
+
+* The American Legislative Exchange Council (ALEC) concludes the 2012 reforms [were less than ideal and not given enough time to work.](https://www.alec.org/app/uploads/2017/02/2017-State-Factor_Kansas_Final_WEB.pdf) (PDF)
+* Prior to the Kansas reforms, the Center for American Progress pronounced, ["Three decades of empirical economic data shows that supply-side economics doesn’t work."](https://www.americanprogress.org/issues/economy/news/2012/08/01/11998/the-failure-of-supply-side-economics/)

@@ -1,0 +1,1 @@
+What is the initial state of the tf.contrib.rnn.LSTMCell? Does tf.contrib.rnn.LSTMCell assign itself an initial state of zeros or is it random for each batch or per complete run through (if I run the model twice will it have the same initial state both the times)?

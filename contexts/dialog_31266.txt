@@ -1,0 +1,11 @@
+BOOK: Who are they?
+RACHEL: The leadership of our district... the diener. Bishop Tschantz is the one with no hair on top. They decided to come and see you for themselves. Except Stoltzfus, of course. He came the first day. I think he saved your life.
+BOOK: Can I have something to drink?
+BOOK: Does anybody know I'm here?
+RACHEL: Only the elders.
+BOOK: How long?
+RACHEL: What?
+BOOK: How long have I been here?
+RACHEL: Two days.
+BOOK: Listen, thank you. Thanks for everything. But I've got to go.
+RACHEL: But you can't.

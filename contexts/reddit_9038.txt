@@ -1,0 +1,13 @@
+Can Congress subpoena internet/telecom companies for the emails, text messages, Web searches, etc. of executive branch officials who are not complying with their own subpoenas?
+In a [discussion between two former prosecutors](https://cafe.com/stay-tuned-impeachment-special-2/) ([transcript here](https://cafe.com/stay-tuned-impeachment-hearings-with-anne-milgram//)) about the Congressional testimony of Gordon Sondland, whose past awareness or unawareness of a link between Burisma and Joe Biden is [a subject of controversy](https://talkingpointsmemo.com/news/holmes-hill-testimony-biden-burisma), one of them imagined:
+
+> Look, this is one of those moments where I think you and I probably both wish we had subpoena power, because I would just subpoena his Google searches.
+
+Given that some high-level Trump administration officials are [reported](https://www.nytimes.com/2017/09/25/us/politics/private-email-trump-kushner-bannon.html) to use private email servers for official business, and given that [text messages](https://www.cnn.com/2019/10/03/politics/chairs-on-volker/index.html) have made up much of the documentary evidence in the impeachment investigation, I'm wondering whether Congress can bypass the ongoing fight over the administration's [refusal to comply with subpoenas](https://apnews.com/4bde10e62e204c50a014eef51f06361b) by subpoenaing some information from third-party internet and telecommunications companies that might hold relevant data, such as email, text messages, and Web search history.
+
+A few specific questions:
+
+* What is the precedent for a Congressional investigation to subpoena documents from an internet/telecom company that stores them rather than from the person they belong to?
+* Can Congress issue a broad subpoena to a company asking for all data from a government official's personal accounts that might be relevant to their investigation? If so, is the company obligated to sort through all of the official's personal accounts and decide which documents are responsive to the request?
+* If a company possesses confidential messages between members of the executive branch, is it obligated to protect executive privilege?
+* What specific kinds of data from which specific people are relevant to the impeachment investigation?

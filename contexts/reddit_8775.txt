@@ -1,0 +1,9 @@
+Help me understand this new ISP resolution
+I have heard about this resolution to overturn some FCC rules that apply to ISPs, most notably that this will re-allow them to share internet activity to third parties. Is this the only thing being changed, or is that merely the worst/most headline-y part of it? Are there any other parts of the FCC mandate that are being overturned for good reason?
+
+Tl;dr: Is the only thing changing with this resolution the 'sharing browsing data' part, or is there more to it?
+
+Sources:
+
+1. Recent article about the overturning: http://www.theverge.com/2017/3/28/15080436/us-house-votes-to-let-isps-share-web-browsing-history
+2. Oct 2016 article about the original restrictions being put in place: http://www.theverge.com/2016/10/27/13428976/fcc-passes-isp-privacy-rules

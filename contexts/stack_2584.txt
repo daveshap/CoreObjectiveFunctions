@@ -1,0 +1,1 @@
+QGIS Line Subdivide by distance I know in QGIS you can subdivide a line, but is there a way you can type in a distance and the line will split according to this, with the last segment being smaller in length? If not I will try to script this in Python.

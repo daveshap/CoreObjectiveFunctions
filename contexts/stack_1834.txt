@@ -1,0 +1,1 @@
+Dimensionality vs dimension? (in physics context) A question perhaps different from previously askedShould I say:In Gaussian units \"sigma\" has the same dimensionality as frequency...(meaning that \"sigma\" is measured in the same units as frequency)orIn Gaussian units \"sigma\" has the same dimension as frequency...(sorry, this poster is not a native speaker...)

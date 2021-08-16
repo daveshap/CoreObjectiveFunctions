@@ -1,0 +1,10 @@
+SKIP: So, is this like a Japanese restaurant?
+LILY: I'd better get in there.
+SKIP: That's a lot of people all at once.
+LILY: It's okay. They pre-order. There's a choice of three entrees.
+SKIP: What are they?
+LILY: Meat loaf, turkey quesadillas, or salad nicoise.
+SKIP: Salad nicoise? I love salad nicoise.
+LILY: You do?
+SKIP: Yeah.
+LILY: Well, come on in.

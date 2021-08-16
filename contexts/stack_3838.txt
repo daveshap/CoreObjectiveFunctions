@@ -1,0 +1,1 @@
+The expectation of the $K^{th}$ raw moment of $X$ given $X$: $E(X^k|X)$ Intuitively I believe $E(X^k|X)=X^k$, $k$ is a non-negative integer. One obvious special case is when $k=1$. Anyone has an idea how to prove it?

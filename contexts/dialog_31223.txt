@@ -1,0 +1,6 @@
+CHERLINDREA: The way has been lost in time. But there is one person, a druid sor- ceress, who might guide you there. She was exiled by Queen Bavmorda many years ago. Her name is Fin Raziel.
+WILLOW: You need a warrior for this job. I'm nobody.
+CHERLINDREA: You are very important, Willow.
+WILLOW: No I'm not. Have you really looked at me? I'm short! Even for a Nelwyn!
+WILLOW: Why can't you do it? You have mag- ical powers.
+CHERLINDREA: My prsence cannot extend beyond this forest. But I can give you these...

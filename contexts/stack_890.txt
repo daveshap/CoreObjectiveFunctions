@@ -1,0 +1,1 @@
+Booting Ubuntu from USB not keeping time setting or user info I have made a bootable USB using RUFUS 3.1, Ubuntu boots fine, it just wont keep my time/date settings or my username and password info. I don't know what else its not keeping these are just the only things I've noticed so far. I'm new to Ubuntu and the Linux environment, any help would be greatly appreciated!

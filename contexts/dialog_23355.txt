@@ -1,0 +1,8 @@
+ELLEN: Hello. Can I help you?
+LINDNER: Does this dog here belong to you?
+ELLEN: No, I've never seen him before.
+LINDNER: You know, I saw him sitting outside your gate... Oh, I'm sorry, I'm forgetting my manners again! I haven't even introduced myself yet. Hi, my name's Lindner. Karl Lindner.
+ELLEN: Ellen Straub.
+LINDNER: It's a pleasure. You're from the city, right?
+ELLEN: Do I look like it that much?
+LINDNER: Village gossip. You're a real attraction here.

@@ -1,0 +1,16 @@
+How do different countries balance military order with due process rights of soldiers accused of misconduct?
+Today in [a major ruling,](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/17891/index.do) the Supreme Court of Canada rejected 5-2 a challenge to the country's military justice system for failing to provide jury trials to soldiers accused of serious crimes in Canada.^1
+
+I want to use this as a springboard to understand better how military justice and civilian justice interplay in different countries.
+
+In particular:
+
+* What schemes have been developed in different countries for dealing with ordinary or off-duty crimes by members of the military when stationed in their home country?
+
+* What systems have been developed, or problems arisen, related to soldiers stationed outside their home countries who commit ordinary crimes?
+
+* What protections of due process are generally found in military courts, versus what protections are forfeit?
+
+---
+
+^1 In particular, [the challenged law](https://qweri.lexum.com/w/calegis/rsc-1985-c-n-5-en#!fragment/sec130subsec1/BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoJC4BGAZgAYJEAjSmgSgBpltTCIAiokK4AntADkEzhDi5sAGwUBhJGmgBCZDMJhcCISPFSdehAGU8pAELiASgFEAMg4BqAQQByyh51JhmaFJsOHZ2IA) adopted the entire _Criminal Code_ as a military law and allowed the military justice system to mete out punishment to soldiers who violated any criminal law while in Canada, without the normal procedures of civilian court.

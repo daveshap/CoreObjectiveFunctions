@@ -1,0 +1,1 @@
+What is the English word that can represent the thing that a role is applied on? Your role in the school is a teacher.His role in the team is a developer.Her role in the family is a mother.human + something (e.g school, team, and family) + role What we can call the thing that the role is applied on? Is there an English term that can represents the \"something\" in the equation?

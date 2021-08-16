@@ -1,0 +1,1 @@
+Device driver for Epson V600 Perfection I have downloaded Epson's iscan-bundle-1.0.0-x64.deb and run sudo ./install.sh.  The script runs without errors.  However, the device driver does not get installed.  As a test I ran Simple Scan and it says to install the device driver.  Iscan says it cannot send commands to the scanner.What am I missing?Thanks,Hugh

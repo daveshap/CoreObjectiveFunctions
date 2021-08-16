@@ -1,0 +1,8 @@
+SWEENEY: 
+LONG: Mr. Sweeney, how goes it?
+SWEENEY: Well, Costello's finished with the stability profile, but Abbott is still chewing on the load file.
+LONG: So reaction temperature is fifty degrees.
+SWEENEY: Well, your prediction was on the nose.
+LONG: How much longer for the range and power projections?
+SWEENEY: I don't know. Um, he's working, but there's a lot of data. Maybe...another hour?
+LONG: We don't have an hour. We're already supposed to be shut down.

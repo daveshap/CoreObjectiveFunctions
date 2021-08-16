@@ -1,0 +1,15 @@
+KIRK: Never been this close.
+SPOCK: The Chancellor is undoubtedly awaiting our signal.
+KIRK: Uhura, hailing frequencies. Right standard rudder, bring us alongside...
+LT. SAAVIK: Right standard rudder, Z plus five degrees...
+UHURA: Channel open, Captain.
+KIRK: This is the Starship Enterprise, Captain James Kirk commanding.
+GORKON: This is KRONOS One. I am Chancellor Gorkon.
+KIRK: Chancellor. We've been ordered to escort you through Federation space to your meeting place on Earth.
+GORKON: Thank you, Captain.
+KIRK: Uh, would you and your party care to dine this evening aboard Enterprise with my officers as guests of the United Federation of Planets?
+GORKON: We'd be delighted to accept your gracious invitation.
+KIRK: We'll make arrangements to have you beamed aboard at 1930 hours.
+GORKON: I shall look forward to it.
+KIRK: I hope you're happy.
+LT. SAAVIK: Captain.

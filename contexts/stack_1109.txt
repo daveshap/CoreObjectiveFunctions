@@ -1,0 +1,1 @@
+Using Pt-online schema change on multi master MYSQL We are using two MYSQL servers in ring replication where master is also a slave of the other master. Both have slaves connected to each other.We want to run pt-online-schema-change to add couple of columns but we are not sure if it may break the replication due to ring replication in place. Any advice would be great.

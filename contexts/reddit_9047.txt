@@ -1,0 +1,12 @@
+Stop and frisk: is it effective? Should it be legal?
+Stop and frisk, also known as a Terry Stop, was a policing strategy [famously expanded]( https://en.wikipedia.org/wiki/Stop-and-frisk_in_New_York_City) by New York City in the mid-2000s by Mayor Bloomberg and [only recently reduced](http://www.nyclu.org/content/stop-and-frisk-data) by Mayor de Blasio. The strategy involves stopping and questioning pedestrians, followed by frisking the individual for contraband. The practice was [officially legalized]( https://en.wikipedia.org/wiki/Terry_v._Ohio) in the Supreme Court case Terry v Ohio, as long as reasonable suspicion exists. 
+
+The policy has been linked by some to lower crime rates in the city during the period, and some [have accused its decline]( http://www.nydailynews.com/new-york/nyc-crime/exclusive-big-fall-stop-and-frisk-criminals-bolder-article-1.2247406) as responsible for rising crime rates. However, some studies have found [little evidence]( http://www.tandfonline.com/doi/abs/10.1080/07418825.2012.712152) that stop and frisk by itself has an effect on crime, though on the other hand, other cities [have seen]( http://www.nytimes.com/roomfordebate/2012/07/17/does-stop-and-frisk-reduce-crime/stop-and-frisk-has-lowered-crime-in-other-cities) similar declines in crime rates after the policy’s adoption.
+
+The legality of the practice has been questioned as well, especially since “probable cause” can be quite difficult to define. Philadelphia [has seen legal struggles]( http://www.newsweek.com/2016/06/10/stop-and-frisk-philadelphia-crisis-reform-police-460951.html) over the issue, and a number of civil rights groups have advocated against it. 
+
+**Is stop-and-frisk effective?**
+
+**Should stop-and-frisk be legal?**
+
+EDIT: Thanks to /u/ike___turner and /u/huadpe for pointing out that Terry stops require reasonable suspicion, not probable cause. Big difference, I'm told.

@@ -1,0 +1,3 @@
+DOCTOR: What is it?
+NIKOLAS: The wound is bleeding!
+DOCTOR: Go to sleep!

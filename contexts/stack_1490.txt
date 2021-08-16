@@ -1,0 +1,1 @@
+3 Phase Voltage Imbalance We're trying to setup rotary phase converter, and we're getting some differences in line voltage. The black reads 350 to ground while red and white read 120 to ground. This is all from a 220 input. Red to white reads at 240 volts. Any thoughts on the problem? I don't imagine this is normal.

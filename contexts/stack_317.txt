@@ -1,0 +1,1 @@
+Two copies of same app but with unique preferences? Is there a way to have two copies of the same app (say one in applications folders and another on desktop) but both copies of the app have their own unique preferences file so that any changes that I make in one app are not reflected on the other. my concern is essentially the apps plist file.  Thanks!

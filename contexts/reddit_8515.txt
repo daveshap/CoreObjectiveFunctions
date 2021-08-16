@@ -1,0 +1,25 @@
+Under the 1996 federal Communications Decency Act, online publishers are immune from liability for third-party content. What are the pros and cons of eliminating this immunity?
+[Links posted to demonstrate underlying sentiments exist, not as a source of their truth.]
+
+In lieu of Facebook's Cambridge Analytica breach / misuse of data, there has been a general clamor to better address online user-generated content. ProPublica has posted [four proposals](https://www.propublica.org/article/four-ways-to-fix-facebook), one of which (#3) included updating the 1996 federal Communications Decency Act to remove immunity from liability for published third-party content.
+
+This proposal deals less with privacy and more with the questionable substantive content posted on Internet platforms such as Facebook. The [historical justification](https://www.law.com/therecorder/sites/therecorder/2017/11/10/cda-230-then-and-now-does-intermediary-immunity-keep-the-rest-of-us-healthy/) for immunity was an acknowledgment that Internet businesses were an emerging technology that needed room to breath in order to flourish, and that liability would effectively quash their ability to scale writ large:
+
+>This strange medium-specific subsidy for online content platforms made good if not perfect sense in 1996. (My generally positive thinking about it from that time, including some reservations, can be found here.) The Internet was newly mainstream, and many content portals comprised the proverbial two people in a garage. To impose upon them the burdens of traditional media would presumably require tough-to-maintain gatekeeping. Comments sections, if they remained at all, would have to be carefully screened to avoid creating liability for the company. What made sense for a newspaper publishing at most five or six letters a day amidst its more carefully vetted articles truly couldn’t work for a small Internet startup processing thousands or even millions of comments or other contributions in the same interval. Over time, the reviews elicited by Yelp and TripAdvisor, the financial markets discussions on Motley Fool, the evolving articles on user-edited Wikipedia—all are arguably only possible thanks to that §230 immunity conferred in 1996.
+
+The present argument for removing that liability is an acknowledged change in this landscape, namely that the Internet companies have gotten better at operating at scale, with many of the big players having requisite resources to better manage content and deal with liability claims if they fail to perform:
+
+>Perhaps the evolution of the merits of equal treatment for state sales tax provides a good model for a refined CDA: companies below a certain size or activity threshold could benefit from its immunities, while those who grow large enough to facilitate the infliction of that much more damage from defamatory and other actionable posts might also have the resources to employ a compliance department. That would militate towards at least some standard to meet in vetting or dealing with posts, perhaps akin to the light duties of booksellers or newsstands towards the wares they stock rather than the higher ones of newspapers towards the letters they publish.
+
+In contrast, organizations like the [Electronic Frontier Foundation](https://www.eff.org/issues/cda230) contend that s. 230 is the cornerstone of Internet speech protection:
+
+>[It] would be infeasible for online intermediaries to prevent objectionable content from cropping up on their site. Rather than face potential liability for their users' actions, most would likely not host any user content at all or would need to protect themselves by being actively engaged in censoring what we say, what we see, and what we do online. In short, CDA 230 is perhaps the most influential law to protect the kind of innovation that has allowed the Internet to thrive since 1996.
+
+>CDA 230 also offers its legal shield to bloggers who act as intermediaries by hosting comments on their blogs. Under the law, bloggers are not liable for comments left by readers, the work of guest bloggers, tips sent via email, or information received through RSS feeds. This legal protection can still hold even if a blogger is aware of the objectionable content or makes editorial judgments.
+ 
+
+*Also referenced:*
+
+- Danielle Keats Citron and Benjamin Wittes,*The Internet Will Not Break: Denying Bad Samaritans § 230 Immunity*, 86 Fordham L. Rev.401 (2017). Available at: http://ir.lawnet.fordham.edu/flr/vol86/iss2/3
+- https://www.law.com/therecorder/sites/therecorder/2017/11/10/commemorating-the-20th-anniversary-of-internet-laws-most-important-judicial-decision/
+- https://www.npr.org/sections/alltechconsidered/2018/03/21/591622450/section-230-a-key-legal-shield-for-facebook-google-is-about-to-change

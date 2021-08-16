@@ -1,0 +1,1 @@
+How can I manage multiple Photos libraries on my iPhone (iOS) I'd like to have specific photos stored in my iPhone and specific ones stored only on iCloud, so I thought to have two different Photos libraries, one \"optimised\" and one not.Is it possible? And how can I manage them from my iPhone? Or is it a way to do something like this?

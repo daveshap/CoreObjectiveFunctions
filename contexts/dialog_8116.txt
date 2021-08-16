@@ -1,0 +1,26 @@
+DUDLEY: Lad, may I have a word with you?
+BUD: This business, Captain?
+DUDLEY: Say goodnight to your friend and join me by those back tables.
+BUD: Does that paper say we've been indicted? Does it say Exley's a hero for squealing me and Stensland off?
+DUDLEY: He made his play amd he got what he wanted. They're making him a detective.
+BUD: Captain, what do you want?
+DUDLEY: Call me Dudley.
+BUD: Dudley, what do you want?
+DUDLEY: Lad, I admire your refusal to testify and your loyalty to your partner. I admire you as a policeman, particularly your adherence to violence as a necessary adjutant to the job. And I am most impressed with your punishment of wife beaters. Do you hate them, Wendell?
+BUD: Yeah, I hate them.
+DUDLEY: And for good reason judging from what I know of your background.
+BUD: What's going to happen to Stensland? He'll give himself cirrhosis over this. <u>He's one</u> <u>year from his pension</u>.
+DUDLEY: It would've happened years ago if you hadn't carried him. Why the loyalty, Wendell?
+BUD: He helped me out once. That's all.
+DUDLEY: Your partner's through. Department scapegoat on the Chief's orders. He's been billed, he'll be indicted and he'll swing.
+BUD: Him and me both. <u>Fucking Exley</u>.
+DUDLEY: Don't underestimate his skills. As a politician he exceeds even myself. But the department needs smart men like Exley and... direct men like yourself
+BUD: <u>What do you want</u>?
+DUDLEY: Wendell, I want you to come to work for me.
+BUD: Doing what? Mowing your fucking lawn?
+DUDLEY: They're yours. Take them.
+BUD: I knew you had juice, but... There's no goddamn bill on me?
+DUDLEY: Four of the defendants recanted their testimony.
+BUD: How?
+DUDLEY: I need you for an assignment the Chief's given me the go-ahead on. A duty few men are fit for, but you were born for. You'll be working out of Homicide.
+BUD: Homicide? A detective?

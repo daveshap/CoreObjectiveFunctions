@@ -1,0 +1,1 @@
+Can N-Channel MOSFETs safely discharge capacitors? Can 3 ganged 120 A rated N-Channel MOSFETs discharge a charged cap dumping 300 A? Will the FETs just explode or can they repeatedly discharge the cap?What specific ratings and characteristics are important to determine if a FET is up to the task?Granted the FET's Vds voltage would slightly exceed the cap voltage rating.

@@ -1,0 +1,13 @@
+[META] r/NeutralPolitics announcements
+Hello r/NeutralPolitics users,
+
+We have a few things to announce:
+
+* After a long hiatus, our news subreddit, r/NeutralNews, has just relaunched. See the [announcement here.](https://www.reddit.com/r/neutralnews/comments/hi25c6/meta_rneutralnews_has_relaunched/)
+* We're going to be launching a new subreddit for fact checking soon. Submission Rule E in r/NeutralPolitics prohibits requests for fact checking, so when we'd get submissions in that format, we would often refer them to r/politicalfactchecking. Unfortunately, that subreddit [recently shut down,](https://www.reddit.com/r/politicalfactchecking/comments/gb8987/a_message_to_all_users_of_rpoliticalfactchecking/) so we decided to create our own and we'd like your feedback on how it should run. Please visit r/NeutralFactChecking to join the discussion about our new venture.
+* We're planning to rework /r/NeutralTalk (again) to make it more useful and popular. There's a [discussion thread](https://www.reddit.com/r/NeutralTalk/comments/hi2ege/meta_proposals_to_reform_rneutraltalk/) over there if you want to comment and shape what it will become.
+* We removed a line from our sidebar that read: "Your post or comment will be judged not by its perspective, but by its style, rationale, and informational content." This line had already been removed from the guidelines, but it got inadvertently left in the sidebar text about neutrality. It was causing confusion, so we eliminated it.
+
+Cheers!
+
+— r/NeutralPolitics mod team

@@ -1,0 +1,6 @@
+DONATRA: I'm afraid that drink will have to wait, Captain.
+PICARD: Do you have life support?
+DONATRA: 
+PICARD: Understood.
+DATA: We have lost structural integrity on decks twelve through seventeen, sections four through ten.
+GEORDI: Emergency force fields are holding.

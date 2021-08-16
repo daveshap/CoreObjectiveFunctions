@@ -1,0 +1,1 @@
+Write concern in mongodb All,Lets say devoper sets the write concern as Majority in MongoDBAs a DBA can i have the access to change the write concern of whole cluster or only the developers has the rights to do through coding ?In replica sets we can do the change through conf settings but i beleive it wouldn't override the default one

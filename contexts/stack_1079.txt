@@ -1,0 +1,1 @@
+How do I install Evince 3.28 or newer on Ubuntu Xenial 16.04 LTS? Evince 3.28, the default in Ubuntu Bionic 18.04 LTS, introduces several good features, in particular a working fullscreen mode.Is there a way to install this version - or newer - on 16.04?The most up to date PPA I was able to find only had 3.24.1, and building from source has proven tricky.

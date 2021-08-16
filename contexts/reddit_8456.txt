@@ -1,0 +1,25 @@
+What evidence exists around the idea that high-income earners are likely to move to avoid higher taxes?
+One of the biggest news stories in the UK currently is the leak/release of Labour's manifesto for the 2017 general election, which you can find through here: http://www.bbc.co.uk/news/uk-politics-39877439
+
+Many of these proposals - such as re-nationalising the railways, spending £8bn pounds on social care, building 100,000 new homes - will be expensive. Labour say they will be able to pay for its policies by increasing taxes on the rich, for example 'increasing income tax for the highest-earning 5% to raise an extra £6bn for the NHS'.
+
+While Labour have rejected this, this current manifesto has been compared to their previous pledges in the 1970s and 80s, especially the 1983 manifesto: http://www.bbc.co.uk/news/election-2017-39872189. Those policies remain controversial today - the high income tax-rates of 1970s Britain under Labour (83% on the richest earners) even caused Rod Stewart to move to L.A. and name an album about it: https://en.wikipedia.org/wiki/Atlantic_Crossing
+
+Granted, this is just one case of a very rich guy packing up because he's being taxed quite highly. But there are numerous studies that support both sides of the argument: that rich people do leave - in significant enough numbers - when a high tax-rate is introduced, or that rich people don't leave - in significant enough numbers - when one is introduced (have put links at the bottom).
+
+So...
+
+- Which side is generally supported by economists?
+- If it exists, has the frequency of 'rich migration' varied over time?
+- And do the benefits of higher taxes outweigh the impact of those high earners leaving?
+
+*Note: if it helps for the argument, this can be related to taxes over than income-tax. Capital gains, property, inheritance etc., but income-tax is the main one I'm focused on atleast. Also, this is mainly concerned with the West/US and UK, but with the nature of globalisation today I can understand how practically all countries' tax-rates may link into it.*
+
+--------------------------------------------------------------------------
+- https://www.forbes.com/sites/beltway/2016/05/26/do-high-state-taxes-drive-away-millionaires-not-really/#6a56429a360f - Do High State Taxes Drive Away The Rich? Not Really
+
+- http://www.citylab.com/politics/2016/06/do-taxes-really-cause-the-rich-to-move/487835/ - Do Taxes Really Cause the Rich to Move?
+
+- http://www.economist.com/node/21530093 - Diving into the rich pool: Imposing higher tax rates on the wealthy can have unintended consequences
+
+- http://www.nber.org/papers/w10645 - Do the Rich Flee from High State Taxes? Evidence from Federal Estate Tax Returns

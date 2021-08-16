@@ -1,0 +1,1 @@
+Merging two processes in QGIS3 to one? Is there any way to merge several processes in QGIS3 into one process? Or is there a way to look at the source code of different processes under QGIS3 and combine them under one function? I am trying to create one file (in Python) with all the processes under one single process.

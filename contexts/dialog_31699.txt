@@ -1,0 +1,24 @@
+FREDDY: There seem to be quite a few books.
+FRAU BLUCHER: Yes, this was Victor's... the Baron's medical library.
+FREDDY: I see. And where is my grandfather's private library?
+FRAU BLUCHER: I don't know what you mean, sir.
+FREDDY: well, there was a public and a private library -- he said so in his will. these books are all very general -- any doctor might have them in his study.
+FRAU BLUCHER: This is the only library I know of.
+FREDDY: Surely he kept his notes -- his private papers and records in some other place?
+FRAU BLUCHER: I think you must be mistaken, sir.
+FREDDY: Well... we'll see.
+FRAU BLUCHER: Will there be anything else?
+FREDDY: I don't think so. Is my assistant taken care of?
+FRAU BLUCHER: I put her in the guest room, just down the hall.
+FREDDY: Good.
+INGA: Are you busy?
+FREDDY: That's quite all right. What is it, dear?
+INGA: Could I lie down in your bed for a little while? I just can't sleep.
+FREDDY: We only arrived a few minutes ago.
+INGA: I know, but usually I can fall asleep right away. It must be the strange room.
+FREDDY: Well...
+INGA: Oh please -- just till I get sleepy. Then you can force me right back to my room.
+FREDDY: Well.. I suppose it would be all right, for just a little while.
+FREDDY: Would you like a sandwich?
+INGA: No, thanks! I want to get right to sleep.
+FREDDY: Well... I'll just finish unpacking.

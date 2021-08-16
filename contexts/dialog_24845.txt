@@ -1,0 +1,10 @@
+TAYLOR: Ok Mac... I'll talk to you on this. I want to find a way to get to the bridge, then I want you to come back.
+MAC: Certainly. Anything I can do to be of service.
+DAWN: He certainly is polite.
+TAYLOR: Close every door behind you!
+TAYLOR: How is it looking, Mac?
+MAC: I would recommend a maintenance crew in this sector.
+TAYLOR: Is it safe for human transport?
+MAC: That's affirmative.
+DAWN: It must be oxygenated if we can hear him.
+TAYLOR: Yeah, let's hope he can find a way through.

@@ -1,0 +1,1 @@
+Screen flickering problem in 16.04 i upgraded 14.04 ubuntu to 16.04, after updating softwares in 16.04 my desktop screen flickers when i place mouse pointer in the launcher pad.how can i solve the issue?

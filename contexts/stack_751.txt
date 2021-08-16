@@ -1,0 +1,1 @@
+Code capture automated I am doing a project, where we need a video of the python script being written in the editor. We have 100+ scripts, so we need automation. Is there a program, in which the input is your python script and output is a video that writes that code charactet by character in an editor.

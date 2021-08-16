@@ -1,0 +1,17 @@
+Is the first past the post electoral system constitutional?
+https://www.cnn.com/2018/11/15/politics/democrats-maine-house-ranked-choice-jared-golden/index.html
+
+>During the midterms, Maine used the ranked-choice voting system which means "[V]oters rank their choices from first to last. If no candidate gets more than 50% of the first-place votes, then candidates are eliminated one by one -- making the second-place choices of voters who back little-known third-party or independent candidates crucial."
+Bruce Poliquin has challenged the results saying that the new system is unconstitutional.
+
+This Yale review holds the position that courts should consider that [Voting is speech](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1702&context=ylpr), and should be fully protected under the 1st amendment.
+
+>[Congress shall make no law \[...\] abridging the freedom of speech](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution#Text)
+
+First Past the Post AKA Plurality AKA Single-Choice Voting: http://www.prsa.org.au/pluralit.htm
+
+>A plurality electoral system is one where ballots are normally not valid unless they have been marked by the voter to indicate the candidate or candidates that the voter wishes to have elected, but no more candidates can be indicated in this way than the number of vacancies to be filled, without invalidating the ballot, so the information that voters are allowed to provide about their ranking of the candidates in their order of preference for them is deliberately and unnecessarily limited. Each candidate marked gets equal value from the vote, as voters cannot indicate their preferred priority among the candidates. Each mark is thus a first preference vote, but there is no provision for any later preferences of voters for candidates with more votes than they need - or of the candidates with the fewest votes - to be indicated, for transfer to remaining continuing candidates.
+
+Is an electoral system that restricts the expressiveness of a vote (i.e. FPTP) in breach of the 1st amendment?
+
+RCV has been challenged for being unconstitutional. Could FPTP be counter-challenged for being unconstitutional?

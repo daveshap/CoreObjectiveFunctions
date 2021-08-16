@@ -1,0 +1,1 @@
+unsupervised classification VS supervised classification when data labels are known Can someone give me some scenario where it's better to use clustering (unsupervised classification) than supervised classification such as SVM ? I mean in a case where you know the data labels/classes.

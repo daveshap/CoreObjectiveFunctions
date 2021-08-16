@@ -1,0 +1,3 @@
+STANTZ: Ready?
+WINSTON: I'm ready.
+STANTZ: Then let's do it.

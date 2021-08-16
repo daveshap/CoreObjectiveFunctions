@@ -1,0 +1,10 @@
+MANAGER: Will Mr. Kringelein kindly register.
+KRINGELEIN: Again?
+MANAGER: Please.
+CHAUFFEUR: Have you a minute now?
+BARON: No -- I told you not to come in this lobby.
+CHAUFFEUR: Time's getting short.
+BARON: I've told you a hundred times not to speak to me with a cigarette in your mouth.
+CHAUFFEUR: I want to speak --
+BARON: Not now.
+CHAUFFEUR: Yes, sir.

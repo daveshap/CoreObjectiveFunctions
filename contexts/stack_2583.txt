@@ -1,0 +1,1 @@
+Installing NextGIS Connect into QGIS 3? Just acquired free version of NEXTGIS and trying to install the plugin for QGIS. It tells me it was not designed for version 3 of QGIS.How do I set up the QGIS-NEXTGIS interface then?

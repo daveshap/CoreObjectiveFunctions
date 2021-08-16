@@ -1,0 +1,34 @@
+Should antitrust law and enforcement focus more on vertical integration?
+Net neutrality is the hot topic of the day but another issue at hand is antitrust. Amazon in particular has come under scrutiny after its [acquisition of Whole Foods Market](https://www.washingtonpost.com/news/business/wp/2017/06/16/amazon-to-buy-whole-foods-market-in-deal-valued-at-13-7-billion-2/?utm_term=.81d2c0921199).
+
+(Full disclosure: I work for Amazon but am obviously posting here in a private capacity.)
+
+Historically, antitrust law has focused on horizontal monopolies, i.e., one firm cornering an entire market by crowding out competitors at the same stage of production. Vertical integration, in contrast, focuses more on owning the entirety of your upstream or downstream production chain. This is an oversimplification but is fine for the purpose of a high level conversation.
+
+In the case of Amazon, acquiring Whole Foods gives them control of grocery distribution to supply their Fresh delivery system. To use another example, [look at the proposed merger between CVS and Aetna](https://www.economist.com/news/business/21730906-vertical-integration-could-put-brake-americas-unsustainably-soaring-health-care-costs):
+
+>The CVS-Aetna deal is an effort at vertical integration, which by removing rent-seeking middlemen can, in theory at least, lead to more choice, better health outcomes and lower prices for consumers. If this seems far-fetched, consider the example of United’s pioneering use of data analytics and artificial intelligence at its in-house PBM.
+
+Non-specific tidbits on the [argument in favor](https://www.economist.com/news/business-and-finance/21696911-tech-fashion-old-management-idea-back-vogue-vertical-integration-gets-new) of vertical consolidation:
+
+- Better integrated products (i.e., creating an ecosystem in which it is easier to get everything you need in one space);
+- Efficiency of doing things in-house;
+- Building customer relationships (via integration and the subsequent creation of frictionless consumer experiences)
+- Speed and efficiency from owning your entire production process;
+- Minimizing risk across uncertain geopolitical space
+
+The trade-off in this is the potential reduction of consumer choice and "boxing in" of customer behavior (see: [Vox's analysis](https://www.vox.com/business-and-finance/2017/12/4/16731310/cvs-aetna-merger) of the Aetna/CVS merger for examples). Likewise, we can see privacy concerns, such as tech ecosystems that collect data in one capacity to inform another (e.g., Amazon using Whole Foods to collect customer behavior data to hone their advertisement algorithms).
+
+Moreover, the reason why I mentioned net neutrality is because implicit in that argument is a concern over information limitation and throttling, but we can see examples of this with firms that own downstream production and content. Using Amazon as an example again, we have [historical examples](https://www.nytimes.com/2014/11/14/technology/amazon-hachette-ebook-dispute.html?_r=0) of the company deprioritizing book search results related to a publishing dispute. Today, Amazon and Google are in a spat that has resulted in the [loss of Youtube functionality](https://www.theverge.com/2017/12/5/16738748/google-amazon-feud-youtube-pulled-off-fire-tv-echo-show-nest-devices) across Amazon devices.
+
+Thus there is significant control over content here, at least in so far as we have a major player in one market able to influence an area where they have a smaller share but nevertheless major influence on access to a good or service. This is a particularly acute concern where that influence is tethered to a medium or platform with a strong correlation to information dissemination, such as vieo.
+
+The additional historical justification for antitrust law has been the argument that it's bad for consumers, typically by limiting their choice to a single firm that has significant price control. The traditional metrics have been market share and pricing.
+
+But how should we evaluate vertical integration if: (1) it doesn't usually increase market share that much (e.g., Amazon still accounts for very little of the grocery market post-Whole Foods acquisition); (2) arguably it creates a better environment for consumers who want fast and frictionless goods/services, and; (3) we have yet to come up with a strong corollary for market share and price controls as the metrics for "too much"?
+
+Specific questions:
+
+- Should this be policed more explicitly and increased rigor?
+- What are the measurements by which we determine vertical integration has exceeded an appropriate threshold?
+- Arguably this is more of a concern across data collection and communication areas. Is this less an antitrust concern and more of a communications and data security matter?

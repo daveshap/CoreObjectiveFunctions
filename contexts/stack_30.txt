@@ -1,0 +1,1 @@
+Firefox on macOS: Use native fullscreen on videos Is there a way to make Firefox use Mac's native fullscreen when watching a video (e.g. on Netflix)? The browser does go fullscreen, but it's not on it's own space on macOS.I'm currently using Firefox 57 and macOS 10.13.1.

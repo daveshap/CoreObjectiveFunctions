@@ -1,0 +1,31 @@
+Can federal and state courts in the United States use legal arguments and tests from foreign courts in similar legal systems to inform the development of nascent legal doctrines?
+The Commonwealth countries (e.g Canada, Australia and the United Kingdom) developed public interest legal standing doctrines particularly suited for questions regarding environmental degradation and ecological destruction.^[1](http://www.columbiaenvironmentallaw.org/public-interest-standing-and-judicial-review-of-environmental-matters-a-comparative-approach/)  The United States so far lacks liberalized standing doctrine for environmental claims; Jeffery T. Hammons argued that the U.S judicial system and the relevant administrative law statutes are similar enough to warrant developing an American public interest approach to legal standing.^[supra](http://www.columbiaenvironmentallaw.org/public-interest-standing-and-judicial-review-of-environmental-matters-a-comparative-approach/)  Below is Canada's three part test to determine whether or not one has public-interest standing.^[2](http://www.columbiaenvironmentallaw.org/public-interest-standing-and-judicial-review-of-environmental-matters-a-comparative-approach/)*  
+
+>The Standing Trilogy only concerned public interest standing
+when the claim raised a constitutional question, but it was
+subsequently settled in Finlay that public interest standing is also
+available in judicial review of administrative agencies.102 In Finlay,
+the court combined the Standing Trilogy’s lessons into the
+contemporary three-part test: 
+**(1) Is there a justiciable and serious
+issue to be tried?  (2) Does the applicant have a genuine interest in
+the subject matter? and (3) Is there another reasonable and
+effective manner for the case to be brought forward?** The third
+prong was elaborated upon in a recent Canadian Supreme Court
+case:
+[T]he third factor in the public interest standing analysis should be
+expressed as: whether the proposed suit is, in all of the
+circumstances, a reasonable and effective means of bringing the
+matter before the court. This factor, like the other two, must be
+assessed in a flexible and purposive manner and weighed in light of
+the other factors.
+
+(1) - Does the Supreme Court have the authority to develop a public-interest legal standing doctrine?
+
+Sources:
+
+* [Infra](http://www.columbiaenvironmentallaw.org/public-interest-standing-and-judicial-review-of-environmental-matters-a-comparative-approach/)
+
+* [2](http://www.columbiaenvironmentallaw.org/public-interest-standing-and-judicial-review-of-environmental-matters-a-comparative-approach/) - see page 533.
+
+* [3](https://www.supremecourt.gov/opinions/06pdf/05-1120.pdf) -

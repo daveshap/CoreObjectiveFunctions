@@ -1,0 +1,8 @@
+HELEN: What did he give you?
+HARRY: Sodium amytal, maybe some other truth agent.
+HELEN: It makes you tell the truth?
+HARRY: Yes.
+HELEN: Is it working yet?
+HARRY: Ask me a question I would normally lie to.
+HELEN: Are we going to die?
+HARRY: Yup.										*

@@ -1,0 +1,23 @@
+DAVID: I don't mean to intrude.
+KIRK: Uh, no... I should be on the bridge.
+DAVID: Are you running away from me?
+KIRK: I suppose I was. I poured a drink. Would you like it?
+DAVID: No. I -- I guess I'm not what you expected.
+KIRK: I didn't expect anything.
+DAVID: That makes two of us. Lieutenant Saavik was right: you never have faced death --
+KIRK: Not like this -- no. I haven't faced death, I cheated death. I tricked my way out of death and patted myself on the back for my ingenuity. I know nothing.
+DAVID: You knew enough to tell Saavik that how we face death is at least as important as how we face life --
+KIRK: It was just words.
+DAVID: But good words. That's where ideas begin. Maybe you should listen to them.
+KIRK: I'm trying, David.
+DAVID: So am I. My friends were killed, too.
+KIRK: I am truly sorry.
+DAVID: I was wrong about you. And <u>I'm</u> sorry.
+KIRK: Is that what you came here to say?
+DAVID: Mainly. And also that I'm proud -- very proud -- to be your son.
+SAAVIK: Admiral on the bridge!
+KIRK: As you were, Mr. Saavik.
+SAAVIK: Aye, sir. On course to Ceti Alpha. All is well.
+KIRK: Good, I believe you already know my, uh, son --
+KIRK: Yes, well, why don't you show him around and...
+SAAVIK: Aye, sir --

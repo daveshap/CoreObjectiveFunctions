@@ -1,0 +1,1 @@
+STM32F105 FSMC Pin assignment How do I assign certain pins to the appropriate FSMC pins? I've looked through the reference manual and the examples, but there's nothing about pin assignment except configuring them as alternate push-pull. If it helps, I'm configuring the FSMC for an LCD interface.Thanks.

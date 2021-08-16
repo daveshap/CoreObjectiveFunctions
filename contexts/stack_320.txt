@@ -1,0 +1,1 @@
+Disable Bluetooth on Apple keyboards and trackpad I have a Apple Magic Keyboard and Trackpad 2 connected to a MacBook Pro 2014 via USB. If I open up Bluetooth preferences I can still see both of these devices listed.I'd like to completely disable any Bluetooth communication and use USB as the only communication channel. How can I achieve this?

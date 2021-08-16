@@ -1,0 +1,1 @@
+HD .mkv files - any hope for improvement in 18.04 I am having difficulty running HD .mkv files in 17.04. I was wanting to upgrade to 18.04 but read that the graphics drivers don't work properly and have been downgraded in current releases. Is there another solution for my N2870 CPU? What is the future plan for Ubuntu 18?

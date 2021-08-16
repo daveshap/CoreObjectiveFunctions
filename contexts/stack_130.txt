@@ -1,0 +1,1 @@
+iCloud two-factor authentication on OS X Yosemite I have 3 Apple devices, an iPhone and iPad both running iOS 11 and a MacBook Pro running OS X Yosemite 10.10.On the iOS devices I am getting alerts to enable two-factor authentication for my iCloud account.Will enabling it restrict me from accessing my iCloud account on my MacBook Pro?

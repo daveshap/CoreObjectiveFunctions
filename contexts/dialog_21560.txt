@@ -1,0 +1,14 @@
+SAM: Yes?
+LILA: May I talk to you?
+SAM: Sure...
+LILA: I'm Mary's sister.
+SAM: Lila.
+LILA: Is Mary here?
+SAM: Is something wrong?
+LILA: I want to know if my sister is here.
+SAM: Here?
+LILA: With you.
+SAM: Where?
+LILA: I don't know where. In your store, somewhere in your town... anywhere.
+SAM: What's the matter?
+LILA: Don't you know?

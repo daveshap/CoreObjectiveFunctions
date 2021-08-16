@@ -1,0 +1,3 @@
+JACK: You have to go for help.
+ROSE: I'll be right back.
+JACK: I'll wait here.

@@ -1,0 +1,1 @@
+How to increase persistent file size? I am currently using 32 GB flash disk to use Ubuntu using live boot. I made it bootable using YUMI and set the file system to NTFS and persistent size 8GB. But now, I am running low in space and want to increase persistent disk size.So, how to do it without losing my data?

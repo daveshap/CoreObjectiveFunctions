@@ -1,0 +1,1 @@
+Tsql joins on sql server What type of joins would you use if you were trying to find missing data in two related tables? Would it be an inner join or an outer join?

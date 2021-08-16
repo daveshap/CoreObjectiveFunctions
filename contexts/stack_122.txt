@@ -1,0 +1,1 @@
+Hitting Play/Pause key (F8) ends FaceTime call In High Sierra, hitting the Play/Pause (f8) button now ends a FaceTime call if one is in progress. This is quite frustrating as I often pause music after I answer a FaceTime call, is there any way to disable this?

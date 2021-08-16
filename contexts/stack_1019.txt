@@ -1,0 +1,1 @@
+autosave original file after edit How to autosave a backup copy of the original text file in Ubuntu 18.02 after editing and saving the modified version? Mousepad does not have a setting for it.

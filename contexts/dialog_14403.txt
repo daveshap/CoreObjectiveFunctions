@@ -1,0 +1,6 @@
+DOORMAN: Dr. Singer. It's been a long time.
+JACOB: Hello, Sam.
+DOORMAN: Are you all right?
+JACOB: I'm okay.
+DOORMAN: Do you want some help? I can call upstairs.
+JACOB: No, don't. But thanks.

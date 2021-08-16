@@ -1,0 +1,1 @@
+Why are cryfs encrypted file sizes too big? I encrypted a 1GB folder using Cryfs and the encrypted folder appeared to be 6 times larger than the original folder? I know encrypted files are always larger than the original files, but 6 times?!?Is it a bug causing this or is it normal for CryFs as it does a whole lot than encfs or any other encrypting apps?

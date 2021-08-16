@@ -1,0 +1,10 @@
+PICARD: Passing one-half light speed. The starboard nacelle's running a little hot...
+GEORDI: I'm on it...
+GEORDI: The inertial dampers are having trouble compensating... I don't think Cochrane built this thing for comfort.
+PICARD: Speed -- two hundred, seventy-five thousand kilometers per second.
+GEORDI: There's no temporal shielding in here! We're starting to pick up relativistic effects!
+PICARD: One minute to warp threshold...
+GEORDI: Captain, the Enterprise!
+PICARD: Picard to Enterprise. Picard to Enterprise -- do you read me?
+PICARD: Their com system must still be down.
+GEORDI: Well, I feel a whole lot better with them out there. We may need some help.

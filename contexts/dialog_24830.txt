@@ -1,0 +1,15 @@
+TAYLOR: Oh right, right you're on that research grant.
+DAWN: That's right.
+TAYLOR: Ryan Taylor, first mate. Welcome aboard. First time in space?
+DAWN: Yes. Theoretical discoveries aside, there's nothing like the real thing. How about you?
+TAYLOR: This is my second commercial flight. I used to run satellite freighters but that got old fast.
+DAWN: So you were looking for a new challenge.
+TAYLOR: Well, plus the money ain't that bad. DAWN So, tell me, do you think everyone gets their million dollars' worth on this trip of a lifetime?
+TAYLOR: Well, let me put it this way. Most of the cost is due to safety reasons. Most people are not familiar with space travel, so we have to take extra precautions in the event they do something careless.
+DAWN: Like open an airlock by mistake?
+TAYLOR: Well I don't think there's a chance of that happening. It's usually the moon walks. Sometimes you feel like a kindergarten teacher.
+DAWN: Well I hope I don't do anything careless.
+TAYLOR: I'm sure you'll be all right.
+DAWN: Actually I've logged about 200 hours of simulated space walking at the institute, mostly related to starship construction.
+TAYLOR: Really?
+DAWN: Still, I hope I behave on the moon. I'll stick close to you.

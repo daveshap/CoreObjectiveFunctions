@@ -1,0 +1,7 @@
+MAC: Lose something?
+GIN: I'm just curious what sort of security system you'd have in your own house.
+MAC: And--
+GIN: I'm impressed. Can't spot a thing.
+MAC: Hmmm. I'd be surprised if you could.
+GIN: Nothing? You don't even lock the door?
+MAC: I guess I have a more optimistic view of human nature than you do.

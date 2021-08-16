@@ -1,0 +1,9 @@
+SHELLY: Hi.
+JUDY: Hi, is Vada home?
+SHELLY: Yes she is, but she's very upset, so she's not seeing anyone.
+JUDY: Oh, I'm Judy, I go to school with her, I wanted to tell her I'm sorry about Thomas J.
+SHELLY: Well maybe she'll feel better in a couple of days.
+JUDY: Will you tell her I came by?
+SHELLY: Sure.
+JUDY: Thank you. Bye.
+SHELLY: Bye.

@@ -1,0 +1,22 @@
+ALEX: The kitchen.
+DAVID: Very nice.
+ALEX: Closet.
+DAVID: Charming.
+ALEX: Bathroom.
+DAVID: Lovely.
+ALEX: The bedroom.
+DAVID: There is only one bed.
+ALEX: David, perhaps you'd like to watch the telly while I take a shower.
+DAVID: It's nice to see you.
+ALEX: It's nice to see you.
+DAVID: Alex?
+ALEX: Yes?
+DAVID: Will you be here in about fifteen minutes?
+ALEX: Of course.
+DAVID: Good.
+ALEX: David, you don't honestly believe that in reality your friend Jack rose from the grave to breakfast with you? Do you really?
+DAVID: I was awake and he was in my room.
+ALEX: But, David.
+DAVID: I wasn't hallucinating.
+ALEX: Tomorrow is the full moon.
+DAVID: That's good, Alex. Reassure me.

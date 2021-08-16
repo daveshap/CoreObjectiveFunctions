@@ -1,0 +1,17 @@
+LOMBARD: It’s wet. Will this do?
+RHIAN: Where’s your wallet? Have you got a wallet?
+LOMBARD: Is this some kind of mugging? Because...
+RHIAN: Shut up! Where’s your wallet?
+LOMBARD: In my jacket. Left inside pocket.
+RHIAN: Reach for it and throw it to me. And... My finger’s on the trigger, you hear!
+RHIAN: A private investigator... You’re not Austrian?
+LOMBARD: Should I be?
+RHIAN: What’s a French private investigator doing here?
+LOMBARD: Can I get up now?
+RHIAN: No! What do you want here? How do you know me?
+LOMBARD: As you know from speaking to Phil, your friend Leon has disappeared, Rhian. His family have hired me to find him.
+RHIAN: ...Leon’s not here. How did you get here? Phil doesn’t know where I live.
+LOMBARD: Well, I obviously do. And I also know that Leon’s not here, Rhian. But I thought that you might know where I should look for him.
+RHIAN: You thought wrong. I haven’t seen Leon for months.
+LOMBARD: Haven’t you? Then why the worried messages on his answering machine, Rhian? I’d have sworn you expect him to be in trouble.
+RHIAN: You-you’re wrong. I just called to ask if I could stay with him next time I’m in London. That’s all.

@@ -1,0 +1,6 @@
+BOWMAN: Good morning. How's it going?
+POOLE: Are you reasonably awake?
+BOWMAN: Oh, I'm fine, I'm wide awake. What's up?
+POOLE: Well... Hal's reported the AO-unit about to fail again.
+BOWMAN: You're kidding.
+POOLE: No.

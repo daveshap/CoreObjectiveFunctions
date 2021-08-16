@@ -1,0 +1,12 @@
+What impacts exist with counting prisoners using the current method in the US census?
+There was [a recent article in the Huffington Post](https://www.huffingtonpost.com/entry/2020-census-prison-population_us_5a7cb966e4b044b3821b0507) that made me start thinking about this issue. 
+
+The author of the article focuses primarily on the issue of redistricting based on this information. I was curious about other impacts, such as potential resources being diverted from lower income areas because of the way prisoners are being counted. Are there ways that this can affect areas beyond just the redistricting angle? 
+
+The article is referring to the announcement on 14 February that the Census Bureau will continue the trend of counting prisoners at their location of incarceration, what they deem to be their 'usual residence'. [Their webpage](https://www.census.gov/programs-surveys/decennial-census/2020-census/about/residence-rule.html) explains the reasoning behind this.
+
+> The Census Act of 1790 established the concept of “usual residence” as the main principle in determining where people should be counted, and this concept has been followed in all subsequent censuses. “Usual residence” has been defined as the place where a person lives and sleeps most of the time. This place is not necessarily the same as the person's voting residence or legal residence.
+
+The article cites a [memo (pdf alert) from the Prison Policy Initiative](https://www.prisonersofthecensus.org/letters/2016/PPI_Demos_2016_FRN_comment.pdf) that lays out an argument for not counting prisoners where they are incarcerated. 
+
+The numbers are not yet out for 2017, but with [a prison population at the end of 2016](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6187) of around 1.5 million people, it is worthy of discussion; looking at the arguments for and against counting prisoners where they are imprisoned and the potential impacts either direction can have on communities

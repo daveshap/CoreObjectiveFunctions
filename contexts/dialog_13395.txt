@@ -1,0 +1,23 @@
+FINDLEY: Findley.
+EDDIE: Glad to meet you.
+FINDLEY: And I you. I think I've heard about you, Mr. Felson. You play pocket billiards, don't you?
+EDDIE: Now and then. Why, do you?
+FINDLEY: A little, although I'm afraid I generally lose.
+BERT: So does Eddie.
+EDDIE: Well, I win sometimes.
+FINDLEY: I'll bet you do, Mr. Felson. I'll just bet you do.
+EDDIE: How much?
+FINDLEY: Bert, I believe Mr. Felson's making a proposition.
+BERT: Could be.
+FINDLEY: Well, Mr. Felson, maybe you could come out to my place some evening. We could play a few games of billiards.
+EDDIE: When?
+FINDLEY: You're very direct, Mr. Felson.
+EDDIE: That's right. When?
+FINDLEY: Would you like to come out tonight?
+EDDIE: What time?
+FINDLEY: I'm having some people over for drinks right after the races. Why don't you all come over? Then about nine, ten o'clock we can play.
+BERT: We'll be there.
+FINDLEY: Good, good.
+SARAH: If you don't mind I think I'll stay at the hotel.
+EDDIE: Well, what's the matter?
+SARAH: I'm a little tired.

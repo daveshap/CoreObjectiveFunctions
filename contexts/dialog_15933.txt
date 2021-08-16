@@ -1,0 +1,31 @@
+JACK: No! I won't let it happen...
+LILI: You've freed me, Jack...
+JACK: It's the Baron's damnable work! Too cowardly to stand and fight... he used you to save himself.
+LILI: No... it's not you he's afraid of, it's... light...
+JACK: What?
+LILI: Sunlight... It destroys him.
+JACK: Sunlight?
+LILI: That's why he goes masked during the day...
+JACK: So, he's hiding in the dark...
+LILI: In the dark... where I join him...
+JACK: No! Don't let go... you mustn't! I love you!
+LILI: And I... love you...
+GUMP: Jack! The courtyard's been taken... The Baron's forces are besieged in the south tower. No sign of... Jack? Do you hear what I'm saying? We've won, lad.
+JACK: It doesn't matter.
+GUMP: Nonsense! Course it matters.
+JACK: ... the Princess Lili... I've killed her.
+GUMP: She's sore hurt, Jack, tis true, but not dead yet.
+JACK: The wound is mortal.
+GUMP: Nay. You've not reckoned with the powers of faerie medicine.
+JACK: Can you save her?
+GUMP: Easily... The question is, can we save ourselves? Be a shame to win the battle only to lose the war.
+JACK: I don't... understand.
+GUMP: The alicorn, lad. Come to your senses! Unless we find Baron Couer de Noir and bring back the horn the world is doomed.
+JACK: The Baron hides in the dark in a passage under the Castle... Quick, give me the dwarf's key... the one which opens any lock...
+GUMP: In the dark, lad? Why should he do that?
+JACK: Because sunlight will kill him. Quickly now, give me the key.
+GUMP: Sunlight, you say?
+JACK: Aye. Hurry now, Gump, the key!
+GUMP: Mean you to seek him out below?
+JACK: I'm not afraid of the dark.
+GUMP: I admire your valor, Jack. By all means, seek him out... But first, we needs visit the kitchen.

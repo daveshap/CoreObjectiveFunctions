@@ -1,0 +1,24 @@
+Can independently produced content be an in-kind campaign contribution subject to FEC rules if reposted by a candidate?
+At 11:28 AM May 9, 2020 \[presumably my timezone of CST\], President Trump [posted this video](https://twitter.com/realDonaldTrump/status/1259158370390544384) on Twitter. It is not a retweet, but acknowledges thebradfordfile as the source.
+
+At  6:55 PM May 9, 2020, [thebradfordfile Twitter account](https://twitter.com/thebradfordfile/status/1259270843290587137) acknowledges "I made this video...". I cannot exclude the possibility this video was originally posted much earlier (Edit: see bottom for earlier posting).
+
+The audio of the video is taken from snippets of President Trump's inaugural address ([transcript](https://www.whitehouse.gov/briefings-statements/the-inaugural-address/)). The transcript is written "As Prepared for Delivery" and differs in minor ways from [his actual spoken words](https://www.youtube.com/watch?v=sRBsJNdK1t0).
+
+At time of posting, I do not yet see any mentions of this video in news articles. There is [past discussion (NBC)](https://www.nbcnews.com/tech/social-media/facebook-twitter-put-warning-label-edited-video-biden-n1153506) of questionable practices at thebradfordfile.
+
+Under the [Citizens United](https://en.wikipedia.org/wiki/Citizens_United_v._FEC)  ruling, independent groups may spend whatever they want on political  communications, but does a candidate reposting that content need to consider FEC rules? If an independent organization produces a video promoting a particular candidate and the candidate posts it, is it subject to FEC limitations?
+
+[Screenshots](https://imgur.com/a/amaFIFT) in case original tweets are removed.
+
+Federal Election Commission [discussion of communication coordination](https://www.fec.gov/help-candidates-and-committees/candidate-taking-receipts/coordinated-communications/) and related [Federal Regulations](https://www.fec.gov/regulations/109-20/2019-annual-109#109-20). See also [in-kind](https://www.fec.gov/help-candidates-and-committees/making-disbursements-pac/making-kind-contributions-candidates/) contribution restrictions.
+
+Edits:
+
+5/11/2020
+
+has->his in "his actual spoken words"
+
+This video was also [tweeted](https://twitter.com/realdonaldtrump/status/1222722934441160705?lang=en) by President Trump on 9:27 PM · Jan 29, 2020
+
+Also [posted](https://twitter.com/DanScavino/status/1256708681137356802) by [Dan Scavino](https://en.wikipedia.org/wiki/Dan_Scavino), Director of Social Media for 2016 Trump Campaign and current White House Deputy Chief of Staff for Communications.

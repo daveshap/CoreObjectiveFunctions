@@ -1,0 +1,12 @@
+Question - Correlate two scales - 1 has its maximum at 7 (1-7) and 1 at 4 (1-4-7) - need help
+ Hello,
+
+i would like to correlato two scales. One of them is a likert scale that goes from 1 to 7 where 7 is the max and 1 is the least. The 2nd measures inequity in a relationships. It also goes from 1 to 7 but is scored differently. 1 is the least (inequity cause Person A does way more than B), 4 is the maximum (relationship is balanced) and 7 is the least again (inequity cause Person B does way more than A).
+
+How should/can i correlate those two?
+
+One option would be to recode the 2nd scale from (5=3) (6=2) (7=1) so it would go from 1 to 4 and 4 is the max, z scale both scales and correlate them
+
+but are there other ways to do so? or maybe more efficient ways?
+
+thank you very much!

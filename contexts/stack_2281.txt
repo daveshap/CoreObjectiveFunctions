@@ -1,0 +1,1 @@
+Where can I check spell hunger for my spells? Where, in game, can I check how much hunger each of my spells will cost me?I know I can check my morgue file by dumping with # but that's tedious.

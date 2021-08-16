@@ -1,0 +1,1 @@
+How to resize a window with Compiz? I would like to resize and place in the specific location a specific window using Compiz via command line or Java package.On the input I would like to set tuple for top-left cornertuple for width-height sizeID of window to update It is possible?

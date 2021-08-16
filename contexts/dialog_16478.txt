@@ -1,0 +1,7 @@
+GUARD: Something wrong?
+FRED: My... My head.
+GUARD: Headache, huh? Too much sun, I guess. You want to come in? Still got forty- five minutes outside if you want it.
+FRED: No, no. I want to go in.
+GUARD: What's bothering you, Madison?
+FRED: The pain is getting worse. I need more aspirin.
+GUARD: I can't give you anymore. I'll talk to the doctor.

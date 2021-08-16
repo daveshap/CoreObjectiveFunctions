@@ -1,0 +1,1 @@
+Install ubuntu 16.04 on existing xubuntu 16.04 without losing data I want to install ubuntu 16.04 on a partition where my xubuntu 16.04 is installed (I followed the installation process with this and I have a /home and / partitions).Is it safe to install ubuntu 16.04 in the existing xubuntu without losing my data?

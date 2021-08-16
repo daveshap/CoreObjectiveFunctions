@@ -1,0 +1,22 @@
+Should I pursue a second Bachelor's degree or apply to a Master's program so I can gain more experience on my resume?
+ Hi everyone! I've posted this in a couple other grad school related subs and I felt it would be relevant here.
+
+This is my first post in this sub and as my title suggests, I'm questioning on whether to go and pursue a second Bachelor's degree or continue on to a Master's Program.
+
+I recently graduated with a B.B.A in Economics back in May and after several months of applying to entry level Data Analyst positions and internships, I haven't been receiving any feedback at all from recruiters.
+
+I think my lack of experience in the field is a major turn-off for employers, as I never completed any internships or had any relevant work experience while I was in school. I only took an introductory Econometrics course, but we never were exposed to any of the programs/languages that employers are looking for now. We only used the Data Analysis Toolpak in Microsoft Excel, and only analyzed Simple and Multiple-Linear Regressions from the ANOVA outputs.
+
+This was in addition to analyzing larger data sets in SAP Predictive Analytics, but we were never exposed to R, SQL, SAS, Tableau, or similar programs.
+
+I've always thought about going back to grad school at some point, but if I'm able to get an entry level position as a Data Analyst without a Master's degree, it wouldn't be worth the hassle to enter a Master's degree program. I would only consider grad school if it meant employers taking my resume more seriously.
+
+As far as research interests, I never really thought that far ahead, but if I'm in a program I love, I wouldn't mind compiling/analyzing a data set for a thesis paper. If I were to enter a graduate program, I would probably pursue one where I would have hands-on experience working with R, SQL, Tableau, or similar software.
+
+However, I feel like my only option at this point would be to go back to school, receive a second's Bachelor's degree and complete an internship, as my final undergraduate GPA was a 2.42. I will admit that early on, I was not a serious student and did not take my coursework seriously. It wasn't until my senior year of college that I started to turn my GPA around and took school seriously. In addition, I do not have a strong math/calculus background so I think it would be a hard sell for an admissions committee to consider my application.
+
+As of today, I have not taken the GRE or GMAT exams, but I would be willing to take them if there was a remote possibly that it would help improve my chances of applying somewhere.
+
+Please let me know what your opinions are on my situation, as I really want to start a career where I actually am excited to get out of bed and go to work in the morning.
+
+Thanks again for everyone who's read down this far! Any advice at this point would be extremely helpful!

@@ -1,0 +1,60 @@
+Is what Rep. Tom Price did by buying stocks and introducing legislation shortly afterwards illegal/unethical?
+By now most of you have read or heard of this article from CNN:
+
+http://www.cnn.com/2017/01/16/politics/tom-price-bill-aiding-company/
+
+> Rep. Tom Price last year purchased shares in a medical device manufacturer days before introducing legislation that would have directly benefited the company, raising new ethics concerns for President-elect Donald Trump's nominee for Health and Human Services secretary. Price bought between $1,001 to $15,000 worth of shares last March in Zimmer Biomet, according to House records reviewed by CNN. Less than a week after the transaction, the Georgia Republican congressman introduced the HIP Act, legislation that would have delayed until 2018 a Centers for Medicare and Medicaid Services (CMS) regulation that industry analysts warned would significantly hurt Zimmer Biomet financially once fully implemented. After Price offered his bill to provide Zimmer Biomet and other companies relief from the CMS regulation, the company's political action committee donated to the congressman's reelection campaign, records show.
+
+------------------------------
+
+So this article establishes that Tom Price bought shares of stock in Zimmer Biomet in March, introduced legislation particularly shielding it from CMS regulations less than a week later, AND Zimmer Biomet contributed to Price's campaign re-election bid.
+
+[Legislation source](https://www.congress.gov/bill/114th-congress/house-bill/4848)
+
+[Zimmer Biomet campaign contributions source](https://www.opensecrets.org/pacs/pacgot.php?cycle=2016&cmte=C00399386)
+
+--------------------------
+
+**COUNTER ARGUMENT**
+
+Yesterday I read a twitter thread from one of Price's former staffers, and her claims are the following:
+
+http://twitchy.com/gregp-3534/2017/01/17/journalistic-malpractice-ellen-carmichael-debunks-cnn-story-on-rep-tom-price-stock-purchase/
+
+> @RepTomPrice has a Morgan Stanley brokered-directed stock portfolio. He is not personally engaged in trades made on his behalf.
+
+> In March 2016, his broker rebalanced his portfolio and included the purchase of $2,697.74 Zimmer Biomet stock, among others
+
+> Price was unaware of March 17 stock purchase until April 4. He immediately disclosed his financials on April 15, 2016, 11 days later.
+
+> CNN says that @RepTomPrice introduced legislation after purchasing stock. This is demonstrably false. Work on this began in 2015!
+
+---------------------
+
+Essentially her claim is that Tom Price's portfolio isn't managed by him, and he has no knowledge of stocks he purchases. She claims his broker purchased the stock on March 17, made aware of it on April 4, and disclosed his financials on April 15. Furthermore, she claims that since work began on the legislation in September of 2015, there can be no conflict of interest because he hadn't purchased stocks yet.
+
+This, for me, raises a few questions:
+
+* Could Tom Price have struck his name from the legislation to completely remove himself once he learned he had bought stocks in their company?
+
+* Is there any way to verify that Tom Price truly has no knowledge of what his broker does with his stock portfolio? What's stopping Price from just calling up his broker and saying "Hey buy these stocks I'm about to pass this legislation"?
+
+* Can people still be held ethically liable if they have a broker making stock purchases on their behalf?
+
+* And lastly, with the evidence provided here, does anyone have enough legal expertise to conclude that what Tom Price did was illegal/unethical?
+
+-----------------------
+
+**UPDATE**
+
+Tom Price admitted under oath during his confirmation hearing that he personally chose to buy stocks in an Australian biotech firm, directly contradicting the counter-argument above and the statement from Trump's transition team.
+
+http://www.huffingtonpost.com/entry/tom-price-stock-trades_us_587f9ec5e4b0cf0ae8813191?hjoaa6emrnai1nstt9
+
+> WASHINGTON ― Rep. Tom Price (R-Ga.), President-elect Donald Trump’s nominee to head the Department of Health and Human Services, admitted on Wednesday that he decided to buy stock in an Australian biotech firm after receiving information from Rep. Chris Collins (R-N.Y.), a board member of that company.
+
+> Price’s answer about when he decided to buy stock in Innate Immunotherapeutics came in response to a back-and-forth in which Murray recounted a private conversation she had had with the congressman.
+>“You made the decision to purchase that stock, not a broker. Yes or no?” Murray asked at Price’s confirmation hearing.
+>“That was a decision that I made, yes,” Price said.
+>“You were offered an opportunity to purchase stock at a lower price than was available to the general public,” Murray said. “Yes or no?”
+>“I don’t know that it was,” Price responded. “It was the same price that everybody paid for the private placement offering.”

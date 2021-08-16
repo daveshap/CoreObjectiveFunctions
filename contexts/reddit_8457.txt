@@ -1,0 +1,16 @@
+What are the pros and cons of governments embracing remote work, generally?
+Key Questions:
+
+* What are the known effects after a government adopts policies to encourage working from home?
+* What policies would need to change to adapt?
+* What policies and other changes (e.g., city design, broadband access, general infrastructure) would need to occur if this is the future of work
+* Is there any evidence that this is the long-term future of work?
+* What is the likely impact - short, medium, long - of more remote work?
+
+Many companies, particularly large technology companies, are [encouraging remote work for roles where this is feasible](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020). There are [issues](https://www.epi.org/blog/amid-covid-19-outbreak-the-workers-who-need-paid-sick-days-the-most-have-the-least/) with traditional wage earners in service roles that require coming into work, but in general, if you can work from home, companies are encouraging you to work from home.
+
+This is likely to last at least a month if not longer. If this is the big experiment it seems to be, what metrics can we use to determine whether it's successful, and overall, what are the pros and cons of remote work?
+
+What evidence is there that this provides a social benefit (or not)? Is it just a nice option for more flexibility?
+
+Is there any evidence that it encourages broadband access in remote areas, or that it facilitates less clustering around certain metropolitan areas? How do we deal with employees that cannot work from home?

@@ -1,0 +1,1 @@
+Is there a way to receive push notifications translated from a foreign language? I have multiple apps which I get notifications from but they are all in Hebrew. I was wondering if there is a way to let the notification go through a process in which something like Google Translate translates the push notifications and then I receive them. Is that possible?

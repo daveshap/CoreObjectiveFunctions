@@ -1,0 +1,19 @@
+PILOT: Hi.
+SULU: Hi. Huey 205, isn't it?
+PILOT: Right on. You fly?
+SULU: Oh, here and there. I flew something similar in my Academy days.
+PILOT: All right, then this is old stuff to you.
+SULU: Old, yes. But interesting. Do you mind if I ask a few questions...?
+NICHOLS: Well, so much for the tour of our humble plant. I must say, Professor your knowledge of engineering is most impressive.
+BONES: Back home, we call him the miracle worker.
+NICHOLS: Indeed... May I offer you gentlemen anything?
+SCOTTY: Doctor Nichols, I might have something to offer <u>you</u>.
+NICHOLS: ... Yes?
+SCOTTY: I notice you're still working with polymers.
+NICHOLS: Sill? What else would I be working with?
+SCOTTY: Ah, what else indeed? Let me put it another way: how thick would a piece of your plexiglass need to be at 60 feet by 10 feet to withstand the pressure of 18,000 cubic feet of water?
+NICHOLS: That's easy: 6 inches. We carry stuff that big in stock.
+SCOTTY: Yes, I noticed. Now suppose -- just suppose -- I could show you a way to manufacture a wall that would do the same job but was only an inch thick. would that be worth something to you, eh?
+NICHOLS: ... Are you joking?
+BONES: He never jokes... Perhaps the professor could use your computer.
+NICHOLS: Please...

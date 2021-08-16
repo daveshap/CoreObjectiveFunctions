@@ -1,0 +1,1 @@
+Can non-uniform circular motion be called as periodic motion? In non-uniform circular motion with a constant magnitude of tangential acceleration, though the particle keeps completing the same circle its speed changes continuously and hence the circular motions each time are not identical. So it should not be periodic motion according to me. Am I right?

@@ -1,0 +1,4 @@
+BOBBY: You think they'll ever find him?
+KLAATU: I don't know, Bobby. I'm inclined to doubt it.
+BOBBY: Mr. Carpenter -- what does velocity mean?
+KLAATU: Velocity is the time rate of change of position.

@@ -1,0 +1,20 @@
+What are the real risks of Artificial Intelligence? Are there government responses to those risks and what are they?
+Elon Musk has [gone on the record](https://www.vanityfair.com/news/2017/03/elon-musk-billion-dollar-crusade-to-stop-ai-space-x) with his concerns regarding AI. To whit,  he has discussed his [Mars colonization](https://www.scientificamerican.com/article/elon-musk-publishes-plans-for-colonizing-mars/) ambitions as [part-and-parcel](https://www.wired.com/2016/09/elon-musk-colonize-mars/) with his somewhat cataclysmic view of how AI will manifest itself in the future:
+
+>Musk’s alarming views on the dangers of A.I. first went viral after he spoke at M.I.T. in 2014—speculating (pre-Trump) that A.I. was probably humanity’s “biggest existential threat.” He added that he was increasingly inclined to think there should be some national or international regulatory oversight—anathema to Silicon Valley—“to make sure that we don’t do something very foolish.” He went on: “With artificial intelligence, we are summoning the demon. You know all those stories where there’s the guy with the pentagram and the holy water and he’s like, yeah, he’s sure he can control the demon? Doesn’t work out.” Some A.I. engineers found Musk’s theatricality so absurdly amusing that they began echoing it. When they would return to the lab after a break, they’d say, “O.K., let’s get back to work summoning.”
+
+I'd like to set [parameters](http://www.econlib.org/library/Columns/Teachers/riskuncertainty.html) for this conversation by distinguishing between *risk* and *uncertainty*:
+
+>**[Risk]** is present when future events occur with measurable probability
+>
+>**[Uncertainty]** is present when the likelihood of future events is indefinite or incalculable
+
+I'm doing this because, while I appreciate the possibility that machines could learn to do bad things or have unintended consequences, I'd like to stay away from the realm of Killer Robot Santa unless we have a data set to extrapolate there.
+
+Bearing this framework in mind:
+
+1. What risks does AI pose to humanity, whether our well-being or more pedestrian issues like job transformations and mechanical snafus?
+
+2. What data do we have to determine these are risks and not simply uncertainties?
+
+3. How can we use this data to consider if government responses (e.g., regulation, investment, criminalization) to these risks are appropriate, and what might those solutions be?

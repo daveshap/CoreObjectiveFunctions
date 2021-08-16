@@ -1,0 +1,1 @@
+Need authentication on OS startup assistance Is it possible to set an authentication on boot-up? If the authentication failed the device will be restarted. Authentication can be anything like system identity, e.g. Mac ID.

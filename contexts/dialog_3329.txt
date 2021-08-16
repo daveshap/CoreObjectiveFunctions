@@ -1,0 +1,14 @@
+CHANCE: ... Hmmm... Elevator.
+WILSON: ... Yes sir - elevator!
+EVE: Chauncey, I wanted to tell you how dreadful I feel about the accident today, but that I'm delighted that you are staying with us.
+CHANCE: Thank you, Eve - I like this house very much.
+EVE: ... And Ben is just mad about you - you've lifted his spirits so - it's just... Well, it's just a real pleasure having you with us.
+CHANCE: Ben is very ill, Eve - I've seen that before.
+EVE: Yes... I know, Chauncey.
+CHANCE: I like Ben very much... He reminds me of the Old Man...
+EVE: He does...?
+CHANCE: Yes. Are you going to leave and close the house when he dies?
+EVE: ... Why... No, I don't think so...
+CHANCE: That's good.
+EVE: ... Good night, Chauncey.
+CHANCE: Good night, Eve.

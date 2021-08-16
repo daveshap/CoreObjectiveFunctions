@@ -1,0 +1,34 @@
+OPERATOR: It's extension 215 if you want to try me back.
+BARRY: Ok. Thank you.
+BARRY: ....I'm not exactly sure what that means...
+VOICE: If they break or something. What is it, plastic?
+BARRY: It's a plastic, yeah.
+VOICE: Right. Alright, lemme call you first thing tomorrow, I'm gonna run the numbers, see what's what and I'll give you a call back --
+BARRY: Did you have my home phone number?
+VOICE: For what?
+BARRY: If you wanted to call me back I could...
+VOICE: I'm fine, I have your work number.
+BARRY: Ok...because of the time difference if you needed to call me early?
+VOICE: It's fine. I can just get you at your office.
+BARRY: Ok.
+VOICE: Ok, bye, bye.
+BARRY: Bye.
+LENA: Hi. Do you work at the mechanic?
+BARRY: No.
+LENA: They're not open yet?
+BARRY: They don't get opened until eight.
+LENA: Is it ok if I leave my car you think?
+BARRY: I don't know.
+LENA: I thought they opened at seven. If I left my car would it be ok?
+BARRY: I don't know.
+LENA: Do you know them.
+BARRY: Not very well.
+LENA: Can I ask you, can I trust to leave my keys with you and give them to you so that when they get here you could give them to them? BARRY Ok.
+LENA: You think it's ok where I left it, right there?
+BARRY: I think that'll be fine.
+LENA: There's a piano in the street.
+BARRY: Yeah.
+LENA: Ok. Maybe I'll see you later. Thank you for your help.
+BARRY: Thank you.
+LENA: Maybe I'll see you later, when I pick up my car?
+BARRY: Ok.

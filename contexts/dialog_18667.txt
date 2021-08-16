@@ -1,0 +1,9 @@
+SKIP: Who else knows?
+MUMFORD: Just you.
+SKIP: It's time you did some talkin', Dr. Mum -- Wait a minute. That is your name, isn't it?
+SKIP: Damn! What is your name?
+MUMFORD: Doesn't matter. You can call me Doc.
+SKIP: It matters to me.
+SKIP: I've told you a lot of private stuff.
+MUMFORD: I can tell you anything else.
+SKIP: What about everything? How did this happen?

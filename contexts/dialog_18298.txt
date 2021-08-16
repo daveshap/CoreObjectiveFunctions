@@ -1,0 +1,14 @@
+MARIAN: Excuse me, sir. I just wanted to thank you for helping me get into my building yesterday.
+DISCIPLE PROSPECT: Yeah, sure, no problem, you're welcome.
+MARIAN: My daughter lives across the street from you people and she tells me that you keep this area safe. Is that true?
+DISCIPLE PROSPECT: We like to think so, yeah.
+MARIAN: And you don't deal drugs?
+DISCIPLE PROSPECT: Who told you we deal drugs?
+MARIAN: I'm just concerned about my daughter.
+DISCIPLE PROSPECT: You don't have to worry. She's going to be fine. We're law-abiding citizens just like you.
+MARIAN: What about yesterday? Kicking that poor boy?
+DISCIPLE PROSPECT: That poor boy's a crack dealer from Alphabet City. We do not allow his kind on this block.
+DISCIPLE PROSPECT: Is there something else I can do for you?
+MARIAN: Well, I'd love to see inside your club.
+DISCIPLE PROSPECT: You want to come inside?
+MARIAN: Well, if you're not holding a meeting or anything.

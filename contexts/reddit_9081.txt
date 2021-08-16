@@ -1,0 +1,18 @@
+What are the merits of Canada's notwithstanding clause and disallowance power, and how do they compare to other peer countries?
+Currently in Canada there is a large controversy around [a law](https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-5) supported by Ontario premier Doug Ford which (among other provisions) would reduce the size of the Toronto city council while an election is scheduled for next month. 
+
+[Last week,](https://www.scribd.com/document/388247581/Judge-s-ruling-on-Bill-5) a judge struck down the portions of the law relating to Toronto's city council as violating s.2(b) and s.2(d) of [the Charter of Rights and Freedoms.](http://laws-lois.justice.gc.ca/eng/Const/page-15.html)
+
+In response to this ruling, Premier Ford [said](https://globalnews.ca/news/4437313/toronto-council-legal-challenge-decision/) that he intended to pass the law again including an invocation of s. 33 of the Charter, known as the notwithstanding clause, which would override the court's ruling, and make the law take force notwithstanding violation of the charter for a maximum of 5 years.
+
+The Toronto City Council subsequently voted to ask that Canadian Prime Minister Justin Trudeau invoke [the power of disallowance](https://www.ctvnews.ca/canada/toronto-asking-feds-to-stop-ontario-council-cutting-plan-1.4091993) to block the provincial law from taking force.
+
+While a court ruling today has put the matter off the front burner by [staying](https://www.thestar.com/news/toronto-election/2018/09/19/stay-granted-on-previous-bill-5-decision-paving-way-for-25-ward-election.html) the lower court ruling on the matter, I do think this is a good starting point to discuss the powers of the notwithstanding clause and disallowance.
+
+* Do these powers exist in comparable forms in peer countries?
+
+* To what extent do they originate from or vary from the UK's Westminster system, which Canada in large part [copies?](http://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Sec=Ch01&Seq=2)
+
+* Is the disallowance power still constitutional in Canada today, or has it become depricated?
+
+* What substantial benefit or pitfalls come from the existence of these powers?

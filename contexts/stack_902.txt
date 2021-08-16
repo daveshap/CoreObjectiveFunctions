@@ -1,0 +1,1 @@
+Is it possible to dual boot Ubuntu SERVER and Windows 10 home? I have Windows 10 Home up already, and I want to dual boot Ubuntu Server 18.04 with it, but looking around there doesn't seem to be ANY tutorials to do this. I see there are plenty of Ubuntu Desktop and Windows 10 though.

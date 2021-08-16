@@ -1,0 +1,5 @@
+VOICE: Break-in scanners report intrusion, identify.
+LOGAN: Logan-5... Francis-7, authorized duty quadrant. Intrusion accidental.
+VOICE: Clear Logan-5 and Francis-7.
+FRANCIS: Had enough?
+LOGAN: Even the alarm didn't wake him.

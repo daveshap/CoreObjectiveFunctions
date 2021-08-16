@@ -1,0 +1,10 @@
+COASTGUARD DISPATCHER: Arctic Warrior, Arctic Warrior, Arctic Warrior. This is United States Coastguard Station North Island. Over.
+MURPHY: North Island, I wish to declare myself salvor-in-posession under section four two charlie of the International Maritime Convention.
+COASTGUARD DISPATCHER: Affirmative, Arctic Warrior. What type of vessel?
+MURPHY: A passenger liner. Over.
+COASTGUARD DISPATCHER: Say again. Over.
+MURPHY: A passenger liner, north island. Over.
+COASTGUARD DISPATCHER: What is the vessel name, registry, and present position? Over.
+MURPHY: Passenger vessel Chimera." I will spell: charlie hotel india mary echo romeo alpha. No registry information is available at this time. I have determined to the best of my ability that the vessel has been abandoned on the high seas at position one seven four west
+COASTGUARD DISPATCHER: Affirmative, Arctic Warrior. Please advise your salvage authority pending registry check. Over.
+MURPHY: Roger, North Island. Arctic Warrior over and out.

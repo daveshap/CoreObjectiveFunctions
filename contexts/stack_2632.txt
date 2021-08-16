@@ -1,0 +1,1 @@
+Deleting overlap between two polyline layers in ArcMap? I have two stream layers and they overlap, I want to delete this overlap on one layer so I do not repeat any information. How do I do this? I can only seem to find information regarding polygons.

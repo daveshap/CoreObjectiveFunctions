@@ -1,0 +1,8 @@
+GIN: One, two, three...
+MAC: You're not on the beat.
+GIN: Don't turn. I'm counting the steps to the entrance.
+MAC: These rooms are solid stone. They haven't changed.
+GIN: You can't be too careful.
+MAC: Yes, you can. You can spoil a perfectly nice dance.
+MAC: Ready?
+GIN: Ready.

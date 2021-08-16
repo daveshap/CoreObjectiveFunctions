@@ -1,0 +1,18 @@
+Is There a Conflict of Interest Between Trump's Position and the Way His Trust is Managed?
+I just read an [article](http://bigstory.ap.org/article/8f54b14808a2459f9efcb0089f41f056/china-grants-preliminary-approval-38-new-trump-trademarks) about China granting 38 Trump trademarks in China. I'm not so much concerned about the specifics of these events in particular. The part that caught my eye said:
+
+>Trump has said he assigned all his business interests to a trust overseen by one of his sons, Donald Trump Jr., and a longtime Trump Organization executive, Allen Weisselberg. However, Trump retains the ability to revoke the trust at any time and as the sole beneficiary stands to benefit financially from it. As of May 2016, Donald Trump owned 100 percent of DTTM Operations LLC, according to his Federal Election Commission disclosure. Its current ownership structure is unclear. Delaware public records do not disclose the management of DTTM Operations LLC, though they do show that Trump's sons and Weisselberg served as directors of a related company.
+
+This has also been reported [here](http://www.chicagotribune.com/news/nationworld/ct-donald-trump-trust-20170204-story.html) and in the NYT article in #3 below. 
+
+It appears that Trump's trust is
+
+1. Revocable
+
+2. Administered by his son and Trump executive officer who will provide "reports on any profit, or loss, on his company as a whole"
+
+3. [The purpose of the Donald J. Trump Revocable Trust is to hold assets for the 'exclusive benefit' of the president](https://www.nytimes.com/2017/02/03/us/politics/donald-trump-business.html)
+
+Is this a conflict of interest? Why or why not? If it is, what can be done about it and how does that process start?
+
+Edit: removed assumptions and opinion

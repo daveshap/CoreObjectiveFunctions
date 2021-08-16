@@ -1,0 +1,21 @@
+GRAHAM: This is Will Graham. Can I help you?
+VOICE: No. I can help you.
+GRAHAM: I don't understand.
+VOICE: Atlanta and Birmingham.
+GRAHAM: Do you know something about that?
+VOICE: Why do you think I called?
+GRAHAM: I get a lot of calls. Most of them are from people who say they know things.
+GRAHAM: Talk to them a few minutes and you can tell they don't have the capacity to even understand what's going on. Do you?
+VOICE: You tell me what you know about him. I'll tell you whether you're right or not.
+GRAHAM: Let's get straight who we've talking about. Are you the man I'm interested in?
+VOICE: I don't think I'll tell you.
+GRAHAM: He's right-handed.
+VOICE: Most people are.
+GRAHAM: He's misunderstood.
+VOICE: Cut the general crap.
+GRAHAM: He's very strong physically.
+VOICE: That's true.
+GRAHAM: He's white and six feet tall. You haven't told me anything yet.
+VOICE: Describe exactly what you think he did to Mrs. Leeds and I'll tell you if you're right or not.
+GRAHAM: I don't want to do that,
+VOICE: Goodbye.

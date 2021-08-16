@@ -1,0 +1,1 @@
+Can solutions of GR have non-zero genus? Imagine there is \"cavity\" in one's locally Lorentzian manifold (the manifold has non-zero genus). Have these kind of solutions in general relativity been considered? If so, where can I read more about this? Is there any experiment one can do to prove we live in a non-zero genus world?

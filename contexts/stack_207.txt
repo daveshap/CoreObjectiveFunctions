@@ -1,0 +1,1 @@
+Is it possible to wake a machine from ARD? Is it possible to wake a machine from ARD ? I have issues sometimes connecting to machines if they are in sleepmode and sometimes have to walk over to the machines and manually take them out of sleep mode before i can connect with ARD ?

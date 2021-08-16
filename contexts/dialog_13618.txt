@@ -1,0 +1,8 @@
+KNIGHT: I knew you'd come, but my strength has left me.
+INDY: Who are you?
+KNIGHT: The last of three brothers who swore an oath to find the Grail and to guard it.
+INDY: That was seven hundred years ago.
+KNIGHT: A long time to wait.
+KNIGHT: You're strangely dressed... for a knight.
+INDY: I'm not exactly... a knight. What do you mean?
+KNIGHT: I was chosen because I was the bravest and the most worthy. The honor was mine until another came to challenge me to single combat. I pass it to you who vanquished me.

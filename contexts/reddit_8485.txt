@@ -1,0 +1,12 @@
+What information can my ISP collect and sell under S.J.Res.34 or the Congressional Review Act?
+Will this include every time I play Angry Birds using wifi or cell data? Or will it just be every website I visit? Or will buyers have access to addresses, phone numbers, and credit card numbers I use on any device connected to their network?
+
+Is this information being collected by someone else and sold off already? Can it help companies I like and want to have my day to day browsing data (but not info like my phone number or cc number)?
+
+Could/will this make internet service cheaper?
+
+This is the article where I've gotten the information I have about this situation so far: http://www.commondreams.org/news/2017/03/23/here-are-50-gop-senators-who-just-sacrificed-your-broadbandprivacy-corporate-profits
+
+This is the direct link to the bill text: https://www.congress.gov/bill/115th-congress/senate-joint-resolution/34/text
+
+This is the FCC rule document that this bill affects: https://www.federalregister.gov/documents/2016/12/02/2016-28006/protecting-the-privacy-of-customers-of-broadband-and-other-telecommunications-services

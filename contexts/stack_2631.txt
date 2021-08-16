@@ -1,0 +1,1 @@
+Selecting Features in Visible Viewshed Areas using QGIS? In QGIS 3.2 I have a viewshed raster and a shapefile with point featuresI'd like to select the points that intersect the visible areas of my viewshed. Is there a way to extract a vector of my visible areas so that I can then Select by Location?

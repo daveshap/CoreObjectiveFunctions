@@ -1,0 +1,1 @@
+How to encrypt outgoing connections from a local device? ISPs' throttle internet traffic, so some provide fast lanes for popular websites while all other websites are available to the user at lower internet speeds or bandwith.I am on an iMac so my question is that is there any way by which I can encrypt outgoing connections from my iMac in-order to escape internet capping

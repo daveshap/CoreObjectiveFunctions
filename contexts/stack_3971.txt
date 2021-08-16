@@ -1,0 +1,1 @@
+Can two different distributions have the same value of mean, variance, skewness, and kurtosis? Assuming that you have two discrete population distributions. Can they have identical values of mean ,variance, skewness and kurtosis while being different in shape visually ?Do these four values act like a fingerprint of any distribution?

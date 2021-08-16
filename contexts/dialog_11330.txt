@@ -1,0 +1,11 @@
+LAMBEAU: Excuse me. Is this the buildings and grounds office?
+TERRY: Yeah, can I help you?
+LAMBEAU: I'm trying to find the name of a student who works here.
+TERRY: No students work for me.
+LAMBEAU: Could you just check, because the young man who works in my building--
+TERRY: Which one's your building?
+LAMBEAU: Building two.
+TERRY: Well, if something was stolen, I should know about it.
+LAMBEAU: No, no. Nothing like that. I just need his name. TERRY I can't give you his name unless you have a complaint.
+LAMBEAU: Please, I'm a professor here and it's very important.
+TERRY: Well, he didn't show up for work today...

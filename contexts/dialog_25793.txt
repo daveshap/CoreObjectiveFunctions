@@ -1,0 +1,19 @@
+DATA: According to our information, the ribbon is a conflux of temporal energy which travels through our galaxy every 39.1 years
+PICARD: When is it expected back?
+PICARD: Data?
+DATA: Sorry, Captain. The ribbon has already entered the galaxy. It will pass through this sector in approximately thirty-one hours.
+PICARD: Guinan said Soran was trying to get back to the ribbon. If that's true, then there must be some connection with the Amargosa star.
+DATA: The star's destruction has had numerous astro-physical effects within this sector. However, none of them appear to have a connection to the energy ribbon.
+PICARD: Give me a list of those effects. I want to know every single thing which has been altered or changed, no matter how insignificant.
+DATA: It will take a few moments for the computer to compile the information.
+PICARD: Data, are you all right?
+DATA: No, sir. I am finding it difficult to concentrate. I believe I am overwhelmed with feelings of remorse and regret concerning my actions on the observatory.
+PICARD: What do you mean?
+DATA: I wanted to save Geordi. I tried. But I experienced something I did not expect. I believe it was fear.
+PICARD: Fear is a very difficult emotion to overcome. It's something we all have to learn to deal with.
+DATA: But I did not deal with it, sir. I let it prevent me from helping my friend. Does that make me a coward?
+PICARD: No. And what you must try to avoid is becoming consumed by another emotion which I believe you're beginning to experience: guilt.
+DATA: Guilt. It is a most unpleasant feeling.
+DATA: According to our current information, the destruction of the Amargosa star has had the following effects in this sector: gamma emissions have increased by .05 percent, the starship Bozeman was forced to make a course correction, a research project on Gorik IV was halted due to increased neutrino particles, ambient magnetic fields have decreased by-
+PICARD: Wait. The Bozeman,why did it change course?
+DATA: The destruction of the Amargosa star has altered the gravitational forces throughout the sector. Any ship passing through this region will have to make a minor course correction.

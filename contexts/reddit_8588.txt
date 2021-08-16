@@ -1,0 +1,36 @@
+The Senate generally has the right to decide for itself what to hold votes on, however there are some exceptions, such as a Joint Resolution to overturn a State of Emergency that has already passed in the House. Is the Senate required to hold a vote on overriding a Presidential veto?
+The House of Representatives is [considering](https://www.washingtonpost.com/politics/pelosi-warns-trump-republicans-against-emergency-declaration-on-border-funding/2019/02/14/cf6f492c-3099-11e9-86ab-5d02109aeb01_story.html?noredirect=on&utm_term=.8da90ff1ccbb) a Joint Resolution to overturn President Trump's Emergency Declaration to build a wall on the Southern border. If passed in the House, a vote on the Joint Resolution will be [forced in the Senate](https://www.lawfareblog.com/what-authorities-president-trump-using-build-border-wall):
+
+> The National Emergencies Act (NEA) establishes certain expedited procedures that Congress may use to terminate a declaration of national emergency, which are set forth at 50 U.S.C. § 1622(c). When a joint resolution terminating a national emergency is introduced in either chamber, it is referred to an appropriate committee, which is obligated to report it out with any recommendations within 15 calendar days. The House or Senate is then obligated to vote on the proposal within three calendar days. If one chamber passes a resolution, it is then passed to the other chamber, where the same basic procedures apply. If the two chambers pass different versions of a joint resolution, then a conference committee is obligated to file a compromise report within six days, which then must be voted on within an additional six days. If they cannot come to agreement, they must report that back within 48 hours. **The net effect of these procedures is to ensure that joint resolutions to terminate national emergencies will receive at least some manner of vote (procedural or substantive) in both chambers, regardless of the preferences of House or Senate leadership or any filibusters by Senate members.**
+
+From there, President Trump will have the option to Veto the resolution, which would send it back to the House and Senate where 2/3 majorities in both chambers will be required to overrule Trump's veto (from 2nd source):
+
+> ...a joint resolution ending a national emergency is still subject to a veto by the president.
+
+> ...a presidential veto of a joint resolution can be overridden only by two-thirds of both chambers of Congress.
+
+---
+
+A Joint Resolution to overturn a Presidential Emergency Declaration is an exception to the general rules.
+
+The two *typical* ways a [vote is brought to the Senate are](https://fas.org/sgp/crs/misc/RS20668.pdf) (PDF warning):
+
+> (1) The Senate, at the majority leader’s request, grants unanimous consent to take up a matter.
+
+>  (2) it agrees to his motion to proceed to consider it. Because the motion to proceed is subject to debate in most circumstances, it is less frequently used.
+
+----
+
+This leaves me very confused about what rules dictate a forced vote in the Senate when the President vetos a Joint Resolution to overturn an Emergency Declaration. For example, if a Joint Resolution passes in the House and Senate, the President vetos that JR, does the Senate *have* to vote on overruling that veto?
+
+I have two questions:
+
+1: Does the Senate *have* to hold votes on overturning a Presidential veto? Is there anything different about a Joint Resolution to overturn a Presidential Emergency Declaration that would force a vote on overturning *that* Presidential veto?
+
+2: If there is a dispute as to whether or not the chamber is forced to vote, how is that conflict resolved? 
+
+---
+
+**Edit: If I could add this question:**
+
+**This Joint Resolution, should it be passed in the House, seems like a fairly unique procedure to force a Senate floor vote. Are there any other odd procedures relating to any topic that would force a Senate floor vote like this?**

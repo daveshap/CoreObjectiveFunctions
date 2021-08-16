@@ -1,0 +1,7 @@
+SALESPERSON: Hello.
+DWAYNE: Hi.
+SALESPERSON: Anything I can help you with?
+DWAYNE: Well I just uh, you know...
+DWAYNE: I have an anniversary coming up, thought I'd buy her something special.
+SALESPERSON: Anything...specific?
+DWAYNE: Well I don't know...

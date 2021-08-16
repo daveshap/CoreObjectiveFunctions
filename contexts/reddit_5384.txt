@@ -1,0 +1,71 @@
+(US) New manager made multiple inappropriate comments regarding my health, and misc. other things. How should I proceed? [xpost from askHR]
+So this is going to be a long post, but I want to make sure I explain the entire situation in hopes that I can get some opinions on what my next steps should be.
+
+I'm in the US btw.
+
+I'll start off with explaining that I was hired 3 years for position A. Hiring manager, and my reporting manager were incredible! One of the best things about this job was that they offered complete flexibility on working from home as needed, and there was no hard start-time. 
+
+I was blessed with some great genes.
+
+One being asthma since birth... which sometimes leads to pneumonia during the colder months. And the other is my kidney disease... which brings kidney stones, and causes me to be frequented with gout flare-ups. Whenever I have a gout flare-up, it'll last anywhere from 2 days, to 3-4 weeks. During which, I have a really tough time walking, sometimes not even being able to put a shoe on. So the job I took had to be completely flexible with working from home as necessary.
+
+It also offered me the flexibility to help my in-laws (who are retired and disabled), and be home with my elderly dog when necessary. It was one of the main reasons I took the job. And I fell in love with this job. More and more every day. Was thriving in my role, and was working with some very awesome co-workers. First year review was great - 4/5 (and he noted he never gives out 5s. there's always room to improve, but couldn't really think of anything in particular with me. Raise #1 was alright. Didn't expect much, as it was my first year with the company.
+
+Shortly after the first year, my then-manager mentioned that there was another team in need of someone with my skill-set and he thought it'd be a great fit as they were really in need of the help. He moved me to the new team, and I was situated with a new manager. Manager 2 was extremely supportive in furthering my career goals, and we clicked really well. Meetings with him were a blast, we'd geek out about technology for an hour+. Working with the new team during my 2nd year was great. I was learning more skills, and my opinion was being asked by department heads, on various important decisions. 
+
+My 2nd year review was again, great. 4.5/5. Said that I should spend time writing more tests, and possibly get into automation if I ever wanted to chase a 5. The others on my team all have a different job title than me. They all went towards being full-stack developers, whereas I went more of the front-end UX/UI focus route. It's where my passion is, and is something I'm able to contribute to fully. Raise #2 was better than the first... and was on par with the work I was completing. No complaints about anything I did. Whenever I, or anybody on the team needed to work from home, it was perfectly okay. He knew we were all working, and that "we're all adults here." Treated us all like grownups, and showed us that respect. Something neat that this manager did, was introduce a 'completely optional learning objective', where we could choose to learn something new... to encourage us to keep learning. You could take time during the work-day to do this, too. If you chose to do it, it'd be noted on your annual review, and was something you could choose to demonstrate to the department heads. I was actually excited to do this. Did a learning objective to further my knowledge in a front-end programming language. Built a dummy site. It was small, but I learned a ton. But the important thing to remember here was that he helped get me excited about it.
+
+Fast forward a half a year, and manager 2 got a job with a different company. Our team was given a new (much less experienced) manager... Manager 3. This is where things started going downhill. I'm sorry if I ramble on with any of this. I've never been so angry and sad about something like this.
+
+So from the very beginning, there wasn't that great vibe, or connection I had with my previous managers. Manager 3 was constantly over-involving themselves in every meeting, and all of our planning (which isn't something any of the previous managers did.) The micro-management was obvious. Constantly asking how to get us to produce more work, ignoring the fact that we've been over-delivering for the past 2 years. Completely disregarding the work that we complete, and just constantly looking for more, more, more. Culture/Personality mismatch... 100%.
+
+Manager 3 they started over-doing the individual meetings with us. Remember that 'completely optional learning objective' that manager 2 started? Manager 3 started pushing this as something that we should do... while continuing to call it 'optional'. Totally turned me off to wanting to do it... because not only was Manager 3 pushing this previously optional thing as a soft-requirement, they would tell you what they think you should do for it. Manager 3 wanted me to learn server-side coding, so I could become a full-stack developer, so I could "contribute to more work" - as if my days weren't already slammed packed with other work. So I say that I'm not interested in the optional learning objective, and that most of my days are already packed with work. Manager 3 also started speaking up during the personal meetings about wanting people to not working from home as much. I explained that some days I need to work from home for 'medical reasons', and it was something that I, and the company agreed to when I took this job.
+
+During her first 6 months, I'm involved on multiple things, from UI wire-framing, to finishing stories for features, to resolving defects. Lead the entire design, and wire-frame process for multiple key features on a product we frequent. This was something I thought would be notable for a great review. Wouldn't you guess... Manager 3 gave me a god damn 3/5, and under critical notes explained that I didn't opt into doing the optional learning objective. I also got a smaller raise than I had in previous years. 
+
+All and all, this review was a complete slap in the face to all of the hard work I put in, and money I both made for the company, and saved the company by reducing the amount of resources necessary in the design/mockup process. It didn't discourage me to the point of not working... I was really just disappointing that it was completely ignored. 
+
+The next ~3 months, continued doing similar work, and manager 3 was constantly making comments about the team not working from home as much. Mind you, this isn't a company policy that they were trying to enforce. And sometimes, people are actually unable to make it into work due to health reasons. We're human.
+
+Another month passes, and this is where things get very... inappropriate. This was around the time where we began working on strictly server-side code for a project. Something that I explained that I'm not at all experienced in. I explained that I'd work alongside other developers, and hopefully learn as we go by observing. It wasn't realistic that I'd learn an entire programming language all while also owning and completing stories. I didn't say this, but it's worth mentioning that none of said language, or skill set was described in my job description... and that work was way above my pay-grade.
+
+So I end up catching pneumonia... which completely knocked me off my feet with Thanksgiving just a week away. Had to go to the ER as I couldn't breathe. Asthma going crazy. It was awful. At that point, I had been out sick for 5 days... when I all of a sudden get an email to come in for a personal meeting the Wednesday before Thanksgiving. I'm still sick at this point, so I angrily get dressed, and go in for said meeting.
+
+Manager goes and asks how I'm doing, and follows that up with a discussion about how "I know you've been sick, but I really need you to be contributing more for this feature..." I'm dumbfounded at this point. The nerve to even say something like this... I explained that I'm still very much sick, have ER/doctors notes if necessary. But working while having pneumonia is just about the craziest thing I've ever heard. I explained that it sometimes takes people weeks to fully get over it. 
+
+I don't think it's at all appropriate for a manager to make any comment about any illness, infection, or disease. If there was any policies, or company rules broken, then that needs to be addressed. But I hadn't broken any. I had sick time, and was using it as needed. I left after the meeting, still sick. Luckily had the two-day Thanksgiving break, and weekend to fight it off.
+
+Got the news late Wednesday night that my grandfather passed away. that was miserable. Funeral/wake on Friday.
+
+We still had Thanksgiving dinner on Thursday as planned. Never having eaten turkey on Thanksgiving as an adult, for whatever reason, I did this year. And boy, do I regret that decision entirely. Turns out, turkey is loaded with purines and is incredibly bad for people who suffer from gout. 
+
+OH JOY! The next morning, my entire foot was swollen... and I couldn't put any pressure on it. At all. I've never had gout flareup the entire foot before, normally just effects my toe. I stubbornly tried ignoring it at first, limped down the street walking the dogs. I knew as soon as I got back in that I was very much doomed for the foreseeable future, with easily one of the worst gout flareups I've ever experienced. Here I am, pneumonia-gout ridden. I'm a total mess at this point. Couldn't put my shoe on, couldn't walk, couldn't do much at all. 
+
+Luckily by late Saturday/early Sunday, the antibiotics finally killed my pneumonia. Unfortunately for me, my arch nemesis gout, remained with me. Sunday night the pain got so bad, I had to go to the ER. I was there until 6am on Monday... and a round of anti-inflammatory pills. After spending the entire previous night at the ER, I had to take another sick day on Monday. But emailed in that I'd be working from home on Tuesday ('for medical reasons'). Still suffering from the flareup, I worked from home the rest of the week. I made sure to participate in every meeting, and make my presence known. I wanted to make sure it was apparent I was working.
+
+So that takes us to today. I finally made it back into the office! Had a semi-swollen toe, but it wasn't nearly as painful. Manager schedules another personal meeting with me, right after our morning team meetings. We get into the meeting and immediately felt the negative mood shift. Manager asks 'if I'm doing any better' (different tone than them previously asking how I was doing.) Then again, immediately going into their concerns over the past few weeks, and how I haven't shown any improvement.
+
+I bluntly just looked at her, and explained that I've had pneumonia, gout and a death in the family all in the last month. Explained again that if necessary, I'd have doctors notes, to which they replied "not necessary." I explained that when I have a gout flareup, I'm unable to walk. Which means, I'm unable to safely drive. I'm able to sit in a chair at home and work from home without problem though. Manager replied "I didn't know that's why you were working from home last week, you should have told me... but you still need to make an effort to make it into the office more." I replied, that "as long as I'm able to successfully work, it's wildly inappropriate to even suggest that I email my specific medical status." I then asked if I should go speak to HR regarding my kidney disease, and work with them in allowing me to work from home as I need to... manager replied that "we could both go and talk with them together."
+
+I've just about had it at this point. I have a kidney disease that I know one day will eventually kill me. And this manager is basically saying that coming into the office is more important than my comfort.
+
+So I guess my question is:
+
+Do I speak with HR regarding this? Or do I go directly above the manager's head to their manager? How would I approach HR, without this setting off landmines and losing my job over escalating this. What protections do I have legally (if any)?
+
+Sorry for the long post... any advice would be greatly appreciated.
+
+
+
+**TL/DR**:
+Worked for current company for a little over 3 years. Took job because of the 'flexible work environment' which allowed me to work from home as needed. I have kidney disease, and pretty bad asthma. The kidney disease causes me to get gout frequently, and the asthma is just something I have to cope with during the cold months. When I have a bad gout flareup, I can't walk at all. First two managers let me work from as needed, treated me as an adult. New manager is fussing over me not getting as much done due to me being out sick.
+
+Actual quotes: 
+
+> "I know you've been sick, but I really need you to be contributing more for this feature..."
+
+...
+
+> "I didn't know that's why you were working from home last week, you should have told me... but you still need to make an effort to make it into the office more." 
+
+Very inappropriate, and overstepped my boundaries. Looking for advice on how to approach HR with this.

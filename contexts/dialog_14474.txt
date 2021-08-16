@@ -1,0 +1,8 @@
+DELONGPRE: Boeman, the ships not here.
+BOEMAN: Use the thrusters and you'll be fine. We'll huddle together out there.
+DELONGPRE: Hey, easy now.
+DELONGPRE: You wanna release your air tanks?
+RIZZO: Okay, good tip.
+DELONGPRE: You'll be fine.
+BOEMAN: Remember, stay calm, use your thrusters. We'll be fine.
+RIZZO: Why wouldn't we be. I mean, look around. So far so good.

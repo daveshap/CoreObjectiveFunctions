@@ -1,0 +1,1 @@
+I do not have a iPod. I keep seeing iTunesHelper set to automatically launch I do not have a iPod. I keep seeing iTunesHelper set to automatically launch. This is some of what I see in Console. ( I dont want to share or use remote anything. \"processName\":\"iTunesHelper\",\"uptime\":7999},\"name\":\"comappleosanalyticsappUsage\",\"uuid

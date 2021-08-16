@@ -1,0 +1,4 @@
+PICARD: Ruby... I need to talk to you about those photographs. It's very important.
+RUBY: I'm sure it is. But it'll have to wait until tomorrow.
+PICARD: It can't wait until tomorrow...
+RUBY: Too bad. Besides, it'll give you all night to think up a new set of lies.

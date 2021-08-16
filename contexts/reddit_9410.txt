@@ -1,0 +1,13 @@
+You might not need to buy a new computer. Installing linux instead of windows on old hardware can make massively outdated hardware work perfectly well and be able to do almost everything you could want.
+Seriously. this has been one of the greatest discoveries of my life. i went from broken hand me down computers that were honestly embarrassing whenever i had to show someone something to me now being perfectly content with my computers.
+
+the usual go to reccomendation is ubuntu. (https://www.ubuntu.com/desktop). i prefer to recommend elementary (https://elementary.io/) as its just simpler and also based on ubuntu.
+
+they are both completely free and most software you need is also free. its super easy but really intimidating.  you can try it out with just a usb though without installing anything to see if you like it.
+
+
+EDIT:
+
+okay so you dont need to erase windows if you end up liking linux. you can have both installed. its called dual booting.  its just picking the right options during install. check a youtube video if you want to see what thats like.
+
+how to make a live usb https://www.youtube.com/watch?v=z5ZTGIrjBsU

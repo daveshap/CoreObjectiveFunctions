@@ -1,0 +1,7 @@
+PATROLMAN: Is this your car?
+LOUISE: Yes.
+PATROLMAN: You wanna come with me, please? Walk around and get in the car, please.
+LOUISE: In the back?
+PATROLMAN: Front.
+LOUISE: Am I in trouble?
+PATROLMAN: As far as I'm concerned, yes, ma'am, you are.

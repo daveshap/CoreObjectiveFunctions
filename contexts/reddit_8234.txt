@@ -1,0 +1,26 @@
+Is it true or false that immigrants do jobs most Americans won't?
+I read a [paper](https://cis.org/Are-There-Really-Jobs-Americans-Wont-Do) from 2013 today which argues that "there really are no jobs that Americans won't do":
+
+>This analysis tests the often-made argument that immigrants do only jobs Americans don't want. If the argument is correct, there should be occupations comprised entirely or almost entirely of immigrants (legal and illegal). But Census Bureau data collected from 2009 to 2011, which allows for detailed analysis of all 472 separate occupations, shows that there were only a handful of majority-immigrant occupations. Thus, there really are no jobs that Americans won't do. Further, we estimated the share of occupations that are comprised of illegal immigrants, and found that there are no occupations in which the majority of workers are illegally in the country.
+
+I have often heard the contention that immigrants do jobs Americans won't, but some articles, such as the aforementioned one quoted in the previous paragraph, say that this is largely a myth, similar to how the notion that "immigrants *take* our jobs" is [said by some](http://www.seiu.org/cards/the-8-worst-myths-about-immigration) to be a myth.
+
+The pieces linked below, however, seem to show that, perhaps, there is some truth to the idea that Americans won't do certain jobs (although, these articles are generally specific to California and Georgia):
+
+[California Crops Rot as Immigration Crackdown Creates Farmworker Shortage](http://fortune.com/2017/08/08/immigration-worker-shortage-rotting-crops/)
+
+[$13 Million in Crops Rotted in Calif. Because No One Wanted to Pick Them?](http://www.politifact.com/punditfact/statements/2017/jul/24/blog-posting/13-million-crops-rotted-calif-because-no-one-wante/)
+
+[California’s Farms Face Serious Labor Shortage](https://www.nbcnews.com/nightly-news/video/california-s-farms-face-serious-labor-shortage-1007177795804)
+
+[The Law Of Unintended Consequences: Georgia's Immigration Law Backfires](https://www.forbes.com/sites/realspin/2012/05/17/the-law-of-unintended-consequences-georgias-immigration-law-backfires/#2fc04b92492a)
+
+**Finally:**
+
+Following the above, there are roughly two perspectives on this issue. The first is that there is an idea that [immigration potentially costs Americans jobs](https://www.politico.com/magazine/story/2016/09/trump-clinton-immigration-economy-unemployment-jobs-214216), and what we have been seeing is [the response](https://www.nationalreview.com/news/trump-administration-cracks-down-on-parents-entering-country-illegally-with-their-children/).  The wild card in this argument, based on the available evidence, is whether Americans are willing to do these jobs at the wages paid or offered, or at all.
+
+Brad Goehring, a fourth-generation farmer, [tested](http://www.latimes.com/projects/la-fi-farms-immigration/) the hypothesis of whether a higher agricultural wage would get Americans to do these jobs. Even that, at least in his case, was not wholly sufficient to accomplish such:
+
+>In the last five years, he has advertised in local newspapers and accepted more than a dozen unemployed applicants from the state’s job agency. Even when the average rate on his fields was $20 an hour, the U.S.-born workers lost interest, fast.  
+>  
+>“We’ve never had one come back after lunch,” he says.

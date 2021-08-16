@@ -1,0 +1,17 @@
+TREVES: The cathedral is coming along nicely.
+MERRICK: Yes, soon I will start the main spire, but I must finish these columns first, How kind of her!
+TREVES: How blind of me. Is there anything else, John, anything at all that I could get for you?
+MERRICK: Oh no! There is nothing! I have everything, you have given me everything I could possibly want. I am happy every hour of the day. I only wish there was something I could give to you.
+TREVES: Please John, it would give me so much pleasure to give you something. Something just for yourself. Isn't there something you would like to have?
+TREVES: You want a dressing bag, John?
+MERRICK: You don't think it's too gaudy, do you?
+MOTHERSHEAD: Mr. Treves, some more books arrived for Mr. Merrick.
+TREVES: Thank you, Mothershead. Have a porter put them in my office.
+MOTHERSHEAD: Yes sir. What's that?
+TREVES: A dressing bag.
+MOTHERSHEAD: Very smart indeed.
+TREVES: Yes. John wants it.
+MOTHERSHEAD: A dressing bag?
+TREVES: You don't think it's too gaudy, do you.
+MOTHERSHEAD: Well...
+TREVES: John thinks it's very dashing. Something no gentleman should be without. I'm inclined to agree.

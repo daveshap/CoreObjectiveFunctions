@@ -1,0 +1,5 @@
+AMBROSE: You won.
+NYAH: I suppose I did.
+AMBROSE: What made you pick <i>that</i> nag? She'd never won a bloody thing.
+NYAH: 'Thief in the Night?'
+AMBROSE: Say no more. I'm off to grab a drink. Still favor Bellinis?

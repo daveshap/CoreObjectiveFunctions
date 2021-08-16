@@ -1,0 +1,17 @@
+LILY: Yes, madame?
+MARIETTE: You see-- Oh, not a word to M'sieu Laval!
+LILY: About what?
+MARIETTE: Potatoes. He doesn't want me to eat them-- and naturally I don't want to upset him.
+LILY: Naturally not!
+MARIETTE: Now. Uh--mademoiselle--in the short time you have been M'sieu Laval's secretary, have you noticed any change in him?
+LILY: Well--uh--yes and no.
+MARIETTE: To me he seems rather nervous.
+LILY: Nervous? Um-hum. He smokes too much!
+MARIETTE: No, he <u>works</u> too much. He's chained to his desk. Too much detail. Now, if you could take over some of his work--
+LILY: So he wouldn't be confined so much to his office--
+MARIETTE: Yes! And he would have a little more time for--
+LILY: For all the really important things--
+MARIETTE: Right!
+LILY: I'll do my best, madame, even if I have to work every night.
+MARIETTE: Oh, no, no, no, no, my dear child! That's ridiculous. You go home as usual--five o'clock every day. Now I'm going to be a little bit of a tyrant--I insist. It'll be nice for your little brother, too. <u>Five</u> <u>o'clock</u>--remember!
+LILY: Very well, madame. Thank you.

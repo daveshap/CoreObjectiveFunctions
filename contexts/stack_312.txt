@@ -1,0 +1,1 @@
+What is the Apple Watch to iphone pairing animation called? I need to build something similar for my own app and am heavily inspired by this animation.  I despise QR codes and would love something like this and am comfortable designing it from scratch.  Just don't know where to begin.

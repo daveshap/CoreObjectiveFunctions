@@ -1,0 +1,1 @@
+Rabbit VCS on Ubuntu 18.04 - not showing menu in Nautilus I'm having problems using Rabbit VCS integration with Nautilus under Ubuntu 18.04. Installation from the Bionic Beaver PPA does not seem to work at all while using the procedure presented on their web page, as there is not a candidate for 18.04.Any hints on how to make it running?Thanks in advance.

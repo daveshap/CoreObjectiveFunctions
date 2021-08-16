@@ -1,0 +1,4 @@
+ROBY: What's it doing, having a seizure?
+STANDARD: It started crashing around right after we locked it in.
+ROBY: Now what?
+STANDARD: I guess we open the door and net it.

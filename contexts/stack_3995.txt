@@ -1,0 +1,1 @@
+Is the conditional distribution of Y given X the most we can know about how X \"affects\" Y? In his book \"Introductory Econometrics\Jeffrey Woolridge states \"The most we can know about how X affects Y is contained in the conditional distribution of Y given X\".Is this statement true?Would Judea Pearl agree with this statement?

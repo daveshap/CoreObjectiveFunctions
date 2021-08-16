@@ -1,0 +1,42 @@
+Why keep or eliminate Net Neutrality?
+Due to today's events, there have been a lot of submissions on this topic, but none quite in compliance with our guidelines, so the mods are posting this one for discussion.
+
+Thanks to /u/Easyflip, /u/DracoLannister, /u/anger_bird, /u/sufjanatic.
+
+----
+
+In April of this year, the FCC [proposed to reverse](https://www.fcc.gov/document/restoring-internet-freedom) the Title II categorization of Internet Service Providers (ISPs) that was enacted in 2015:
+
+> The Commission's 2015 decision to subject ISPs to Title II utility-style regulations risks that innovation, serving ultimately to threaten the open Internet it purported to preserve.
+
+> The Chairman of the Federal Communications Commission (FCC)has proposed a *Notice of Proposed Rulemaking (NPRM)* to end the utility-style regulatory approach that gives government control of the Internet and to restore the market-based policies necessary to preserve the future of Internet Freedom, and to reverse the decline in infrastructure investment, innovation, and options for consumers put into motion by the FCC in 2015. To determine how to best honor our commitment to restoring Internet Freedom, the NPRM also evaluates the existing rules governing Internet service providers' practices.
+
+
+When the 2015 rules were passed, FCC commissioner Ajit Pai (now chairman) issued a [dissenting statement:](https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-24A5.pdf)
+
+> ...reclassifying broadband, applying the bulk of Title II rules, and half-heartedly forbearing from the rest "for now" will drive smaller competitors out of business and leave the rest in regulatory vassalage
+
+and
+
+> ...the Order ominously claims that "[t]hreats to Internet openness remain today," that broadband providers "hold all the tools necessary to deceive consumers, degrade content or disfavor the content that they don’t like," and that the FCC continues "to hear concerns about other broadband provider practices involving blocking or degrading third-party applications."
+
+> The evidence of these continuing threats? There is none; it’s all anecdote, hypothesis, and hysteria.
+
+
+It is [widely believed](https://arstechnica.com/tech-policy/2017/04/ajit-pai-announces-plan-to-eliminate-title-ii-net-neutrality-rules/) that reversing the Title II categorization would spell the end for [Net Neutrality](https://en.wikipedia.org/wiki/Net_neutrality) rules. Pai is also a [known critic of such rules.](http://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules)
+
+
+Today has been declared the ["Day of Action to Save Net Neutrality,"](https://www.battleforthenet.com/july12/) which is supported by many of the biggest websites, including Reddit, Amazon, Google, Netflix, Kickstarter and many more. [Here's a summary of the day's actions.](https://www.usatoday.com/story/tech/2017/07/11/net-neutrality-day-action-heres-what-happen/460459001/)
+
+
+So, the question is, **why should we keep or reverse Net Neutrality rules?**
+
+This sub requires posts be neutrally framed, so this one asks about both sides of the issue. However, reddit's audience skews heavily towards folks who already understand the arguments in favor of Net Neutrality, so all the submissions we've gotten today on this topic have asked about the arguments *against* it. If you can make a good, well-sourced summary of the arguments for eliminating Net Neutrality rules, it would probably help a lot of people to better understand the issue.
+
+Also note that we've discussed Net Neutrality before from various perspectives:
+
+* [Is Net Neutrality a partisan issue? Should it be?](https://www.reddit.com/r/NeutralPolitics/comments/6f69bz/is_net_neutrality_a_partisan_issue_should_it_be/)
+* [Net Neutrality: John Oliver vs Reason.com - Who's right?](https://www.reddit.com/r/NeutralPolitics/comments/6cbckk/net_neutrality_john_oliver_vs_reasoncom_whos_right/)
+* [What is Ajit Pai's stance on Net Neutrality?](https://www.reddit.com/r/NeutralPolitics/comments/5qi32n/what_is_ajit_pais_stance_on_net_neutrality/)
+* [Net Neutrality in the U.S. Is it good or bad?](https://www.reddit.com/r/NeutralPolitics/comments/2ly490/net_neutrality_in_the_us_is_it_good_or_bad/)
+* [Should ISPs Be Classified as Common Carriers by the FCC?](https://www.reddit.com/r/NeutralPolitics/comments/24tkdg/should_isps_be_classified_as_common_carriers_by/)

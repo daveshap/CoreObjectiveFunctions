@@ -1,0 +1,6 @@
+GASTON: I'm very sorry, but this is no time, M'sieu Giron--
+GIRON: I've got to see you.
+GASTON: But not now.
+GIRON: Right now! It's very important, M'sieu Laval.
+GASTON: It may be important to you, M'sieu Giron--
+GIRON: No, to you--M'sieu <u>Monescu</u>.

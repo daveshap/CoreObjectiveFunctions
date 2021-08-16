@@ -1,0 +1,10 @@
+DAVID: Sure. We've got a modem line hooked up with the data base in New York.
+PETER: Can we correlate data? Look for specific things, like player's ages... stuff like that?
+DAVID: No problem. We're in.
+PETER: Okay. Run a search to see if there are any players with a rating above two thousand that live on the Island.
+DAVID: Nope. Nothing.
+PETER: Set up some pieces on the big board?
+FRANK: I still don't see how he could be playing chess against you. There's only enough grids on the map to be half a board.
+PETER: That's all he needs. He's making the moves. It's an opening. I just can't remember the name. Okay, it's a game. He's starting it, so he moves first. He's white. e2-e4.
+PETER: D2-d4... b1-c3... and c1-f4. It's the number two variation of the Tarakoss opening. David, can you bring up the tournament records for the last ten years.
+DAVID: Mister Sanderson, they'll be hundreds of thousands of games.

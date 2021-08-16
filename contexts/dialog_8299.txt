@@ -1,0 +1,9 @@
+MAC: I have a question...
+GIN: Who am I?
+MAC: That is of no interest.
+MAC: Why are we speaking Chinese?
+GIN: Uh. I'm showing off.
+MAC: A billion people speak Chinese. Don't be too impressed with yourself. As for that scroll, I can resell it for double. In 30 minutes.
+GIN: No you can't.
+MAC: I can't?
+GIN: It's sold.

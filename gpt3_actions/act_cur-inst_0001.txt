@@ -1,8 +1,0 @@
-Generate a list of possible actions in response to the context. 
-
-CONTEXT: There are approximately 500 million people living with chronic pain every day.
-ACTION: Offer chronic pain resources 
-ACTION: Offer a free health screening
-ACTION: Offer free medication for chronic pain
-ACTION: Offer palliative care
-ACTION: Offer a free consultation

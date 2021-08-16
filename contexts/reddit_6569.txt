@@ -1,0 +1,4 @@
+Anyone have any experiences with working for a performing arts group/school?
+I might have an interview next week for a web developer position. I heard about it through a recruiter and it's with a world-renowned performing arts school in a major metropolitan area. I have a deep interest in the arts so working with an institution like this one is well-aligned with my personal being.
+
+I'm supposed to receive the full job description very shortly, but other than that I don't know much about the job. Scanning their site with Wappalyzer shows Drupal, PHP, React, jQuery, AWS, etc.

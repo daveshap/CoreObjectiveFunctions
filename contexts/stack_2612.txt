@@ -1,0 +1,1 @@
+How can I carry over attributes from a GIS .shp to a SnakeGrid MicroStation .dgn, using FME? I have the SnakeGrid projector so can convert coordinate systems but can't seem to carry the attributes over (I have tried AttribueManager and AttributeCopier). Also, can I input several .shp and run a batch to export as .dgn with attributes carried over?

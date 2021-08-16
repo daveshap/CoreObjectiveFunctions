@@ -1,0 +1,1 @@
+What tick rate are the Fortnite servers using? I have been playing Fortnite quite a bit, and noticed there is sometimes lag between progress bar's finishing and actions completing (moving too soon and interrupting a potion, etc).I was curious as CSGO has the \"tick\" rate fairly public, but Fortnite only shows packet rate.What is the tick rate on the Fortnite servers?

@@ -1,0 +1,1 @@
+Komparator 4 No files shown I guess I'm just too stupid. But as I can't find any solution:I installed Komparator4 on 16.04. Never mind, which directories I choose to compare, always the are no results shown in the display.

@@ -1,0 +1,7 @@
+PHIL: Promise?
+SECRETARY: Promise.
+PHIL: I'd like that.
+SECRETARY: Would you?
+PHIL: Uh huh.
+SECRETARY: Really?
+PHIL: Really.

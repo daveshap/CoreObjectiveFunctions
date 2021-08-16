@@ -1,0 +1,1 @@
+Meaning of \"t=canonical\" in Firefox URL after search? When I enter a search term in the firefox address bar, I noticed that \"t=canonical\" is always inserted in the URL where the search results are displayed. What exactly does this do? Does it have any implications for my privacy?Note: In debian 9, I get 't=ffab' in the search url instead.

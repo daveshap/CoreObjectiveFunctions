@@ -1,0 +1,1 @@
+Cannot connect to wireless projector (Samsung LED TV) I installed Ubuntu on my new laptop and I need to connect it to a Samsung LED TV. When I was in Windows 10 I was able to connect to my TV by just pressing the combination of Windows+K. Then it would automatically connect to it. I can't connect now.Dell Inspiron 15 3552Ubuntu 16.04 LTS

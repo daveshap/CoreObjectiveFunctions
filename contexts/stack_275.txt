@@ -1,0 +1,1 @@
+Show current calendar week in menu bar? Is there a way to get macOS to display the current calendar week in the menu bar, maybe as part of the date or as an additional information elsewhere in the menu bar?

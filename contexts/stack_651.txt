@@ -1,0 +1,1 @@
+Kubuntu 17.10 root access for GUI I need to access root in Kubuntu 17.10 through graphical interface, can someone point out how this is done please. This differ since Kubuntu 17.10 uses Wayland.Thanks in advance..

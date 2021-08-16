@@ -1,0 +1,1 @@
+The difference between two statements [PUNCTUATION] Sentence 1:A is friend of B who is eating an apple.Sentence 2:A is friend of B , who is eating an apple.In which Sentence it can be said that A is eating apple?Does the usage of comma change the context of who is eating apple?

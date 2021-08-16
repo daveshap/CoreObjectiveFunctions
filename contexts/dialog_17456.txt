@@ -1,0 +1,11 @@
+DREW: 'Joe...'
+PARRISH: Yes.
+DREW: Is there any more to it?
+PARRISH: What do you mean?
+DREW: Like 'Smith' or 'Jones --'
+PARRISH: -- Black.
+ALLISON: Whew, at last. Nice to meet you, Mr. Black.
+QUINCE: 'Joe Black'. Won fifteen and lost two for the Brooklyn Dodgers in 1952.
+JOE: Yes?
+QUINCE: You bet. I'm king of my Rotisserie League.
+JOE: Are you?

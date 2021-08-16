@@ -1,0 +1,15 @@
+CLERK: Tent poles.
+MOSS: Uh-huh.
+CLERK: You already have the tent?
+MOSS: Somethin' like that.
+CLERK: Well you give me the model number of the tent I can order you the poles.
+MOSS: Never mind. I want a tent.
+CLERK: What kind of tent?
+MOSS: The kind with the most poles.
+CLERK: Well I guess that'd be our ten-foot backyard Per-Gola. You can stand up in it. Well, some people could stand up in it. Six foot clearance at the ridge. You might just could.
+MOSS: Let me have that one. Where's the nearest hardware store?
+MOSS: Could I get another room.
+WOMAN: You want to change rooms?
+MOSS: No, I want to keep my room, and get another one.
+WOMAN: Another additional.
+MOSS: Uh-huh.You got a map of the rooms?

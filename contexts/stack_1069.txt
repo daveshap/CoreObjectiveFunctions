@@ -1,0 +1,1 @@
+How do I invoke the sqlite3-doc package I installed the package but can't figure out how to use/start it. What I'm am looking for is a interactive help/docs for sqlite3 I assumed that what this package does but I don't know how to start it.Thanks in addvance.

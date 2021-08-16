@@ -1,0 +1,8 @@
+How can I make better contributions during meetings?
+Does anyone have any suggestions for how to improve my contributions during meetings? I'm a developer, and I find that when we have team meetings my colleagues always have interesting thoughts, and opinions that they share. For me, I am generally quiet in the meetings, and often feel uncomfortable when asked directly for my opinion.
+
+I'm starting a new job next week and I want to really focus of this issue as I think if I get stuck into the habit of being quiet again it'll be difficult to change afterwards. On the other hand, I'll be working with a new code base etc, and may not necessarily have a lot of info to make great contributions. 
+
+I should say I work in an office that doesn't use my first language, which is clearly part of the issue, but I don't think it explains everything.
+
+Looking forward to hearing suggestions!

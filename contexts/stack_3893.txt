@@ -1,0 +1,1 @@
+shortest path optimization for multiple edge attributes Say I have a network. The edges each have two attributes: age and height. How might I run a shortest path algorithm that optimizes on both age and height? And could I weight it so that it optimizes 0.7 on age and 0.3 on height, or vice versa?

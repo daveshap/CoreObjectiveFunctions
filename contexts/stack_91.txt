@@ -1,0 +1,1 @@
+Cloning HD in SSD I have an old Mac that I\u2019d like to upgrade by adding an SSD.The problem is that the OS is really old (Snow Leopard, Mac Early 2008), so I\u2019m really not sure if is the backup restore is going to work. So I thought I could carbon copy the current hard disk to a new SSD and boot from the SSD. Do you see any problem in this approach?

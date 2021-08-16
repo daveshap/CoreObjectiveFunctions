@@ -1,0 +1,20 @@
+AGENT: I'm sorry to keep you. How can I help?
+TRUMAN: I want to book a flight to Fiji.
+AGENT: Where exactly?
+TRUMAN: <i>Fiji.</i>
+AGENT: <i>Where</i> in Fiji? What island?
+TRUMAN: I'm sorry, er...the biggest one.
+AGENT: Viti Levu. For how many?
+TRUMAN: One.
+AGENT: When do you want to leave, remembering, of course, you do lose a day on the way there?
+TRUMAN: Today.
+AGENT: I'm sorry. I don't have anything for at least a month.
+TRUMAN: <i>A month.</i>
+AGENT: It's the busy season.
+TRUMAN: You are a travel agent, aren't you? Doris"? Your job is to help people travel."
+AGENT: I do have a fabulous rate on a cruise ship departing for Fiji tomorrow. But you wouldn't want to do that.
+TRUMAN: Why wouldn't I?
+AGENT: I thought you were in a hurry.
+TRUMAN: That's right.
+AGENT: You want to book the flight?
+TRUMAN: It doesn't matter. I'll make other arrangements.

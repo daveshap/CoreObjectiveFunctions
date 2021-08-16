@@ -1,0 +1,1 @@
+Isolation with inverter Say I used a 12v car inverter powered by a 12v brick connected to ac mains (no ground pin) to isolate a scope and bench dmm, the inverter has no earth ground. Is the equipment isolated? Is lack of earth ground an issue?

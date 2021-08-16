@@ -1,0 +1,12 @@
+Would you use a dating app if you couldn't see what the other people looked like until you spoke with them for X amount of time?
+To keep this brief, I am a developer who thought it could maybe be cool & less superficial (especially in this climate) if I made an dating app that wouldn't allow you to see who you are talking to until X amount of messages.
+
+Would you use something like this?
+
+Here are the problems I think I'm solving
+
+* Lots of matches on Tinder will never send each other a message, this platform by it's nature is designed to get people talking
+* The current apps in the market are inherently superficial and affecting the way we see/value ourselves, I think that you might meet someone you really like that you might otherwise have never considered.
+* Giving people the privacy of not having their pictures appear on a dating platform until you've had enough conversation with someone; don't like someone? stop replying and your identity remains anonymous.
+
+Excited to hear your feedback :)

@@ -1,0 +1,1 @@
+Does ATA security support or allow for 2FA? I understand TCG OPAL is the spiritual successor of ATA Security for hard drive encryption with SEDs. They claim there is support for biometrics etc, but how is it for the predecessor, ATA Security?Is it just a 32 bytes ASCII password, or do some motherboards offer 2FA, e.g. in the form of a USB stick or OTP?

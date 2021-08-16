@@ -1,0 +1,1 @@
+How to install multiple versions (5.5.xx and 5.7) of MySQL in Ubuntu 16.04? I want to use MySQL multi version(5.5.xx and 5.7) in my desktop.I installed mysql 5.7 using apt-get<blockquote>  sudo apt-get mysql-server mysql-client</blockquote>How to install mysql 5.5 and run multi mysql version?

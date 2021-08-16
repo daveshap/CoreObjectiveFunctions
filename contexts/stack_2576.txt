@@ -1,0 +1,1 @@
+Get max or min value How can I get the max or min value of one image?I don't know what's the function is in GEE.I have to use this for vegetation coverageFor example:[1,2,3, 4,5,6, 7,8,9]max:9;min:1

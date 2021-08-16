@@ -1,0 +1,3 @@
+PLAGUE: Never fear. I is here.
+HAL: I've narrowed the activity to terminal 23.
+PLAGUE: Let's echo 23, see what's up.

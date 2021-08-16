@@ -1,0 +1,1 @@
+Sound output is being heard from microphone My issue is that when I plug in a microphone it acts like a speaker rather than as a microphone, and I can hear sound that the computer makes through it.I have an HP 255 G5 laptop running Ubuntu 16.04, it has one combined connector for both headphone out and microphone in.

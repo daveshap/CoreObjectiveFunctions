@@ -1,0 +1,1 @@
+Difference between optimizing single polynomial neuron vs multiple perceptron? Is there any specific reason why we usually prefer to use a neural network with, let's say, 6 hidden neurons rather than one single neuron representing the following function?$$ax^3+bx^2+cx+d$$Is it harder to optimize the latter one?

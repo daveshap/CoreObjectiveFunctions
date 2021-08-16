@@ -1,0 +1,1 @@
+Is it possible to make a spoofing attack in a access point with same SSID target network? With an Evil Twin attack is it possible for the access point to send malware to connected devices? If it is, how can this be prevented?

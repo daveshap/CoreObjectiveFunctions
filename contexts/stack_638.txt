@@ -1,0 +1,1 @@
+What kind of PGP key does ubuntu 2016 come with? I'm trying to write about this subject in my blog and I didn't find an answer to which PGP key does Ubuntu come with (PGP 4, 5, open?)?It is already installed and the only thing that it says is that it is a GNU PGP key. Which leads me to believe I am using an open PGP version (right?).But I am not entirely sure, any answer?

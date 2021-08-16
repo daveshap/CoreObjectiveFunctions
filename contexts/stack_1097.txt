@@ -1,0 +1,1 @@
+Oracle 12c backup question with FRA If I wanted to backup to the FRA and another location, how would I configure the channels? Also, would I need to set parallelism?Thanks

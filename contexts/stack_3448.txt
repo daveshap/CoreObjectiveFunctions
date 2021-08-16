@@ -1,0 +1,1 @@
+What is the actual mechanism when we used VPN on HTTPS Will the VPN intercept the client's connection and read client's sending content or insert something else into clients's sending content? What is the actual process when we used VPN to access to one HTTPS website?

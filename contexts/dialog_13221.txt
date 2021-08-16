@@ -1,0 +1,12 @@
+GATES: Have a seat. Good to see you, buddy ol' pal...
+HAWK: The pleasure's all yours, Officer Gates.
+GATES: Why do you show your parole officer such disrespect? Especially after I got you such a nice job.
+HAWK: What job?
+GATES: The auction house, asshole. One night's work and you're free like no ex-con's ever been. No checking in with a shrink, no community service teaching retards how to play air hockey. It's a great deal, I can't lie.
+HAWK: The only thing you can't do is get sex for free. I know I was in prison for like basically the 80's, but, call me daffy, aren't you supposed to <u>stop</u> me from committing crimes. You know, Book-em-Dano, Call-for-backup, Give-a-Hoot-Don't-Pollute.
+GATES: You wouldn't be out if it wasn't for me! I did dog and pony for you! You think they would have let you out after what you did, you told the board members they looked like the Three Stooges...
+HAWK: How was I supposed to know they were women? Besides one of them was bald and kept saying Soitinly.""
+GATES: Remember that guy in the cell next to you who hung himself?
+HAWK: Yes.
+GATES: Remember that shoe you lost...
+HAWK: Uh, yeah. Cut to the chase.

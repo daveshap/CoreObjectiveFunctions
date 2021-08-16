@@ -1,0 +1,8 @@
+I want to get into Theoritical Computer Science but I hate Probabilistic proofs, should I go for a different field?
+Posted this to r/askprofessors as well.
+
+I want to get into Theoritical computer science (complexity theory, algorithms, data structures, etc. because I'm fascinated by the creative solutions Ive seen in algorithms/data structures/automata etc, I truly feel an awe) But I hate probablistic proofs. I prefer deterministic algorithms and proofs and I "relate" to them much more than their counterparts. But nowadays it feels like every grad class requires probability at least to some extent. 
+
+Am I doomed? Should I not go to TCS? I'm planning to use my summer to strengthen my understanding of probablity theory since I had a bad experience in that class and its been downhill from there.
+
+I have passion for other fields as well, though not as fascinated by them.

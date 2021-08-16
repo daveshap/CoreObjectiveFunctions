@@ -1,0 +1,1 @@
+Add a watermark to a PDF without installing new software Can I add a watermark to a PDF without installing additional software?Ideally, I'd like to do it using a shell script or something but appreciate manual processes at this time too.

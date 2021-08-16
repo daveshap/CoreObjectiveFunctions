@@ -1,0 +1,16 @@
+When writing your papers, how do *you* prefer to include excerpts that contain citations?
+An example of what I'm talking about:
+
+> Dependency involves some form of constraint, as is seen in various dependency and co-dependency theories from World Systems Theory (Wallerstein 1976) to psychology (Rice 1998). Humans become involved in various dependencies that limit their abilities to develop, as societies or as individuals.
+
+> Hodder, Ian. Entangled (p. 18). Wiley. Kindle Edition. 
+
+I realized that I tend to instinctively avoid using excerpts that contain citations, instead choosing to look for some other sentences to cite that don't have that issue. So, upon encountering the above text, I'd look for some other sentences to use as an excerpt.
+
+Imagine you want to include this as an excerpt because you don't feel that any other sentences do an acceptable job of conveying what you're trying to convey. How do you do it?
+
+One common way to sidestep the issue is to paraphrase instead of quote. You'd still cite Hodder, but Wallerstein and Rice wouldn't be mentioned at all.
+
+But suppose you *really* want to provide the quote. Do you provide it exactly as it is? If so, would you add Wallerstein and Rice to your bibliography or omit them?
+
+Maybe this is obvious and my brain is just fried from working on my thesis for so long... If so, then please be gentle.

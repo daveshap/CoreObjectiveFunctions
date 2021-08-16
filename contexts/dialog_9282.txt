@@ -1,0 +1,7 @@
+MARGE: Hello?
+VOICE: Yah, is this Marge?
+MARGE: Yah?
+VOICE: Margie Olmstead?
+MARGE: ...Well, yah. Who's this?
+VOICE: This is Mike Yanagita. Ya know - Mike Yanagita. Remember me?
+MARGE: ...Mike Yanagita!

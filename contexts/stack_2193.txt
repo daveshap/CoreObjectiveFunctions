@@ -1,0 +1,1 @@
+How much damage do you take when failing a hack? While playing as 9S, you have the option to hack and enemy as an attack. If you succeed in the hack, you will do damage or kill the enemies. However if you fail the hack, you take damage. Is the damage you take always the same or is it dependent on several factors?

@@ -1,0 +1,1 @@
+Terminal short cut to toggle scroll on output When developing I faced the situation, where I want to quickly enable / disable the \"scroll on output\" setting from the Terminal.Does such a shortcut exist (while being in the Terminal context) or is it possible to \"record\" a shortcut for such a toggle action?

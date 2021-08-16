@@ -1,0 +1,14 @@
+Grad Students Who've Quit and Got a Data Science Job...
+How did you do it?
+
+Ecology PhD and grad school is not for me. Luckily I've picked up some coding and data analysis skills, but not sure it's enough to land a data scientist or data analyst job. I have a bioinformatics project now which is my 1st chapter and I can still make "progress" during this crazy time but I am thinking of using it as a thesis and Mastering out. So my questions are:
+
+Did you do a bootcamp like Springboard/Data Incubator/Dataquest?
+
+Did you work with a mentor? How did you find them?
+
+How many data science projects did you have on your resume/cv? What sort of projects were they?
+
+If anyone has seen a similar post, please link it below.
+
+Any and all insight welcome. Thanks and stay safe everyone.

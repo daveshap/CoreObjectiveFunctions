@@ -1,0 +1,16 @@
+GITTES: Naturally, I want the best for him, money is no object.
+PALMER: Perhaps if we could meet your father.
+GITTES: There's just one question.
+PALMER: Of course.
+GITTES: Do you accept anyone of the Jewish persuasion?
+PALMER: I'm sorry. We don't.
+GITTES: Don't be sorry, neither does Dad. Wanted to make sure though, didn't we, honey?
+GITTES: Just to be certain, I wonder if you could show us a list of your patients?
+PALMER: We don't reveal the names of our guests as a matter of policy. I know you'd appreciate that if your father came to live with us.
+GITTES: That's exactly what we wanted to hear.
+PALMER: Oh, good.
+GITTES: I wonder, is it too late for us to have a look around?
+PALMER: I don't think so. Be happy to show you.
+GITTES: Would you mind if we took a stroll on our own?
+PALMER: Just, if you will, confine yourself to the main building. It's nearly bedtime.
+GITTES: We understand, c'mon, sweetheart.

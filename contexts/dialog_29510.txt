@@ -1,0 +1,13 @@
+KIRK: Standard orbit, Mr. Sulu.
+UHURA: Captain, we're receiving transmission from Paradise City. They're demanding to know our intentions.
+KIRK: Respond with static. Let them think we're having difficulty. Which wouldn't be far from the truth.
+UHURA: Paradise City, can you boost your power? We're barely receiving transmission.
+KIRK: Transporter room. Status.
+SCOTTY: Scotty here, Captain. Transporter is still inoperative. Even if we could lock onto the hostages, we couldn't beam them up.
+KIRK: Then we'll have to get them out the old fashioned way.
+SPOCK: Klingon vessel now entering quadrant. Bird of Prey. Estimating 1.9 hours until her weapons come to bear.
+KIRK: Damn. Let's go.
+SPOCK: Their equipment is primitive but effective. I recommend we land at Coordinate 8563.
+KIRK: That puts us pretty far away from Paradise City.
+SPOCK: To land any closer would risk detection.
+KIRK: Mr. Sulu. Execute.

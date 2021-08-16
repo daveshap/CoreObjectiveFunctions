@@ -1,0 +1,4 @@
+OVEUR: Shut down accelerators.
+DUNN: Accelerators down.
+OVEUR: Elaine, ask ROK for a field interference scan. Those sun spots might give us a problem with our communications.
+ELAINE: Yes, sir.

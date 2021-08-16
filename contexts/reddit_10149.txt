@@ -1,0 +1,66 @@
+New wiki on how to avoid accidentally encouraging suicide, and how to spot covert incitement
+We've been seeing a worrying increase in pro-suicide content showing up here and, and also going unreported. This undermines our purpose here, so we wanted to highlight and clarify our guidelines about both direct and indirect incitement of suicide.  
+
+We've created a wiki that covers these issues.  We hope this will be helpful to anyone who's wondering whether something's okay here and which responses to report.  It explains in detail why *any* validation of suicidal intent, even an "innocent" message like "if you're 100% committed, I'll just wish you peace" is likely to increase people's pain, and why it's important to report even subtle pro-suicide comments. The full text of the wiki's current version is below, and it is maintained at [/r/SuicideWatch/wiki/incitement](http://www.reddit.com/r/SuicideWatch/wiki/incitement). 
+
+We deeply appreciate everyone who gives responsive, empathetic, non-judgemental support to our OPs, and we particularly thank everyone who's already been reporting incitement in all forms.  
+
+Please report any post or comment that encourages suicide (or that breaks any of the other guidelines in the sidebar) to the moderators, either by clicking the "report" button or by [sending us a modmail](https://www.reddit.com/message/compose?to=%2Fr%2FSuicideWatch) with a link. We deal with all guideline violations that are reported to us as soon as we can, but we can't read everything so community reports are essential. If you get a PM that breaks the guidelines, please report it both [to the reddit sitewide admins](http://www.reddit.com/report) and to us in modmail. 
+
+Thanks to all the great citizens of the community who help flag problem content and behaviour for us.  
+    
+    
+
+******
+***[/r/SuicideWatch/wiki/incitement](http://www.reddit.com/r/SuicideWatch/wiki/incitement)***  
+*******
+
+###Summary###
+
+**It's important to respect and understand people's experiences and emotions. It's never necessary, helpful, or kind to support suicidal intent. There are some common misconceptions (discussed below) about suicidal people and how to help them that can cause well-meaning people to inadvertently incite suicide. There are also people online who incite suicide on purpose, often while pretending to be sympathetic and helpful.** 
+
+###Validate Feelings and Experiences, Not Self-Destructive Intentions###
+
+We're here to offer support, not judgement.  That means accepting, with the best understanding we can offer, whatever emotions people express.  Suicidal people are suffering, and we're here to try to ease that by providing support and caring.  The most reliable way we know to de-escalate someone at risk is to give them the experience of feeling understood. That means not judging whether they should be feeling the way they are, or telling them what to do or not do.  
+
+But there's an important line to draw here.  There's a crucial difference between empathizing with feelings and responding non-judgmentally to suicidal thoughts, and in any way endorsing, encouraging, or validating suicidal intentions or hopeless beliefs. 
+
+Anything that condones suicide, even passively, *encourages* suicide. It isn't supportive and does not help. It also violates reddit's sitewide rules as well as our guidelines. Explicitly inciting suicide online is a criminal offense in most jurisdictions. 
+
+Do not treat any OP's post as meaning that will definitely die by suicide and can't change their minds or be helped. Anyone who's able to read the comments here still has a chance to choose whether or not to try to keep living, even if they've also been experiencing intense thoughts of suicide, made a suicide plan, or started carrying it out.  
+
+In [the most useful empirical model we have](https://www.apa.org/science/about/psa/2009/06/sci-brief), the desire to die by suicide primarily comes from two interpersonal factors; alienation and a sense of being a burden or having nothing to offer. These factors usually lead to a profound feeling of being unwelcome in the world. 
+
+**So, any acceptance or reinforcement of suicidal intent, even something "innocent" like "I hope you find peace", is actually a form of covert shunning that validates a person's sense that they're unwelcome in the world. It will usually add to their pain even if kindly meant and gently worded.**  
+
+###How to Avoid Validating Suicidal Intent###
+
+Keep the following in mind when offering support to anyone at risk for suicide.  
+
+* **People who say they don't want help usually can feel better if they get support that doesn't invalidate their emotions.** Unfortunately, [many popular "good" responses are actually counterproductive](https://www.speakingofsuicide.com/2015/03/03/what-not-to-say/). In particular, many friends and family tend to rely exclusively on trying to convince the suicidal person that "it's not so bad", and this is usually experienced as "I don't understand what you're going through and I'm not going to try".  People who've had "help" that made them feel worse don't want any more of the same.  It doesn't mean that someone who actually knows how to be supportive can't give them any comfort.   
+
+*  **Most people who are suicidal want to end their** ***pain,*** **not their lives.**  It's almost never true that death is the only way to end these people's suffering. Of course there are exceptional situations, and we certainly acknowledge that, for some people, the right help can be difficult to find. But preventing someone's suicide doesn't mean prolonging their suffering if we do it by giving them real comfort and understanding. 
+
+* ***An unfixable problem doesn't mean that a good life will never be possible***.  We don't have to fix or change anything to help someone feel better. It's important to keep in mind that the correlation between our outer circumstances and our inner experience is weaker and less direct than commonly assumed.  For every kind of difficult life situation, you will find some people who lapse into suicidal despair, and others who cope amazingly well, and a whole spectrum in between. A key difference is how much inner resilience the person has at the time. This can depend on many personal and situational factors. But when there's not enough, interpersonal support can both compensate for its absence and help rebuild it.  We go into more depth on the "it gets better" issue in [this PSA Post](https://www.reddit.com/r/SuicideWatch/comments/25igd7/whats_wrong_with_it_gets_better_what_if_it_doesnt/) which is always linked from our sidebar (community info on mobile) guidelines. 
+
+* **There are** ***always*** **more choices than brutally forcing someone to stay alive or passively letting them end their lives**.
+
+To avoid accidentally breaking the anti-incitement rule, don't say or try to imply that acting on suicidal thoughts is a good idea, or that someone can't turn back or is already dead.  Do whatever you can to help them feel cared for and welcome, at least in this little corner of the world.  [Our talking tips](http://redd.it/igh87) offer more detailed guidance.
+
+###Look Out for Deliberate Incitement.  It May Come in Disguise.###
+
+Often comments that subtly encourage suicidal intent actually come from suicide fetishists and voyeurs ([unfortunately this is a real and disturbing phenomenon](https://en.wikipedia.org/wiki/William_Francis_Melchert-Dinkel)). People like this *are* out there and the anonymous nature of reddit makes us particularly attractive to them.  
+
+They will typically try to scratch their psychological "itch" by saying things that push people closer to the edge.  They often do this by exploiting the myths that we debunked in the bullet points above.  Specifically you might see people doing the following:
+
+* Encouraging the false belief that the only way suicidal people can end their pain is by dying.  **There are** ***always*** **more and better choices than "brutally forcing someone to stay alive" or helping (actively or passively) them to end their lives**.
+
+* Creating an artificial and toxic sense of "solidarity" by linking their encouragement of suicide to empathy.  They will represent themselves as the only one who really understand the suicidal person, while either directly or indirectly encouraging their self-loathing emotions and self-destructive impulses.  **Since most people in suicidal crisis are in desperate need to empathy and understanding, this is a particularly dangerous form of manipulation.**  
+
+Many suicide inciters are adept at putting a benevolent spin on their activities while actually luring people away from sources of real help.  A couple of key points to keep in mind: 
+
+* **Skilled suicide intervention -- peer or professional -- is based on empathic responsiveness to the person's feelings that reduces their suffering in the moment.**  Contrary to pop-culture myths, it does **not** involve persuasion ("Don't do it!"), cheerleading ("You've got this!") or meaningless false promises ("Trust me, it gets better!"), or invalidation ("Let me show you how things aren't as bad as you think!").  Anyone who leads others to expect these kinds of toxic responses, or any other response that prolongs their pain, from expert help may be covertly pro-suicide. (Of course, people sometimes do have bad experience when seeking mental-health treatment, and it's fine to vent about those, but processing our own disappointment and frustration is entirely different from trying to destroy someone else's hope of getting help.)
+
+* **Choices made by competent responders are always informed by the understanding that breaching someone's trust is traumatic and must be avoided if possible.**  Any kind of involuntary intervention is an **extremely unlikely** outcome when someone consults a clinician or calls a hotline. (Confidentiality is addressed in more detail in [our Hotlines FAQ post](http://redd.it/1c7ntr)). The goal is always to provide all help with the client's full knowledge and informed consent. We know that no individual or system is perfect.  Mistakes that lead to bad experiences do sometimes happen to vulnerable people, and we have enormous sympathy for them. But anyone who suggests that this is the norm might be trying to scare people away from the help they need.  
+
+Please [let us know discreetly](https://www.reddit.com/message/compose?to=%2Fr%2FSuicideWatch) if you see anyone exhibiting these or similar behaviours. We don't recommend trying to engage with them directly.

@@ -1,0 +1,1 @@
+Does oracle xe 11g support with apache2, php 7.0 on ubuntu 16.04 (64 bit)? Does oracle xe 11g support with apache2, php 7.0 on ubuntu 16.04?Please help me, I have already installed oracle xe 11g, apache2 and php 7.0Surely i must activate oci8 in php 7.0Please tutorial step by step thank you

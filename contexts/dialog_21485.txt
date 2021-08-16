@@ -1,0 +1,6 @@
+FEZZIK: Hello.
+INIGO: It's you.
+FEZZIK: True!
+FEZZIK: You don't look so good. You don't smell so good either.
+INIGO: Perhaps not. I feel fine.
+FEZZIK: Yeah?

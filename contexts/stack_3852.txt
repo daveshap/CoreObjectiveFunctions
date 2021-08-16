@@ -1,0 +1,1 @@
+User behavior prediction using LSTMs Let a user U with 3 possible states: A, B and C. From A you can go everywhere (including A), from B or C you can only go to A. LSTM are a good to model Markov-problems with an extra notion of long term memory across steps.But if I understand right, we need to have one model per user ? So how does the training looks like ?

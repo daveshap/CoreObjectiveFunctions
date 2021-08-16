@@ -1,0 +1,1 @@
+How is the UUID for a user used by macOS? In the Advanced Options for a user under the Users &amp; Groups System Preference, there is field for UUID and a button for Create New next to it. How is the UUID used by macOS and what are the implications of changing it?

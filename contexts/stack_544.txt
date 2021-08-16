@@ -1,0 +1,1 @@
+Having trouble booting from flash drive It's that time I boot a new OS on my system but I keep getting a \"not a COM32R image\" I wrote it on a half a dozen flash drives using two different computers using the l three different computers, and it doesn't work. I've been using Ubuntu 14.04.v what is going on? Both are 64bit systems and worked before, why not now?

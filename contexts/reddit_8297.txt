@@ -1,0 +1,14 @@
+What are the pros and cons of the Cassidy-Graham-Heller-Johnson bill?
+After [a dramatic failure to pass a "skinny repeal" bill in July,](https://www.nbcnews.com/politics/congress/senate-gop-effort-repeal-obamacare-fails-n787311) and with the [Senate Parliamentarian indicating that the current authority to use reconciliation to pass a healthcare bill expires September 30,](https://www.washingtonpost.com/powerpost/why-senate-republicans-are-in-such-a-rush-this-month-on-health-care/2017/09/20/111befe4-9d4b-11e7-9c8d-cf053ff30921_story.html?utm_term=.348019024c2b) Senate Republicans, led by Sens. Lindsay Graham, Bill Cassidy, Dean Heller, and Ron Johnson [are proposing a new bill to repeal much of the Affordable Care Act and reduce Federal expenditures on healthcare.](https://www.cassidy.senate.gov/imo/media/doc/LYN17709.pdf)
+
+The bill [does several things:](https://www.washingtonpost.com/graphics/2017/politics/cassidy-graham-explainer/)
+
+* It changes the Medicaid program from a commitment by the Federal government to cover a fixed percentage of healthcare costs in that program to a [per capita grant which does not necessarily cover any fixed percentage of costs.](http://www.kff.org/medicaid/issue-brief/overview-of-medicaid-per-capita-cap-proposals/)  This is known as a "per capita cap."
+
+* It changes current spending under the Affordable Care Act's subsidies to a large grant to states to be used largely at the state's discretion.
+
+* It changes the funding formula to reduce spending overall and move money from states which have received more money under the ACA to states which have received less, [with most states receiving less funding.](https://www.washingtonpost.com/national/health-science/graham-cassidy-bill-would-cut-funding-to-34-states-new-report-shows/2017/09/20/48741d92-9d58-11e7-9083-fbfddf6804c2_story.html?utm_term=.a7933bfb74c9)
+
+* Beginning in 2027 it eliminates all funding for expanded health insurance but keeps the per capita cap.
+
+What are the pros and cons of the proposal?

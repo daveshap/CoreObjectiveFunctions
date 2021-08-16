@@ -1,0 +1,12 @@
+CAVANAUGH: You'll have no need for that, Highlander.
+MCCLEOD: Since we hardly know each other, I'm sure you'll understand if I hold one to it for awhile.
+CAVANAUGH: Caution shows wisdom.
+CAVANAUGH: I know that weapon. It belonged to Juan Romeriz. He's dead?
+MCCLEOD: Aye.
+CAVANAUGH: You?
+MCCLEOD: No. He was my brother. He died at anothers hand.
+CAVANAUGH: We too are brothers, Macleod. In fact, you have more family than you think.
+MCCLEOD: Who are you?
+CAVANAUGH: Thomas Cavenaugh. I am a teacher of sorts. Like Romeriz I help those newly acquainted with our life.
+MCCLEOD: I learned my fill from Romeriz.
+CAVANAUGH: Indeed you did. And now it is time for you to pass on to others what you learned from him.

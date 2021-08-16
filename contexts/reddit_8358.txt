@@ -1,0 +1,12 @@
+What would be the consequences of a government shutdown that continues indefinitely?
+The current government shutdown in the US began on Dec 22 and in the aftermath of the latest meeting between President Trump and the House Democrats it doesn't look like it is ending soon.
+
+[https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html](https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html)
+
+The President has said that he will veto any funding bill that doesn't include the money he wants for the wall on the Southern border of the US. He has indicated that he would even veto stop-gap measures to keep parts of the government funded while they work out the rest of the details.
+
+[https://edition.cnn.com/2019/01/02/politics/donald-trump-shutdown-congress-meeting/index.html](https://edition.cnn.com/2019/01/02/politics/donald-trump-shutdown-congress-meeting/index.html)
+
+If the President were to continue veto any funding package that did not include the money he wants for the wall, it would take a [2/3 majority in Congress and the Senate](https://www.senate.gov/reference/glossary_term/override_of_a_veto.htm) to   override his veto. That would require a significant number of Republicans to come out in favor of the override and in this climate, that seems unlikely.  Previously, the longest shutdown was [21-days in 1995–96](https://en.wikipedia.org/wiki/United_States_federal_government_shutdowns_of_1995%E2%80%931996).
+
+Is there a good breakdown of exactly what would happen if the US government stays shut down for an extended period of time? I'm talking like what happens at 3 months, 6 months, 1 yr, etc. Is there any automatic mechanism that would go into effect in order to force the major players to come to an agreement? Is it possible that the government could remain shutdown until the next election?

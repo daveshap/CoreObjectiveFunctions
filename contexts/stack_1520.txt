@@ -1,0 +1,1 @@
+Why does an Instrumentation Amplifier need a reference? I am working with the INA826EVM board and I am wondering why it needs an additional op-amp for a reference in the Instrumentation Amplifier?

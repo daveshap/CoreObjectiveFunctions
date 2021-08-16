@@ -1,0 +1,4 @@
+KHAN: Careful: Not all at once. <u>The</u> <u>engine room</u>. Lock on target and prepare to fire.
+JOACHIM: Locking phasers on target.
+SPOCK: Their coil emissions are normal... Wait: their shields are going up. They're locking phasers -- !
+KIRK: Raise shields! Energize phasers, stand by to --

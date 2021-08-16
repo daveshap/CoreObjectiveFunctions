@@ -1,0 +1,1 @@
+How to run .sh file by click in Xubuntu? We should type ./file.sh in terminal to run sh. Is there way to run it as executable file by double click ?

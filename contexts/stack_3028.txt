@@ -1,0 +1,1 @@
+Can wires length really increase surge voltage? Does this have basis in reality or just an urban legend that longer wire length can increase surge voltage bec of lenz law and stuff?

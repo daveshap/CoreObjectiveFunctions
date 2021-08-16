@@ -1,0 +1,1 @@
+Existing C++ libraries that convert ESRI shapefile to DXF/DWG Is there any C++ library that can convert ESRI Shapefile to DXF/DWG file? I seek a link/or sample on how this can be done with the said C++ library. I'm aware that one can do this with ArcGIS Desktop application itself, but this is not what I want. I want to write code that can do this with my own UI.

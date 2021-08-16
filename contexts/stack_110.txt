@@ -1,0 +1,1 @@
+Can beta-features be added to the app on the App Store? We are working on an iOS app which is already on the App Store. We are planning some new features for the app. Can we add these unfinished features in a beta mode? Will Apple allow this?

@@ -1,0 +1,1 @@
+Do status effect particles still show while the player is invisible? Will other players still see the particles from a player that drank a Potion of Invisibility?

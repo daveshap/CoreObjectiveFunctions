@@ -1,0 +1,19 @@
+SOLDIER: Halt! Who goes there?
+ARTHUR: It is I, Arthur, son of Uther Pendragon, from the castle of Camelot. King of all Britons, defeator of the Saxons, sovereign of all England!
+SOLDIER: Get away!
+ARTHUR: I am... And this my trusty servant, Patsy. We have ridden the length and breadth of the land in search of knights who will join our court at Camelot.. I must speak with your lord and master.
+SOLDIER: What? Ridden on a horse?
+ARTHUR: Yes!
+SOLDIER: You're using coconuts!
+ARTHUR: ...What?
+SOLDIER: You've got two empty halves of coconuts and you're banging them together.
+ARTHUR: So? We have ridden since the snows of winter covered this land, through the kingdom of Mercea.
+SOLDIER: Where did you get the coconuts?
+ARTHUR: Through ... We found them.
+SOLDIER: Found them? In Mercea. The coconut's tropical!
+ARTHUR: What do you mean?
+SOLDIER: Well, this is a temperate zone.
+ARTHUR: The swallow may fly south with the sun, or the house martin or the plover seek warmer hot lands in winter, yet these are not strangers to our land.
+SOLDIER: Are you suggesting coconuts migrate?
+ARTHUR: Not at all. They could be carried.
+SOLDIER: What? A swallow carrying a coconut?

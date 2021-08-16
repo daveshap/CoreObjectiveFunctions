@@ -1,0 +1,35 @@
+[META] Updates to the rules in r/NeutralPolitics
+Dear users,
+
+Today we're announcing a few small updates to the rules and procedures. Some of these were already mod policy, but hadn't been added to the official guidelines yet. Others are new.
+
+
+**1. The table in the [sources section of the guidelines](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources) has two new lines to deal with personal blogs and tweets:**
+
+Source type | Submissions | Comments
+---|---|----
+Personal blogs* | Disallowed | Permitted if the blog post links to qualified non-blog sources
+Tweets | may only be used for attributing a statement to the verified account holder | may only be used for attributing a statement to the verified account holder
+
+This means tweets may not be used to support any assertion of fact other than a claim of attribution. For instance, a [tweet from the NeutralPolitics Twitter account](https://twitter.com/NeutralPolitic/status/1022531083341058048) saying, "NeutralPolitics has the best looking mods on all of Reddit!" cannot be used to support assertions about the attractiveness of the mods. It can only be used to demonstrate that the NeutralPolitics mod team *stated* it has the most attractive mods (even though it happens to be true).
+
+ \*A personal blog is defined as a blog with any one of the following characteristics: only has one contributor, allows anonymous contributors without editorial oversight, doesn't have a masthead.
+
+**2. Users may not post top-level comments on their own submissions.** Such comments will be automatically removed.
+
+The review process for submissions is strict and detailed in NeutralPolitics. The mods view top-level comments by submitters as a way to circumvent that process, adding content that would not have been approved under the submission rules. Submitters are free to participate in the discussion as replies to other users.
+
+**3. Submissions asking whether something is "unusual" (and other variations using that word) are no longer allowed.** They are considered non-specific and leading, and as such, violate submission rules A and B. 
+
+ Submitters may still pose questions that examine historical standards and expectations in any of the following more evidence-based forms:
+
+* Is there historical precedent for x?
+* What are some examples of when x has happened before?
+* In what ways, if any, does x break from historical norms?
+* What legal/political/historical basis is there for X to be considered?
+
+**3. Links that redirect from Google are now allowed**, so long as they don't disguise the final destination in the URL (e.g., https://www.google.com/amp/www.latimes.com/politics/la-pol-sac-skelton-california-pension-liabilities-20180118-story.html). Other redirecting links are still prohibited.
+
+**4. After a [16-month hiatus,](https://www.reddit.com/r/NeutralPolitics/comments/5xr3xn/meta_rneutralpolitics_is_opting_out_of_rall_and/) r/NeutralPolitics has returned to r/all on a trial basis.** As always, this runs the risk of attracting participants who don't follow the rules, so we remind our long-time users that the mods rely on reports to find comments that are in violation.
+
+**5. Our sister subreddit, r/NeutralNews, needs more mods and submitters.** See [here.](https://www.reddit.com/r/neutralnews/comments/91srzl/meta_call_for_mods_and_feedback_summer_2018/)

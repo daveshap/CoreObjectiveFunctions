@@ -1,0 +1,1 @@
+How to build a simple transistor switch? How to build the following:A simple Transistor turn-OFF switch.A simple transistors circuit that has its own power source, but when I apply a second alternate power source then it will switch to the second power source. (power sources are two 9V batteries). I don't want to use a relay!

@@ -1,0 +1,26 @@
+FAUST: Hey, are you guys still there? What's going on?
+STANDARD: Meet us on the bridge. Be careful -- it's <u>huge</u> now.
+FAUST: Right.
+HUNTER: You mean his body was still kicking when it ran off with him?
+ROBY: It was horrible -- horrible. Like a chicken.
+FAUST: What happened? Where's Sandy?
+ROBY: Dead.
+FAUST: Dead!
+ROBY: It's monstrous -- it grew, like some horrible tapeworm. We were completely unprepared.
+FAUST: It's still in the ship?
+STANDARD: We'd better seal off the lower maintenance level; at least trap it there.
+HUNTER: At least it can't get up here now.
+ROBY: Two down, four to go.
+STANDARD: What's that supposed to mean?
+ROBY: Nothing.
+HUNTER: Listen, it sure didn't like this flamethrower.
+STANDARD: That's right -- we can't kill it on the ship, but we can at least keep it at bay -- and maybe drive it into the air lock.
+HUNTER: Thing is, I'm about out of fuel.
+FAUST: There's some more combustible fuel down in the storage lockers next to the lounge. I'll go get it.
+STANDARD: No, I don't want us separated.
+FAUST: You just sealed it off; it can't get to that section.
+ROBY: Don't count on it.
+HUNTER: We sure need this flamethrower.
+STANDARD: All right... but do <u>not</u> go below decks.
+FAUST: Right.
+STANDARD: And be right back.

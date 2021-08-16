@@ -1,0 +1,12 @@
+BOILER: We've got to disarm the bomb.
+PINBACK: Doolittle, are you there?
+DOOLITTLE: I'm coming in now. I'm down by the Emergency Air Lock. Too much trouble to come in the Ventral Lock. Would you blow the seal on the emergency hatch so I can come in?
+PINBACK: Oh, sure.
+DOOLITTLE: Hello, Pinback, are you there?
+PINBACK: Yeah, Doolittle. What's up?
+DOOLITTLE: Talby was in the air lock. You blew him out of the ship. I'm going after him. Turn on his helmet radio so I can contact him.
+BOILER: What was that, I didn't hear...
+PINBACK: It's Talby. He's drifting away from the ship without his jetpack.
+DOOLITTLE: Talby, Talby, can you read me?
+BOILER: Can you beat that? I always knew Talby was weird.
+DOOLITTLE: Talby, can you read me?

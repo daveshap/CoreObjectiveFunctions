@@ -1,0 +1,9 @@
+KATE: Ready?
+DADE: Yeah.
+KATE: Alright, let's boot up.
+MARGO: What is it? What's wrong?
+PLAGUE: Nothing, it's just a minor glitch.
+MARGO: Minor glitch" with you seems to turn into a major catastrophe."
+HAL: There's a new virus in the database.
+MARGO: What's happening?
+HAL: It's replicating, eating up memory. What do I do?

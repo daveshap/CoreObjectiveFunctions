@@ -1,0 +1,1 @@
+Flashing screen in Acer, Intel HD Graphics I have an Acer TravelMate X349 running Ubuntu 16.04 LTS 64-bit.The graphics: Intel\u00ae HD Graphics 620 (Kaby Lake GT2)The processor is Intel\u00ae Core\u2122 i5-7200U CPU @ 2.50GHz \u00d7 4.The problem: after some time of using in a session, the screen flashes, usually after switching to another window.Any ideas?

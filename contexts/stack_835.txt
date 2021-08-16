@@ -1,0 +1,1 @@
+Remove a gnome workspace Sometimes I mistakenly rearrange windows so there is an empty workspace at the top or middle of the list. So I need to move all the windows \"up\" to get rid of it. Annoying.How can I remove a specific workspace?

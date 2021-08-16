@@ -1,0 +1,1 @@
+Creating Thick Neatline using ArcGIS Desktop? How would I change the thickness of a neatline using ArcGIS 10.2.1? Alternatively, if neatline thickness can't be changed, how would I draw it with a rectangle with no fill and rounding?The map view is a rectangle occupying all but the top and the bottom of the neatline which have the title and legend respectively.

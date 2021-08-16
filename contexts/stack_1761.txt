@@ -1,0 +1,1 @@
+How can I isolate the output of a SMPS What options do I have for isolating the input and output of a switch-mode power supply?I think one method could be to use a transformer.I have read that many SMPS designs use a high-frequency transformer. What does this mean, and does this provide isolation?

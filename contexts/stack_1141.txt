@@ -1,0 +1,1 @@
+Migrating SQL Server 2000 to 2008/14 - Stored procedures compatibility? I am planning migration from old SQL server 2000 db to 2014 (through 2008 extra step). I Wonder if stored procedures will work with no tweaks or arrangements are required

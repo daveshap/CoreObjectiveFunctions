@@ -1,0 +1,26 @@
+In the Senate impeachment trial, are subpoena-defying witnesses like Bolton, Giuliani, Pompeo, Perry and Mulvaney more or less likely to testify because of trial rules? Would there still need to be a lengthy legal challenge or could the Chief Justice simply order them to testify?
+The Constitution is famously laconic when it comes to the rules of an impeachment trial. Cited here:
+
+>[Article I, Section 3, Clauses 6 and 7](https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution#Clause_6:_Trial_of_Impeachment) provides:  
+>  
+>The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two-thirds of the Members present.
+
+According to the Constitution, the [Chief Justice John Roberts](https://www.washingtonpost.com/politics/senate-impeachment-trial-to-test-chief-justice-who-has-tangled-with-trump/2019/11/05/1c220a7e-fb3e-11e9-ac8c-8eced29ca6ef_story.html) will "preside" over the trial, but it gives no detail about what powers are entailed to him.
+
+My question explicitly involves evidence and witnesses. I'm wondering, what do we know about how the Senate impeachment trial might work with regards to evidence and witness testimony? Who has the power to compel witness testimony or the turning over of material evidence and with what force?
+
+While the Chief Justice "presides," it's not clear to me what that power consists in, nor who has the power to compel witnesses or evidence.
+
+This article suggests that [A Tactical Edge Will Shift to GOP in Senate Trial](https://apnews.com/227149e8403744bf87261f4c9a06f002), where they would be able to call witnesses like Hunter and Joe Biden.
+
+Here are some relevant quotes from the [Rules of Procedure and Practice in the Senate When Sitting on Impeachment Trials](https://www.law.cornell.edu/background/impeach/senaterules.pdf)
+
+Section II references the "Presiding Officer of the Senate," who announces the impeachment and swears in the senators.
+
+Section IV states that in the case of the impeachment of a President or Vice President, as opposed to a judge or some other official, the "Chief Justice of the United States shall preside." Furthermore, the Chief Justice "shall be administered an oath by the Presiding Officer of the Senate."
+
+Section V dictates that the "Presiding Officer shall have power to make and issue...all orders, mandates, writs and precepts..."
+
+Section VI then broadens the power to compel witnesses to the entire Senate: "Senate shall have power to compel the attendance of witnesses, to enforce obedience to its orders, mandates, writs, precepts and judgments..." 
+
+What I'm trying to figure out is what power does Roberts have here as the Presiding Officer on the trial, what powers would McConnell or Pence have as the Presiding Officer on the Senate, and what powers would the Senate as a whole have?

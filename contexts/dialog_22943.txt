@@ -1,0 +1,8 @@
+JIM: Hi.
+ASSISTANT: Is it a gift for your wife? Are you getting a set together?
+JIM: No, I'm not married. It's for my daughter.
+ASSISTANT: For going to school?
+JIM: Yeah, she won a fellowship.
+ASSISTANT: Good for her.
+JIM: I'll take the whole set.
+ASSISTANT: Excellent.

@@ -1,0 +1,4 @@
+PICARD: It's Cochrane.
+BEVERLY: I've stabilized him for now... but he's in a coma and he's going to need radiometric therapy. I want to take him to the ship.
+PICARD: Picard to Enterprise. Enterprise, please respond.
+GEORDI: It could be the radiation, Captain. Try from the surface.

@@ -1,0 +1,28 @@
+What are the facts surrounding the Michael Flynn prosecution case?
+BACKGROUND: Former Trump National Security Adviser Michael Flynn was charged and pled guilty to [lying to the FBI](https://www.npr.org/2017/12/01/561238303/michael-flynn-sr-expected-to-plead-guilty-to-lying-to-fbi) about contacts with Russian Ambassador Sergey Kislyak. Specifically, he lied about conversations he had with Kislyak, regarding Sanctions and about Israeli settlements:
+
+> Flynn requested that Russia not retaliate against the punitive measures just imposed by the U.S., the court papers say. Flynn then called the transition official to report on his discussion. The following day, Russia announced that it would not take retaliatory measures against the U.S.
+
+and
+
+> Flynn also engaged in a similar back-and-forth with the Russian ambassador over a U.N. Security Council vote on a resolution condemning Israeli settlements in the occupied West Bank and East Jerusalem. The incoming Trump administration opposed the resolution, and Flynn asked the Russian envoy to either oppose the measure or delay it. Flynn was directed by a "very senior member" of the transition team to make the request, court papers say.
+
+Flynn ultimately pled guilty to the charges and made a statement afterwards, saying:
+
+> "My guilty plea and agreement to cooperate with the special counsel's office reflect a decision I made in the best interests of my family and of our country. I accept full responsibility for my actions,"
+
+[source](https://www.npr.org/2020/05/08/852582068/mike-flynn-pleaded-guilty-why-is-the-justice-department-dropping-the-charges)
+
+On April 30, a judge ruled that the documents pertaining to the Flynn case be unsealed, which included hand-written FBI notes when his FBI interview took place. These notes were the basis of the argument that the interview was essentially a setup, and the FBI had no case against Michael Flynn. [source](https://www.npr.org/2020/04/30/848179290/judge-unseals-documents-related-to-michael-flynns-fbi-interview)
+
+On May 7, the Department of Justice announced they were [dropping the case against Michael Flynn](https://www.npr.org/2020/05/07/852247792/justice-department-is-dropping-case-against-ex-trump-adviser-michael-flynn), despite previously recommending his sentence.
+
+Attorney General Bill Barr claimed:
+
+> "A crime can not be established here," Barr said on CBS News on Thursday evening. "They did not have a basis for a counter-intelligence investigation against Flynn at that stage."
+
+And just today, an Appeals Court voted 2-1 to [order a lower judge to throw out the case against Michael Flynn](https://www.npr.org/2020/06/24/882787253/appeals-court-orders-lower-judge-to-throw-out-michael-flynn-case)
+
+So, with all of that being said, I just want to try to understand what *are* the facts surrounding what has happened recently with the Flynn case, specifically regarding the FBI notes, the Department of Justice's decision to change their sentencing recommendation and completely drop the case, and now an appeals court ruling that a lower judge must drop the case. 
+
+I also want to know what evidence exists that supports the argument that Michael Flynn did not commit a crime.

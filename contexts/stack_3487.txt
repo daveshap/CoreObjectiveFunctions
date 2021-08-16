@@ -1,0 +1,1 @@
+Is it safe to get html encoded data from database to prevent stored XSS attack? for security purpose now i'm fetching all data from database with htmlEncoded format. it is correct? please help..

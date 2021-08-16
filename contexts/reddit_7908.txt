@@ -1,0 +1,8 @@
+Being railroaded by a territorial peer-reviewer
+Guys, I am beyond infuriated right now.
+
+So I submit a manuscript and the reviews come back. The first reviewer enjoys it a lot and makes helpful suggestions, the second goes on and on how I did not take into account the theoretical state-of-the-art of the field and that I need to rework the theory section to use it as a foundation. They then cite 5 papers (all with a common author and none with more than 1 or 2 citations from anyone that isn't that author, CURIOUS) that we "need to use". I review those papers. They are unclear and meandering, dense and almost impossible to parse, utterly useless for practitioners, which my paper is aimed at. But most importantly, *the theory is not even applicable to my paper because the author makes a fundamental assumption that cannot be applied to my work under any circumstance. In fact, logical extensions of my theory would render their theory obsolete and I could easily write another paper demonstrating this*.
+
+So I write up a polite, but firm response letter detailing why the reviewer's requested changes will not be implemented and send the paper back. This paper has manuscript status logs and according to them, the reviewer returned their second review 12 minutes after confirming the invitation and wrote a two sentence "review" that just restated what they said the first time without any acknowledgement whatsoever of my response, claiming that I "ignored" their comments. So they didn't read my response obviously.
+
+Now I'm mad, reddit. I contacted the editorial office to notify them of this, and I honestly would not mind if they out and out rejected me at this point. Am I out of line here? Is this common?

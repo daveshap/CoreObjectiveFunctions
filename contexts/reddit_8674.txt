@@ -1,0 +1,12 @@
+[META] Announcing an update to Rule 2: "Your source is biased" is not an argument.
+Valued participants:
+
+A common tactic in political discussion these days is to discount someone's point by simply accusing their source of bias. This will not fly in r/NeutralPolitics. On its own, "your source is biased" is neither an argument nor a useful contributor to discourse. We also consider it a factual claim, meaning it requires its own source. Accordingly, the bullet points under [Rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_rule_2.3A_source_your_facts) have been updated to include the following:
+
+> The charge that a source is biased, inappropriate, or doesn't support the associated claim is itself considered an assertion of fact and therefore requires its own source.
+
+If you believe someone's source is incorrect or inappropriate, *politely* quote the portion of the article that demonstrates your point or provide a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources) that does the same. Failure to do so will get your comment removed under [Rule 2.](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_rule_2.3A_source_your_facts) There are other subs to discuss media bias.
+
+Thank you.
+
+— r/NeutralPolitics mod team

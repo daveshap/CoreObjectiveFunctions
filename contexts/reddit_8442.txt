@@ -1,0 +1,21 @@
+There is a proposal to force visitors to the US to divulge their social media passwords. Is it legal and how could it be enforced?
+This article suggests that this proposal, based on an earlier policy considered by the Obama administration, is back on the table again: 
+http://www.nbcnews.com/news/us-news/us-visitors-may-have-hand-over-social-media-passwords-kelly-n718216
+
+Original Memorandum Text (2015): https://www.scribd.com/document/293529513/Policy-Memorandum-Social-Networking-Site-Redacted
+
+Edit: full transcript of Kelly's remarks:
+http://www.npr.org/templates/transcript/transcript.php?storyId=514175464
+
+> KELLY: Yeah. You know, pick a country. The thing that we're looking for is when a person comes in, the State Department does these interviews. Someone comes in and says, I want to come to the United States. Then we ask them to give us a list of websites that they visit and the passwords to get on those websites to see what they're looking at. This is...
+
+> MARTIN: You require that of anyone who is looking to immigrate to the U.S.?
+
+> KELLY: Well, considering that, yeah - social media to see what they tweet; cell phones - cell phone conversations or cell phone contact books to where we can run them against databases, telephone numbers, people's names. Europe, the United States maintains databases and shares those databases. So these are some of the things we're thinking about.
+
+My initial concern would be over whether this type of invasive screening would be legal, but I think more important would be the question of its implementation.
+
+1) Do the existing provisions (4th amendment) apply here (EFF seem to think it does based on Riley v California: https://www.eff.org/deeplinks/2017/01/fear-materialized-border-agents-demand-social-media-data-americans) or since the proposed policy changes are specific to visitors does the 4th not apply?
+
+
+2) How can such a policy be enforced with travellers who don't divulge their participation in social media?

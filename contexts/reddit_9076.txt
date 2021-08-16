@@ -1,0 +1,29 @@
+What evidence does Volume II of the Mueller report provide that suggest actions by the President were made with the intent to obstruct justice?
+In [his report](https://www.justice.gov/storage/report.pdf)^1 released with redactions today, Special Counsel Robert S. Mueller said:
+
+>Beginning in 2017, the President of the United States took a variety of actions towards the
+ongoing FBI investigation into Russia's interference in the 2016 presidential election and related
+matters that raised questions about whether he had obstructed justice. The Order appointing the
+Special Counsel gave this Office jurisdiction to investigate matters that arose directly from the
+FBI's Russia investigation, including whether the President had obstructed justice in connection
+with Russia-related investigations. The Special Counsel's jurisdiction also covered potentially
+obstructive acts related to the Special Counsel's investigation itself."
+
+
+What evidence in Volume II of the report suggest that the President was involved in an action that could obstruct justice and did so with the intent to obstruct?
+
+---
+
+^1 GIANT PDF warning.  This thing is over 100 MB.  It's also not text searchable.  [This](https://viewfromll2.files.wordpress.com/2019/04/mueller-report.pdf) is a searchable version which was done with OCR and may not be 100% accurate in word searches.
+
+^2 Vol 2, p. 1
+
+---
+
+Special request:  **Please cite volume and page numbers when referencing the report.**
+
+This thing is an absolute beast of a document clocking in over 400 pages.  It is broken into two volumes, volume 1 on Russian interference efforts and links to the Trump campaign, and volume 2 on obstruction of justice.  Each volume has its own page numbers.  So when citing anything from the report, please say a page *and volume* number.
+
+If you cite the report without a page number we will not consider that a proper source, because it's too difficult to check.
+
+Please note, this is a mod post and will be moderated more strictly than usual due to the high level of interest in this matter.

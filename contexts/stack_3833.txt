@@ -1,0 +1,1 @@
+Converting shape into polygons in R How can I convert shape to polygons in R. There was such an option \"shape2poly\" a few years ago but now its removed. Any ideas ?

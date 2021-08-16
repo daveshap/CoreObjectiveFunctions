@@ -1,0 +1,1 @@
+Is it possible for first party cookies set by a.com to somehow know that the user also visited b.com (i.e. able to read the url)? Is it possible for some malicious website (a.com) to set a first party cookie in my desktop browser when I visit a.com and use it to read other URLs I'm browsing? Any hints will be appreciated!

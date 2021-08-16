@@ -1,0 +1,1 @@
+iMac 2017 5k host, iMac 2017 21 target display mode I am using my iMac 2017 5k as my main machine and want to use my 21 inch 2017 iMac in target display mode. When I try command f2 I hear a beep and nothing happens. I have also tried doing it at the login screen and also tried fn command f2 but nothing worked. What am I doing wrong? Is this possible?

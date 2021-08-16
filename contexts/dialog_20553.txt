@@ -1,0 +1,10 @@
+CORNWALLIS: It seems our Swamp Fox wants to have a formal parley.
+TARLETON: Are you going to meet with him?
+CORNWALLIS: Most certainly. Arrange it.
+MAJOR HALBERT: Lord Cornwallis will be with you presently.
+MARION: Thank you.
+MAJOR HALBERT: You may, of course, keep your weapons, but I must warn you that...
+MARION: I'm familiar with appropriate behavior at a military parley.
+MAJOR HALBERT: Yes, quite, but you should know that...
+MARION: That will be all, Major. I'll wait for Lord Cornwallis.
+MAJOR HALBERT: Yes... you will wait.

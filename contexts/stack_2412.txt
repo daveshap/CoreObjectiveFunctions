@@ -1,0 +1,1 @@
+\"Dirty\" polygons created when using \"Merge selected features\" in QGIS When I selecting features to merge in QGIS 2.14.3-Essen using \"merge selected features\I sometimes get \"dirty\" results with redundant polygon vertices. Is there an ex-ante or an ex-post way to get rid of them? Using Mac OS 10.11.6 El Capitan

@@ -1,0 +1,1 @@
+How to install Ubuntu 18.04 on SSD+HDD hybrid with proper partitioning? I have an 128 gig SDD and a 1TB HDD.  I want to use my ssd for root and home partition  and use the HDD for mass storage where I'll store movies and other files. How do I do that?

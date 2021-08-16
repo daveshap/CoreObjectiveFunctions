@@ -1,0 +1,13 @@
+JULIE: It's been on the market a while, hasn't it?
+REAL-ESTATE LADY: Not very long. There have been a couple of bids already.
+JULIE: Because it caught my eye when it was in a higher price bracket in the listings.
+REAL-ESTATE LADY: Oh, yes, well, you know, when developers remodel a house they often overestimate their costs at first. It's not like it's been marked down or anything.
+JULIE: Just reduced.
+REAL-ESTATE LADY: Sometimes they prefer a quicker return on their investment.
+JULIE: This is a terrific entrance hall, What a welcoming feeling.
+REAL-ESTATE LADY: Isn't it?
+REAL-ESTATE LADY: You'll see that there's really much more space than the average three bedroom.
+JULIE: Oh, space! -- You said the right thing.
+REAL-ESTATE LADY: How large is your brood?
+JULIE: Two -- three if you count the husband.
+REAL-ESTATE LADY: We must <u>always</u> count the husband. By my count there've been... four. But I still live in hope.

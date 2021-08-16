@@ -1,0 +1,1 @@
+How can I change the character limit of the search entry in the WhiskerMenu? I'm using Ubuntu 16.04 LTS and like to put my searches directly into the Search entry in my Whisker Menu on Xfce4, but there's a limit of using only 14 characters in the search.Is there a workaround or a configuration for this?

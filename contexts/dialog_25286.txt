@@ -1,0 +1,5 @@
+SULU: 10,000 M.S.L., Admiral.
+KIRK: Wing to cruise configuration... Full impulse power.
+SULU: Aye, sir... Three-one-zero to the Bering Sea. E.T.A.: 12 minutes.
+KIRK: Scotty: Are the whale tanks secure?
+SCOTTY: Aye. But I've never beamed up 400 tons before.

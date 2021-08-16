@@ -1,0 +1,15 @@
+ALAN: Good.
+EDGAR: That's just the way we like it.
+SAM: Grandpa, the Widow Johnson called. She said to pick her up a seven instead of eight.
+GRANDPA: Did we have a date tonight?
+SAM: I guess so. She said not to be late.
+GRANDPA: I better get cleaned up, then.
+STAR: They'll be coming for Laddie and me, won't they?
+MICHAEL: They'll be coming for <u>all</u> of us.
+MAX: Maybe this is the night where everything finally goes right for a change.
+LUCY: I hope so.
+MAX: Something the matter?
+LUCY: No, no. Just worrying about my boys -- as usual.
+MAX: Let me tell you something about boys. They're like weeds. They grow best when they're ignored.
+LUCY: I thought you said they needed discipline?
+MAX: Well... what do I know? I'm a bachelor. Lucy... this is going to be a very special night, I promise you.

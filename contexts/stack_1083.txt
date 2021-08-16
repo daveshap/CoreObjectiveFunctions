@@ -1,0 +1,1 @@
+Swap mouse's Primary Button using a shortcut-key In Ubuntu mouse's Primary Button can be easily swapped between left and right from the Settings menu.I'd like to make such change possible from a keyboard's shortcut.Is there any way to create such shortcut? Or does it already exist?

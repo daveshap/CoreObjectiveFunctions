@@ -1,0 +1,1 @@
+Self-hosted, open-source web client for own mail and calendar servers I have own virtual private server and I'm looking for self-hosted, open-source web software (some client) with GUI to manage mail accounts and calendars.Can you recommend me something?

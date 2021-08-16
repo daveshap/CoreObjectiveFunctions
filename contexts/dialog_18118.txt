@@ -1,0 +1,43 @@
+MATTHIAS: Would you remove your hat please?
+ETHAN: Why?
+MATTHIAS: You wish to meet Max? This is the price of admission.
+ETHAN: I thought I was going to see Max.
+MATTHIAS: You misunderstood. No one sees Max.
+ETHAN: Then what am I doing here?
+MATTHIAS: Allowing Max to see you and hear what you've got to say.
+ETHAN: I don't communicate very well through a shroud.
+MATTHIAS: If Max doesn't like what you have to say, you'll be wearing that shroud indefinitely.
+ETHAN: I'm willing to take the chance.
+MATTHIAS: Very well.
+MAX: Who are you and what are you doing here?
+ETHAN: I need one hundred thousand dollars.
+MAX: Really? And you thought if you simply showed up I might give it to you?
+ETHAN: Why not? You gave Job a hundred and twenty five thousand.
+MAX: The penny drops. <u>You</u> are <u>not</u> Job. Yes, Job is not given to quoting Scripture in his communications. And there was its tone -- aggressive but playful. Job is not playful. So you're something of a paradox.
+ETHAN: That depends.
+MAX: On what?
+ETHAN: Whether you like a paradox. I want a hundred and fifty thousand dollars.
+MAX: It's quite out of the question.
+ETHAN: The disk Job sold you is worthless. It's bait, part of an internal molehunt.
+MAX: And how might you know that? Are you another Company man?
+ETHAN: Like Job?
+MAX: Ah, but, we're asking about you.
+ETHAN: I'm NOC. Was. <u>Now</u> disavowed.
+MAX: Why, may I ask?
+ETHAN: That's the question I want to ask Job.
+MAX: I don't know Job any more than he knows me.
+ETHAN: Even so, I'm sure you could arrange an introduction.
+MAX: Why should I?
+ETHAN: Because I can deliver the actual NOC list. The one you have is not only worthless, it's certain to be equipped with a homing device to pinpoint your exact location.
+MAX: It's easy to say the disk is worthless when you say I can't look at the information and <u>see</u> if it's worthless. Not a tenable position, sir.
+ETHAN: Okay, boot it up and in anywhere from thirty seconds to ten minutes you're gonna have Virginia farm boys hopping around you like jackrabbits.
+MAX: Mm - Hmmm...
+ETHAN: Tell you what. How good's the RF scanner you used in the car?
+MAX: Very good.
+ETHAN: Okay, use it. But I suggest pack up first.
+MATTHIAS: Twenty-six, twenty-seven. So far so good.
+MAX: That's not so good for you, my friend.
+MATTHIAS: Thirty-two and change.
+MAX: Doesn't mean it's a signal. Could just be the hard drive heating up.
+MATTHIAS: Forty-four. Forty-five.
+ETHAN: I'd say you've got about two minutes.

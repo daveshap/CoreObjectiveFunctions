@@ -1,0 +1,5 @@
+ROBY: Yes!
+STANDARD: We've got it up here! It's trapped! Get up here fast!
+ROBY: Where are you?
+STANDARD: Food-storage room!
+ROBY: We're coming!

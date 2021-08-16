@@ -1,0 +1,1 @@
+Li-ion Modded Powerbank Question So I got this single Li-ion power bank. It's a 18650, and I wanted to add another 18650 in parallel. I want to use the same circuit which produces a constant 5v. Is it safe to do it that way? in parallel. If no, what is the cheapest &amp; easiest solution?

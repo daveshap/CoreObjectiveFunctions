@@ -1,0 +1,1 @@
+Convert .ogg file containing cover art to .mp4 file I tried using FFMPEG, however if it has cover art it fails and the cover art is not included in the MP4 file.No, I will not use VLC.

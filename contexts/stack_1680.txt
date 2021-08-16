@@ -1,0 +1,1 @@
+Xr2206 sine wave oscillator If xr2206 is used to generate a sine wave does it have dc component? Based on my analysis it does not have.

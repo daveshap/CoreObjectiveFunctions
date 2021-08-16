@@ -1,0 +1,1 @@
+FlatPack in Ubuntu Core Ubuntu Core has multiple useful features for iot but snap is not one of them because of proprietary store/no self-hosted repositories option.Is there any way to use flatpack in Ubuntu Core / a real open source package distribution?

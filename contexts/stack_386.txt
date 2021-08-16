@@ -1,0 +1,1 @@
+trouble in installing android studio after installing android studio and running all the commands in terminal and saving the text editor \".desktop'' file..terminal is showing the following error-Key file does not start with a group

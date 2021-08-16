@@ -1,0 +1,7 @@
+KNIGHT: Long time.
+TAUPIN: Not so long.
+TAUPIN: You've been here from the start.
+KNIGHT: My quarry grows clever with age. And the others, incompetent.
+KNIGHT: Friend of yours?
+TAUPIN: Of sorts.
+KNIGHT: I do hope she enjoys a good show.

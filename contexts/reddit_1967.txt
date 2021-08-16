@@ -1,0 +1,246 @@
+An analysis of 3,069 college emails
+I once read a post on /r/A2C nearly one year ago from /u/Popopopper123 titled "A brief analysis of 2374 college emails" which you can find [here](https://www.reddit.com/r/ApplyingToCollege/comments/aibmii/a_brief_analysis_of_2374_college_emails/), and I knew when reading that I would want to conduct some analysis of my own.
+
+One year later, I finally committed to a university, ~~I'm procrastinating studying for my AP exams~~, and I'm excited to take a look at the schools that have been harassing me for the past 4 years.
+
+**Disclaimers:**
+
+* These numbers may actually be underestimated. In the fall, I created a new email address that I thought was more professional than my last. I set up my old inbox to forward every email I received to the new email inbox, but there possibly were emails that got caught in the spam filter of my first email that I could not get access to.
+* I'm not sure of the legality of this, but my high school gives assignments that are basically filling out forms with your information, and this information is then sold to colleges. I was forced to give out my information probably 5 times.
+* I took the PSAT 3 times, SAT 3 times, and ACT 2 times, and never once did I opt out of the Student Search Service.
+* I don't believe I deleted any emails, and I usually added them to a folder that was specifically for college mail. I don't believe I unsubscribed either, but I may have gotten annoyed once or twice and done it a couple times.
+* I only ever personally requested information from two colleges: the University of Florida and the University of Pennsylvania.
+* I made sure not to include any emails of the 14 colleges I applied to after I submitted my application so as not to skew their numbers.
+* I counted these numbers by searching each college's name and recording them in an excel sheet, and I am prone to error.
+
+----------------------------
+
+# General Statistics:
+
+* I counted a total **3,069 emails** from **127 different colleges**.
+* The average college sent me **\~24** emails each. (median: 15 for you AP statistics folks)
+* My very first email was from Rensselaer Polytechnic Institute on January 10, 2017.
+* You can see a [graph of the distribution here](https://imgur.com/nOO1SLF).
+
+# Top Spammers:
+
+1. Drumroll please! >!Tulane University!<: 170 emails
+2. Misericordia University: 103 emails
+3. University of Notre Dame: 99 emails
+4. The College of Wooster: 87 emails
+5. Fordham University: 78 emails
+6. Cornell University: 78 emails
+7. Washington & Jefferson College: 71 emails
+8. Hillsdale College 69 emails
+9. Rice University: 67 emails
+10. Wake Forest University: 64 emails
+
+# T20 Schools:
+
+I would like to believe I had the stats to be competitive at these schools, and while that may not have been true many emailed me anyway.
+
+^(Please don't harass me on what schools are T20s I hate the term and I'm only doing this to please A2C's prestige obsession.)
+
+* Harvard 12 emails
+* Yale 24 emails
+* Princeton 9 emails
+* Stanford 4 emails
+* MIT 2 emails
+* Caltech 0 emails
+* UChicago 57 emails
+* UCLA 10 emails
+* UC Berkeley 0 emails
+* Dartmouth 0 emails
+* Vanderbilt 13 emails
+* Michigan 0 emails
+* Columbia 41 emails
+* Cornell 78 emails
+* Penn 15 emails
+* Johns Hopkins 47 emails
+* Northwestern 5 emails
+* Carnegie Mellon 8 emails
+* Brown 35 emails
+* Duke 0 emails
+* Notre Dame 99 emails
+
+# Some Raw Data:
+
+^(in alphabetical order for you to examine your own colleges)
+
+\*some of these are weirdly specific local schools so I'm sure you've never heard of a few
+
+* Alderson Broaddus University	39
+* Amherst College	3
+* Babson College	11
+* Bentley University	6
+* Berea College	15
+* Boston University	20
+* Bowdoin College	1
+* Brown University	35
+* Bucknell University	29
+* Cal Poly	5
+* California University of Pennsylvania	35
+* Carleton College	16
+* Carnegie Mellon University	8
+* Case Western Reserve University	43
+* Charleston Southern University	11
+* Claremont McKenna College	11
+* Colby College	45
+* Colgate University	25
+* Columbia University	41
+* Concord University	32
+* Cornell University	78
+* Drexel University	40
+* Duquesne University	22
+* Eastern Mennonite University	12
+* Embry-Riddle Aeronautical University	21
+* Emory University	22
+* Fairmont State University	16
+* Florida Atlantic University	2
+* Florida International University	9
+* Fordham University	78
+* Full Sail University	18
+* Furman University	12
+* George Mason University	41
+* George Washington University	13
+* Georgetown University	4
+* Glenville State College	35
+* Grinnell College	2
+* Harvard University	12
+* Harvey Mudd College	3
+* Hillsdale College	69
+* Indiana University	8
+* John Paul the Great	3
+* Johns Hopkins University	47
+* Lehigh University	14
+* Long Island University	61
+* Make School	7
+* Marietta College	7
+* Marlboro College	1
+* Marshall University	62
+* Metropolitan University	3
+* Milwaukee School of Engineering	3
+* Misericordia University	103
+* MIT	2
+* Mount Aloysius College	47
+* Mount St. Mary's University	33
+* NC State University	22
+* Neumont College of Computer Science	1
+* New York University	4
+* Northeastern University	8
+* Northwestern University	5
+* Norwich University	11
+* Oklahoma University	55
+* Olin College of Engineering	10
+* Otterbein University	52
+* Penn State - Fayette	4
+* Penn State - University Park	12
+* Pepperdine University	2
+* Pitt	45
+* Pomona College	26
+* Princeton University	9
+* Purdue University	37
+* Rensselaer Polytechnic Institute	52
+* Rice University	67
+* Rochester Institute of Technology	33
+* Rose-Hulman Institute of Technology	29
+* Saint Louis University	12
+* Sarah Lawrence College	4
+* Savannah College of Art and Design	12
+* Shawnee State University	21
+* Shippensburg University	15
+* Southern Methodist University	12
+* Stanford University	4
+* Stevens Institute of Technology	12
+* Stevenson University	25
+* SUNY ESF	18
+* Swarthmore College	22
+* Tel Aviv University	4
+* The College of Wooster	87
+* THE Ohio State University	9
+* Thiel College	30
+* Tulane University	170
+* UCLA	10
+* University of Akron	53
+* University of Alabama	19
+* University of Baltimore	13
+* University of Chicago	57
+* University of Denver	9
+* University of Florida	3
+* University of Kentucky	41
+* University of Maryland	8
+* University of North Carolina - Charlotte	10
+* University of Notre Dame	99
+* University of Pennsylvania	15
+* University of Richmond	10
+* University of Rochester	2
+* University of San Francisco	40
+* University of Southern California	8
+* University of Tampa	14
+* University of Tennessee	37
+* University of Texas at Dallas	6
+* University of Virginia	4
+* University of Virginia - Wise	15
+* Vanderbilt University	13
+* Vassar College	2
+* Villanova University	9
+* Wake Forest University	64
+* Washington & Jefferson College	71
+* Washington and Lee University	9
+* Washington University in St. Louis	62
+* Waynesburg University	16
+* Wesleyan University	3
+* West Point Academy	1
+* West Virginia University	16
+* Western Colorado University	1
+* Wheeling Jesuit University	23
+* Yale University	24
+
+--------------------------------------------
+
+# Fee Waivers:
+
+**12** colleges sent me application fee waivers:
+
+College of Wooster, Fordham University\*, RIT\*, Mount St. Mary's, Marietta College\*, Waynesburg University, Embry-Riddle Aeronautical University, University of San Francisco, University of Alabama\*, John Paul the Great (initially gave me an 80% discount), Oklahoma University, and the University of Akron.
+
+I applied to the schools marked with a \*.
+
+# Deadline Extensions:
+
+I received deadline extensions from **13** colleges:
+
+Wooster (4 times), Mount St. Mary's (3 times), Rensselaer Polytechnic Institute (3 times), George Mason, Kentucky, John Paul the Great, Oklahoma, Otterbein, Emory, Olin, George Washington, George Mason, and Make School.
+
+# Emojis:
+
+**7** schools sent me emails with emojis in the subject line 😎:
+
+* Carleton College (4 out of 16 emails had emojis in the subject)
+* Colgate College 1 out of 25
+* Florida International University 7/9
+* Full Sail University 2/18
+* Johns Hopkins University 4/50
+* Rice University 5/67
+* Tulane University 11/170 (every subject was extremely cringe-y as well)
+
+# General Fun Statistics:
+
+* I received **11** emails from 9 different colleges that said "is this \[my name\]?" in the subject line. I still don't understand the point of these.
+* **5** schools sent me emails with "urgent" in the subject line.
+* Surprisingly I have never received any emails from the notoriously annoying LSU. Sorry to disappoint.
+* Although, Tulane has sent me a total 170 emails, they haven't sent me an email since **January 14th**.
+* **13** of Rochester Institute of Technology's 33 emails didn't actually have the school's name anywhere in the message, only "RIT".
+* The College of Wooster sent me **3** emails recruiting me as an athlete when I am absolutely ASS at the sport that I do participate in.
+* Wesleyan University sent me an "undercover" email where they bragged about the school and didn't include their school's name in the email, only a link to [www.UncommonU.org](http://www.UncommonU.org).
+* Colgate University once addressed an email to me as "Dear {\[PREFERRED\]}". Someone in the recruiting office made an oopsie.
+* Only **355** emails said that they had received my information from CollegeBoard's Student Search Service.
+* **363** (!) emails had a "P.S." at the bottom.
+* Mount Aloysius College once sent me **11** emails within the span of 24 hours.
+* Misericordia once spelled the name of their OWN UNIVERSITY wrong (spelled it Misercordia without the i).
+
+---------------------------------------------
+
+One thing that I think would be very cool would be to make a cumulative bar chart over time like the ones currently popular over on /r/dataisbeautiful but that would require some coding and is way out of my expertise.
+
+Uh I think that's it. Thanks for reading if you made it this far. Let me know if you are curious about something else in the comments and I can try my best to give an answer.

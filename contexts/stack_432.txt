@@ -1,0 +1,1 @@
+Screen tearing on Nvidia GTX960m I recently bought MSI GP72 7QF (i5-7300HQ + Nvidia GTX960m) and I am experiencing annoying screen tearing after installing Ubuntu 17.04. I have the latest Nvidia driver installed (384.59), but it's still tearing. I guess the problem is PRIME synchronization.How can I fix it?

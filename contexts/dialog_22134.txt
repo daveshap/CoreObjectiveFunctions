@@ -1,0 +1,8 @@
+NINEDENINE: Ah, good. New acquisitions. You are a protocol droid, are you not?
+THREEPIO: I am See-Threepio, human-cy...
+NINEDENINE: Yes or no will do.
+THREEPIO: Oh. Well, yes.
+NINEDENINE: How many languages do you speak?
+THREEPIO: I am fluent in over six million forms of communication, and can readily...
+NINEDENINE: Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
+THREEPIO: Disintegrated?

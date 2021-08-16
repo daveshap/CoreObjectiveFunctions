@@ -1,0 +1,1 @@
+How do I fix iPhone SE celluar network after 12.1.2 upgrade? My iPhone SE was just upgraded with ios 12.1.2, but the cellular network is now dead.  After restarting it, I got this message<blockquote>  Cellular Update Failed    Your iPhone cannot make and receive calls or access cellular data until it has been updated.    Learn More / OK</blockquote>

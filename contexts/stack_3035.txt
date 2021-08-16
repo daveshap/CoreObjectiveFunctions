@@ -1,0 +1,1 @@
+X-ray frequency or crystal structure: which was known first? In the classical Bragg setup, one can determine the distance between crystal layers if the wavelength of a characteristic line is known or the other way round, calculate the distance if the wavelength of a x-ray line is known.Which quantity was determined first and how?

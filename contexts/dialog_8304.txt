@@ -1,0 +1,4 @@
+GIN: I've got something...
+MAC: I sincerely hope so.
+GIN: You're not taking me seriously.
+MAC: Oh, I'm taking you...quite seriously.

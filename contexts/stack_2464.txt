@@ -1,0 +1,1 @@
+Is there a way to save and share topology rules in QGIS? I would like to create a set of topology rules and use them over and over again. I would also like to be able to share them with my team. Is there a way to do this in QGIS? I'm using QGIS 3.0 but I can switch to earlier versions of necessary.

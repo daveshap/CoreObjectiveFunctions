@@ -1,0 +1,1 @@
+Angular Momentum vs Moment of Inertia Pretty sure that this question has already been answered in this site, but I cannot find it. Anyway, here's the question: What is the difference between angular momentum and moment of inertia?

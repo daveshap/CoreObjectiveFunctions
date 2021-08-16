@@ -1,0 +1,1 @@
+Understanding root access better I'm attempting to save a .sh file to usr/share/blueproximity and I'm being told that I don't have sufficient permissions. sudo id says uid is 0. Any help would be greatly appreciated. I'm fairly new at Linux, thanks in advance.

@@ -1,0 +1,6 @@
+LUDWIG: Ludwig.
+OSKAR: Oskar.
+KAFKA: You look like brothers.
+ASSISTANTS: Yes -- we do.
+KAFKA: Have you worked here long?
+ASSISTANTS: No, no, no -- quite a long time, yes.

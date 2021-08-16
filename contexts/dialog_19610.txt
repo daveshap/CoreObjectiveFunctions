@@ -1,0 +1,8 @@
+WILL: Okay, you're attacked by the Bog Demon. Go ahead.
+TARYN: Uh, fourteen.
+WILL: Doesn't count. You gotta say the words.
+TARYN: This is stupid.
+WILL: C'mon.
+TARYN: In the name of Elric, Prince of Elves, demon begone.
+WILL: Good. You conquer the demon, but your horse is sinking in the bog. What do you do?
+TARYN: I go to bed and get a new horse in the morning.

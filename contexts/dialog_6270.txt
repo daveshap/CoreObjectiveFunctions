@@ -1,0 +1,20 @@
+MAX: Hi, Ma.
+IDA: I've been calling and calling.
+MAX: I got caught up at work.
+IDA: You couldn't pick up a phone? I'm lying here, wondering if something horrible happened...
+MAX: I brought you flowers.
+IDA: What am I gonna do with flowers?
+MAX: You're gonna cheer up.
+IDA: By worrying about you spending money on foolish things? So I can watch them wilt?
+MAX: He paid for 'em.
+IDA: Why didn't you tell me we had company? And what's your name?
+VINCENT: No harm done, ma'am.
+IDA: You paid for my flowers? They're beautiful. Max, you gonna introduce us?
+MAX: Mom, Vincent. Vincent, my mother, Ida Rilke.
+VINCENT: Happy to meet you, Mrs. Rilke.
+IDA: Oh, call me Ida. To what do we owe the pleasure?
+VINCENT: I was with Max when he got the call.
+IDA: And you came all the way down here to see me?
+VINCENT: It's nothing.
+IDA: Tell my son. You have to hold a gun to his head to get him to come see me.
+VINCENT: Tell me about it.

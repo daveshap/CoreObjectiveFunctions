@@ -1,0 +1,20 @@
+Some tips from a former bank employee on fees
+Hi everyone. I really qualify as "poverty finance" level myself so I'm not trying to come in here and preach. It's just that I noticed a lot of common 'mistakes' or things people in our situation could be doing to avoid problems and fees at the bank.
+
+1. Read your account disclosure. You know that booklet of tiny text that you got when you opened your account? I know some people view it as 'just another legal thing that is hard to understand' but they are usually written pretty simply if you actually read it. **You can skip to the part that talks about your specific account type.** You don't need to read the whole thing, but do read it in order to know how your account works.
+
+2. Do not sign up for automatic payments. I've seen this go wrong far more often than it has actually helped anyone. They are nearly always impossible to cancel at the last moment if you are close to overdrawing your account. If you do use them, make **DAMN** sure you put them on a calendar with alerts and stay aware of what is coming up for the next pay cycle.
+
+3. Do not habitually overdraft. Almost anything is better than overdrawing your account. Even credit card interest is FAR less than an overdraft fee. If you do the math, that $25 or whatever per charge is worse than a payday loan in almost all cases. I've seen people who had over 300 overdrafts in the last year. At $25 each, that is giving the bank thousands of dollars of free money. There's always a better way than doing that, but it's not like the bank is going to call you up and volunteer that information. You have to ask for help if you *are* in that situation.
+
+4. Understand the posting order of your account. Charges don't always come out in the order in which they occurred in real time. Please talk to a bank associate if you don't understand this by reading your account disclosure and they would be happy to explain it, as it works differently at every bank. But at the bank I worked for, ACH (direct debits) would come out before debit card transactions. So let's say you had $600 in the bank. A $599 direct deposit came out for your rent. Then you did 6 debit card transactions for $2-5 each. You would actually get charged 6 overdraft fees even though you barely went over. There are a lot of situations where our posting order *helped* customers, but also situations where it royally screwed them over.
+
+5. **Free checking accounts still exist.** You are getting ripped off if you're being charged every month just to have your checking account open. Period. Look into local banks and **ask** for the free option. They're not always advertised. And if they don't have one, go somewhere else.
+
+6. Understand how "opting out" of overdraft fees works. Federal law requires banks to allow you to opt out of getting fees for most debit card purchases. However, you can still get fees for ACH (direct debits that I warned against earlier), checks, and **subscription services**. Yes, that $7 netflix subscription can cause a $25 overdraft fee even if you opt out.
+
+7. If you do get an overdraft fee for something stupid, feel free to call and explain the situation. However, know that customer service reps are required to *justify* each refund if asked by a supervisor. If they just give you the refund despite the fact that you've overdrawn your account 10 times in the last year, they could *lose their jobs*. So cut them some slack. 
+
+8. Do not rely only on online banking. It sounds oldschool, but keeping a checkbook register is the most reliable way to avoid overdraft fees. Online banking has no way of knowing if you have a check outstanding, for instance. It also has no way of knowing that you added a tip to a restaurant bill until the restaurant processes it. I've seen many people become overdrawn because of this.
+
+I hope some of these tips help. It killed me to see people lose so much money on fees.

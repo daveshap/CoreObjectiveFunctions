@@ -1,0 +1,4 @@
+LEON: How old am I?
+DECKARD: I don't know.
+LEON: My birthday is April 10, 2015. How long do I live?
+DECKARD: Four years.

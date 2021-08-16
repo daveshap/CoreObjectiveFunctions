@@ -1,0 +1,13 @@
+JEREMY: Fortunate that I was here to keep Susan entertained.
+JAMES: Sorry. Got held up. What are you doing here?
+JEREMY: Delivering gossip and goodwill. It seems we'll both be doing Brighton. Perhaps you should come too.
+JAMES: Will it be fun?
+SUSAN: It was last year.
+JEREMY: We might be able to dig out a couple of Suez survivors for you.
+JAMES: Perhaps I will, then.
+JEREMY: I'm off. Let's meet. You promised to tell me about Norfolk.
+JAMES: I'll ring you.
+SUSAN: I think we're ready now, thank you. And how was Norfolk? Did you get on with my mother?
+JAMES: I think she liked me.
+SUSAN: Did she talk about me?
+JAMES: No. We talked about history, and Siberian Geese.

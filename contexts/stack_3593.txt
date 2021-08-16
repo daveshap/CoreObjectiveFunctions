@@ -1,0 +1,1 @@
+Can smartphone app be hacked by wifi? We all know that it is possible to spy on other people in the same wifi network, even if it is difficult. What about apps, like Facebook app for Android? Is it similar to an https website so it is encrypted? For example, if I put my password on the Facebook app, can someone on my wifi network look at it?

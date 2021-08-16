@@ -1,0 +1,1 @@
+Upgrading Python 3.6 to 3.7 in Ubuntu 18.04 LTS Since Python 3.7 is already launched, I wanted to ask when will Ubuntu 18.04 will get an update to upgrade the Python3'sversion?

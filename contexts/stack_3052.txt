@@ -1,0 +1,1 @@
+Application of Correlation Dimension to Fractals other than Sets of Points In Chaos Theory, the Correlation Dimension is defined to calculate the dimension of fractals.At least in the context where I've learnt it, it is applied to fractals made up of sets of points.Is it also used to define fractals that are not sets of points, such as von Koch curve and Sierpinski carpet?

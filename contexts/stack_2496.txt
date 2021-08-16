@@ -1,0 +1,1 @@
+coordinate capture in QGIS 3.0 My understanding is that \"coordinate capture\" is \"built into\" QGIS 3.0 -- rather than being a plug-in.  However, I can't find where to start it.How do I navigate to that option and what do I need to do to have coordinate capture show as an icon?

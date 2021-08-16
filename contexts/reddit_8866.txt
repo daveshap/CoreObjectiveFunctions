@@ -1,0 +1,23 @@
+Why did Michigan Ban plastic bag bans?
+My home state of Michigan recently passed [Public Act 389](http://www.legislature.mi.gov/documents/2015-2016/publicact/htm/2016-PA-0389.htm) which is "a bill to preempt local ordinances regulating the use, disposition, or sale of, prohibiting or restricting, or imposing any fee, charge, or tax on certain containers." 
+
+The bill is a reaction to legislation from my home county, Washtenaw, which enacted a [10-cent bag tax for paper and plastic](http://www.mlive.com/news/ann-arbor/index.ssf/2016/06/10-cent_bag_tax_at_washtenaw_c.html). The State legislation killed our county level legislation. This didn't get much play in the media but what was out there called it a [plastic bag ban ban](https://www.washingtonpost.com/news/energy-environment/wp/2016/12/30/yes-this-is-real-michigan-just-banned-banning-plastic-bags/?utm_term=.dfe273b3e67f#comments).  
+
+**Is there a legitimate reason to preemptive block municipalities from passing taxes on undesirable containers such as plastic bans?**
+
+My research is below.
+Washtenaw County hoped to address two main issues with the ordinance:
+
+* To offset the costs of processing plastic bags, which it estimated at $219k [per year](http://www.ewashtenaw.org/government/departments/environmental_health/recycling_home_toxics/carryout-bag-ordinance/Reusable%20Bag%20Ordinance%20Work%20Session%20PresentationFINAL.pdf) (the tax would bring in an estimated $220k [per year](http://www.wastedive.com/news/update-michigan-becomes-seventh-state-to-outlaw-bag-bans/426773/))
+* To reduce plastic bags in the environment to mitigate harmful environmental effects, such as the fact that plastic bags take [1,000 years to degrade](http://www.ewashtenaw.org/government/departments/environmental_health/recycling_home_toxics/carryout-bag-ordinance/Reusable%20Bag%20Ordinance%20Work%20Session%20PresentationFINAL.pdf)
+
+3 potential arguments for the State level legislation:
+
+**Plastic bag bans hurt business**
+Los Angeles County California banned plastic bags and charged a $.10 fee for paper bags. They found a 100% reduction in plastic bags, a 25% reduction in paper bags and a [minimal impact on most businesses](http://ladpw.org/epd/aboutthebag/PDF/Bag%20Ban%20Status%20Nov%202012.pdf).
+
+**The taxes are regressive, they hurt the poor more**
+This one does have merit. An impact assessment concluded that an average family uses 720 plastic bags at grocery stores [per year](https://conservingnow.com/plastic-bag-consumption-facts/) 720 x .$10/bag = $72/year in taxes.
+
+**Don't tell me what kind of bag to use!**
+I think the crux of the argument really is personal freedom, ie, the "don't tell me what kind of bag to use argument."

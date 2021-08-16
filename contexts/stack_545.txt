@@ -1,0 +1,1 @@
+Ubuntu 17.10 natural scrolling I have just updated from Ubuntu 17.04. Natural scrolling was not activated, so I turned it on in Settings -> Devices -> Mouse &amp; Touch-pad.But still not working... What can I do?

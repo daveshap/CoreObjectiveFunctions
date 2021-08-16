@@ -1,0 +1,8 @@
+HUNTER: Yes?
+STANDARD: How's Broussard?
+HUNTER: He's running a fever.
+STANDARD: Still unconscious?
+HUNTER: Yes.
+STANDARD: Can you do anything for him?
+HUNTER: The machine will bring his temperature down. His vital functions are strong.
+STANDARD: Good.

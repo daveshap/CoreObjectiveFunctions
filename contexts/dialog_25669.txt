@@ -1,0 +1,8 @@
+PSYCH OFFICER: No talking please. I'm going to ask you some questions. Please answer all questions truthfully. We'll know if you don't. Birthplace ?
+JOHNNY: Here in Buenos Aires.
+PSYCH OFFICER: Are your parents currently citizens ?
+JOHNNY: No, sir.
+PSYCH OFFICER: Which do you think is more important, courage or confidence ?
+JOHNNY: Courage, I guess.
+PSYCH OFFICER: Please complete this sentence. I want to be citizen because...
+JOHNNY: I want to be a citizen because... well, because of my girl, sir.

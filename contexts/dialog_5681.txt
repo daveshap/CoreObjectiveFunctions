@@ -1,0 +1,9 @@
+JODY: Yes?
+KILLER: Are you Jody?
+JODY: Yeah.
+KILLER: I'm Kenny's Aunt Lisa.
+JODY: Kenny's aunt?
+KILLER: Yes. He asked me to come over and talk to you.
+JODY: On what side of the family?
+KILLER: His mother's side.
+JODY: His mother's an only child.

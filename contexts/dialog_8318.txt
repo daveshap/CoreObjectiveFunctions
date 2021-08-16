@@ -1,0 +1,6 @@
+MAC: You're late.
+GIN: <u>I'm</u> dressed.
+GIN: And good morning.
+MAC: Good morning.
+GIN: Nice spot.
+MAC: It is. Coffee and fruitloops or whatever you eat in the kitchen. We'll start in twenty minutes.

@@ -1,0 +1,42 @@
+PSA: Phone number theft is a thing.
+Hey guys. I just want to bring awareness to phone number phishing. Most of us here are pretty broke and probably living paycheck to paycheck, but if you are someone that has a contracted cell phone account with one of the big four, Sprint, ATT, Tmobile, or Verizon, this message is for you. I work for one of the big 4 carriers.
+
+&#x200B;
+
+The phishers steal your pin ... somehow. Either they phish you with a spoofed text or phone call, they hang out at Bestbuy and listen to you speak with an actual bestbuy employee, or they are a legit employee that sells your info, or your info is on the dark web.
+
+&#x200B;
+
+Next, the phisher calls in with your name, pin, address, and phone number. Sometimes they don't even know what phone number they're calling in about. It might be your 8 year old's phone number, it might even be the number attached to your apple watch or your tablet. Or, it's YOUR phone number attached to your bank account.
+
+&#x200B;
+
+While they are calling in to get your account number, they are at Walmart or some other indirect authorized retailer purchasing a tracfone or straight talk phone. They immediately set up a port to take your number to their burner.
+
+&#x200B;
+
+Within minutes of completing the transaction, they access your bank account. The bank account sends a secure verification pin to YOUR phone number, which is now on their phone.
+
+&#x200B;
+
+Ta-da. Your bank is then emptied via paypal, venmo, or 7 giftcards at walmart.
+
+&#x200B;
+
+A couple hours later, your child or friend is trying to call you, but they can't get through. They send you a text (which will probably work if your phone is on wifi). You call in to get tech support. You learn your number has been disconnected. You then put 2 and 2 together. Earlier, your bank or credit card company alerted you to suspected fraud.
+
+&#x200B;
+
+You now have to file a police report for identity theft. And did you know that stealing a phone number is not a crime, and many police departments WILL NOT FILE A REPORT? The only way to file the report is to bring proof from your bank or your credit card company that someone attempted to withdraw funds (or were successful.)
+
+&#x200B;
+
+Now, anyone that texts or calls your phone number goes to the person that stole it. If you are a business owner, your clients are calling and potentially leaving their identifying information on voice mails or texts. And the process continues.
+
+&#x200B;
+
+**TLDR; I urge you, if you have a postpaid contracted account with the big 4, call customer service and request a port freeze or port protection. Ask for specific "hot remarks" or notes on your account stating to NEVER allow a number to port out. Because you are a target and you don't even know it. Never give out your pins, passwords, or last four of your SSN. If anyone EVER contacts you and tries to tell you that your account is compromised and they need one of those things, they're fucking lying. We will** ***never ever ever ever ever*** **call YOU and ask for your pin over the phone. We do a COMPLETELY different type of verification if WE call YOU.**
+
+&#x200B;
+
+**Edit: Lots of people asking about prepaid accounts, I don't see it happen often, but it does happen. My speculation is because there is no SSN attached to prepaid accounts, it isn't going to be useful to try and take the account. With postpaid, your SSN and address will always be there if you try to break into someone's account.**

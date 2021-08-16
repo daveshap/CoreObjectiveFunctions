@@ -1,0 +1,4 @@
+KIRK: Maneuvering thrusters, Mister Sulu.
+SULU: Maneuvering thrusters, sir.
+KIRK: Hold station.
+SULU: Thrusters at station-keeping, sir.

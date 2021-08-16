@@ -1,0 +1,1 @@
+How can I determine the force of a blow that launches an object? If I have a blow of force N that strikes an object and launches that object of weight W at angle A into the air moving said object a distance D from where it was struck.What other considerations (efficiency of energy transfer?) and formula can I use to determine what N is if I know A, D and W?

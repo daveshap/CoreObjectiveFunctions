@@ -1,0 +1,1 @@
+How k-means computes cluster centroids differently for each distance metric? K-means computes cluster centroids differently for each distance metric. I don't know why the way of computing the centroid is dependent of the distance measure. I don't know how we compute the centroid for manhattan distance and its difference with the computing the centroid for euclidean distance?

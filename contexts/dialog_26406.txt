@@ -1,0 +1,4 @@
+LORELEI: I can't see anything.
+VERA: Turn on the light.
+LORELEI: Where's the light switch?
+VERA: Where do you usually find a light switch?

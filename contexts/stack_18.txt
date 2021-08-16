@@ -1,0 +1,1 @@
+Bind mouse key to continuously send clicks Question is in the title. I have a mouse with extra buttons and would like to bind the button so that it sends continous left clicks when I hold it down.

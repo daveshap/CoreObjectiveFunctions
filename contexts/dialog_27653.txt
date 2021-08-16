@@ -1,0 +1,33 @@
+MITCH: I wonder if you could help me.
+MELANIE: What?
+MITCH: I said I wonder if you could help me.
+MELANIE: Yes, what was it you were looking for, sir?
+MITCH: Lovebirds.
+MELANIE: Lovebirds, sir?
+MITCH: Yes. I understand there are different varieties, it that true?
+MELANIE: Well... yes, sir, there are.
+MITCH: These are for my sister... her birthday you see. As she'll be eleven and... well, frankly, I wouldn't want a pair of birds that were too demonstrative.
+MELANIE: I understand completely, sir.
+MITCH: As the same time, I wouldn't want birds that were aloof, either.
+MELANIE: No, of course not.
+MITCH: Do you have a pair that are just friendly?
+MELANIE: I think so, sir. Now then, let me see.
+MITCH: Aren't these lovebirds?
+MELANIE: No, sir, those are... redbirds.
+MITCH: The sign says strawberry finches.
+MELANIE: Yes, we call them that too. Ahhh, here we are, Lovebirds...
+MITCH: Those are canaries, Miss. Doesn't this make you feel awful?
+MELANIE: Doesn't what make me...?
+MITCH: All these innocent little creatures caged up like this?
+MELANIE: Well, we can't just let them fly around the shop, you know.
+MITCH: I suppose not. Is there an ornithological reason for keeping them in separate cages?
+MELANIE: Oh, certainly. It's to protect the species.
+MITCH: I imagine that's very important. Especially during the moulting season.
+MELANIE: Yes, that's a particularly dangerous time.
+MITCH: Are they moulting now?
+MELANIE: Some of them are.
+MITCH: How can you tell?
+MELANIE: Well... they get a sort of hangdog expression.
+MITCH: Yes, I see. About those lovebirds, Miss...
+MELANIE: Are you sure you wouldn't like to see a canary instead? We have some very nice canaries this week.
+MITCH: All right. She smiles back.

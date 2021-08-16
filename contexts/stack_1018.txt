@@ -1,0 +1,1 @@
+how can we install Aria Maestosa on Ubuntu 18.10? Previously, i just loved using Aria Maestosa, the very best midi editor i tried (i guess there are no comparable alternatives around, it\u2019s a really amazing one), that i could install very easily then.Now i\u2019m struggling a lot installing it. How can we have it installed now, as easily?

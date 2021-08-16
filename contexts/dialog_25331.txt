@@ -1,0 +1,22 @@
+ARTIM: My father told me I shouldn't talk to you.
+DATA: I understand.
+ARTIM: I don't.
+ARTIM: Not everyone here agrees with him. I mean, you know, about machines. There was even a big fight about it once. Do you like being a machine?
+DATA: I aspire to be more than I am.
+ARTIM: I know why. So people like us won't be afraid of you any more.
+DATA: Perhaps, that is true.
+ARTIM: Don't you ever get tired?
+DATA: My power cells continually re- charge themselves.
+ARTIM: I can't imagine what it would be like to be a machine.
+DATA: Perhaps it would surprise you to know that I have often tried to imagine what it would be like to be a child...
+ARTIM: Really?
+DATA: Really.
+ARTIM: For one thing, your legs are shorter than everyone else's.
+DATA: But they are in a constant state of growth. Do you find it difficult to adapt? A child's specifications are never the same from one moment to the next. I am surprised that you do not... trip over your own feet.
+ARTIM: Sometimes I do.
+DATA: My legs are eighty-seven-point- two centimeters. They were eighty-seven-point-two centimeters the day I was created. They will be eighty- seven-point-two centimeters the day I go off line. My operation depends on specifications that do not change. I... cannot imagine... the experience of growing up or even tripping over my own feet...
+ARTIM: But you've never had adults telling you what to do all the time... or bedtimes... or having to eat food you don't like...
+DATA: I would gladly accept the requirement of a bedtime in exchange for knowing what it is like to be a child.
+ARTIM: Do machines ever play?
+DATA: I play the violin... and my chess routines are quite advanced...
+ARTIM: No, I mean...

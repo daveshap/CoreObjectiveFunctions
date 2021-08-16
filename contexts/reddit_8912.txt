@@ -1,0 +1,14 @@
+What are the arguments for/against raising the national social security retirement age past the planned amounts?
+[Some argue](https://www.crfb.org/blogs/yes-actually-raising-retirement-age-good-idea) that raising the social security retirement age makes fiscal sense with people living longer and baby boomers retiring. But there are some [drawbacks to increasing the age of the workforce.](https://www.pgpf.org/analysis/government-accountability-office-raising-the-retirement-ages-affects-older-workers)
+
+Some Relevant Facts:
+
+[Right now the age is set at 66.](https://www.nasi.org/learn/socialsecurity/retirement-age) This has a set increase.
+
+[Baby boomers are those born between 1946 and 1964. The oldest of those are already in retirement age at 73 years old, the youngest are closing in at 55 years old. There were 76 million births in this generation.](https://en.wikipedia.org/wiki/Baby_boomers) More and more people from this generation will enter the retirement age every year. [~62 million people receive social security benefits, around 80% of these due to being of retirement age.](https://www.cbpp.org/research/social-security/policy-basics-top-ten-facts-about-social-security)
+
+[Life expectancy continues to net increase](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US&name_desc=true) over the last decade. This means that the elderly are living longer and longer. At retirement age, this means they get benefits for a longer time.
+
+There is evidence that suggests a [cognitive decline as a result of age.](https://academic.oup.com/psychsocgerontology/article/58/3/P143/583345) There is also evidence that suggest various [declines in vision as a result of age.](https://healthcare.utah.edu/healthfeed/postings/2016/09/vision.changes.php)
+
+The question remains, what argument exists for or against significantly raising the retirement age? Does the evidence indicate a net benefit or net detriment for the US in such a change?

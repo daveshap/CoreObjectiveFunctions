@@ -1,0 +1,10 @@
+JACK: What are you doing?
+KELLY: Skipping stones. Look how flat that water is, you can get ten skips on a good one.
+JACK: Listen, uh... Hank and I think it best if you stay on shore.
+KELLY: I beg your pardon?
+JACK: Whatever's out there <u>did</u> flip over a canoe--
+KELLY: I am <u>not</u> staying on shore.
+JACK: It's too dangerous for--
+KELLY: I didn't fly up here to roast marshmallows--
+JACK: You flew up here because your boss--
+KELLY: I am going out on that boat and why are you picking on me, is this some kind of--

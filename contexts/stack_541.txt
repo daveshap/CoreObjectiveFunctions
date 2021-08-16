@@ -1,0 +1,1 @@
+HTTP2 on Ubuntu 17.04 not working I installed Ubuntu 17.04 on my PC, setup Apache with PHP 7 to work on some developments, but when I tried to setup HTTP2 on my Apache, it would not work because it's not setup for Apache running mpm-prefork and I cannot disable mpm-prefork because it's used by PHP 7, any ideas how can I get this working?Thanks.

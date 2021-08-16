@@ -1,0 +1,1 @@
+Samsung notebook spin 7 with ubuntu 18.04 keyboard backlight problem I have samsung notebook 7 spin laptop with ubuntu 18.04 installed on it. I am not been able to turn on the keyboard backlight atleast not by using the dedicated function key. Please help I'm new to ubuntu

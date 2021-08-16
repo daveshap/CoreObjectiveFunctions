@@ -1,0 +1,5 @@
+PEARL: You look mighty familiar to me. You sure you're not from around here?
+PATRICK: I was born near here. But after my mother died, my dad moved. I grew up out in Rossmore Park.
+PEARL: You're pretty black to be growing up in Rossmore Park.
+CINNABAR: Guess it's not Rossmore Park. Thanks for the help.
+PATRICK: Anytime. Be seeing you.

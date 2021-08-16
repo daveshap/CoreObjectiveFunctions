@@ -1,0 +1,11 @@
+JOHN: What does it mean?
+NADIA: Maybe you will find out.
+NADIA: Hurry. I'll wait for you here.
+JOHN: Right.
+JOHN: Is the flight full?
+OFFICIAL: I'm sorry Sir. I believe the flight is closed.
+JOHN: Please check. Is it full? Please could you check.
+OFFICIAL: You have excellent English.
+JOHN: Thanks.
+OFFICIAL: How do you want to pay?
+JOHN: Cash.

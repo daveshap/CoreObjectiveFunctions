@@ -1,0 +1,1 @@
+Geoserver: how to call a Geotools function from Openlayers I intend to create a custom Geotools function that does some special insertions into a PostGIS DB. My question is how to call that function from Openlayers?

@@ -1,0 +1,6 @@
+Interview as a data analyst with no background: advice?
+So I've been looking to branch into data and I've managed to score an interview for an entry level position. However, the position requires a proficient amount of knowledge surrounding VLOOKUP, Access, and SQL (particularly Joins). 
+
+Now normally I wouldn't have even gotten the interview since I don't have a background in this, but the hiring manager assures me that "they can teach someone these things". 
+
+That being said, I've heard that before and it never worked out so what are some good resources I can use to learn the basics of each so I don't come in looking like a complete asshole.

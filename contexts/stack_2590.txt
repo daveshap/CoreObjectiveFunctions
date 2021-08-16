@@ -1,0 +1,1 @@
+\"Parse error at line 1 column 1\" when using QConsolidate3 to share QGIS projects I am trying to save a project and layers as a zip file to share with colleagues but I am receiving an error message when I do so:<blockquote>  Parse error at line 1 column 1</blockquote>I am using QGIS desktop 3.2.3 and QConsolidate3.

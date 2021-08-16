@@ -1,0 +1,1 @@
+Electron interaction with vacuum fluctuations The cause of Lamb shift is interaction between vacuum fluctuations and electron in the atom.Will electron (or photon) in free space interact with vacuum fluctuations? How momentum will transfer vacuum fluctuations to the electron?

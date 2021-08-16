@@ -1,0 +1,4 @@
+Retention Information
+Hi Folks,
+
+I'm doing a project for work in which I'm tracking our freshman retention over the last five years and comparing it to other schools. Trouble is, I can't find retention info for the other schools aside from the 2008-2011 aggregate numbers presented [here](http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/freshmen-least-most-likely-return/spp%2B50/src%2Bstats). Does anyone have any resources that'd be helpful with this project? Essentially, I'm looking for data from individual years so I can track it on a scatter graph.

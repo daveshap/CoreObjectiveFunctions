@@ -1,0 +1,1 @@
+whenever i want to install any package a mailformed error is showing kmoin@kmoin-Inspiron-15-3567:~$ sudo apt-get updateE: Malformed entry 1 in list file /etc/apt/sources.list.d/sublime-text.list (Suite)E: The list of sources could not be read.

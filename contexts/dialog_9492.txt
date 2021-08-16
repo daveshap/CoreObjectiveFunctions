@@ -1,0 +1,18 @@
+JACK: Where? Here?
+MARLA: Here.
+JACK: There?
+MARLA: Here.
+JACK: Here.
+MARLA: Feel anything?
+JACK: No.
+MARLA: Make sure.
+JACK: Okay. Okay, I'm sure.
+MARLA: You feel nothing?
+JACK: Nothing.
+MARLA: Well, that's a relief. Thank you.
+JACK: No... no problem.
+MARLA: I wish I could return the favor.
+JACK: I think everything's okay here.
+MARLA: I could check your prostate.
+JACK: Uh ... nah.
+MARLA: Well... thanks, anyway.

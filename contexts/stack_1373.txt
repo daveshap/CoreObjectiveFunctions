@@ -1,0 +1,1 @@
+Implementing a constant current source circut that can be switched off by a voltage signal Does anyone know how to implement a constant current source circuit that is able to output 10mA constantly, ideally the load of the circuit would be a 100uF capacitor in series with 100 Ohms.Is there a way to then have the current source switch off with voltage signal given to it.Thanks,

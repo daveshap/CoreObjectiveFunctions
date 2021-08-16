@@ -1,0 +1,1 @@
+Problem with Epson L360 printer- I'm running ubuntu 16.04 and want to connect Epson L360 printer to the laptop. The printer is shown in the devices and printer list. When clicked on print test page all I get is a string of M's 2 and a // on the left side of the page. Any help in fixing this issue would be much appreciated.

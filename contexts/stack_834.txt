@@ -1,0 +1,1 @@
+Ubuntu 18.04 freezes when several applications are running, even keyboard is dead I'm running ubuntu 18.04 in an Aspire-M7811 desktop with a processor Intel\u00ae Core\u2122 i5 CPU 650 @ 3.20GHz \u00d7 4. The case is that:when I open several aplications it freezes at all, even the keyboard is dead so I can only power down the pc.Thanks for your help!

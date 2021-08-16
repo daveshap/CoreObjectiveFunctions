@@ -1,0 +1,26 @@
+SHORTIE: Yer lucky I'm here at all. I tell you, Jimmy--my feet'll never hold out.
+BRETT: Stop squawking! You were doing this job on a ship four years ago when I first picked you up, weren't you?
+SHORTIE: Yeah--but high livin's made me soft.
+BRETT: How're the tips?
+SHORTIE: A dollar forty.
+BRETT: I'll need it--gave my last buck to the bedroom steward.
+SHORTIE: Not a chance.
+BRETT: Come on-- I'll promote a card game, and we'll be sitting pretty.
+SHORTIE: Until then--the dollar forty stays with me.
+BRETT: Is that a nice way to talk to a pal?
+SHORTIE: Don't let money spoil a beautiful friendship. Look at these here telegrams to be delivered! This ain't a job-- it's a marathon.
+BRETT: Oh, Shortie!-- --there's a girl on this ship--
+SHORTIE: --there's thousands of 'em!
+BRETT: A thousand? She's one in a million--right off the top of the rosebush!
+SHORTIE: This is a business trip!
+BRETT: She was wearing a white dress with a cute, black hat-- and carrying a bag with S. M. on it. Funny--her name's not on the passenger list.
+SHORTIE: Maybe she's in the show--One of the troupers--did you ever think of that?
+BRETT: Why <U>didn't</U> I think of that?--I am going to scout around and see if I can find her.
+STEWARD: Everything in order, sir? What are <U>you</U> doing here, my lad?
+SHORTIE: Telegrams.
+STEWARD: Well--get a move on yer--then get back to yer station.
+BRETT: Just a minute, steward--haven't you forgotten something?
+SHORTIE: No, sir?
+BRETT: My change.
+SHORTIE: Change?
+BRETT: A dollar forty--out of the two dollars I gave you.

@@ -1,0 +1,1 @@
+Getting geometry with coordinates in PostGIS? I have a latitude coordinate and longitude coordinate. I have a table with geometries. What function must I execute to use the coordinates to get a geometry containing the point made by these coordinates?

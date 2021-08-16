@@ -1,0 +1,1 @@
+Will VECM handle multiple seasons? I have two questions:Since VAR (vector autoregression) will not handle seasonality and trend. VECM comes into play which can handle season as well as trend. I had a doubt whether it will handle multiple seasons or not?Is there any other method to handle multiple seasonality in multivariate time series?

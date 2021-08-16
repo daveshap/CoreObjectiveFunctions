@@ -1,0 +1,7 @@
+COYLE: Yes, sir?
+JOE: Hello. I'm Joe Black. Nice to meet you.
+COYLE: Yes sir, Mr. Black, a pleasure.
+JOE: What are you eating.
+COYLE: You mean this, sir?
+JOE: 'Laura Scudder's Peanut Butter'. You like it?
+COYLE: I would say, sir, it is right up there with Jif and Skippy. But miles ahead of Peter Pan. Like a taste?

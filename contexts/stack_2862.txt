@@ -1,0 +1,1 @@
+When to use TDSE and when to use TISE? I am new to QM but I don't really understand when to use time dependent or time independent schrodingers equation? For example, for a free particle in a box, how do we know we should use TISE. more specifically, how do you determine if a wave function should be time dependent?

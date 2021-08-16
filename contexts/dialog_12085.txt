@@ -1,0 +1,5 @@
+VERGER: Where was the call from.
+CORDELL: Somewhere in Italy.
+VERGER: Make plans for Lechter's abduction.
+CORDELL: ...then we won't need to tether Miss Starling as our lure.
+VERGER: That operation has begun. Are we God, that we would <u>Meddle</u> with it...? <u>No</u>, on the <u>other</u> hand...

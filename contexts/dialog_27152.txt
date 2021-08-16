@@ -1,0 +1,7 @@
+PENDERGAST: You said John Whittlesley made a study of your blueprints of the museum.
+FROCK: Yes.
+PENDERGAST: Are there any hidden rooms or staircases? Places where someone could hide?
+FROCK: Not really. Just the sub-basement.
+PENDERGAST: Where is that?
+FROCK: I don't know. It was walled over. No one's been down there in years.
+PENDERGAST: You said you had plans of the museum. Could we see them, please?

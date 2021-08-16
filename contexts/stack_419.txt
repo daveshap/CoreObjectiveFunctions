@@ -1,0 +1,1 @@
+how to install inspircd on my ubuntu version 17.04 server from the usb drive I have installed ubuntu server version 17.04 on a desktop.  I want to install inspircd 2.0.24 on the server and I have it on a thumbdrive..what is the command to tell linux to get it off there and install it?

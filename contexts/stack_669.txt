@@ -1,0 +1,1 @@
+Will ESM also become available for Ubuntu 14.04? ESM is available for 12.04, which enables Advantage customers to keep receiving kernel updates and updates for many user space packages. In our case it's very important to know if we'll be able tot use Ubuntu 14.04 safely after April '19, because it is not possible to upgrade our application and migrate it to say, 16.04.

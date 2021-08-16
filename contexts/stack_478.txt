@@ -1,0 +1,1 @@
+How can I make the display size smaller than the actual physical screen size? How can I make the display size smaller than the actual physical screen size?Hello,So the size of my laptop screen is about 13 inches.I actually want to make the display smaller than the screen size.So I am trying to create a thick black border around the display.Is it possible to do this in Ubuntu?Vesa

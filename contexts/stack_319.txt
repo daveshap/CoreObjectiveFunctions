@@ -1,0 +1,1 @@
+Can I disable speakerphone on HomePod? I really like my HomePod, but I never want to use it as a speakerphone.When I'm on a call on an iOS device in my house, and tap the () icon to turn on speakerphone, the presence of the HomePod makes me navigate a menu instead of just toggling the speaker phone.Is there a setting somewhere that'll let me disable this HomePod feature?

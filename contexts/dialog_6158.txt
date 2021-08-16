@@ -1,0 +1,46 @@
+JESSIE: Hello, Gabriel.
+GABE: When you call me Gabriel, I know I've got trouble.
+JESSIE: Where've you been?
+GABE: Working...I'm trying to figure out where to start.
+JESSIE: Maybe I can help. Let's see... if one night I got up and packed up all my things and drove away without leaving so much as a note, and stayed away for months, I think what I'd want to do is come up with a well thought-out reason.
+GABE: After the funeral I just had to leave.
+JESSIE: Had to leave? Believe me, we all wanted to leave...but you know what? We stayed.
+GABE: A lot of things fell apart up there.
+JESSIE: I know...
+GABE: I don't think you do.
+JESSIE: Why can't you believe that you did everything you could?
+GABE: Did I? I don't know. Maybe I shouldn't have gone out on that line. Maybe I panicked.
+JESSIE: I was there, you were the only one who didn't panic. So do everyone a favor, don't hog all the guilt. You held on as long as you could. Yes, everything did go wrong, starting with Hal. I mean, what was he doing up on the Tower with a girl who could barely climb?
+GABE: I can't blame anything on Hal. It was me. I play it back in my mind everyday.
+JESSIE: Then turn it off, Gabe, because it doesn't get any better.
+GABE: I don't expect you to understand.
+JESSIE: I don't understand?
+GABE: You couldn't.
+JESSIE: You're saying, I don't understand? I'm the <u>only</u> one who does understand. I'm the one you lived with for two years, I'm the one you made promises to, I'm the one who spent too many nights looking up at these rocks and wondering if you were ever going to make it down in once piece or ever at all. Believe me, there's been times I didn't know what I wanted to do more, love you or hate you. But the one thing in our relationship that I did know and still do know is that I <u>understand you</u>.
+GABE: Why are you yelling?
+JESSIE: Excuse me?
+GABE: Why are you yelling?
+JESSIE: Did I miss something?
+GABE: Y'know, yelling at this altitude can lead to hyperventilation and fainting--
+JESSIE: I'm not going to faint, but if I want to faint, I'll faint, okay?
+GABE: Okay, but if you do I'll have to perform resuscitation--
+JESSIE: Resuscitation?
+GABE: --mouth-to-mouth, which could maybe...
+JESSIE: Which could maybe what?
+GABE: Maybe lead to a flare up...
+JESSIE: A flare up...
+GABE: Flare up of old emotions...
+JESSIE: Listen to you... The old mouth-to-mouth" resuscitation routine
+GABE: From one professional to another, of course.
+JESSIE: Course maybe you don't have to wait until I faint.
+GABE: No, I think I will, it's safer. I have patience.
+JESSIE: Gabe, did you come back to stay? You didn't.
+GABE: I can't. Not here. If you want, I'd like you to come with me...somewhere else.
+JESSIE: Where?
+GABE: It doesn't matter, anywhere but here.
+JESSIE: You come back after being gone almost a year, and you expect me to just leave... This was <u>our</u> home, now it's <u>my</u> home. I can't leave. You can stay with me, and believe me, I want you to, but to just take off for the wrong reasons, I can't do it. And you shouldn't either.
+GABE: Like I said, I can't turn it off.
+JESSIE: And I can't leave.
+GABE: If it's alright, I'm gonna pick up the rest of my gear.
+JESSIE: You know where everything is... I'm late for my shift.
+GABE: Jess--you look good.

@@ -1,0 +1,4 @@
+AMBROSE: I'm afraid this is a wine bar, Mr. Quince.
+QUINCE: Okay, give me a bottle of wine.
+AMBROSE: Red or white?
+QUINCE: Both.

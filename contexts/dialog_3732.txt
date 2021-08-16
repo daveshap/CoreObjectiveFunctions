@@ -1,0 +1,12 @@
+TYRELL: Is this to be an empathy test?
+DECKARD: Yes.
+TYRELL: Capillary dilation of the so-called blush response? Plus fluctuation of the pupil, plus involuntary dilation of the iris?
+TYRELL: May I ask a personal question?
+DECKARD: Go ahead.
+TYRELL: Have you ever retired a human by mistake?
+DECKARD: No.
+TYRELL: But in your profession that is a risk.
+DECKARD: Nothing is infallible, but so far the Voight-Kampff scale bas been foolproof.
+TYRELL: Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?
+DECKARD: One that relies on human interpretation. Where's the subject?
+TYRELL: Sitting next to you.

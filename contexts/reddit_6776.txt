@@ -1,0 +1,22 @@
+Question for recruiters/HR - Do you ever challenge the low pay offered for some roles?
+I say this because I have worked research analysis, insight, management intelligence, business intelligence, etc. 
+
+I have worked in that arena for over 10 years and I am still staggered by the low pay offered for some very highly technical roles. 
+
+I just saw a job that needed:
+
+* Advanced SQL
+
+* R / Python
+
+* Extensive experience of PowerBI / Tableau
+
+* Advanced Microsoft Dynamics 365 skills
+
+Amongst other extensive and highly technical demands, I think including 5+ years in analysis. 
+
+All for a piffling £20-25k
+
+Bearing in mind there are still plenty jobs out there are £35k+ that just need advanced Excel skills or jobs with similar (but not as much) skills for £55k± (sometimes as high as £80k).
+
+Do you ever challenge the employer? Lower their expectations? What do they say?

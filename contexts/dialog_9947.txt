@@ -1,0 +1,8 @@
+GRANDFATHER: You're an outcast.
+CREATURE: Yes. I have been seeking my friends.
+GRANDFATHER: Friends? Do they live around here?
+CREATURE: Yes. Very close
+GRANDFATHER: Why do you not go to them?
+CREATURE: I have been... afraid. Afraid... they will hate me... because I am so very ugly... and they are so very beautiful
+GRANDFATHER: People can be kinder than you think.
+CREATURE: I am afraid.

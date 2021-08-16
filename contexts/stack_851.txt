@@ -1,0 +1,1 @@
+Is it possible to get GIMP 2.10.4 work on Ubuntu 16.04? I tried to install it from source, but there some dependencies problems, a lot and I don't know how to get them - it seems like they not in repo.Could you get GIMP 2.10.4 work on your Ubuntu 16.04 ? How to install (and where to get them) all necessary for dependencies ?

@@ -1,0 +1,1 @@
+how slow are modelsim free licences? I know in free licenses of modelsim / questa simulations run slower than the full version.But how slow?  will it be 2x 3x 10x faster in the paid version?what about actel/microsemi free version ?

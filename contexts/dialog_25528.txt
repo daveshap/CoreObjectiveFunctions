@@ -1,0 +1,16 @@
+B-9: Brother. I cannot move.
+DATA: No, I have only activated your cognitive and communication subroutines.
+B-9: Why?
+DATA: Because you are dangerous.
+B-9: Why?
+DATA: You have been programmed to gather information that can be used against this ship.
+B-9: I do not understand.
+DATA: I know.
+DATA: Do you know anything about Shinzon's plans against the Federation?
+B-9: No.
+DATA: Do you have any knowledge of the tactical abi1ities of this ship?
+B-9: No. Can I move now?
+DATA: No. I must deactivate you.
+B-9: For how long?
+DATA: Indefinitely.
+B-9: How long is that?

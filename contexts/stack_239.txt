@@ -1,0 +1,1 @@
+How to detect when a process starts up on macOS? What I'm trying to do is: kill a process when it starts up. So I would like to find out that how to detect when a process starts up? Or how to block a process or an application from starting up?Any suggestions would be appreciated?

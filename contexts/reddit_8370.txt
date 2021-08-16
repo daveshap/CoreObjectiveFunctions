@@ -1,0 +1,10 @@
+Is there evidence that military style hardware improves policing outcomes?
+AG Sessions recently [lifted a ban](http://www.npr.org/2017/08/28/546743742/trump-administration-lifts-limits-on-military-hardware-for-police) on the donation of surplus military hardware to police departments. The ban had been implemented in the wake of Ferguson by the Obama administration, which argued that the equipment gave the impression of law enforcement as a hostile occupying force instead of a community policing effort. AG Sessions disputes this view and believes that the hardware is necessary to protect officers and deter crime. 
+
+Is there evidence to support or refute the idea that military hardware makes communities or police officers safer, or reduces crime?
+
+EDIT: As I've learned more about the issue, I realize that my original summary was somewhat inaccurate. Here is a [more precise summary](https://www.washingtonpost.com/news/the-watch/wp/2015/05/18/obama-moves-to-demilitarize-americas-police/), from 2015, of the policy that has just been repealed:
+
+>The [Obama] policy will stop “tanks and other tracked armored vehicles, weaponized aircraft and vehicles, firearms and ammunition measuring .50-caliber and larger, grenade launchers and bayonets” from being given to local police agencies.
+
+>Additionally, the [Obama] policy would attach some restrictions and conditions to the transfer of other equipment, “including armored tactical vehicles like those used in Ferguson, as well as many types of firearms, ammunition and explosives.” These restrictions include requiring the agencies to present “a clear and persuasive explanation of the need for the controlled equipment,” adopt community-oriented policing strategies, agree to “close federal oversight and monitoring overseen by a new federal agency with the power to conduct local compliance reviews,” train officers who will be using the gear, and keep data on how the equipment is used and with what results.

@@ -1,0 +1,6 @@
+GALLATIN: The countdown control has been transferred to the collector...I can't override...
+PICARD: Scan for lifesigns.
+WORF: One. It's Ru'afo.
+PICARD: Can you beam him off?
+WORF: Negative. He's established a security field around the control room...
+PICARD: Is there any other way to disable the injector?

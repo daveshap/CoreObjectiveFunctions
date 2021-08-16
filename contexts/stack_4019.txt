@@ -1,0 +1,1 @@
+Best Suitable feature selection method for ordinal logistic regression I have 33 variables my dataset, I need to omit some less significant features then, which is the \"best suitable feature selection method \" for the Ordinal Logistic Regression?

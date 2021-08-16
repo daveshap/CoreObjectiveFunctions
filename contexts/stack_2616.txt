@@ -1,0 +1,1 @@
+Italic fonts in QGIS 3.4 How can I apply italic fonts for labels and print composer in QGIS 3.4? The option seems to be disabled.

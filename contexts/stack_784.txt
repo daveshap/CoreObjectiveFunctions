@@ -1,0 +1,1 @@
+how to partition 1TB for ubuntu I have 2 hard drives. Windows 10 on 4TB which I am using currently. I have another 1TB hard drive where I want to install Ubuntu alongside windows. Please help me with no of required partitions and their respective sizes. Also suggest recommended partition types (EXT4 etc).

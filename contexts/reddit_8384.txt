@@ -1,0 +1,30 @@
+The statistical methodology used in 2019 in the Supreme Court to argue against gerrymandering is markedly different than the 2017 'efficiency gap' method. How specifically are these statistical analyses different, and what were their respective determinations on gerrymandering?
+A 2004 gerrymandering case, [Vieth v. Jubelirer](https://en.wikipedia.org/wiki/Vieth_v._Jubelirer), concluded with a suggestion from now retired Justice Kennedy that perhaps there could be a measurement system to determine when political gerrymandering [had gone too far](https://www.reuters.com/article/us-usa-court-election/justice-kennedy-on-hot-seat-in-major-voting-rights-case-idUSKCN1C81P2):
+
+> Kennedy parted with his conservative colleagues to suggest that if partisan gerrymandering went too far, violating the Constitution, courts may have to step in if a “workable standard” for deciding when to do that could be found.
+
+This was relevant in a case argued in 2017, [Gill v. Whitford](https://en.wikipedia.org/wiki/Gill_v._Whitford), where an [efficiency gap](https://www.washingtonpost.com/graphics/2017/politics/courts-law/gerrymander/?noredirect=on&utm_term=.e119295bb0fa) method was used to measure political gerrymandering. 
+
+The 'efficiency gap' method was ultimately not a suitable standard, even though it may have measured the political gerrymandering effect just fine, because it didn't suitably demonstrate [individual harm to voters](https://www.cnn.com/2018/06/18/politics/supreme-court-gerrymandering-decision/index.html), and therefore the plaintiffs didn't have standing based on that model:
+
+> The court opted instead to send the case back to the lower court so the challengers might have another chance to "prove concrete and particularized injuries" by showing there had been a burden on their individual votes. That showing, in turn, would allow the challengers to proceed to the merits of the case.
+
+---
+
+2019 and a political gerrymandering is at the [Supreme Court again](https://www.usatoday.com/story/news/politics/2019/03/26/supreme-court-takes-gerrymandering-testing-n-c-maryland-maps/3236039002/). 
+
+This time, the court will be looking at two maps: one gerrymandered to give Republicans 10 out of 13 seats in North Carolina, and a second to give Democrats 7 out of 8 seats in Maryland.
+
+While the arguments against these maps go beyond statistical analysis, it's notable a different method from the 'efficiency gap' is being used for the math side [in these arguments](https://theconversation.com/want-to-fix-gerrymandering-then-the-supreme-court-needs-to-listen-to-mathematicians-114345):
+
+> The answer to such objections, adeptly addressed in an amicus brief by MIT’s Eric Lander, is twofold. First, the maps being challenged are so biased that they are extreme outliers. They would show up as anomalies under any test for partisanship. So there is no need for the Supreme Court to set a numerical cutoff level at this stage – though a threshold may, indeed, evolve in the future. Secondly, such an extreme outlier approach is already an indispensable tool in several areas of national importance. For example, it is used to test nuclear safety, predict hurricanes and assess the health of financial institutions.
+
+---
+
+I have a few questions on this topic:
+
+1: Specifically, how is the newer 'outlier' methodology different from the 'efficiency gap' analysis?
+
+2: Do they come to different determination in severity of gerrymandering/how do they represent the severity?
+
+3: The 'efficiency gap' method was said not to demonstrate individual voter harm by Justice Kennedy. Does the 'outlier' method potentially show individual voter harm from gerrymandering?

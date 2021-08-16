@@ -1,0 +1,1 @@
+Permanently disable \"Check Spelling While Typing\" On OS X El Capitan 10.11.6, no matter what I do, including all the suggestions I've found on Google and on this site, every time I launch the Notes app it has Check Spelling While Typing enabled.How do I permanently disable this feature?

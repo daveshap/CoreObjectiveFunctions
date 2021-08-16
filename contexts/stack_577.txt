@@ -1,0 +1,1 @@
+It seems I deleted (completely) the default repository for Artful, how do I get it back? I don't know how it happened but somehow it was deleted.  Is it gone for good or can I possibly re-add the default repo that comes with 17.10?  It doesn't even seem to show up in the software &amp; updates channel as disabled.  Thanks and regards,Thomas

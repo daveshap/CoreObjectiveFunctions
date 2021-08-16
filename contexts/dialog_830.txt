@@ -1,0 +1,9 @@
+HUNTER: What's happening up here?
+ROBY: I think it's fizzled out.
+MELKONIS: I never saw anything like that in my life... except molecular acid.
+HUNTER: But this thing uses it for <u>blood</u>.
+MELKONIS: Hell of a defense mechanism. You don't dare kill it.
+STANDARD: It's stopped?
+MELKONIS: Yes, thank heaven.
+STANDARD: We're just plain lucky. That could have gone right through the hull -- taken <u>weeks</u> to patch it.
+MELKONIS: Reminded me of when I was a kid and the roof leaked -- everybody running for the pots and pans.

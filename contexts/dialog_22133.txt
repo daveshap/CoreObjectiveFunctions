@@ -1,0 +1,11 @@
+JERJERROD: Lord Vader, this is an unexpected pleasure. We're honored by your presence.
+VADER: You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.
+JERJERROD: I assure you, Lord Vader, my men are working as fast as they can.
+VADER: Perhaps I can find new ways to motivate them.
+JERJERROD: I tell you, this station will be operational as planned.
+VADER: The Emperor does not share your optimistic appraisal of the situation.
+JERJERROD: But he asks the impossible. I need more men.
+VADER: Then perhaps you can tell him when he arrives.
+VADER: That is correct, Commander. And he is most displeased with your apparent lack of progress.
+JERJERROD: We shall double our efforts.
+VADER: I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.

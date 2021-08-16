@@ -1,0 +1,16 @@
+What are the legal arguments in support or against President Trump regarding obstructing justice?
+The Senate Intelligence Committee released [James Comey's Statement](https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf) for tomorrow's hearing (June 8). Assuming James Comey's statement is truthful and complete, and taking in all known facts and events to date, what are the legal arguments in support or against President Trump regarding obstructing justice? 
+
+There are those who argue that while Trump's behavior amounts to being "[excessive and bizarre](http://www.nationalreview.com/article/448386/james-comey-testimony-donald-trump-actions-are-questionable)," they do not meet the legal burden of obstruction of justice.
+
+Obstruction of justice is defined under [18 U.S.C. § 1505](https://www.law.cornell.edu/uscode/text/18/1505) and committed by those who “[corruptly](https://www.law.cornell.edu/uscode/text/18/1515), or by threats or force, or by any threatening letter or communication influences, obstructs, or impedes or endeavors to influence, obstruct, or impede the due and proper administration of the law under which any pending proceeding is being had before any department or agency of the United States, or the due and proper exercise of the power of inquiry under which any inquiry or investigation in being had by either House, or any committee of either House or any joint committee of the Congress.”
+
+As [this write up in Lawfare](https://lawfareblog.com/was-firing-james-comey-obstruction-justice) explains (excellent read), there are 3 elements of proof in order to find a crime: 
+
+1. there was a proceeding pending before a department or agency of the United States;
+2. the defendant knew of or had a reasonably founded belief that the proceeding was pending
+3. the defendant corruptly endeavored to influence, obstruct, or impede the due and proper administration of the law under which the 
+proceeding was pending.
+
+Continuing Lawfare's post:
+> The questions here surround the third element. One must not merely “influent, obstruct, or impede” but also do so corruptly. Under § 1515(b), a corrupt state of mind requires intent: “acting with an improper purpose. [...] Ultimately the answer goes to the motives: Did the President or Attorney General intend for Comey’s firing to “influence, obstruct, or impede” the Russia investigation? ”

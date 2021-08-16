@@ -1,0 +1,9 @@
+Can the President forgive student debt?
+I saw [this article](https://www.cbsnews.com/news/trump-signs-memo-to-eliminate-disabled-veterans-student-loan-debt/) today, President Trump signed a memo ordering the US Dept. of Education to forgive all federal student loans/debt for disabled veterans. Given that many of the Democratic candidates running for President have their own plans for student loan cancellation (most notably [Sen. Warren](https://www.politico.com/story/2019/07/24/elizabeth-warren-2020-student-loan-debt-1428361) and [Sen. Sanders](https://www.politico.com/story/2019/06/24/bernie-sanders-2020-student-loan-debt-forgiveness-plan-1296863)) it leads to me question whether proposed plans for student loan forgiveness for all borrowers can be implemented and enforced in a similar fashion.
+
+My Questions:
+
+* What are the legal paths and executive powers that a sitting president can use without congressional legislation to forgive any amount of student debt?
+* Are there prior examples of US Presidents forgiving student loan debt that did not require congressional approval?
+
+Edit: After some more diving, I found not all news sources mentioned this, but [NPR](https://www.npr.org/2019/08/21/753213306/trump-signs-executive-order-forgiving-all-federal-student-loan-debt-for-disabled) gave a good explanation, there is an existing student loan forgiveness program for disabled veterans where this stems from.  Since the president did act within his power, could that be extended to other programs such as the [Public Service Loan Forgiveness (PSLF)](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service)? It seems there is room for presidential action for that program since [99% of Public Service Loan Forgiveness Applications Get Rejected](https://learn.g2.com/public-service-loan-forgiveness)

@@ -1,0 +1,80 @@
+[Mod post] An overview of the impeachment process in the United States
+**Mod note:  This post is intended to be just about the procedure and law around impeachment and not about the substance of any offenses.  We will treat comments which are not on the subject of the law and procedure of impeachment as off topic.  Feel free to post questions about the process or law in the comments below.**
+
+This afternoon, [Speaker of the House Nancy Pelosi announced](https://www.cbsnews.com/live-news/trump-impeachment-democrats-march-to-impeachment-speeds-up-over-trump-ukraine-call-live-updates-2019/) "the House of Representatives is moving forward with an official impeachment inquiry."  
+
+[*Transcript of her remarks*](https://www.speaker.gov/newsroom/92419-0)
+
+Given this, we are writing a brief overview of how the impeachment of the President works.  
+
+Except where otherwise noted, I will be using [this Congressional Research Service report as my main source.](https://fas.org/sgp/crs/misc/R44260.pdf)
+
+#Constitutional Provisions
+
+[The Constitution](https://www.archives.gov/founding-docs/constitution-transcript) has three clauses describing the process of impeachment:
+
+*Article II, Section 4*
+
+>The President, Vice President and all civil Officers of the United States,
+shall be removed from Office on Impeachment for, and Conviction of, Treason,
+Bribery, or other high Crimes and Misdemeanors.
+
+*Article I, Section 2*
+
+>The House of Representatives ...
+shall have the sole Power of Impeachment.
+
+*Article I, Section 3*
+
+>The Senate shall have the sole Power to try all Impeachments. When sitting for
+that Purpose, they shall be on Oath or Affirmation. When the President of the
+United States is tried, the Chief Justice shall preside: And no Person shall be
+convicted without the Concurrence of two thirds of the Members present.
+
+>Judgment in Cases of Impeachment shall not extend further than to removal from
+Office, and disqualification to hold and enjoy any Office of honor, Trust or
+Profit under the United States: but the Party convicted shall nevertheless be
+liable and subject to Indictment, Trial, Judgment and Punishment, according to
+Law.
+
+#Process Overview
+
+There are three essential steps:
+
+1. The House votes (by a simple majority) to impeach the President.
+
+2.  The Senate holds a trial, with the Chief Justice presiding.  
+
+3.  The Senate votes on guilt, with 2/3 of Senators needing to vote "guilty" to convict.
+
+#Process in the House of Representatives
+
+The House has fairly broad discretion in what steps they take prior to voting on an impeachment resolution. 
+
+[Pelosi indicated](https://www.nytimes.com/2019/09/24/us/politics/democrats-impeachment-trump.html?action=click&module=Spotlight&pgtype=Homepage) that the six standing committees of the House will forward impeachment related materials to the Judiciary Committee, which will consider articles of impeachment and, if approved, forward them to the House for consideration.
+
+If the House decides to vote to impeach, they will need to draft specific articles of impeachment laying out the alleged acts for which the President is to be tried.
+
+I am including as examples copies of the articles of impeachment against [Andrew Johnson](https://www.senate.gov/artandhistory/history/common/briefing/Impeachment_Johnson.htm#7), [Bill Clinton](https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/articles122098.htm), and the articles adopted by the Judiciary Committee in respect to [Richard Nixon.](http://academic.brooklyn.cuny.edu/history/johnson/rnimparticles.htm)
+
+After voting to approve articles of impeachment, the House will appoint "managers" who will act as the prosecution for the trial in the Senate.
+
+#Process in the Senate
+
+The Senate process is much more formalized, and structured as a trial.  The Senate adopted the current rules for impeachment trials [in 1986.](https://www.law.cornell.edu/background/impeach/senaterules.pdf)
+
+The Senate can either conduct the trial before the full Senate, or before a committee, which would report its transcript to the full Senate.  The full Senate must vote on guilt or acquittal.  
+
+If questions of evidence or procedure arose the presiding officer (the Chief Justice, for the trial of the President) would rule on them, but could be overridden by a vote of the Senate.
+
+During the trial of Bill Clinton, [witnesses were deposed on videotape and the tape played to the Senate.](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton#Senate_trial)   Witnesses were heard live in the Senate during [Andrew Johnson's trial.](https://en.wikipedia.org/wiki/Impeachment_of_Andrew_Johnson#Trial)
+
+After the trial the Senate would move into a closed session to deliberate, and then vote in open session.  Two thirds of senators voting must vote "guilty" on a count to convict.
+
+#After a finding of guilty or not guilty
+
+If the President were found guilty on any count of the impeachment, he would immediately be removed from office and the Vice President would immediately become President.  The Senate would then vote on whether to disqualify the ex-President from "any Office of honor, Trust or Profit under the United States."  The disqualification vote would be by a simple majority.
+
+If the conduct which was the subject of the impeachment were also an ordinary crime, the ex-President could separately be tried for that crime.
+
+If found not guilty, the President would continue in office.

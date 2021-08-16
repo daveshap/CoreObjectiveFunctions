@@ -1,0 +1,1 @@
+MOVING TO ORACLE 12c I have an rman backup of 11.2.0.2. Also I have installed 12c on a separate server. Can I move my backup to 12c. if yes?Please guide me how to do it?Appreciate your comments and answer.

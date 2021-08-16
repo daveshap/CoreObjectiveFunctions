@@ -1,0 +1,12 @@
+Could President Trump pardon himself?
+The [Washington Post has reported](https://www.washingtonpost.com/politics/trumps-lawyers-seek-to-undercut-muellers-russia-investigation/2017/07/20/232ebf2c-6d71-11e7-b9e2-2056e768a7e5_story.html?hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar&tid=a_breakingnews&utm_term=.56835249232b) that President Trump is asking his advisers about his powers as president to pardon his aides, his family members, and even himself as Special Investigator Robert Mueller's investigation expands into Trump's personal finances and his potential ties to Russia. 
+
+From WaPO article:
+
+>The power to pardon is granted to the president in Article II, Section 2, of the Constitution, which gives the commander in chief the power to “grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.” That means pardon authority extends to federal criminal prosecution but not to state level or impeachment inquiries.
+
+>No president has sought to pardon himself, so no courts have reviewed it. Although Kalt says the weight of the law argues against a president pardoning himself, he says the question is open and predicts such an action would move through the courts all the way to the Supreme Court.
+
+[U.S. Const. art. II, § 2 in full](https://www.law.cornell.edu/constitution/articleii)
+
+So my question is, since the president's power to pardon himself has never been reviewed by the federal courts, what are the constitutional arguments both for and against the president having the power to pardon himself?

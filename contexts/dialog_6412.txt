@@ -1,0 +1,10 @@
+ELLIE: Dr. Cullers?
+KENT: Kent, Kent for Chrissakes. You must be Eleanor.
+ELLIE: Ellie. Pulsar?
+KENT: 1919+21. Found a glitch in the timing; probably a starquake.
+ELLIE: Nice. Where?
+KENT: Here, right around Centaurus A.
+ELLIE: This is how you see the sky?
+KENT: It's how I hear it. The display's just a little something I programmed for astronomers with the misfortune of sight.
+ELLIE: It's beautiful.
+KENT: Never seen the optical sky myself, but I hear it's nice too.

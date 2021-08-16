@@ -1,0 +1,11 @@
+LECKTOR: Don't think you can persuade me with appeals to my intellectual vanity.
+GRAHAM: I don't think I'll persuade you. You'll do it or you won't. Dr. Bloom is working an it anyway, and he's the best...
+LECKTOR: Do you have the file with you
+GRAHAM: Yes.
+LECKTOR: Pictures?
+GRAHAM: Yes.
+LECKTOR: Let me have them, and I might consider it.
+GRAHAM: No.
+LECKTOR: Do you dream much, Will?
+GRAHAM: Good-bye, Dr. Lecktor.
+LECKTOR: You haven't threatened to take away my books yet.

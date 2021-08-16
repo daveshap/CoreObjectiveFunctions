@@ -1,0 +1,1 @@
+How-to-install, lubuntu-core_0.94_amd64.deb I want to make a small as possible Lubuntu. I have downloaded Desktop, Alt and Mini.What I have no idea about is, Core....lubuntu-core_0.94_amd64.debI don't know how to do a fresh install with a .deb file.Is this the same as the new Ubuntu Core/snaps?

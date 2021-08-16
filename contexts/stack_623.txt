@@ -1,0 +1,1 @@
+python - how to list to installed pachage using python I want connect to the /var/lib/dpkg/status to query what are the installed packages. The library should be python-apt but I am not sure. Anyone could help me ?I Need to do this process manually because the script must be run from livecd on the hard disk.thank u

@@ -1,0 +1,48 @@
+DEAN: Yes?
+MORELOS: I didn't want to bother you during your racquetball game.
+DEAN: Thanks. Who are you?
+MORELOS: I'm sorry. Detective Morelos.
+DEAN: Hey, did you guys find my stuff?
+MORELOS: Your stuff?
+DEAN: The robbery.
+MORELOS: No, sir, I'm not involved with that. I'm doing a quick follow-up on a bus accident took place a few nights ago. Your name keeps coming up.
+DEAN: Oh...yeah, I didn't see the accident.
+MORELOS: Witnesses said you were there, but I notice you didn't file a report.
+DEAN: A report?
+MORELOS: A police report.
+DEAN: That's 'cause I <u>wasn't</u> there.
+MORELOS: You weren't at Harrison's Department Store the night before--
+DEAN: I was <u>in</u> the store, the accident was outside. It was a bus.
+MORELOS: Someone said you spoke to Mr. Zavitz before he died. I thought you might know something.
+DEAN: About what?
+MORELOS: About the accident.
+DEAN: I'm no expert, but I'm assuming that the impact of a moving bus against his body caused--
+MORELOS: Mr. Zavitz was in trouble.
+DEAN: What kind of trouble.
+MORELOS: You tell me.
+DEAN: I can't.
+MORELOS: Are you invoking attorney/client privilege.
+DEAN: I'm not his attorney.
+MORELOS: Than why can't you tell me.
+DEAN: Because I don't know.
+MORELOS: I'm just trying to determine if Mr. Zavitz was involved in something more than a simple bus accident.
+DEAN: Than why don't you talk to the bus driver?
+MORELOS: Why so edgy, Mr. Dean?
+DEAN: Somebody took my blender.
+MORELOS: We'd appreciate your cooperation.
+DEAN: I'm happy to help you all I can. But I didn't see the accident and I barely knew Daniel Zavitz. I've gotta go to work.
+MORELOS: Did he give you anything?
+DEAN: No.
+MORELOS: Anything at all?
+DEAN: No, sir.
+MORELOS: Was he with anyone?
+DEAN: Not that I could see.
+MORELOS: Nobody gave you <u>anything</u>?
+DEAN: No.
+MORELOS: Why'd you go to Harrison's?
+DEAN: To buy lingerie.
+MORELOS: For your wife?
+DEAN: <u>Yes</u>, for my wife, what the hell kinds of questions are these.
+MORELOS: I thought maybe it might be for Rachel Banks.
+DEAN: I don't know what's goin' on with Zavitz, but that was way, <u>way</u> outa line. You understand?
+MORELOS: Yes sir.

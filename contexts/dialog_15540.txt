@@ -1,0 +1,5 @@
+LYSSA: Colwyn ...
+COLWYN: You must move away from the Center.
+LYSSA: All the passages are guarded.
+YNYR: She must make a glaive.
+COLWYN: Lyssa, your bracelets. Bend them straight and cross them.

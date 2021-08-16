@@ -1,0 +1,16 @@
+What are the best practices in terms of secure, verifiable, and easy to use voting systems?
+This year there were a number of controversies that popped up around [electronic voting machines in Texas](https://www.texastribune.org/2018/11/01/texas-straight-ticket-voting-problems-old-machines/) as well as [poorly designed paper ballots.](https://www.washingtonpost.com/outlook/2018/11/12/how-badly-designed-ballot-might-have-swayed-election-florida/)  These actual issues also got mixed in with [baseless claims alleging fraud.](https://www.nbcnews.com/politics/donald-trump/fact-check-trump-s-unsubstantiated-claims-voter-fraud-florida-n935461)
+
+American elections pose a challenge in that typically many offices are elected at the same time.  In many countries, the possibility of [snap elections](https://en.wikipedia.org/wiki/Snap_election) means that there is no opportunity to coordinate multiple elections on the same day.
+
+The US' [fixed election dates](https://www.law.cornell.edu/uscode/text/2/7) allow that states and local governments can run elections scheduled to be voted on at the same time, which is why [Broward County Florida](https://cdn.ballotpedia.org/images/7/74/Florida_sample_ballot_%28Broward_County%29.pdf) used a 9 page long ballot with 39 separate voting opportunities on it.
+
+This precludes something like the [extremely simple ballots used for Canadian parliamentary elections,](https://libblog.osgoode.yorku.ca/2015/10/election-special-2015-x-marks-the-spot-or-ballot-dos-and-donts/) especially with the necessity of explaining ballot initiatives as opposed to just candidate names.
+
+Given these limitations, what systems tend to work best for the goals of:
+
+1. Being secure against tampering, especially large scale tampering that could meaningfully alter results;
+
+2. Being easy to use so that voters will be unlikely to unintentionally, undervote, overvote, or mistakenly vote for someone they did not intend to; and
+
+3. Be verifiable so that public confidence in electoral integrity can be maintained?

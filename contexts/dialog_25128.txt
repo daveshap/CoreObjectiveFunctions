@@ -1,0 +1,12 @@
+SPOCK: Very well, Mr. Saavik, clear all moorings.
+SAAVIK: Aye, sir.
+SAAVIK: All moorings are clear, Captain.
+SPOCK: Thank you, Mr. Saavik.
+SPOCK: Lieutenant, how many times have you piloted a Starship out of Spacedock?
+SAAVIK: Never, sir.
+SPOCK: Take her out, Mr. Saavik.
+SAAVIK: Aye, sir.
+SPOCK: There's a first time for everything, Admiral.
+KIRK: To be sure, Captain.
+SAAVIK: Aft thrusters, Mr. Sulu.
+SULU: Aft thrusters, sir.

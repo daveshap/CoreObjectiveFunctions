@@ -1,0 +1,1 @@
+How to enable popups after every one hour for exercise/break? I want to take a break from my system after every one hour. How to enable Popups(I mean Pop ups, not notifications).OS: Ubuntu 16.04 LTS, Unity DE

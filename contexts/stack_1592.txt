@@ -1,0 +1,1 @@
+7 Segment display driver I came up with the circuit below to drive a single 7-segment display from an Arduino via a shift register (74LS595). Is the circuit correct/good enough or am I perhaps missing something critical in the design?

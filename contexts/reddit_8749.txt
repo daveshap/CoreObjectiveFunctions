@@ -1,0 +1,17 @@
+Who breaks a tie vote in the Senate on procedural questions during the impeachment trial of the President?
+I am specifically asking about what happens on procedural questions during the trial (e.g. calling witnesses) if the Senate is tied 50/50 on those questions.  Conviction and removal is a 2/3 threshold where it doesn't matter.
+
+The [US Constitution](https://www.law.cornell.edu/constitution/articlei) provides that:
+
+>The Vice President of the United States shall be President of the Senate, but
+shall have no Vote, unless they be equally divided.
+
+And that:
+
+>The Senate shall have the sole Power to try all Impeachments. When sitting for
+that Purpose, they shall be on Oath or Affirmation. When the President of the
+United States is tried, the Chief Justice shall preside
+
+So the Vice President is established as the President of the Senate, but the Constitution specifies that when the President is tried in an impeachment, the Chief Justice "shall preside."
+
+Does the power of voting when the Senate is equally divided reside solely in the Vice President, or would it reside in the Chief Justice as presiding officer for the impeachment trial?  Or neither? Is a 50/50 vote just a failed vote when the Vice President cannot preside because the Chief Justice must be presiding?

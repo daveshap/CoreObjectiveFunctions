@@ -1,0 +1,1 @@
+How to Remove Stckiness In Dual Monitors while using 18.04 Up until recently, I was using 16.04 version. But now that I have moved to the latest Ubuntu version 18.04, my mouse stops at the edges and does not go to the second monitor. Any possible solutions to solve this issue? Please help if possible.Thanks

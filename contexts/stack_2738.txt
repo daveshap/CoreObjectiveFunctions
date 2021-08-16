@@ -1,0 +1,1 @@
+Why are atoms ionized at ICP-MS temps? If the upper temperature of an ICP-MS (Inductively Coupled Plasma - Mass Spectrometry) plasma is 10,000 kelvin, why are any atoms introduced ionized?1 eV is equivalent to 11,605 kelvin and the first ionization of every element is greater then 1 eV.I am missing something. Any assistance would be appreciated.

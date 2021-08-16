@@ -1,0 +1,1 @@
+common mode choke and derating vs current I have a CMC that has is rated at about 1kR at 100Mhz at 3AHowever my circuit uses only 1A. Do I need to derate my inductance since there is less current flowing through it ?

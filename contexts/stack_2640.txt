@@ -1,0 +1,1 @@
+Can QGIS do color transformation from RGB to IHS (Intensity,Hue,Saturation)? I need to transform RGB map to IHS is that feature available in QGIS?

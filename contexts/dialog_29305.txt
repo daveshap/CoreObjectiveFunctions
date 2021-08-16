@@ -1,0 +1,11 @@
+CLERK: Nice to have you back with us, Mr. Brubaker.
+QUAID: Thank you.
+CLERK: Would you like the same suite?
+QUAID: Definitely.
+CLERK: Hmm. It seems you left something in our safe.
+QUAID: Get it, please.
+CLERK: Identification?
+CLERK: I'll go encode your room key.
+QUAID: Thank you.
+CLERK: There you go, Mr. Brubaker. Suite 610 in the East Wing.
+QUAID: May I use your pen?

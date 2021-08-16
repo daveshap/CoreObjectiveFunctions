@@ -1,0 +1,15 @@
+GASTON: Yes, m'sieu.
+GIRON: And you will be out by tomorrow morning.
+GASTON: Very well, m'sieu.
+GIRON: Otherwise I'll call the police
+GASTON: Yes, m'sieu. M'sieu Giron!
+GIRON: What is it?
+GASTON: You have enjoyed the confidence of this family for more than forty years. You must be a man of about-- about sixty-five. Let's see-- You will be exactly eighty-seven when you come out of prison.
+GIRON: What do you mean?
+GASTON: You say I am a crook.
+GIRON: I know it!
+GASTON: Then why didn't you call the police? Why <u>don't</u> you call the police? I'll tell you why--you crook, you.
+GIRON: M'sieu ...
+GASTON: Monescu.
+GIRON: M'sieu Monescu!
+GASTON: Just call me Gaston.

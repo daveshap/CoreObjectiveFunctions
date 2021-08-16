@@ -1,0 +1,12 @@
+Reddit Graduate Advising: M.S. EE (Thesis)
+So I've recently been accepted into Virginia Tech to do an M.S. in EE (Thesis option). They have offered me funding for two years. For my Ph. D, I want to work more in applied physics (think solid state physics, nanomaterials, IC design/micro/nanofabrication). So My current plan is:
+
+-Do My Master's thesis on Antennas (specifically metamaterials)  to get a solid understanding of classical EMAG
+
+-Take courses related to IC Fab and design to prepare me for my next step (Ph.D)
+
+Problem is this will require approximately ~50 hours of course work. Many of the classes are upper-level undergraduate courses. Questions:
+
+1) Is this achievable in 5 semesters (4 regular plus 1 summer)? Or is it more likely to take 6/7?
+
+2) What is a reasonable way to balance the undergrad/grad course load?

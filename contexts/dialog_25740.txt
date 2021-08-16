@@ -1,0 +1,4 @@
+DECKER: The ship is under attack...! Man all defensive stations...!
+KIRK: Forcefields, full remaining strength...! Total reserve!
+SPOCK: Captain, we have been seized by a tractor beam...!
+KIRK: Get someone up here to take the Navigator's station...! Engineering... full emergency power!

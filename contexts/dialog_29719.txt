@@ -1,0 +1,17 @@
+SIMON: Are you sure you weren't followed?
+HELEN: I kept looking back, like you taught me. I didn't see anyone.
+SIMON: Okay. It's just, things are a bit hot for me right now. If I get a signal... I may have to leave suddenly.
+HELEN: I understand.
+SIMON: It's my job to risk my life, but not yours. I feel bad about bringing you into this, but you're the only one I can trust.
+HELEN: Where were you? On a... uh,					* mission?
+SIMON: Ssshhh! We say Op. Covert					* operation. And this one got a little rough.
+HELEN: Worse than Cairo?							*
+SIMON: Cairo was a day at the beach next				* to this.
+GIB: Guy's a spook!
+HARRY: Yeah, but for who?							*
+GIB: He could be working her to get to you.
+SIMON: Did you read the papers yesterday?
+HELEN: Yes.
+SIMON: Sometimes a story is a mask for a covert operation. See-- two men killed in a restroom, and two unidentified men in a running					* shootout, ending at the						* Marriot...
+HELEN: That was you?!
+SIMON: You recognized my style. See, you're very good. You're a natural at this.

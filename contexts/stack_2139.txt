@@ -1,0 +1,1 @@
+Dota resets the selected regions at every start. How to fix it? Since some recent update, Dota seems to not keep the regions information on the disk, so it resets at every start. This is bloody annoying for users like me who want to play on custom regions. Do you know how to fix it?

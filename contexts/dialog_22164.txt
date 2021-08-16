@@ -1,0 +1,4 @@
+WEDGE: I'm going in.
+LANDO: Here goes nothing.
+LANDO: Now lock onto the strongest power source. It should be the power generator.
+WEDGE: Form up. And stay alert. We could run out of space real fast.

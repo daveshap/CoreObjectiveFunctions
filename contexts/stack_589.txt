@@ -1,0 +1,1 @@
+how can I open a extra console and run a program in it with one command? So I know if I type gnome-terminal or xterm, a new window will be popped out. Then I checked the man page for these two, nothing relevant found.Then I noticed under Mac you can do it with the program open. But it seems under Linux it's not that trivial.Does anyone have experience?

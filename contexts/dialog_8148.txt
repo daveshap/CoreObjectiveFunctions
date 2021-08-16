@@ -1,0 +1,19 @@
+JACK: Yeah. Sergeant Jack Vincennes requesting. I need the home address on a Pierce Patchett.
+OPERATOR: Please hold, Sergeant...
+EXLEY: I need to speak to you.
+JACK: Give me a minute, will ya?
+JACK: Damnit... <u>What</u>?
+EXLEY: I want you to follow Bud White.
+JACK: Even I'm not that crazy.
+EXLEY: It's not a request. I need to know what White knows. Follow him or I'll have you pulled off 'Badge of Honor.' Permanently.
+JACK: Yesterday that might've meant something. Pull me off. You'd be doing me a big favor.
+EXLEY: Yesterday yes, today no. What happened last night?
+JACK: Transfer me, suspend me. Just leave me alone.
+EXLEY: You make a mistake?
+JACK: Yeah. My whole life.
+EXLEY: Listen, I think I made a mistake, too.
+JACK: I ain't a priest, Lieutenant. I can't hear your confession.
+EXLEY: Do you make the three Negroes for the Nite Owl killings?
+JACK: What?
+EXLEY: It's a simple question.
+JACK: You should be the last person who wants to dig any deeper into the Nite Owl, <u>Lieutenant</u>.

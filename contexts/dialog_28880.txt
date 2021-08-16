@@ -1,0 +1,16 @@
+GASTON: Éysée seven, eight, nine, two. We have to clear out. Railroad station? Ticket office, please.
+LILY: He recognized you!
+GASTON: No--not yet--but-- Two tickets to Berlin--first class and sleeper--night train ... Right ... Right ... Leave them in the name of--Don Ignacio Fernandez ... Right ... Thank you.
+LILY: Spanish passports?
+GASTON: Correct. Now the train leaves--
+LILY: At twelve twenty. I know. Lyons two, four, seven, one. Two more days and we'd have seven hundred and fifty thousand francs more!
+GASTON: Well, we'll have to take what's here. A bird in hand is worth two in jail.
+LILY: Hello ... Is this the Spanish consulate? This is Doña Ignacio Fernandez. My husband and I are leaving tonight for Berlin ... Is it too late to get a visa this afternoon ... ? Thank you, thank you. How long will it take you?
+GASTON: I don't know. Fortunately, she has a dinner engagement tonight. I'll meet you at the station--midnight. Hello ... Yes? What? ... You found a handbag? Well, you're three weeks too late!
+LILY: Well, see you at the Berlin Express.
+GASTON: By the way, how is your German?
+LILY: <u>Grossartig</u>--<u>kolossal</u>!
+GASTON: <u>Also</u>, <u>um</u> <u>zwoelf</u> <u>Uhr</u>.
+LILY: <u>Am</u> <u>Berliner</u> <u>Zug</u>.
+GASTON: <u>Auf</u> <u>wiedersehn</u>.
+LILY: <u>Auf</u> <u>wiedersehn</u>.

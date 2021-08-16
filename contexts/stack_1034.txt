@@ -1,0 +1,1 @@
+How should I change the default highlight colour to the colour I want? I can highlight text with evince, but if I want a different colour than the default one (yellow), I have to change each highlighted phrase separately. How can I change the default highlight colour to the colour I want?

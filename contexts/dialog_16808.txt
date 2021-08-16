@@ -1,0 +1,11 @@
+JANET: Doc it's Janet.
+DOC: What's up?
+JANET: I have to talk to Frank, is he nearby?
+DOC: He's doing the interview with the lady --
+JANET: I need you to interupt him, I need to get him on the phone with me right away --
+DOC: What happend?
+JANET: Doc, go get Frank and put him on the phone.
+GWENOVIER: C'mon, Frank. What are you doing?
+FRANK: What am I doing?
+GWENOVIER: Yeah.
+FRANK: I'm quietly judging you.

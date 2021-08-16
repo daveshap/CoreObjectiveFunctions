@@ -1,0 +1,21 @@
+YNYR: I must go to the widow. Perhaps she will help.
+TORQUIL: The Widow of the Web?
+YNYR: Yes.
+TORQUIL: That creature helps no one. And none who go there return.
+YNYR: She has the power of vision.
+TORQUIL: She has the power to kill.
+YNYR: Perhaps she will not kill me, for I know her name.
+TORQUIL: Her name is Death.
+YNYR: She had another name once.
+COLWYN: No. We will find another way to locate the Fortress.
+YNYR: There is no other way. You asked me why the Beast had come this time.
+COLWYN: Yes.
+YNYR: He has come for Lyssa.
+COLWYN: Lyssa? <u>Why</u>?
+YNYR: Like you, she has extraordinary powers. He would make her his Queen.
+COLWYN: Can she be forced?
+YNYR: No. She must agree of her own free will.
+COLWYN: Never.
+YNYR: You are young. You don't understand the attraction of great power, and you forget the pain of long waiting.
+COLWYN: Then we must reach her before she feels that pain.
+YNYR: Yes.

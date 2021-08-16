@@ -1,0 +1,10 @@
+FLORIS: Welcome to LesterCorp. May we meet your filing needs?
+CRAIG: No, uh, my name is Craig Schwartz. I have an interview with Mr. Lester.
+FLORIS: Please have a seat, Mr. Juarez...
+CRAIG: Schwartz.
+FLORIS: Pardon?
+CRAIG: Schwartz.
+FLORIS: I'm sorry, I'm afraid I have no idea what you're saying right now.
+CRAIG: My name is Schwartz.
+FLORIS: Money, Miss Warts?
+CRAIG: Forget it.

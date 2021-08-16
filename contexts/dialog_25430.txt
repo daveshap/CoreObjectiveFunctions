@@ -1,0 +1,7 @@
+TROI: Did you know her?
+DATA: Not very well. We met shortly after the Enterprise-E was commissioned. I found her to be a most... promising officer.
+TROI: Data... are you sure you're all right?
+DATA: I am still having difficulty integrating certain emotions into my programming. Grief, loss, remorse...
+TROI: We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done.
+DATA: No. Human beings do not have that luxury, and neither should I.
+TROI: I will admit... there are times when I wish I had an emotion chip I could turn on and off.

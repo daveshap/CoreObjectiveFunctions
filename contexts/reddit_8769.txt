@@ -1,0 +1,6 @@
+What are the arguments for and against gerrymandering?
+[Gerrymandering](https://www.dictionary.com/browse/gerrymander) is the practice of redrawing congressional districts to suit a specific party. The dictionary definition (which is what is linked above), describes it as "the dividing of a state, county, etc., into election districts so as to give one political party a majority in many districts while concentrating the voting strength of the other party into as few districts as possible". 
+
+While both parties have engaged in it, the current view seems to be that the Republican party benefits more, with some data on the topic coming from [this article](https://www.businessinsider.com/partisan-gerrymandering-has-benefited-republicans-more-than-democrats-2017-6). Gerrymandering leads to lovely looking congressional maps, such as [this one](https://en.wikipedia.org/wiki/Illinois%27s_4th_congressional_district) in Chicago.
+
+I'm interested in the reasons why someone, regardless of political viewpoint, would be for or against this practice. Additionally, what are the pros and cons of various proposed methods of fixing it (if one thinks it needs to be fixed)?

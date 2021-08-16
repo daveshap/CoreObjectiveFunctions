@@ -1,0 +1,1 @@
+How to reference to a numbered list item In my language when I need to add more context/explanation to an item in a numbered list, I write it like so:<blockquote>    First.  Second.      ad 1. [text augmenting Item 1].</blockquote>The ad is from Latin; thus, I figured it was used in English as well, but when I did use it, some readers were puzzled and asked me what I meant.

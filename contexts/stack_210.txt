@@ -1,0 +1,1 @@
+Apple Mail on iOS 11.4.1 completely broken I'm trying to connect to my Gmail from Mail but it says cannot get mail imap.gmail.com I cannot access any settings to change this from the app or the Settings app.

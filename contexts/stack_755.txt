@@ -1,0 +1,1 @@
+Grep to return entire file content I want to search recursively for a certain word, say MyWord, but I want to print the entire contents of all files that contain MyWord. How do I do this?It turns out that I particularly care about binary sqlite files, both grepping them, and reading the result as a text file, rather than binary.

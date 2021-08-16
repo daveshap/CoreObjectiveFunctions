@@ -1,0 +1,4 @@
+HANK: Hello.
+ED: Hi.
+HANK: You don't recognize me.
+ED: No. Am I supposed to?

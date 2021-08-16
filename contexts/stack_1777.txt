@@ -1,0 +1,1 @@
+ESP32 with two 18650 batteries I have ESP32s.I want to power the board with two 18650 around 7 volt in total  (3.6v * 2 ).Is that possible?Note that I have around 3 sensors. What is the best way to power them?connect the sensors directly to the esp32 VCCor connect them to the battery?I also want to know what the max voltage input for the esp32 is.

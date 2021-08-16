@@ -1,0 +1,22 @@
+Unethical Recruiting Practices?
+Just talked to an IT recruiter about two contract jobs in my area that line up really well with my experience. One, essentially an IAM administrator for the state government paying $29/ hr on an 18-month contract period. The other was listed as a sys admin job but is more like higher-level helpdesk (level 2-3 with some sys admin-like responsibilities) paying $30/ hr also on an 18-month contract.
+
+When I received the confirmation email, though, I see the following: 
+
+>Identity and Access Management
+>
+>    Salary: $45k/year with benefits including:
+>        100% insurance coverage – [Recruiter] pays for $571.84/month for your insurance.  This includes health + vision + dental (PPO)
+>        15 days Paid Time Off
+>        Paid Client Holidays
+>        401k Enrollment
+
+>Department of Transportation Systems Admin
+>
+>    Salary: $47k/year with benefits including:
+        100% insurance coverage – Data Concepts pays for $571.84/month for your insurance.  This includes health + vision + dental (PPO)
+        15 days Paid Time Off
+        Paid Client Holidays
+        401k Enrollment
+
+I already know intuitively that the math doesn't add up here and I've let the recruiter know that I don't wish to pursue either job, but I'd like some help with what specifically is wrong with presenting the compensation info like this. It's essentially inflating the hourly rate to attract and sucker people into taking the job, but I feel like there's a better way to put it.

@@ -1,0 +1,17 @@
+KEOUGH: Half mile up, there's a clearing.
+JACK: You gonna dig up that lady's husband?
+KEOUGH: I'll call the coroner.
+KELLY: What is with this lake? It looks black and... there are no waves or anything.
+KEOUGH: They wanted to call it Lake Placid. But somebody said that name was taken.
+KELLY: Gee.
+KEOUGH: The tents were sent ahead, they should already be set-up.
+KELLY: We're staying in <u>tents</u>?
+KEOUGH: I told you. Two days, we'd have to camp.
+KELLY: Yes, <u>camp</u>, I thought that meant Holiday Inn, I never heard tents"
+KEOUGH: What the hell?
+KELLY: What?
+KEOUGH: I thought I saw...
+KELLY: It looks like a branch.
+KEOUGH: Hey!!
+KELLY: You threw it at me!!
+KEOUGH: I just let go of it.

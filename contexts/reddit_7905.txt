@@ -1,0 +1,8 @@
+Crossover between Computer Science and Business
+Have you folks ever seen or though a research topic/paper that is a crossover between computer science and accounting/finance)?
+
+Edit: My mother is a professor in Finance. I'm a B.A. in Accounting and currently in Master's of Computer Science. I will be a Ph.D. in Accounting. I usually do research with her and to be honest, I cannot think of any topic that is a crossover between the 2 fields, CS and finance/accounting, given the different natures of them. For example, CS people think that it is more important to publish in conferences than in journal, but fin/accounting people think otherwise. Another thing is that finance/accounting field can get very intense on mathematical/quantitative stuffs - while CS is more about programming. 
+
+I have read both fields' papers and projects. CS deals more with real life and finance/accounting is like...I don't know, maybe sometimes they just publish the papers to get tenure, it doesn't seem to benefit the life of anyone.
+
+The only think that I can think of (that is a crossover) is how to use programming knowledge to run tests smoothly on finance/accounting field.

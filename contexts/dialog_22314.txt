@@ -1,0 +1,10 @@
+VALIANT: They must've taken it off me.
+DOOM: They?
+VALIANT: The other people who were in here lookin' for the will. I woulda caught 'em if Cheetah here hadn't interrupted me.
+DOOM: Take it easy, Bongo. We'll handle Mr. Valiant our own way... downtown.
+VALIANT: Downtown? Fine. Get a hold of Santino, I'd be more than glad to talk to him.
+DOOM: Oh, not <u>that</u> downtown. <u>Toon</u>town.
+VALIANT: You're not takin' me to downtown <u>Toon</u>town?
+DOOM: Indeed we are. We'll continue the interrogation there.
+VALIANT: I ain't tellin' you nothin'! Get me Santino.
+DOOM: You're a very stubborn man, Mr. Valiant. Very pig-headed. Boys, show Mr. Valiant how we handle pig-headed men at the Toontown station...

@@ -1,0 +1,1 @@
+Ubuntu files on different drives and disk space requirements? I have a SSD and a HDD on my system. I want to install Ubuntu on the SSD (dual boot with win10) and keep all other files, programs etc. on the HDD? How much disk space I need on the SSD and how can I achieve this?

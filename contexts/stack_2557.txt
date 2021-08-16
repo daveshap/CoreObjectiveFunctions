@@ -1,0 +1,1 @@
+How to plot a point on the highest elevation of a raster on a polygon. QGIS I have a shp with more than 1700 polygons on a elevation raster.I need to plot a point that represents the highest altitude location within the polygons, and then export those points as a new shp.

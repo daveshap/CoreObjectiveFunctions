@@ -1,0 +1,1 @@
+Can't add custom keyboard layout in System preferences I've created the custom keyboard layout using Ukelele and save an obtained bundle to /Library/Keyboard Layouts folder.Unfortunately, when I try to add any new layout in System Preferences app (having something in \"Keyboard Layouts\" folder), it just crashes. Has anyone encountered this issue?P.S. macOS 10.13.6

@@ -1,0 +1,26 @@
+LONNEGAN: What's the matter? You gotta get back to Shaw?
+HOOKER: Naw, he picked up some jane in the bar. Can't see him till morning anyway.
+LONNEGAN: All right, then.
+LONNEGAN: Why me? Shaw probably has lotsa enemies to choose from.
+HOOKER: I need somebody respectable...but not completely legit. What I'm gonna do isn't very legal.
+LONNEGAN: I'm a banker, friend. That's legit in this state.
+HOOKER: All you gotta do is place a bet for me at Shaw's place. I'll supply all the money and the information.
+HOOKER: If you help me out, I'll pay ya back the money you owe Shaw, myself.
+LONNEGAN: That's worth fifteen grand to ya?
+HOOKER: Maybe a couple million.
+LONNEGAN: You're dreamin', kid.
+HOOKER: 660 Marshall Street. Tomorrow at 12:30, if you're interested.
+LONNEGAN: If I'm not there by quarter of, I'm not coming.
+GONDORFF: Everything go all right?
+HOOKER: Yeh, it was easy.
+GONDORFF: No signs of trouble?
+HOOKER: What do ya mean?
+GONDORFF: You know, somebody tailin' ya. A torpedo or somethin'.
+HOOKER: No, not a thing.
+GONDORFF: How 'bout Lonnegan?
+HOOKER: I gave him the breakdown just like ya told me to.
+GONDORFF: And?
+HOOKER: He threatened to kill me.
+GONDORFF: Hell, they don't do that and you know you're not gettin' through to 'em.
+HOOKER: Then he drove me home. He tried to put himself away as legit, so I went right into the pitch.
+GONDORFF: Did he hold you up on anything?

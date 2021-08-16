@@ -1,0 +1,10 @@
+Article 13 has passed European Parliament. What does this mean for the future of European copyright law?
+[BBC](https://www.bbc.com/news/technology-47708144)
+
+European Parliament today voted in favour of the "Directive on Copyright in the Digital Single Market," a piece of legislation that has been mired in controversy largely due to the inclusion of "Article 13" (actually classed as Article 17 in the final document). The text of this article mandates, in part, that information service providers "take measures to unsure the functioning of agreements concluded with rightsholders for the use of their works"
+
+This specifically would affect the "mere conduct" exemption of the Electronic Commerce Directive (2000), which does not hold information service providers liable for the information transmitted on their service in most circumstances. [source](https://en.wikipedia.org/wiki/Electronic_Commerce_Directive_2000#%22Mere_conduit%22)
+
+[Text of Article 13 is sourced from here](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52016PC0593&from=EN), although I'm not sure if this is the exact text of the final legislation.
+
+To make the title question more specific, to what extent does this legislation require internet service providers to "take measures" in enforcing copyright, and what sort of mechanisms already exist to expedite these changes?

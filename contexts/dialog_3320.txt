@@ -1,0 +1,28 @@
+EVE: Would you care for a drink?
+CHANCE: Yes. Thank you.
+CHANCE: I would like to watch television.
+EVE: Oh? Certainly...
+EVE: Oh, by the way - I'm Eve Rand.
+CHANCE: Hello, Eve.
+EVE: May I ask your name?
+CHANCE: My name is Chance.
+EVE: Pardon me, was that Mr. Chance?
+CHANCE: No. I'm a gardener.
+EVE: Oh... Mr. Gardiner... Mr. Chauncey Gardiner... You're not related to Basil and Perdita Gardiner are you?
+CHANCE: No, Eve. I'm not related to Basil and Perdita.
+EVE: Oh. Well, they're just a wonderful couple, we've been friends for years. We visit their island quite often.
+EVE: Did you lose something?
+CHANCE: Yes. I lost my remote control.
+EVE: Oh... Well, I'm very sorry...
+EVE: ... I'll feel so relieved after Dr. Allenby examines your leg. After that, David can run you on home, or to your office or wherever you'd prefer... ... Is there anything special you would like to watch?
+CHANCE: I like to watch. This is fine.
+EVE: I can see that it must be very important for you to stay informed of all the latest events.
+CHANCE: Yes.
+EVE: I admire that in a person. As for myself, I find there is so much to assimilate that it can become quite muddling at times...
+WILSON: Good evening, Mrs. Rand.
+EVE: Good evening, Wilson.
+WILSON: I shall take the gentleman to the third floor guest suite, ma'am. Dr. Allenby is standing by.
+EVE: Thank you, Wilson. That will be fine.
+EVE: Thank you, Greta. I'll be with Mr. Rand if I'm needed.
+WILSON: Yes, ma'am.
+EVE: I'll see you after the doctor has a look at your leg, Mr. Gardiner.

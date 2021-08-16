@@ -1,0 +1,1 @@
+Skyrim SE modded save game sync I understand that saved games for Skyrim SE are synced to the Xbox cloud so that you can continue playing the game on another Xbox one. Does this still work if you install mods? If I install the same set of mods on a different Xbox one, will the saved games transfer? Are installed mods backed up to the cloud as well?

@@ -1,0 +1,32 @@
+The US Treasury is the arbiter of whether airlines receiving taxpayer funds can cancel routes between cities. Airlines have (mostly unsuccessfully) been petitioning the Treasury to temporarily halt flying certain routes. How is the Treasury justifying whether airlines should maintain flying or not?
+As part of the recent payroll bailout package for airlines, [carriers must maintain a minimum level of service between locations](https://news.trust.org/item/20200428150116-lprmu):
+
+> The airlines must maintain minimum service levels in exchange for getting cash grants from the U.S. Treasury to assist in payroll costs unless the department issues a waiver.
+
+With a 95% drop in customer demand, airlines are seeking to cut these routes anyway, and are now petitioning the US Treasury to temporarily suspend certain routes:
+
+> JetBlue wants to halt flights to 16 U.S. airports...
+
+> Delta wants to suspend flights to nine airports...
+
+> Spirit Airlines Inc asked the department for approval to suspend flights to [seven locations]....
+
+Many of these petitions have been denied, but some have been granted:
+
+> Earlier this month, the department rejected most of Spirit's requests to halt flights...
+
+> The department earlier also required JetBlue to keep flying to nine destinations...
+
+> Frontier asked approval to suspend service to 33 U.S. locations... ...the department approved just three requests...
+
+> The department also said it had approved Cape Air's request to halt flights to New York...
+
+Airlines have said that they would like to scale up with customer demand, instead of being forced to fly routes with few flyers:
+
+> JetBlue said it "fully intends to gradually resume service to the levels prescribed (by the Transportation Department) at each of these airports as soon as it is both safe to do so and when even the slightest customer demand re-emerges."
+
+---
+
+1. Under the grant package, how is the US Treasury deciding whether airlines must maintain flying between certain locations? What is the basis for these decisions?
+
+2. In normal circumstance, how much autonomy do US air carriers have in deciding how often and where to fly to? Was there any previous regulation mandating carriers maintain routes?

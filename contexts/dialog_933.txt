@@ -1,0 +1,5 @@
+HUDSON: Movement!
+APONE: Position?
+HUDSON: Can't lock up...
+APONE: Talk to me, Hudson.
+HUDSON: Uh, seems to be in front and behind.

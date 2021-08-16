@@ -1,0 +1,1 @@
+How to analyze video card RAM and GPU load? I would like to analyze my video card performance (RAM, load, etc) the way that top, free and lscpu does for my main hardware.Is there an app to do this?

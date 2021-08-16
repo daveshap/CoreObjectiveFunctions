@@ -1,0 +1,13 @@
+ALICE: Gosh, you had me fooled.
+MAXWELL: Sh--sh--I want to have a few words with you quietly.
+ALICE: So--friendly or otherwise--?
+MAXWELL: [Perfectly friendly, my dear.] At last, I have really a secure living for us. We can travel or anything we choose.
+ALICE: Then you knew of the inheritance?
+MAXWELL: Sure--I have one little job to accomplish, then we can leave together. No doubt you are surprised at this disguise.
+ALICE: No, I wouldn't be surprised at anything from you. Winningly. MAXWELL Now, honey--you are here in time to help me and you can--
+ALICE: I knew there was a catch in this some place--but spill it. Quiet and dramatic. MAXWELL In the other room, I have a crazy woman that I have been treating.
+ALICE: Ha ha, <U>you</U> have been treating.
+MAXWELL: Quiet, will you? This is ser- ious. Our lives are in danger.
+ALICE: What do you mean &quot;our&quot;?
+MAXWELL: That's what I said. Now, lis- ten to me. I want you to help me take this woman down stairs. I will give her a shot. You can take care of her till I get help.
+ALICE: How about me getting the help. She's quiet now, isn't she?

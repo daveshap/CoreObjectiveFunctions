@@ -1,0 +1,26 @@
+What are the powers of Congress to enforce subpoenas against the President and executive branch?
+Recently, several disputes have arisen over subpoenas issued by the House of Representatives to Trump administration officials.  
+
+In particular:
+
+* The [White House directed a former security clearance official Carl Kline not to testify before the House Oversight committee despite a subpoena.](https://www.lawfareblog.com/documents-white-house-orders-former-official-defy-congressional-subpoena-congress-responds)  Kline [wrote the committee](https://oversight.house.gov/sites/democrats.oversight.house.gov/files/documents/eLtr.%20to%20Cummings%20and%20Jordan%2020190422.pdf) to say he would not comply with their subpoena due to the White House request.
+
+* Donald Trump in his personal capacity sued [the House Oversight committee and his accounting firm](https://www.lawfareblog.com/document-trump-sues-house-oversight-chairman-and-accounting-firm-over-tax-returns) to prevent his accounting firm from turning over financial records to the Oversight committee pursuant to a subpoena.
+
+* DoJ civil rights division official [John Gore](https://www.washingtonpost.com/powerpost/justice-department-refuses-to-comply-with-congressional-subpoena-for-testimony-on-citizenship-question-and-2020-census/2019/04/24/d132996a-66a6-11e9-a1b6-b29b90efa879_story.html) told the Oversight committee yesterday he would not attend a deposition he was subpoenaed to attend related to the citizenship question on the 2020 census.
+
+* The Treasury Department [said they would not yet turn over Trump's tax returns under 26 USC 6103(f)](https://home.treasury.gov/system/files/136/Secretary-Mnuchin-Response-to-Chairman-Neal-Plus-Appendix-A.pdf) after the Ways and Means Committee invoked that statutory authority to demand them [earlier this month.](https://waysandmeans.house.gov/sites/democrats.waysandmeans.house.gov/files/documents/Neal%20Letter%20to%20Rettig%20(signed\)%20-%202019.04.03.pdf) 
+
+* The White House directed former White House counsel Don McGahn [not to testify to the House Judiciary committee under a subpoena about matters he discussed with Mueller and which appeared in Mueller's report.](https://www.washingtonpost.com/politics/white-house-plans-to-fight-house-subpoena-of-former-counsel-donald-mcgahn-for-testimony-on-mueller-report/2019/04/23/2d48732a-65f1-11e9-83df-04f4d124151f_story.html)
+
+* President Trump has publicly commented that [he intends to fight "all" House subpoenas.](https://www.nytimes.com/2019/04/24/us/politics/donald-trump-subpoenas.html)
+
+Given all of these disputes, I have the following questions:
+
+* **What are the legal merits of the particular refusals to comply listed above?**
+
+* **Is there any precedent for the executive branch to categorically ignore or defy all subpoenas from Congress regardless of subject matter?**
+
+* **What means does the House have at its disposal to compel enforcement of subpoenas and other statutory document requests?**
+
+*edit: fixed a couple typos*

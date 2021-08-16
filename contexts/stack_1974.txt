@@ -1,0 +1,1 @@
+Capturing the idea of \"almost/nearly\" and \"actually\" Let's take failing a test as an example.  I would like to capture the class of people consisting of those who actually failed the test and who nearly failed the test. Is there an elegant way of saying this? I would like to apply this to other situations as well.Thanks for any hints in this matter.

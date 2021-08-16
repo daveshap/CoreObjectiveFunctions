@@ -1,0 +1,5 @@
+MITCHELL: Do you have a room?
+RISA: Will you be spending more than a night?
+MITCHELL: Hard to say. I might have...some business here.
+WENDELL: Are you a reporter?
+MITCHELL: No.

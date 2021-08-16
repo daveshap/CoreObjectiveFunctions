@@ -1,0 +1,4 @@
+Benefits of a Beginner SQL Class? Trying to gain skills for a new job
+Hi All,
+
+I am currently a data manager at a company working with Salesforce but am looking for another job (my company is going through some restructuring and has some serious management issues). A lot of job descriptions require SQL knowledge. Do you think one beginner class might be enough to say that I know SQL? I am thinking about taking a class but am unsure if it is necessary. Thanks!

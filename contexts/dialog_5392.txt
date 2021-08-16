@@ -1,0 +1,12 @@
+GOODCHUCK: Get up.
+BADCHUCK: Feels so good to lie here.
+GOODCHUCK: Get up, damn you.
+BADCHUCK: Can't. Need water.
+GOODCHUCK: You've had today's water.
+BADCHUCK: Thirsty.
+GOODCHUCK: Come on, shape up, get going, you can do it.
+BADCHUCK: No water, no work.
+GOODCHUCK: Okay look, I know you're tired, I know you're thirsty, but give it one more shot, you've just got to do a little more.
+BADCHUCK: Do too much, I'll die.
+GOODCHUCK: Do too little you'll die.
+BADCHUCK: Going to die anyway.

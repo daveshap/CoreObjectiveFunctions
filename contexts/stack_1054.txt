@@ -1,0 +1,1 @@
+If I install a GRUB backup on USB flash will it affect my current system GRUB? I want to be able to boot from HD normally but also boot from USB if something gets broken in my dual-boot setup. It should be transparent to the OSes. Are there any issues with this?

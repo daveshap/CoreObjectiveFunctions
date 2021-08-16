@@ -1,0 +1,7 @@
+DATA: Do you know where you are?
+B-9: I am in a room with lights.
+DATA: Can you remember our father?
+B-9: No.
+DATA: Do you know the name of the Captain of this vessel?
+B-9: No.
+DATA: Is that your final answer?

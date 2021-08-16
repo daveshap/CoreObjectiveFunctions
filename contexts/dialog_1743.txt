@@ -1,0 +1,4 @@
+LEN: Every entry was authorized.
+SHROT: Keep looking.
+LEN: What're we looking for?
+SHROT: Any irregularity in the pattern.

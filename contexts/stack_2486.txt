@@ -1,0 +1,1 @@
+Georeference multiple jpg through GDAL Is there any way to automatically georeference hundreds of jpeg images with known corner coordinates in a text file?

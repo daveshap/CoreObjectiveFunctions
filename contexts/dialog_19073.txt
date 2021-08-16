@@ -1,0 +1,28 @@
+NAPOLEON: I believe you are acquainted with my brother, Joseph Bonaparte, and my aide, Major Junot.
+CHARLES: Yes, sir, I had the honor of meeting them on the trip from Paris.
+NAPOLEON: Captain Charles, I believe you are one of General Le Clerc's aides-de- camp.
+CHARLES: Yes, sir, I am.
+NAPOLEON: Was it he who assigned you to command the escort which accompanied Madame Bonaparte's coach?
+CHARLES: Yes, sir.
+NAPOLEON: Was the trip normal in every respect?
+CHARLES: Yes, sir.
+NAPOLEON: Did any difficulties of any kind arise during the trip?
+CHARLES: No, sir, none at all.
+NAPOLEON: Then, you have my thanks, Captain Charles, for safely escorting Madame Bonaparte to Milan, and you may consider your assignment completed.
+CHARLES: Thank you, sir.
+NAPOLEON: You will return to Paris tomorrow and you will carry my compliments and thanks to General Le Clerc for assigning such an excellent officer to carry out a responsibility which has meant so much to myself and to Madame Bonaparte.
+CHARLES: Thank you, sir. I will do that.
+NAPOLEON: You may go, Captain Charles.
+NAPOLEON: I would like both of you to read this. Please read it aloud.
+JOSEPH: To Citizen General Bonaparte from one who does not wish to see him dishonored by his wife. You should know, Citizen General, that your wife has taken a lover, one Captain Hippolyte Charles... undated and unsigned.
+NAPOLEON: Naturally, one does not take much stock in such a piece of filth but, on the other hand, it is not the sort of thing one can simply ignore. What do you think, Joseph?
+JOSEPH: No...
+NAPOLEON: Junot?
+JUNOT: No, one cannot simply ignore it.
+NAPOLEON: I am afraid, then, I have to ask you both, Joseph as my brother, and Junot as my good friend, whether or not you know anything about this, or whether you saw anything at all during the trip which might make you suspect some truth to it.
+JOSEPH: No... nothing at all.
+NAPOLEON: Not even the slightest hint of something?
+JOSEPH: No -- Captain Charles commanded the cavalry escort, and rode outside the carriage. In the evenings, he always ate at another table. They hardly ever spoke to each other.
+NAPOLEON: You would tell me, Joseph, wouldn't you?
+JOSEPH: Yes, of course, I would. You know I am not one of your wife's greatest admirers, but I certainly know nothing about this.
+NAPOLEON: And you, Junot?

@@ -1,0 +1,12 @@
+SERGEANT: Go ahead! C'mon ... Repeat everything from the beginning, and then we'll let you go. Name ...
+ALGERIAN: Sid Ahmed.
+SERGEANT: Second name.
+ALGERIAN: Sail.
+SERGEANT: Which district" do you belong to?"
+ALGERIAN: Second district ...
+SERGEANT: Second district ... Explain better ...
+ALGERIAN: Second district, Casbah, West Algiers.
+SERGEANT: What group"?"
+ALGERIAN: Third group.
+SERGEANT: Third group. What's your assignment?
+ALGERIAN: Uh ... responsible for the sixth section.

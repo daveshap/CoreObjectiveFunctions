@@ -1,0 +1,1 @@
+What is the solar wind speed as function of distance from the Sun? Someone must have calculated at least a \"zero-order approximation\" of the behavior of solar wind speed, density, and pressure as a function of distance from the Sun, but the heck if I can find it.  Anyone know of some good references for this?

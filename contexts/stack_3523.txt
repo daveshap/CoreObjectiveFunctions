@@ -1,0 +1,1 @@
+IIS - giving service accounts admin rights? I'm looking at a application running on IIS which requires service account(s) to run some services/software, however the service account requires LOCAL ADMIN access which is against policy.Are there any alternatives? Is this a sign of an application that is badly made that it requires service accounts to need local admin access?

@@ -1,0 +1,11 @@
+NEBBLEMAN: What did security say?
+SUSAN: They'll in validate the key. Probably nothing.
+NEBBLEMAN: Well, you got another problem.
+SUSAN: The replicators?
+NEBBLEMAN: Worse. Mrs. Argon wants to talk to you. She's waiting in the lab.
+SUSAN: This day just keeps going from bad to worse.
+POPPY: Vermin...
+SUSAN: Can I help you, Mrs. Argon?
+POPPY: I spoke to Dr. Argon this morning and he remains frustrated over the loss of the original nanobot.
+SUSAN: I am aware of Dr. Argon's frustrations.
+POPPY: He believes that the second nanobot should be ready for testing by now.

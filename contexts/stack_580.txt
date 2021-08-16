@@ -1,0 +1,1 @@
+How to install 'Nocturn': a pre-built binary app in ubuntu 17.10 I have downloaded the Nocturn app pre-built binary from github. In which directory should I put it so I can run it from dock?

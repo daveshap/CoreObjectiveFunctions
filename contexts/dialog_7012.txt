@@ -1,0 +1,20 @@
+DOOLITTLE: TALBY!
+TALBY: Oh! Ah, yes, Doolittle. What is it?
+DOOLITTLE: I need a diameter approximation.
+TALBY: Okay, Doolittle, I'll have it in a minute.
+PINBACK: I need a GHF reading on the gravity correction.
+DOOLITTLE: I'll check it.
+BOILER: I have a reduced drive reading of seven thousand.
+PINBACK: Right, that checks out here.
+DOOLITTLE: Pinback...
+PINBACK: Yes, Doolittle.
+DOOLITTLE: Your GHF reading is minus fifteen.
+PINBACK: Doolittle...
+DOOLITTLE: Yes.
+PINBACK: I need a computer reading on a fail- safe mark.
+DOOLITTLE: In a second.
+PINBACK: Boiler, can you set me up with some temp figures?
+BOILER: Ninety seven million, minus eight, corrected to mass critical.
+PINBACK: I read that with a quantum increase of seven.
+DOOLITTLE: Pinback, I have a computer reading of nine five seven seven.
+BOILER: Time to start talking.

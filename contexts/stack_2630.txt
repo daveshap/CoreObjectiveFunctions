@@ -1,0 +1,1 @@
+Using GeoPandas, Shapely and Fiona to \"select\" state from shapefile, save it and display it? I have the usual US census states shapefile for the 48 contiguous states. I am trying to select a state of interest from that shapefile then save that shapefile and display. I want to use GeoPandas, Shapely, Fiona to do this. Any ideas on how this could be done?

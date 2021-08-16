@@ -1,0 +1,1 @@
+how to access openvpn outside my LAN I freshely installed an OpenVpn on my machine which runs ubuntu server 18.04 LTS. I scanned my ports with nmap it seems to be my ISP filtered all ports so i'm unable to do port forwarding. Is there any way to access OpenVpn outside my LAN without port forwarding.

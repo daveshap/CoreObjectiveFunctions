@@ -1,0 +1,13 @@
+WILL: Are you familiar with that ship? The Black Pearl?
+JACK: Somewhat.
+WILL: Where does it make berth?
+JACK: Surely you've heard the stories? The Black Pearl sails from the dreaded Isla de Mureta ... an island that cannot be found -- except by those who already know where it is.
+WILL: The ship's real enough. So its anchorage must be a real place. Where is it?
+JACK: Why ask me?
+WILL: Because you're a pirate.
+JACK: And you want to turn pirate yourself?
+WILL: Never. They took Miss Swann.
+JACK: So it is that you found a girl. Well, if you're intending to brave all and hasten to her rescue and so win fair lady's heart, you'll have to do it alone. I see no profit in it for me.
+WILL: I can get you out of here.
+JACK: How? The key's run off.
+WILL: I helped build these cells. Those are hook-and-ring hinges. The proper application of strength, the door'll lift free. Just calls for the right lever and fulcrum ...

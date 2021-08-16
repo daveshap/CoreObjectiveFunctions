@@ -1,0 +1,1 @@
+Can I reuse cert for :443 on :10000 I have used letsencrypt/certbot to setup SSL for my site on ubuntu 16.04. I've installed webmin and it correctly complains that it is not secure. What should I do to get a cert working on webmin port 10000 ? I am using apache.

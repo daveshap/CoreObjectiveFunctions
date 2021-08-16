@@ -1,0 +1,1 @@
+How to install WiFi driver for AsusX550LN when I have no internet connection I have only WiFi network, so how can I install wireless driver offline?I'm using Ubuntu version 17.10

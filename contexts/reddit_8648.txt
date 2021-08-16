@@ -1,0 +1,35 @@
+Looking for more evidence in the Russia election hacking situation
+So in this whole Russia election hacking story, I know of two "hacks": that resulted in the release of information - Podesta's emails and the DNC server.
+
+
+I have no clue about electronic internet forensics but I do know that news is like an iceberg...we only see the tip, and it likely looks different from various angles.
+
+After the president's recent comments about "it could be Russia, it could be others...we don't know" I started digging a little further as it appears that all the reporting has been that it was most certainly Russia.
+
+
+In trying to understand more I came across at least two articles related to the DNC hack which clearly state that the DNC has never allowed any outside intelligence or investigative body access to their servers -
+
+
+From January - http://www.cnn.com/2017/01/05/politics/fbi-russia-hacking-dnc-crowdstrike/index.html
+
+
+Just recently - http://www.washingtontimes.com/news/2017/jul/5/dnc-email-server-most-wanted-evidence-for-russia-i/
+
+
+Is there any other corroborating evidence that can be gathered outside of the server that substantiates the claims of this private company?
+
+
+Is there evidence that this private company can provide that could not possibly be faked or misleading that investigators can use to make their determinations?
+
+
+In regards to the Podesta emails - I have seen no stories regarding NSA, CIA, or FBI investigators reviewing the information, but I am also aware that they would most likely not comment on ongoing investigations. I did however find articles stating that "private cyber security" firms confirm that the Russians were the source of the phishing scam
+
+Here's one - http://www.cnn.com/2016/10/28/politics/phishing-email-hack-john-podesta-hillary-clinton-wikileaks/index.html
+
+
+And another - https://www.nytimes.com/2016/10/21/us/private-security-group-says-russia-was-behind-john-podestas-email-hack.html
+
+Same questions apply. 
+
+ 
+Lastly, were there attempted hacks of any republicans or the RNC that did not get the same amount of press coverage because they were unsuccessful?

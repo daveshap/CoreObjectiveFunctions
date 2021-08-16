@@ -1,0 +1,8 @@
+BEDEVERE: Who are you who are so wise in the ways of science?
+ARTHUR: I am Arthur, King of the Britons.
+BEDEVERE: My liege ... forgive me ...
+ARTHUR: Good Sir knight, will you come with me to Camelot, and join our number at the Round Table?
+BEDEVERE: My liege, I am honored.
+ARTHUR: What is your name?
+BEDEVERE: Bedevere, my Liege.
+ARTHUR: Then I dub you ... Sir Bedevere ... Knight of the Round Table!

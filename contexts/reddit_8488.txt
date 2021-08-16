@@ -1,0 +1,15 @@
+What are the merits of the US Government's lawsuit against California regarding "sanctuary" policies?
+Yesterday the US Government filed [a lawsuit](https://drive.google.com/file/d/1uYcws2UaSH9wdoQjDBaJRluY6pJuijbJ/view) against the State of California which asks for a Federal court to bar enforcement of three California laws.
+
+Those laws are:
+
+* [**AB-450**](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB450) which requires in relevant part that California employers not provide information to Federal immigration agents, or allow them access to nonpublic areas, except as required by federal law or when presented with a warrant, subpoena or other court order.
+
+* [**AB-103**](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB103) which requires  the Attorney General of California, or his or her designee, to engage in reviews of county, local, or private locked detention facilities in which noncitizens are being housed or detained for purposes of civil immigration proceedings in California.
+
+* [**SB-54**](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54) which prohibits state and local law enforcement agencies from sharing information with the US government around immigrants in California custody, or transferring them to Federal custody, with some exceptions for certain listed felonies, and for when a judicial warrant or judicial probable cause determination is presented to California authorities.
+
+The DoJ argues that these laws are invalid under the [supremacy clause of the Constitution](https://www.law.cornell.edu/wex/supremacy_clause)  because they "reflect a deliberate effort by
+California to obstruct the United States’ enforcement of federal immigration law."
+
+In a recent similar case, one of the Federal laws the DoJ is asking to be found supreme [was found to be unconstitutional](http://www.cand.uscourts.gov/who/sanctuary-litigation) under the 10th amendment by a US District Court. (That page is a general case page, the order granting motion for summary judgment is the court order.)

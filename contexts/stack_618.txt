@@ -1,0 +1,1 @@
+How do I keep track of the cursor on multiple monitors? Microsoft or Apple OS has a feature wherein shaking the cursor temporarily enlarges it until you see it, or press Control and a circle will animate around the cursor letting you quickly find it. In Ubuntu 16.04 how do I quickly find the cursor? I frequently lose where it is when using two monitors.

@@ -1,0 +1,1 @@
+Is it worth upgrading Ubuntu 17.10 kernel from 4.13 to 4.15? I wonder if it's worth upgrading 4.13 kernel to 4.15. I cannot complain about any instability of 4.13, but I'm interested how 4.15 going on and if there are benefits upgrading.

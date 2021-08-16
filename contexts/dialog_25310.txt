@@ -1,0 +1,11 @@
+PICARD: Counselor?
+TROI: They have an incredible clarity of perception, Captain. I've never encountered a species with such mental discipline...
+SOJEF: My name is Sojef, Captain.
+PICARD: Jean-Luc Picard... my officers Doctor Crusher and Counselor Troi.
+SOJEF: Would you like something to eat?
+PICARD: No, we're here to... rescue them.
+SOJEF: As you wish. But I would ask you to disarm yourselves. This village is a sanctuary of life.
+PICARD: Prepare to transport the 'hostages' to the ship...
+CRUSHER: They should be quarantined before joining the ship's population.
+PICARD: We were under the impression they were being held against their will.
+ANIJ: It's not our custom to have guests here at all, let alone hold anyone against their will.

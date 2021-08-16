@@ -1,0 +1,1 @@
+Convert dwg (CAD) to shp in any open source GIS software? I would like to do what's needed in a GIS (GRASS, QGIS, etc) alone, no other converters-only.The process is to read the dwg files that would be located in a folder and read them as shp and perform calculations like snapping later or using a geodatabase to store the files and later export them as shp.

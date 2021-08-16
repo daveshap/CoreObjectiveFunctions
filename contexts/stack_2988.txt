@@ -1,0 +1,1 @@
+Where does the principle of equal a priori probabilities come from in statistical mechanics? I have studied that the principle of equal a priori probabilities yields maximum entropy principle and minimum free energy principle and we can define and calculate other thermodynamic variables. However, where does the principle of equal a priori probabilities come from?

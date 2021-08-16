@@ -1,0 +1,1 @@
+Clip through blocks for a brief moment in Minecraft? In spectator mode, a person is able to fly and clip through blocks, but is also invisible.Is it possible to put a person in spectator mode temporarily? That is, is there a command/effect that a person in, say, adventure mode can use to switch to spectator mode for x ticks/seconds, then switch back to adventure mode?

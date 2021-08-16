@@ -1,0 +1,8 @@
+‘First to Invent’ patent policy was replaced by ‘First Inventor to File’ in 2013, what has changed?
+The ‘First Inventor to File’ (FITF) provision of the [Leahy-Smith America Invents Act] (https://www.uspto.gov/aia_implementation/bills-112hr1249enr.pdf) (Pg. 2) became effective on March 16th, 2013.  This policy replaced [‘First to Invent’] (https://en.wikipedia.org/wiki/First_to_file_and_first_to_invent).  
+
+
+There was substantial discussion on the topic at the time.  It would change U.S. policy to be similar with other nations and [save the courts and patent office time and money] (http://sites.udel.edu/cisc356/2014/04/22/the-debate-between-first-to-file-and-first-to-invent/).   Others argued ‘First to Invent’ encourages [greater efforts in R&D] (http://economics.emory.edu/home/documents/workingpapers/miyagiwa_09_04_paper.pdf) than ‘First to File’.  The U.S. opted for a hybrid in FITF.  Four years have passed since the [first significant change to the U.S. patent system since 1952] (http://money.cnn.com/2011/06/24/technology/patent_reform_bill/index.htm) and I’d like to know what has changed.
+
+
+How has this change in patent policy affected patenting in the U.S.?  [Patent trolls] (https://www.americanactionforum.org/research/recent-developments-in-patent-policy/) were a problem before the transition to FITF, has this improved?  Are there further reforms that can be made?

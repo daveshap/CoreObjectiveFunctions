@@ -1,0 +1,6 @@
+Title II vs. Net Neutrality
+I understand the concept of net neutrality fairly well - a packet of information cannot be discriminated against based on the data, source, or destination.  All traffic is handled equally.
+
+[Some people, including the FCC itself, claims that the problem is not with Net Neutrality, but Title II](http://transition.fcc.gov/Daily_Releases/Daily_Business/2017/db0427/DOC-344591A1.pdf).  The FCC and [anti-Title II arguments](http://www.nationalreview.com/article/436807/net-neutrality-government-control-your-internet-service) seem to talk up Title II as the problem, rather than the concept of "treating all traffic the same".
+
+Can I get some neutral view of what Title II is and how it impacts local ISPs?  Is it possible to have net neutrality without Title II, or vice versa?  How would NN look without Title II?  Are there any arguments for or against Title II aside from the net neutrality aspects of it?  Is there a "better" approach to NN that doesn't involve Title II?

@@ -1,0 +1,27 @@
+JESSIE: Hal's signalling he's OK.
+FRANK: They're about two hundred yards from the top of the tower, right where that ledge comes out, Gabe.
+JESSIE: He knows it well.
+GABE: The ledge, I know it well, or should I say <u>we</u> know it well.
+JESSIE: You can stop right there.
+GABE: We spent a night there one night...
+JESSIE: Enough.
+GABE: Yeah, we were caught in a storm. I went up there an innocent climber...
+JESSIE: Oh, please.
+GABE: And when I came down, my morals were corrupted forever.
+JESSIE: Don't believe it... You know the trouble with you is you have no brain filter. Everything you think just pours right out.
+GABE: Room service...Hi, Sarah.
+SARAH: Hi, Gabe.
+HAL: Glad you could drop in.
+GABE: Hey, anything for a friend. How's the knee?
+HAL: I think it's out. No big deal. It's that old football injury.
+GABE: Funny, he told me he twisted it gettin' out of a hot tub.
+HAL: I love you, too.
+GABE: Rescue One -- have located helpless climber, please prepare <u>idiot line</u> for transport, over.
+HAL: Wait 'til you get into trouble, just wait.
+GABE: How're ya feeling?
+SARAH: Fine, I guess...
+GABE: Sarah, we could take off and leave this guy behind...
+HAL: Rescue One -- please be advised Ranger Walker is making advances toward my girlfriend that are liable to get his ass kicked right into space, over.
+JESSIE: Copy. Hal, tell Gabe he only makes advances <u>to me</u> or else he'll be walking down four thousand feet, and sleeping outside.
+GABE: She's tough.
+SARAH: Is it really four thousand?

@@ -1,0 +1,9 @@
+MALE VOICE: Hello. Is this Jim Garrison's daughter?
+VIRGINIA: Yes?
+MALE VOICE: Virginia or Elizabeth?
+VIRGINIA: Virginia.
+MALE VOICE: Virginia, you're a lucky little girl. Your daddy has entered you in a beauty contest. Would you like to be in a beauty contest?
+VIRGINIA: That sounds fun.
+MALE VOICE: I need some information from you then. How old are you?
+VIRGINIA: Six.
+MALE VOICE: And how tall are you?

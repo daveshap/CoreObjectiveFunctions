@@ -1,0 +1,1 @@
+does heat capacity ratio, i.e cp/cv depends on pressure if ideal gas assumption is considered? cp/cv does change with a change in temperature. But does it changes with pressure too if the temperature is kept constant?

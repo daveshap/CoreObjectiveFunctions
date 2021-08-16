@@ -1,0 +1,10 @@
+MURTOGG: What's your name?
+JACK: Smith.
+MULLROY: What's your business in Port Royal, 'Mr. Smith'?
+MURTOGG: And no lies!
+JACK: None? Very well. You rumbled me. I confess: I intend to commandeer one of these ships, pick up a crew in Tortuga, and go on the account, do a little honest pirating.
+MURTOGG: I said, no lies.
+MULLROY: I think he's telling the truth.
+MURTOGG: He's not telling the truth.
+MULLROY: He may be.
+MURTOGG: If he were telling truth he wouldn't have told us.

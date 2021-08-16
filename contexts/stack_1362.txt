@@ -1,0 +1,1 @@
+Determine to Assume Outer Diameter of Cable for Choosing Cable Gland Is there any method to determine the cable outer diameter just only known from the pin connector which is M23 Connector 17 Pins?I need the method for choosing cable gland size.Thank You

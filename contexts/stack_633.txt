@@ -1,0 +1,1 @@
+How to make a Dual Boot UEFI I want to make a dual boot with Kali or BlackArch with Zorin or Bodhi, but the biggest problem is the UEFI, they don't detect the other or dont boot. So, how can i do a dual-boot in this situation?

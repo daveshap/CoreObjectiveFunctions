@@ -1,0 +1,11 @@
+DADE: This isn't a virus. It's a worm!
+NIKON: What's this one eat?
+DADE: It nibbles. You see this?
+DADE: This is every financial transaction Ellingson conducts, yeah? From million dollar deals to the ten bucks some guy pays for gas.
+KATE: The worm eats a few cents from each transaction.
+DADE: And no one's caught it because the money isn't really gone. It's just data being shifted around.
+KATE: Right. And when the worm's ready, it zips out with the money and erases its tracks.
+DADE: Joey got cut off before he got to that part. Check it out. By this point, it's already running at, what, twice the speed as when it started.
+KATE: Right, and at this rate it ends its run in...
+NIKON: Two days.
+DADE: And judging by this segment alone, it's already eaten about...

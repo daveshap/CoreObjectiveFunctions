@@ -1,0 +1,14 @@
+[META] Announcing a revised rule 3, and a request for help.
+Based on [feedback from users](https://www.reddit.com/r/NeutralPolitics/comments/7j50ps/meta_seeking_user_feedback_on_insults_directed_at/) and discussion among the mod team, we have decided to revise sidebar rule 3 to read as follows:
+
+>3) **Be substantive.** NeutralPolitics is a serious discussion based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.
+
+We believe this formulation better reflects the ethos of what we're asking of our users on NP.  The main change from the prior rule 3 is the specific prohibition on "pejorative name calling."  This prohibits using nicknames and slurs, except where the person using them intends to state that they're literally accurate.  In that case, a sourced explanation of why the name ascribed is accurate is permitted by the rules.
+
+In addition, we added language that "NeutralPolitics is a serious discussion based subreddit."  This reflects the general ethos of what we're after here, and also allows for room to remove content which is nonserious but doesn't fit neatly into another rule, such as obvious trolling.
+
+We are in the process of updating our automod rules to report (not remove) comments which contain keywords which are likely to violate this policy.  To that end, we need your help in composing a list of nicknames and substitute names which are very likely to be in violation of the rules.  We already have slurs and most regular insults in our automod filters - we're just looking for more public figure related ones now.
+
+**Please help us out by giving us a list of names which we can put into automod.**
+
+We won't take it personally.

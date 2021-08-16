@@ -1,0 +1,24 @@
+BRENNA: He tried to kill me last night.
+TAUPIN: Where?
+BRENNA: Dupont Circle.
+BRENNA: Who is he?
+TAUPIN: At the moment? Carl Smith.
+BRENNA: And you?
+BRENNA: What will you do now?
+TAUPIN: You needn't worry Miss Cartwright. I've been at this a very long time.
+BRENNA: He called you MacLeod"."
+TAUPIN: Not your concern.
+BRENNA: I left a man dead in Felton. But you don't really care, do you?
+TAUPIN: That bothers you?
+BRENNA: He was innocent.
+TAUPIN: He's dead. Whatever I may or may not feel means exceedingly little to him now.
+BRENNA: What about me?
+TAUPIN: You?
+BRENNA: I'm a witness to a murder. That seems to put me pretty high on your friend's chop list.
+TAUPIN: Have you gone to the police?
+BRENNA: No.
+TAUPIN: Why not? I'm sure they'd love to hear your story.
+BRENNA: I'd rather hear yours.
+TAUPIN: You are being foolish.
+BRENNA: I'm a historian, Mr. Taupin. Only once in a lifetime do you stare history in the face.
+TAUPIN: Go home.

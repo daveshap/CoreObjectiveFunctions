@@ -1,0 +1,16 @@
+How much does it cost to cover someone under the ACA vs. the newly proposed health care law?
+[According to the latest CBO report](https://www.washingtonpost.com/national/health-science/cbo-latest-house-gop-health-care-bill-would-mean-as-many-uninsured-by-2026/2017/03/23/cb507fce-0f4d-11e7-ab07-07d9f521f6b5_story.html), the ACA repeal will cut the federal deficit by $150 billion over 10 years and cause 24 million more Americans to be uninsured.
+
+Some simple calculations:
+
+$150 billion over 10 years = $15 billion per year
+
+$15 billion / 24 million uninsured = $625 saved per person per year
+
+Obviously this is an estimate. But supposing that it's at least roughly correct, can this be interpreted as saying that it would cost the US government $625 to insure one of those individuals for a year? This strikes me as relatively cheap, considering that [monthly premiums are roughly $393 for individuals](https://www.zanebenefits.com/blog/bid/97380/faq-how-much-does-individual-health-insurance-cost) -- so cheap that I think my line of reasoning must be flawed.
+
+Of course, this is assuming that everyone who loses insurance was previously getting it at no cost (to them) through Medicaid. This doesn't seem like a stretch considering that [tens of millions of people are enrolled in it](https://www.usnews.com/news/articles/2015/02/24/medicaid-enrollment-surges-across-the-us).
+
+I'm aware this isn't a very nuanced analysis, but I still feel like I must be overlooking something crucial.
+
+Thanks for any insight!

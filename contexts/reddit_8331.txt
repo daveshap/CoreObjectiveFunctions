@@ -1,0 +1,30 @@
+A tax code provision used by Rep Richard Neal to compel the IRS to produce President Trump's tax returns leaves little wiggle room to deny the request. Trump's lawyers have asked the Treasury to deny the request. Can the Secretary deny the request and what are the mechanics of the legal battle?
+Representative Richard Neal (D-MA) has cited [a tax code provision](https://www.law.cornell.edu/uscode/text/26/6103) that allows [Congress to gain a hold of individual returns](https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html?action=click&module=Top%20Stories&pgtype=Homepage):
+
+> Mr. Neal made the request through an obscure but frequently used provision of the federal tax code — Section 6103 — that allows Congress’s tax-writing committees to view tax information on any filer. 
+
+The provision is regularly used to sample filers to measure the impact of tax policy, and is sometimes used for investigative purposes too, however using it to seek the tax returns of the President without his or her consent has little* precedent. 
+
+(Edit: Originally stated "No precedent." This is a transcription error. The NYTime's states "little precedent". /u/Adama0001 has more information on similar precedent.)
+
+---
+
+The President's personal lawyers have submitted a letter to Department of the Treasury asking the IRS to deny the request on the grounds that the Democrats don't have a suitable reason to seek the returns, and that the President's personal returns should be protected like any private citizen.
+
+The request through 26 U.S. Code § 6103 leaves little wiggle room for the Treasury, specifically (from the 1st source):
+
+> (f) Disclosure to Committees of Congress
+
+> > (1) *Committee on Ways and Means, Committee on Finance, and Joint Committee on Taxation*
+
+> > Upon written request from the chairman of the Committee on Ways and Means of the House of Representatives, the chairman of the Committee on Finance of the Senate, or the chairman of the Joint Committee on Taxation, the Secretary shall furnish such committee with any return or return information specified in such request, except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
+
+---
+
+I have a few questions on this topic:
+
+1: Can the Treasury Secretary tell the IRS to deny the request, or is the code so clear the IRS must just produce the returns? 
+
+2: If the Treasury Secretary can deny the request, must he provide a legally scrutinized justification for the denial? (Will his reasoning be the legal justification in court, or can he give a political answer?)
+
+3: If the request for the tax returns are denied, what is the legal framing for this battle? For example, does this end up in the courts because Democrats subpoena the information, or does the codified nature of their request mean there's some non-subpoena way of resolving this issue?

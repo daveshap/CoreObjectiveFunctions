@@ -1,0 +1,1 @@
+Vcc and gnd in microcontroller on proteus The microcontroller power pins (Vcc,gnd) in the proteus are set to 5 volts by default. I have basic regulator circuit (my vcc 3.3 volt). How can I use my circuit for microcontroller power supply?

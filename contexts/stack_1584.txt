@@ -1,0 +1,1 @@
+How much current does an 1602 LCD draw? I want to know how much current a 16x2 (1602) LCD draws when the backlight is OFF and ON?NB: My multimeter is broken.

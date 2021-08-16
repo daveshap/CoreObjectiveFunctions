@@ -1,0 +1,1 @@
+KVM NAT Port-Forwarding i have Ubuntu 18.04 with KVM and a Debian VM.The Debian VM should accept the port 8834 from outside.Can anyone explain me how it should works?Thanks

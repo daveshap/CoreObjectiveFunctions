@@ -1,0 +1,22 @@
+FRANCIS: Albatross? Doesn't inspire a lot of confidence.
+SKIPPER: Oh, on the contrary, the Albatross is considered a very good omen. It is said they embody the spirits of sailors passed on. It's very bad luck if you kill one. And dolphins too.
+FRANCIS: I'm Francis Boutillier. This is my son, Philip.
+SKIPPER: I know.
+SKIPPER: You're a day late. We keep a schedule aboard ship. Lives depend on it. Hello, Philip.
+PHIL: Sir.
+FRANCIS: Your cable said you wouldn't be putting out until mid-October.
+SKIPPER: As you can see, there's a lot to do.
+FRANCIS: Indentured servitude is not what my son had in mind.
+SKIPPER: This is a working ship. Promptness is not a luxury, it's a necessity, as is the work to maintain her. Had we been ready, I can assure you we would have sailed.
+FRANCIS: And I would have expected compensation for my time and expense coming all the way down here.
+SKIPPER: Happily, it all worked out... This time. Bill, take Philip below and help him find a bunk.
+FRANCIS: I'll be frank with you. This was his mother's idea. A romp through the Caribbean on a sailboat sounds more like a vacation than an education if you ask me.
+SKIPPER: It will be more than that, I can promise you.
+FRANCIS: Take good care of my son.
+SKIPPER: We'll do our best. You're welcome to say goodbye.
+FRANCIS: He's a big boy.
+LAWFORD: Well, that was neighborly.
+SKIPPER: He didn't get to be Under Secretary of the Air Force by being neighborly.
+SKIPPER: Everyone aboard young Bill?
+BILL: Yes, Sir.
+SKIPPER: Good. Let's go sailing.

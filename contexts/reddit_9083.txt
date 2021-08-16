@@ -1,0 +1,24 @@
+The EU court of justice ruled that private employers can ban the wearing of visible religious symbols, can employers do this in the US, and if not, what would need to change for that to happen?
+The court said 
+>An internal rule of an undertaking which prohibits the visible wearing of any political, philosophical or religious sign does not constitute direct discrimination,” 
+>
+[The Guardian](https://www.theguardian.com/law/2017/mar/14/employers-can-ban-staff-from-wearing-headscarves-european-court-rules)
+
+According to the EU website;
+>As an EU employer you must:
+>
+>implement the principle of equal treatment irrespective of racial or ethnic origin, religion or belief
+>
+[ec.europa.eu](http://ec.europa.eu/justice/discrimination/rights/index_en.htm) 
+
+So (i believe) the court is making a clear distinction between discrimination based on a person's belief in general and religious expression outside of work, and religious expression while at work, and as long as it's applied equally it's ok, at least in regards to visible religious symbols. 
+
+In the USA the ["free exercise clause"](https://en.m.wikipedia.org/wiki/Free_Exercise_Clause) doesn't seem applicable to this situation and the [Religious Freedom Restoration Act of 1993](https://en.m.wikipedia.org/wiki/Religious_Freedom_Restoration_Act)  doesn't seem to apply either. 
+
+Title VII of the Civil Rights Act of 1964, requires an employer (with at least 15 employees, including private sector, state, and local government employers, as well as employment agencies, unions, and federal government agencies), once it is aware that a religious accommodation is needed, to accommodate an employee whose sincerely held religious belief, practice, or observance conflicts with a work requirement. [eeoc.gov](https://www1.eeoc.gov//eeoc/publications/qa_religious_garb_grooming.cfm?renderforprint=1) 
+
+I believe that would mean that currently those employers mentioned above would not be allowed to prohibit an employee from wearing visibile religious symbols. 
+
+Can employers not mentioned, prohibit employees from wearing visible religious symbols? 
+
+And what would it take to allow all employers to prohibit that?

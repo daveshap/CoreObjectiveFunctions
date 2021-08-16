@@ -1,0 +1,90 @@
+Make your own safety school!
+**Choose a typical rich dude’s name based on the last digit of your day of birth!**
+
+0 - Goldstein
+
+1 - Vanderbilt
+
+2 - Carnegie
+
+3 - Smith
+
+4 - Rockefeller
+
+5 - Epstein
+
+6 - Otis Spunkmeyer
+
+7 - Trump
+
+8 - Johnson
+
+9 - Robinson
+
+**Last digit of your phone number**
+
+0 - School of 
+
+1 - Academy of 
+
+2 - Institute of
+
+3 - University of
+
+4 - Church of
+
+5 - Center for
+
+6 - Conservatory of
+
+7 - Mental Asylum for
+
+8 - Prison of
+
+9 - College of
+
+**Last digit of your GPA**
+
+0 - Bakers
+
+1 - Clowns
+
+2 - Mines
+
+3 - Software Engineers
+
+4 - Zoologists
+
+5 - Bioastrophysimistry
+
+6 - Therapy
+
+7 - Bagpipers
+
+8 - Scientologists
+
+9 - Jeff Bezos
+
+**Last digit of comment karma you have**
+
+0 - in Minnesota 
+
+1 - in Wyoming
+
+2 - in Azerbaijan 
+
+3 - in Kansas
+
+4 - in Wyoming
+
+5 - in the DRC
+
+6 - in Kentucky
+
+7 - in Oregon
+
+8 - in Iowa
+
+9 - in Indiana
+
+**BONUS! The post karma you have now is the number of emails you got from the school**

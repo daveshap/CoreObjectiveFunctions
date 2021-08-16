@@ -1,0 +1,7 @@
+Given the recent NYT investigation into the Trump family's taxes, what penalties, if any, could be imposed?
+The New York Times recently published an [investigative report](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html?action=click&module=Top%20Stories&pgtype=Homepage) into the tax evasion schemes used by the Trump family during the 80's and 90's. 
+
+
+What penalties, if any, could be imposed by the state of New York or others? 
+
+Would these penalties be limited to civil penalties? [It has been reported that because fraudulent tax returns were submitted, there is no statute of limitations keeping the state of New York from recouping funds.](https://thehill.com/homenews/administration/409739-deblasio-says-nyc-is-looking-to-recoup-money-from-trump-after)

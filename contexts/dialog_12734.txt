@@ -1,0 +1,30 @@
+MAJOR: Complete your inspection?
+DUPONT: They're nothing but boys. It will be a slaughter tomorrow.
+MAJOR: I doubt much can change that. The enemy has five brigades waiting for us.
+DUPONT: We need more time.
+MAJOR: Won't get it. We are a sacrifice. A diversion.
+MAJOR: Eat up Dupont. It will probably be your last.
+DUPONT: Not likely.
+DUPONT: I thought I gave orders the regiment was to drill.
+MULET: Staff sargeant detailed me to prepare firewood for the break- fast cooking.
+DUPONT: What is your position?
+MULET: Second musketeer.
+DUPONT: I understand you joined up in Bremen.
+MULET: You seem to understand a great deal.
+DUPONT: I am a Major, Private. You would do well remembering that when addressing me.
+MULET: Excuse me, sir". I thought we spoke as equals."
+DUPONT: Equals?
+MULET: If you wish to play games, Major.
+DUPONT: Wait. I think we understand each other.
+MULET: We have no understanding.
+DUPONT: Then it is time two of us did. You are very young. I was once young. I can help.
+MULET: Help? I've seen others help". Somehow a head always ended up on the counter."
+DUPONT: It can be different. It must be.
+MULET: It never changes, Major.
+DUPONT: We must talk.
+MULET: Stay out of it.
+DUPONT: Don't threaten me, Private.
+MULET: Who do you think I am? One of your freckle faced children waiting to die tomorrow? Threaten you"? You and I just living will always be a threat. Forever. Look at your life
+DUPONT: Do not turn your back on me.
+MULET: You are really going to force this, aren't you?
+DUPONT: Either you are with me or against me.

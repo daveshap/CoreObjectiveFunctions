@@ -1,0 +1,12 @@
+COLWYN: She's on the other side of this wall. I can feel it!
+YNYR: I chose the wrong passage.
+COLWYN: She can see the Beast!
+YNYR: Use your sword.
+COLWYN: What use is my sword? I can't reach her!
+YNYR: Cut. <u>Cut</u>!
+YNYR: You must move quickly. The Beast will stop at nothing now.
+COLWYN: You're coming with us.
+YNYR: It is my fate to die in the Fortress.
+COLWYN: No! You cannot know that!
+YNYR: I can. Because I choose it.
+COLWYN: I forbid you!

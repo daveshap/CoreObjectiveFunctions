@@ -1,0 +1,1 @@
+Re-encoding internet radio to a lower bitrate? I found an internet radio station, but I would like to re-encode it to Opus 32kbps to fit on my unlimited data plan. How would I achieve this?The source radio uses MP3 @ 160kbps, which is over my unlimited data bandwidth of 128kbps.

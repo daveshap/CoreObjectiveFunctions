@@ -1,0 +1,44 @@
+What evidence exists to support the claim that the long-term benefit of repatriation of American manufacturing outweighs the immediate higher costs and will spur higher growth?
+Yesterday Peter Navarro (the White House Trade Council director) [was on NPR](http://www.npr.org/2017/07/19/538148732/white-house-trade-council-director-touts-made-in-america-week), making an argument for the repatriation of American manufacturing.  I'm going to take this point by point here:
+
+>NAVARRO: Well, I think you start with the idea that we've had 15 years of subpar growth - 2 percent or below. Prior to 2001, we grew at 3 and a half percent. The big difference has been the entry of China in particular into the World Trade Organization and our markets. And we've just been hammered. What that does as a proxy basically is it drains essentially the lifeblood out of our manufacturing economy, out of our communities, out of our tax bases.
+
+The first part of this statement [may be an exaggeration](https://www.thebalance.com/us-gdp-by-year-3305543), but [one study](https://seii.mit.edu/wp-content/uploads/2012/05/china-paper.pdf) suggests that:
+
+>Conservatively, it [rising Chinese import competition] explains one-quarter of the contemporaneous aggregate decline in U.S. manufacturing employment. Transfer benefits payments for unemployment, disability, retirement, and healthcare also rise sharply in exposed labor markets.
+
+However, [other economists dispute](https://www.economist.com/news/finance-and-economics/21718513-china-shock-has-not-been-debunked-it-worth-understanding) at least some of these claims, arguing that studying the effects of extra Chinese supply  in isolation rather than in conjunction with something happening in America over-inflates the purported effect on the labor market.  Still [others argue](http://www.nber.org/papers/w19376.pdf) that the net welfare benefit to the US of stopping free trade with China would roughly be equal to the benefit gained by cheaper Chinese imports.
+
+**Is the US-Chinese Trade deficit a significant factor in the decline of American manufacturing & growth?  Is it balanced by the benefit of cheaper imported goods for consumers?**
+
+Navarro further goes on to assert that:
+
+>What's interesting is that with every different country that we have a large trade deficit with, we have a different set of problems - with Mexico, for example - cheap labor. With Germany, they have a misaligned currency. So if you address these issues of unfair trade practices, if you get better trade deals, if you stop things like forced technology transfer or the theft of our intellectual property, if you ensure that the sweatshops of the world live up to international standards for minimum wage and safe working conditions, if you have reasonable environmental protection, then American manufacturers can compete with anybody in the world.
+
+This is a very broad set of issues.  Focusing on worker compensation, the [Fair Labor Association states](http://www.fairlabor.org/sites/default/files/documents/reports/toward_fair_compensation_in_global_supply_chains_2016_report_only_0.pdf) reports that even when there are no legal violations in pay for workers in third world countries, the "purchasing power of the current legal [wage] minimum falls below or near the World Bank poverty line".  Additionally, the US has several trade agreements with [legally enforceable environmental protections](https://www.state.gov/e/oes/eqt/trade/).  My question here is:
+
+**What measures currently exist to correct inequalities (wages/labor, environmental, intellectual property, etc.) between US manufacturers and those abroad and are they enforceable?**
+
+Further, **what further protections would be necessary to enable "American manufacturers to compete with anybody in the world"?**
+
+Finally, Navarro argues:
+
+>NAVARRO: Let me give you a number of answers to that. I mean first of all, a lot of the goods that come from abroad which are, quote, "cheaper" basically are cheaper because state-owned enterprises have made them heavily subsidized by their government, and they're dumped into our markets. Number two, if you look at this as a movie rather than a snapshot and you buy American in our government procurement policy - let's say it costs a little bit more - but what do you get for that?
+...
+What I'm saying is that if something looks like it costs a little more just 'cause it's made in America, when you cost it all out the benefits over time far outweigh the costs. Think about this. Over the last 15 years what has been the cost of buying all those cheap goods? We've lost trillions in terms of our tax base, and we put millions of people out of work.
+
+The [Harvard business review](https://hbr.org/2013/04/how-chinese-subsidies-changed) supports the first part of Navarro's statement:
+
+>In the Chinese industries we studied — solar, steel, glass, paper, and auto parts — labor was between 2% and 7% of production costs, and imported raw materials and energy accounted for most costs. Production mostly came from small companies that possessed no scale economies. Yet, Chinese products routinely sold for 25% to 30% less than those from the U.S. or European Union.
+
+>We found that Chinese companies could do this only because of subsidies they received from China’s central and provincial governments. The subsidies took the form of free or low-cost loans; artificially cheap raw materials, components, energy, and land; and support for R&D and technology acquisitions.
+
+>Since 2001, when China joined the World Trade Organization, subsidies have annually financed over 20% of the expansion of the country’s manufacturing capacity. The state has willingly paid the price of economic inefficiency to accomplish political, social, economic, and diplomatic goals. Huge Chinese subsidies have led to massive excess global capacity, increased exports, and depressed worldwide prices, and have hollowed out other countries’ industrial bases.
+
+as does the [American Enterprise Institute](http://www.aei.org/publication/the-importance-of-chinese-subsidies/), but further states:
+
+>The harm is usually identified as large-scale U.S. imports from China. In fact, the main problems are barriers to American exports to the PRC and, perhaps soon, a growing battle in third markets. For the last decade, Beijing has acted as if competition is good for everyone except Chinese firms on their home turf.
+
+**Does the current evidence suggest that imports of subsidized foreign goods are laregly responsible for slowing American growth, or is the problem instead barriers to American exports (or both/neither)?**
+
+**Would the benefits of policies to protect American manufacturing indeed outweigh the increased costs of goods?**

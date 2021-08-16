@@ -1,0 +1,1 @@
+How to set a vector point on an exact lat/long coordinate I have a vector polygon I'm trying to edit, I'd like to use exact lat/long coordinates for one of the vector points. How can I do this?

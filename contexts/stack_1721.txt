@@ -1,0 +1,1 @@
+sensor output level shifter I am trying to read a map sensor with an ads1232 ADC.The Map sensor requires 0v(ground) and 5v+ and outputs 2.5v fluctuating +-2.5v depending on the pressure. The ads1232 can read +-2.5v but without the 2.5v DC offset. Has anyone got any simple ideas or can lead me in the right direction on how to shift the 2.5v back to ground.Thanks

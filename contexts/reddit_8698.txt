@@ -1,0 +1,6 @@
+With the recent Supreme Court case, What are the Constitutional arguments for and against the National Popular Vote Interstate Compact?
+As mentioned above, the Supreme Court just [ruled](https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-faithless-electors-can-t-go-rogue-electoral-n1231394)
+that States could pass laws forbidding "faithless electors". This ruling would allow for States to prevent the electors from voting in a way that the State deems incorrect, whether that is the popular vote in the State, or in theory, the national popular vote.
+
+The biggest hurdle for the [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact)
+past getting the necessary States to sign would be its Constitutionality and whether the Courts would allow for such a compact under the Constitution. What are the Constitutional arguments for and against this sort of compact?

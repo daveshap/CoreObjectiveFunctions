@@ -1,0 +1,1 @@
+Auto Mount SDcard as a network share Hy there, im new in the linux world so i apologize in advance for my dumb question. Is there any easy way to auto mount my SD-card as a network share? I am using a NUC NUC8i5BEH2 as Plex server and there is no monitor connected to the unit.Thank you!

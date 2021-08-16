@@ -1,0 +1,129 @@
+[META] Announcing new, more detailed rules guidance.
+After having some issues recently relating to clarity of the rules, we have decided to make a substantial revamp of our rules wiki and adopt detailed explanations for each rule, giving examples and additional information for almost every aspect of them.
+
+None of these explanations are changes to the rules, but they should hopefully codify how we have come to interpret and enforce them over time, and make it easier for users to understand where we're coming from.
+
+---
+
+#Submission rules
+
+A) **Ask a specific political question.** We do not allow overly broad questions, solicitations of pure opinion, surveys, [requests to explain public opinion or media coverage,](https://www.reddit.com/r/NeutralPolitics/comments/209fox/meta_the_np_community_cannot_explain_public/) posts about other subreddits, or meta posts.
+ 
+ * NeutralPolitics is principally focused on questions of policy and governance.  Analyzing things like media coverage, public opinion and the like are outside of our wheelhouse.
+ * A solicitation of pure opinion is a question which can't be answered with facts people could source.
+
+ * For example "should healthcare be a legal right?" is a pure opinion question, whereas "what have been successful and unsuccessful attempts to legally establish positive rights?" is a question people can answer with facts about what has been done in the past.
+
+ * Questions about "why" people do things often run afoul of rule A.  It's very hard to answer a question about motivations with facts, since it's asking our users to read minds.  It's better to ask things like what the stated reasons for a political action are, or who stands to benefit or be harmed by the action.
+
+B) **Frame it in a neutral way.** The post must not be inflammatory, editorialized, leading towards a particular answer, a statement of opinion, or a request to critique your theory.
+
+ * This rule can be tricky to follow, but we've written up some detailed tips [here.](https://www.reddit.com/r/NeutralPolitics/comments/7u6j4f/meta_some_tips_for_composing_a_successful/)
+
+ * Try to give all sides of a question.  If it's an ongoing issue of debate, link to articles which give multiple perspectives on the question.
+
+ * Do not state things which are highly debated as unequivocally true.  Say (and link) who is asserting their truth and let the source do the arguing in their own name.
+
+ * **Do not answer your own question!** A post which tries to answer the headline question is inherently going to break rule B.
+
+ * Avoid negative framing.* 
+
+  * Instead of asking "Why don't we do [X policy]?"  ask, What are the pros and cons of [X policy]?"
+
+  * Instead of "Why doesn't [X politician] do Y?" ask "What are the precedents for [an office-holder/candidate] doing Y?"
+
+C) **Outline the issue well.** Give more than just a headline. Provide some background information.
+
+ * This rule is fairly straightforward, but basically it means you should provide enough information so that people understand the context for the question.  News articles or research articles on the subject matter should also be included so there is more background people can read before answering.
+
+D) **Provide sources.** Statements of fact must cite [qualified sources.](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources) Nothing is "common knowledge." **Submissions that do not include sources will be rejected.** (Sole exception: if you cannot find specific information after a thorough online search, you may post a request for sources.)
+
+* This rule ensures that submissions are based on factual claims with some outside basis, not just the impressions of the asker.
+
+* If you "heard" something, source it.
+
+ * If something is being talked about a lot, it should be easy to find articles talking about it. If you want, you can even modmail us and ask for help with your post. Most of us are news or policy junkies and probably can help you find some good sources.
+
+* Don't attribute a statement to an general group. Name a person who said the thing.
+
+ * Another big issue we get is things like "people on the right/the left/republicans/democrats/the media" have been saying X. Often X is an inflammatory/strawman argument.
+
+ * Like things you "heard about," this will not do. NeutralPolitics doesn't do blind quotes. Find an opinion article or something with a named person making that argument. For example:
+
+  * **Bad** "[X party] has been saying that [Y policy] has been really popular despite the polls.
+
+  * **Good** [Person A], a [X party] member of Congress, said "[Y policy] has been really popular despite the polls." [link to source]
+
+* We are much stricter with sources for submissions than for comments.  Please see the [source guidelines](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources) for more information.
+
+* Requests for sources are rarely allowed, and only when a subject is not easily searched on the internet after substantial effort.  We are not ELI5 or another subreddit for casual questions.  If you are considering such a submission, we strongly suggest [sending us a modmail first.](https://www.reddit.com/message/compose?to=%2Fr%2FNeutralPolitics&subject=Request%20for%20Sources%20Post&message=)
+
+E) **Propose a good starting point for discussion.** The purpose of this forum is to discuss issues. We do not allow polls, surveys or requests for fact checking.
+
+* This is a close corollary of rule A.  But the gist of it is that we are looking for questions which our users can answer with Reddit comments.
+
+* We are especially strict about this rule when it comes to promoting anything of your own.  We will categorically reject any submission which includes a link to any article or video or other thing which you are the author or creator of.
+
+F) **Title the post accurately.** The title must match the contents.
+
+G) **No requests for speculation.** If the question cannot be answered with facts — which includes any that are phrased in the future tense (What will/would/could happen?) — then it's not appropriate for NeutralPolitics.
+
+* NeutralPolitics is a fact based forum, and questions which ask to predict the future necessarily ask for things which can't be answered with facts.
+
+* Try rephrasing the question to ask what has happened in similar past cases.
+
+* We also prohibit in this category questions whose answer cannot be provided by any user. (e.g. what are the nuclear launch codes; what are the contents of a sealed court case).
+
+* As mentioned with rule A, "Why" questions often violate rule G.  They ask our users to speculate about the contents of a person's mind, as opposed to something answerable with facts.
+
+
+---
+
+#Comment Rules
+
+1) **Be courteous.** Demeaning language, sarcasm, rudeness or hostility towards another user will get your comment removed. Repeated violations may result in a ban.
+
+* Our commitment to civil discourse is one of the core principles of NeutralPolitics, and we do not make any exceptions from this rule.
+
+* Any language which a reasonable observer would conclude disparages another user in any way is considered a violation of this rule.  Even if you did not intend that.
+
+* **"But it was true" is not a defense.**  Accusing another user of something is prohibited, even if you believe that accusation to be true.
+
+* **"They started it" is not a defense.**  If another user breaks the rules, please report the comment.  Replying with a rule violating comment of your own will just get both of them removed and makes that much more work for the mod team.
+
+2) **Source your facts.** If you're claiming something to be true, you need to back it up with a [qualified source.](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources) There is no "common knowledge" exception, and anecdotal evidence is not allowed.
+
+* This rule is the core of our commitment to fact-based discourse.
+
+* We do not allow claims of expertise or anecdotal evidence to substitute for providing sources.
+
+* We do not allow image sources because they are too easy to manipulate and there's no good way to verify they come from where they purport to.
+
+* We do not allow video sources unless accompanied by text sources because they are too hard for us to moderate and it is unreasonable to ask people to watch a video to check what you're claiming is true.
+
+* Phrasing a statement of fact in the form of a question ("Isn't it true that [X]?") will be treated as a statement that [X] is true, and needs a source.
+
+* Stating it is your opinion that something is true does not absolve the necessity of sourcing that claim.
+
+* For more detail, read our section on [qualified sources.](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources)
+
+3) **Be substantive.** NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.
+
+* A NeutralPolitics comment should not just be a general a reaction to the subject matter of the post, but should try to advance a substantive point of some sort backed up by evidence.
+
+* Joke and meme comments are prohibited as not further advancing a productive conversation.
+
+* One-liner comments are prohibited because we want to foster detailed and substantive discussion, and it harms that when people don't put effort into what they're saying.
+
+* Off topic replies are prohibited.  We curate the types of questions we allow under rule A for a reason.
+
+* [Pejorative name calling](https://www.reddit.com/r/NeutralPolitics/comments/7mn3a5/meta_announcing_a_revised_rule_3_and_a_request/) means any use of a demeaning name to describe a person or group when it's not accompanied by a sourced explanation of why the name is literally accurate.
+
+
+4) **Address the arguments, not the person.** The subject of your sentence should be "the evidence" or "this source" or some other noun directly related to the topic of conversation. "You" statements are suspect.
+
+* As a part of our commitment to a fact-based discussion, we find that comments which try to go to people's personal motivations or personal conduct are detrimental to our subreddit.
+
+* The subject of discussion on NP is never the conduct or motives of another user, but is always about the substance of what people are saying.  Comments which get personal, even if not directly accusatory or rude, are something which take conversations off topic, and so are banned here.
+
+* The purpose of a discussion is also not to prove another user wrong about something, but rather to inform all readers by using evidence to demonstrate the facts about something.

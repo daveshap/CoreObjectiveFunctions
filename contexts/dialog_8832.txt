@@ -1,0 +1,8 @@
+UNCLE: Miss?
+NURSE: Yes?
+UNCLE: We want to see Mrs. Karras.
+NURSE: Do you have an appointment?
+UNCLE: Yes
+NURSE: Are you a relative?
+UNCLE: Yes I am her brother, he's the son
+NURSE: Just a minute.

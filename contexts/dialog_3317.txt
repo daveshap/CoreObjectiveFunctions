@@ -1,0 +1,4 @@
+JEFFREY: This is terrible, sir - I hope you're not badly injured...
+CHANCE: No. I'm not badly injured. But my leg is very sore.
+JEFFREY: Can you walk? It's not broken, is it?
+CHANCE: It's very sore.

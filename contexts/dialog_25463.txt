@@ -1,0 +1,7 @@
+RIKER: Worf! I'm going to need at least five minutes!
+WORF: Understood!
+GEORDI'S VOICE: ATR setting...
+PICARD'S VOICE: Active.
+GEORDI'S VOICE: Main bus...
+PICARD'S VOICE: Ready.
+GEORDI'S VOICE: Initiate pre-ignition sequence.

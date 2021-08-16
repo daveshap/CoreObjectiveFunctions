@@ -1,0 +1,1 @@
+Unable to edit file geodatabase: How do I fix it? I have different geodatabase for different project. When I start projectA.mxd which connects to projectA.gdb, I cannot create and edit feature class inside. However, when I start projectB.mxd, I can create and edit projectA.gdb.Why???? How can I fix it?I am using ArcMap 10.1.

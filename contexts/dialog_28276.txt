@@ -1,0 +1,4 @@
+FLORA: You have to wash them.
+BAINES: They are washed.
+FLORA: Wash them again.
+BAINES: The marks do not come out. They are scars and hardened skin.

@@ -1,0 +1,1 @@
+How I can block specific IP's using iptables? How I can block specific IP's? And as I know, if I somehow block them, it will be not blocked again after reboot. How I can make a script which will block specific IP's?

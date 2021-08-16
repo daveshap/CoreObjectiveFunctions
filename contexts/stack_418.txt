@@ -1,0 +1,1 @@
+Single-click to open applications in Ubuntu Gnome 16.04.2 Was just wondering if this was an option in GNOME anymore. I know they were taking away settings like crazy there for awhile (hell I even had to use the console to add minimize and maximize buttons back to my desktop-- crazy), and I wouldn't at all be surprised if they got rid of it. I'd appreciate any input, thanks!

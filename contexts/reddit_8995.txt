@@ -1,0 +1,7 @@
+Should section 702 of the FISA Amendments Act be allowed to expire, be reauthorized, or reformed?
+The [FISA Amendments Act of 2008] (https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008) (FAA) updated authorities granted to U.S. intelligence under [Foreign Intelligence Surveillance Act] (https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act) (FISA) in 1978.  On Dec. 21 the house passed a continuing resolution extending funding until Jan. 19, 2018 in several areas, [including an extension of the existing FISA] (https://appropriations.house.gov/news/documentsingle.aspx?DocumentID=395083).  
+
+Congress is divided over whether to reauthorize, reform, or repeal the law.  The Electronic Frontier Foundation (EFF) and American Civil Liberties Union (ACLU) calls for the surveillance programs under 702 to [be allowed] (https://www.eff.org/pages/Incidental-collection) to [expire] (https://www.aclu.org/issues/national-security/privacy-and-surveillance/warrantless-surveillance-under-section-702-fisa).  The Permanent Select Committee on Intelligence and the intelligence community at large argues for its [reauthorization] (https://intelligence.house.gov/fisa-702/).  Others think [reform is appropriate] (https://lawfareblog.com/why-electronic-surveillance-reform-necessary).  
+
+Should funding for FISA be ended, extended, or reformed?  Why?
+  What legislative proposals exist to reauthorize or reform the program?

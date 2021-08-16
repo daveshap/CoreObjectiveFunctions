@@ -1,0 +1,1 @@
+How to install Kubuntu 18.04 on an external hard disk? In previous versions of Ubuntu, one needed to create a swap partition and a primary partition formatted as ext4, however, Ubuntu 18.04 uses a swap file instead of a swap partition. So just to make sure, I only need to create a primary partition and the Ubiquity installer will take care of the rest, right?

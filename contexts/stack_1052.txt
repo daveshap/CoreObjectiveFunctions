@@ -1,0 +1,1 @@
+\"This application is unconfined. It can access all personal files and system resources.\" - what does it mean? There is this warning next to some applications in Ubuntu Software (I'm using Ubuntu 18.04 LTS).What does it mean?Should I avoid installing them? There is a red exclamation mark next to it, which is disturbing me ;)

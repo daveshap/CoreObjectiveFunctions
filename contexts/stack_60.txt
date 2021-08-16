@@ -1,0 +1,1 @@
+Mount APFS Volume to /Users with the Disk Utility during the installation I\u2019m trying during the installation from MacOS High Sierra to separate the system and user data. I splitted the SSD with Disk Utility, but I can\u2019t mount the second APFS Volume to /Users with the Disk Utility. Is that possible at this stage?

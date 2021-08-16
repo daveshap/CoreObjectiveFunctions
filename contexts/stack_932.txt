@@ -1,0 +1,1 @@
+Dev C++ Output Screen not coming I installed Dev C++ using Wine on Ubuntu 18.04 and the program is compiling but it not showing any output screen.

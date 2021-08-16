@@ -1,0 +1,1 @@
+VSFTPD backdoor uses In 2011 there was a vulnerability introduced in the VSFTPD downloadable which gave the attacker a bind shell on port 6200 (As seen on metasploitable machines.) What would the attacker be able to use this shell for? How would this exploit affect the confidentiality of the system in question? I have been unable to find this information on any site.

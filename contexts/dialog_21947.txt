@@ -1,0 +1,7 @@
+BUZZ: Just him.
+JIM: Stay there.
+BUZZ: What you say your name was?
+JIM: Jim Stark.
+BUZZ: Buzz Gundersen.
+JIM: Hi.
+BUZZ: Glad to meet you.

@@ -1,0 +1,1 @@
+In CPFSK, suppose we transmit a continuous bit stream of 1, then for how long will the frequency go on increasing? I read something about phase memory but didn't get proper information. My specific doubt is, let's say phase memory is L, then after L '1s', will we have a phase discontinuity and will the frequency restart from the beginning?

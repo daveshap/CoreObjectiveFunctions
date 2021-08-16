@@ -1,0 +1,4 @@
+What changes are required to safeguard elections?
+It is well understood that Russia is using active measures to disrupt democratic elections. See, https://warontherocks.com/2016/11/trolling-for-trump-how-russia-is-trying-to-destroy-our-democracy/. Russia was particularly successful in the November 2016 US election, but was not so successful in the recent elections in France (for instance, Russia appeared to use the same active measures of hacking internal communications and generating internet traffic with disinformation to damage Macron, https://www.wired.com/2017/05/nsa-director-confirms-russia-hacked-french-election-infrastructure/).
+
+Was there any structural or procedural measures that made the French election less susceptible to Russian active measures? In what ways can US elections be reformed to protect against future disruption?

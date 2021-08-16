@@ -1,0 +1,6 @@
+WORF: Are you alright?
+RIKER: Just a little queasy...
+WORF: Try not to look at the stars... keep your eyes on the ship.
+RIKER: Right.
+WORF: And Commander, whatever you do... do <U>not</U> vomit in your exo-suit. It would be... unpleasant.
+RIKER: I'll keep that in mind.

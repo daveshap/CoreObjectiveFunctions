@@ -1,0 +1,13 @@
+MELKONIS: It's a crude symbolic language -- looks primitive.
+HUNTER: You can't tell -- that kind of stuff could represent printed circuits...
+STANDARD: That sounds a little fanciful...
+MELKONIS: Primitive pictorial languages are based on common objects in the environment, and this can be used as a starting point for translation...
+ROBY: What common objects?
+HUNTER: Listen, hadn't somebody better check on Broussard?
+STANDARD: I'll do it. The rest of you continue.
+HUNTER: I'll come with you.
+STANDARD: You know, it's fantastic -- the human race has gone this long without ever encountering another advanced life form, and now we run into a veritable zoo.
+HUNTER: What do you mean?
+STANDARD: Well, those things out there aren't the same, you know -- the spaceship and the pyramid. They're from different cultures and different races. That ship just landed here -- crashed like we did. The pyramid and the thing from it are indigenous.
+HUNTER: How could anything be indigenous to this asteroid? It's dead.
+STANDARD: Maybe it wasn't always dead.

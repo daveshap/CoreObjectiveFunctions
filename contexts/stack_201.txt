@@ -1,0 +1,1 @@
+Install OS on iMac with blank hard drive Is is possible to get a late 2010 iMac with a blank/new hard drive up and running with the latest OS and XCode?  All the answers I've seen involve duplicating or restoring an existing OS.  Is there a way to do it from scratch?

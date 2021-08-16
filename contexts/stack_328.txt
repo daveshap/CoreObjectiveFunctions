@@ -1,0 +1,1 @@
+External display connected via USB-C > VGA goes to endless sleep/wake loop I have a dell external display connected to my mb pro 2017 (Mojave), but whenever i try to sleep my mac (with sleep command), it goes to endless loop trying to sleep and then immediately wakes up, because external display won't sleep.Is there any workarounds / apps to prevent this behavior?

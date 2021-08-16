@@ -1,0 +1,1 @@
+Ubuntu is not deleted completely i deleted the partition of Linux in windows 10 and then change the boot sequence to windows boot loader but now what happens is that neither the partition is adding to another partition nor when I try to install Ubuntu 17.04 the pc do not boot from usb drive instead shows a option boot from Ubuntu 14.04 (previous one that I deleted).

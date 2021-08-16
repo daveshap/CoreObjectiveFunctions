@@ -1,0 +1,8 @@
+Need help finding a (quantitative) research topic/datasets
+I am in a public administration graduate program, not a student affairs program, however I work as an administrative assistant at the university and want to move into student/academic affairs.
+
+I’m taking a quantitative research/statistics class and have to write a quantitative research paper on a topic of my choosing. I have to collect the data, test hypotheses, analyze it and draw conclusions, and it must include multiple regression. 
+
+So I know there must be plenty of topics in higher ed administration and student affairs that involve quantitative methods, but I’m having trouble getting started because I’m directly working with students and taking student affairs classes. Additionally, we are allowed to use publicly available data sets because the course is about analyzing the data, not collecting it, however I’m not sure if there are available data sets like this for higher ed.
+
+Does anyone have any resources, journals, datasets or literature that could help me get started? I know how to actually analyze the data once I have it but for some reason I’m really struggling on finding a topic that is doable within the scope of this class, ideally using public data or possibly institutional data at my school.

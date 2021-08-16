@@ -1,0 +1,20 @@
+SCHREBER: You remember nothing? Who you are? What you've done?
+WHITE: You know something about me?
+SCHREBER: Ah, that would be cheating, wouldn't it? Is there nothing <u>you</u> remember? Not even a detail? You must try.
+WHITE: You think I haven't been trying! It's like there was never anything there. Just water.
+SCHREBER: Water?
+WHITE: Waves... A beach. A woman whispering. That's all. I need to stay awake. Do you have any pills?
+SCHREBER: What does she say? The woman.
+WHITE: Asks my name. Over and over. Just like a broken record. Only thing is, I can't answer. I've no idea what my name <u>is</u>.
+SCHREBER: Your name is John White.
+WHITE: That's what people keep telling me.
+SCHREBER: Bad dreams?
+WHITE: Yes.
+SCHREBER: Tell me about them...
+SCHREBER: If you like.
+WHITE: You're supposed to be my doctor, right?
+SCHREBER: That's right. I <u>am</u> your doctor.
+WHITE: Known me for long?
+SCHREBER: Well...
+SCHREBER: I cannot say... You don't know the answer to that?
+WHITE: I told you, I can't remember a thing!

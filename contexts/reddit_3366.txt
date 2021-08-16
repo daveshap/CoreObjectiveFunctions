@@ -1,0 +1,33 @@
+Would you use a dating app where you need to listen to a 15 minute podcast of a person before being able to message them?
+I am creating a new dating app primarily for people looking for serious relationships.
+
+Each profile you see on the app would have a verified picture and a 15 minute audio (recorded in an engaging format suggested by the app).
+
+EDIT: **You will be able to message the user after you listen to atleast 5 minutes of their audio**. (There is no need to match). However it will be communicated to the other user how much of the conversation you have listen to (to incentivise people who put in more effort)
+
+If you don't like a person, at any point, you can skip them immediately. 
+
+The primary assumptions is that
+  1. Audio recordings convey so much more about a person than a text based profile.
+  2. You might take the other person more seriously if you know that they spent between 5 to 15 minutes listening to you before messaging you.
+
+One of the format I picked to be used is '36 questions that can make you fall in love'. The idea is to give a structure that makes it very easy to create a profile. Of course only have to answer the questions that you are comfortable answering.
+
+Just to give an idea about the '36 questions' format, they start with lighter ones and go deeper as you progress. Here are some examples. 
+
+Q1. Given the choice of anyone in the world, whom would you want as a dinner guest?
+
+Q5. When did you last sing to yourself? To someone else?
+
+Q10. If you could change anything about the way you were raised, what would it be?
+
+Q13. If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
+
+Q23. How close and warm is your family? Do you feel your childhood was happier than most other people’s?
+
+Q30. When did you last cry in front of another person? By yourself?
+
+
+Would love to hear your thoughts :)
+
+PS: When I spoke to my friends for feedback, the responses varied quite a bit based on gender. So it will help if you share your gender in your response - only if you are comfortable doing so.

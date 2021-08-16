@@ -1,0 +1,1 @@
+Install ubuntu in one specefic drive on win10 I have win10 installed on my laptop, with 5 drive C,D,E,F,G...I'm gonna install ubuntu14.4 beside win10 ... Wanna install on drive G: 200GB, but the installation wizard does not show my derives ... How can I select drive G for installation ? Are all my drives will be safe on windows after I installed Ubuntu?

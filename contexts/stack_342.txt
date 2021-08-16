@@ -1,0 +1,1 @@
+Hide the cursor from the terminal I want to be able to hide the cursor programmatically. I am okay with giving any required permissions to the script.

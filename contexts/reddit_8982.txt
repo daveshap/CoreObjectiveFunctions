@@ -1,0 +1,18 @@
+Is Donald Trump's contribution to Pam Bondi bribery?
+The Associated Press has [a story out](http://bigstory.ap.org/article/e16a8223c24048d290883370dc6abe5b/florida-ag-asked-trump-donation-nixing-fraud-case) alleging that Florida Attorney General Pam Bondi solicited a donation to her campaign from Donald Trump while around the same time announcing she may join a New York probe into Trump University, and then closed the investigation shortly after receiving a large campaign contribution from Trump.
+
+>Florida's attorney general personally solicited a political contribution from Donald Trump around the same time her office deliberated joining an investigation of alleged fraud at Trump University and its affiliates
+
+>The new disclosure from Attorney General Pam Bondi's spokesman to The Associated Press on Monday provides additional details around the unusual circumstances of Trump's $25,000 donation to Bondi.
+
+>The money came from a Trump family foundation in apparent violation of rules surrounding political activities by charities. A political group backing Bondi's re-election, called And Justice for All, reported receiving the check Sept. 17, 2013 — four days after Bondi's office publicly announced she was considering joining a New York state probe of Trump University's activities, according to a 2013 report in the Orlando Sentinel.
+
+>After the check came in, Bondi's office nixed suing Trump, citing insufficient grounds to proceed.
+
+Florida law [defines bribery](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0838/0838.html) as follows:
+
+>(1) “Bribery” means corruptly to give, offer, or promise to any public servant, or, if a public servant, corruptly to request, solicit, accept, or agree to accept for himself or herself or another, any pecuniary or other benefit not authorized by law with an intent or purpose to influence the performance of any act or omission which the person believes to be, or the public servant represents as being, within the official discretion of a public servant, in violation of a public duty, or in performance of a public duty.
+
+>(2) Prosecution under this section shall not require any allegation or proof that the public servant ultimately sought to be unlawfully influenced was qualified to act in the desired way, that the public servant had assumed office, that the matter was properly pending before him or her or might by law properly be brought before him or her, that the public servant possessed jurisdiction over the matter, or that his or her official action was necessary to achieve the person’s purpose.
+
+Can a campaign contribution qualify under the above definition as a bribe?  If so, does the AP's reporting indicate that the contribution in question may constitute a bribe?

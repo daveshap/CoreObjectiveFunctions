@@ -1,0 +1,1 @@
+Can an object have constant speed and tangential acceleration without undergoing circular motion? Is it possible for an object to be moving with constant speed and a constant magnitude of acceleration tangent to this velocity but NOT move in a circular path? If there are other situations could I please have an example?

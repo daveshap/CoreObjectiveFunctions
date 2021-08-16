@@ -1,0 +1,10 @@
+SCOTTY: It's as I said, Mr. Spock: Inventory still registers every torpedo.
+SPOCK: Yet the data banks insist we fired: twice. One computer is lying.
+SCOTTY: A computer canna lie, sir.
+SPOCK: I think not.
+SCOTTY: You can check the torpedoes visually, if you like -
+SPOCK: We'll have to check every one of them, Mr. Scott.
+SCOTTY: That could take hours!
+SPOCK: Nevertheless.
+SCOTTY: And if they're still in place?
+SPOCK: Then someone forged a data bank entry.

@@ -1,0 +1,1 @@
+How to share an app with friends and family only I am currently developing an iOS app for one of my family members. The only thing is, I do not want it on the App Store.How would I be able to share this with my family member? I know that I could use Cydia impactor or with a personal developer certificate, but this would require signing every few days if I remember correctly?

@@ -1,0 +1,1 @@
+How does the orbiting of electrons around nuclei START? When electrons orbit a nucleus, their orbiting continues due to conservation of angular momentum, so I've read. But what causes an electron to orbit a nucleus in the first place? To be more precise, what happens exactly when an atom absorbs an electron?

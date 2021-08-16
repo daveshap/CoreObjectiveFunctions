@@ -1,0 +1,1 @@
+using sine or square wave to obtain conductivity of solution? I see for designing a conductivity meter, Some Designer use square waves, as excitation to obtain conductivity and some others use sine waves for this work in their design, which wave do this job better for me?

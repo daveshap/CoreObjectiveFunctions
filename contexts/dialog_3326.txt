@@ -1,0 +1,25 @@
+RAND: ... We're prisoners, Mr. Gardiner - we're prisoners of tubes and technology.
+CHANCE: I agree.
+RAND: ... You will join us for dinner, won't you, Mr. Gardiner?
+CHANCE: Yes. I am very hungry.
+RAND: ... So am I, my boy - so am I.
+RAND: I know exactly what you mean. Today the businessman is at the mercy of kid-lawyers from the SEC. All they want to do is regulate our natural growth! It's happening across the country!
+ALLENBY: To everyone, I'm afraid. The Government controls are so restricting that the Medical Profession, as we know it, is being legislated out of existence.
+RAND: Of course! By kid-lawyers!
+EVE: Won't your injury prevent you from attending to business, Mr. Gardiner?
+CHANCE: No. It won't do that.
+EVE: ... Would you like us to notify anyone for you?
+CHANCE: No. The Old Man died and Louise left.
+EVE: Oh. I'm very sorry. Well, if you have any need for any of our facilities, please do not hesitate to ask.
+RAND: Do you need a secretary?
+CHANCE: No, thank you. My house has been closed.
+RAND: Oh. When you say 'Your house has been closed', you mean to say that your business was shut down?
+CHANCE: Yes. Shut down and locked by the attorneys.
+RAND: What'd I tell you? Kid-lawyers! The S.E.C.! Damn them!
+EVE: I hope that staying here won't be an inconvenience for you.
+CHANCE: No. I like it here.
+RAND: That's good, Mr. Gardiner. Or may I call you Chauncey?
+CHANCE: Yes. Chauncey is fine.
+RAND: And I'm Ben.
+ALLENBY: ... And please call me Robert.
+CHANCE: Yes, Robert. I will.

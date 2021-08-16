@@ -1,0 +1,1 @@
+What files should be on an Ubuntu installation DVD? I have two DVDs. I cannot install from either. One is xxx.iso the other contains files: .disk, boot, casper \u2026 etcWhat should I see if I display the files that are on a proper DVD?

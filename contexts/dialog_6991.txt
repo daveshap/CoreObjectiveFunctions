@@ -1,0 +1,17 @@
+MARK: Frida? I hear you talking. I know you're in there. Let me in.
+FRIDA: It's Mark.
+JENNIFER: Get rid of him!
+FRIDA: Okay, I gotta go.
+JENNIFER: I'm stopping by later. I'm worried about you. Bye.
+MARK: It's a matter of life and death.
+FRIDA: This really isn't a good time.
+MARK: Come on Frida, I'm not kidding. I'm totally fucked. Let me in.
+MARK: I did something stupid. I had a courier job -- picking up a package from the airport. It turned out to be money -- so I kind of borrowed it to pay my rent and now these dudes are after me.
+FRIDA: So pay them back and apologize.
+MARK: These guys aren't the kind that'll take an apology. They're the kind that'll break my thumbs.
+FRIDA: You think that story's gonna make me loan you money?
+MARK: It's the truth. If you'd just loaned me the money last time this never would have happened.
+FRIDA: Somehow this winds up being my fault? You always blame me.
+MARK: Come on, I'm your biggest supporter.
+FRIDA: My bra is my biggest supporter.
+MARK: I just need a place to lay low for a few days. Come on, I know you hate me but you can't wanna see me at the bottom of the East River?

@@ -1,0 +1,12 @@
+COURTNEY: Hello, Mr. Gardiner. This is Sid Courtney, Washington Post.
+CHANCE: Hello, Sid.
+COURTNEY: I'm sorry to disturb you, Mr. Gardiner, I know you must be very busy.
+CHANCE: No. I'm not busy.
+COURTNEY: Then, I'll be brief. I covered the President's speech at the Financial Institute today, and since the Post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between Mr. Rand, the President and yourself.
+CHANCE: The President is a nice person. I enjoyed it very much.
+COURTNEY: Good, sir. And so, it seems, did the President - but we would like to have some facts; such as, uh... What exactly is the relationship between yourself and that of the First American Financial Corporation?
+CHANCE: I think you should ask Mr. Rand that.
+COURTNEY: Of course. But since he is ill I'm taking the liberty of asking you.
+CHANCE: Yes, that is correct. I think you should ask Mr. Rand that.
+COURTNEY: I see. Then one more quick question, Mr. Gardiner; since we at the Post would like to, uh - update our profile on you - what exactly is your business?
+CHANCE: I have nothing more to say.

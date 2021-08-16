@@ -1,0 +1,12 @@
+MAN IN SCRUBS: How are you feeling?
+DAVID: Okay.
+MAN IN SCRUBS: You are in the emergency room of the University of Pennsylvania Hospital. You were in a serious accident. How's your vision?
+DAVID: Fine.
+MAN IN SCRUBS: Where were you sitting on the train?
+DAVID: Against a window.
+MAN IN SCRUBS: In the passenger car?
+DAVID: Yes. Where are the rest of the passengers?
+MAN IN SCRUBS: Was your family traveling with you?
+DAVID: No.
+MAN IN SCRUBS: Did you get up from your seat?
+DAVID: No.

@@ -1,0 +1,3 @@
+HAL: Sorry to interrupt the festivities, Dave, but I think we've got a problem.
+BOWMAN: What is it, Hal?
+HAL: MY F.P.C. shows an impending failure of the antenna orientation unit.

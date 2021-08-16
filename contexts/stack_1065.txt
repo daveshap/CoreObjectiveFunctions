@@ -1,0 +1,1 @@
+Install Lubuntu on an USB Flash Drive So I want to install Lubuntu to a 16GB USB Flash Drive and I have a question about the install process: how should I partition the device? I have an Asus X550LB notebook and the specs are: 4GB RAM, I7 4500U and Nvidia 740M GPU. The MOBO uses legacy bios.

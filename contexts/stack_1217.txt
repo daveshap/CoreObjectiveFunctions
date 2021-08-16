@@ -1,0 +1,1 @@
+How to promote hidden mongo node to primary? We are trying to implement DR setup for our mongodb replica set and currently three nodes in DR are configured to run as hidden nodes. We are trying to test failover to DR which will require promoting hidden node to primary and secondary respectively. What is the best way to achieve this?

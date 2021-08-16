@@ -1,0 +1,47 @@
+[Mod Post] Canada election information
+For those not aware, there is currently a Canadian election ongoing.  Election day is Monday October 21.
+
+**Voting Information**
+
+[Elections Canada has detailed information on the logistics of voting.](https://elections.ca/home.aspx)  If you are a Canadian citizen and 18 or older, you are legally entitled to vote.  Early voting, absentee voting, and same day registration are available.
+
+**Change from prior elections: voters who live abroad**  
+
+There is no longer any requirement to have lived in Canada recently to be able to vote.  In January this year, [the Supreme Court ruled](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/17446/index.do) that Canadian citizens are entitled to vote at their last address in Canada no matter how long they have been outside the country.  So if you are a long-term Canadian expatriate, you can [apply to be on the International Register of Electors](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e) and cast your ballot by mail.
+
+**Change from prior elections: formally organized leader debates.**
+
+Newly formed for this election, the [Leader's Debates Commission](https://en.wikipedia.org/wiki/Leaders%27_Debates_Commission) is organizing a pair of debates, in English and French, among party leaders.
+
+The English debate is Monday, October 7.
+
+The French debate is Thursday, October 10.
+
+**How elections in Canada work**
+
+There will be a First Past the Post election for [all 338 seats in the House of Commons.](https://www.elections.ca/content.aspx?dir=ces&document=part1&lang=e&section=res) Each seat represents one geographic district, called a “riding,” which represents a specific area within a province (or in the case of the territories, the entire territory).  Candidates generally affiliate with a political party.  If a single party wins the majority of seats [it will form government by convention.](https://www.ourcommons.ca/marleaumontpetit/DocumentViewer.aspx?Sec=Ch01&Seq=2&Language=E)  If no party wins a majority, then parties may negotiate to form a coalition, or the party with a plurality of seats may seek to from a minority government, which it can do as long as it does not lose a vote of no confidence.
+
+---
+
+Pour ceux qui ne le savent pas, une élection canadienne est en cours. Le jour des élections est le lundi 21 octobre.
+
+**Information de vote**
+
+[Élections Canada a des informations détaillées sur la logistique du vote.](https://elections.ca/accueil.aspx) Si vous êtes un citoyen canadien âgé de 18 ans, vous avez légalement le droit de voter.  Le vote en avance, le vote par correspondance et l'inscription sur les listes électorales le jour même sont disponibles.
+
+**Changement par rapport aux élections précédentes: électeurs résidant à l'étranger**
+
+Il n'est plus nécessaire d'avoir vécu récemment au Canada pour pouvoir voter. En janvier de cette année, [la Cour suprême a statué](https://scc-csc.lexum.com/scc-csc/scc-csc/fr/item/17446/index.do) que les citoyens canadiens ont le droit de voter à leur dernière adresse au Canada, peu importe combien de temps ils ont passé en dehors du territoire. Donc, si vous êtes un expatrié canadien de longue durée vous pouvez [demander à être inscrit sur la Registre international des électeurs](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=f) et de voter par la poste.
+
+**Changement par rapport aux élections précédentes: débats officiels des candidats**
+
+[La Commission des débats des chefs,](https://debates-debats.ca/fr/) nouvellement créée pour cette élection, organisera deux débats entre les chefs des partis, un en Anglais et un en Français. 
+
+Le débat en Anglais aura lieu le lundi 7 octobre. 
+
+Le débat en Français aura lieule jeudi 10 octobre.
+
+**Comment les élections fonctionnent au Canada**
+
+Il y aura un scrutin uninominal majoritaire à un tour pour [les 338 sièges à la Chambre des communes.](https://www.elections.ca/content.aspx?dir=ces&document=part1&lang=f&section=res) Chaque siège représente un district géographique, appelé «circonscription», qui représente une région spécifique d'une province (ou, dans le cas des territoires, de l'ensemble du territoire). Les candidats s'affilient généralement à un parti politique. Si un seul parti remporte la majorité des sièges, [il formera un gouvernement par convention.](https://www.noscommunes.ca/marleaumontpetit/DocumentViewer.aspx?Sec=Ch01&Seq=2&Language=F) Si aucun parti ne remporte la majorité, les partis peuvent alors négocier pour former une coalition ou le parti ayant la majorité relative peut chercher à obtenir un 
+gouvernement minoritaire, ce qu'il peut faire tant qu'il ne perd pas une motion de censure.

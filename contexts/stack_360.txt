@@ -1,0 +1,1 @@
+How to publish an app internally for users of my organisation and not publicly? I want to build and deploy an iOS app only for my company specific users.I do not want to publish it for normal users on the iOS App Store. How can I do this?

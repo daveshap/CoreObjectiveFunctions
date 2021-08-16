@@ -1,0 +1,1 @@
+Enable AltGr in Xubuntu How do I set the 'Alternate Characters Key' to 'Enabled' in Xubuntu?As far as I can tell, the right alt key does nothing special in Xubuntu 16.04 LTS.  I\u2019m looking for an easy way to type special characters like;  \u00a2 \u00a9 \u201d\u201c  without hand-typing unicode.  What am I missing here? Thanks,Lance

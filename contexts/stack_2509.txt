@@ -1,0 +1,1 @@
+Use python code to extract all attributes shapefile I am using ArcGIS 10.2. How to use ArcPy code to extract every row in the attribute table and save each row to separate shapefiles?

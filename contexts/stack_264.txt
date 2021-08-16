@@ -1,0 +1,1 @@
+Custom dialog box in Automator? I would like to create a service that performs a set of actions based on several parameters<br>A custom dialog box with multiple radio buttons would be a great way to capture these.<br>My experience with AppleScript so far only gives me very basic prompts<br><br>How can I use a custom dialog box in Automator?

@@ -1,0 +1,8 @@
+GRANT: Tim! Lex!
+LEX: Dr. Grant! Dr. Grant!
+GRANT: Are you okay? Can you move? Tim! Are you okay?
+GRANT: Tim, are you okay?
+TIM: I'm stuck. The seat's got my feet!
+GRANT: Tim, I'll come back for you. I'll get Lex out first.
+LEX: He's knocked out! He's knocked out! Dr. Grant! Dr. Grant! Daddy, daddy!
+GRANT: Let's get you out.

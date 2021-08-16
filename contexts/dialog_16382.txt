@@ -1,0 +1,16 @@
+WADE: Hola, amgio. Problemas de llanta? [Hey, friend. Tire problems?]
+ELADIO: No hay de que. Tengo otra. [No problem, I've got another.]
+WADE: What's in the back?
+ELADIO: Not much, jefe. Some watermelons.
+WADE: I heard somebody been haulin' wets on this road.
+ELADIO: I haven't seen anybody doing that.
+WADE: This same person been bragging all over the county how he don't have to cut that big gringo Sheriff in on it-- he can run his own operation 'thout any help. Como se llama, amigo?
+ELADIO: Eladio Cruz.
+WADE: You know this road got a bad reputation, Eladio--
+ELADIO: Reputation?
+WADE: Bandidos, Injuns--
+WADE: There's many an unfortunate soul been ambushed out on this stretch. Hope you're carrying some protection.
+ELADIO: Protection?
+WADE: You carryin' a firearm, son? Don't lie to me now.
+ELADIO: Si--tengo escopeto--just a shotgun--
+WADE: Just a shotgun, huh? Better let me take a look at that.

@@ -1,0 +1,1 @@
+R : Which method should I choose for correlation analysis of between two dichotomous variables? and How to? data example : variable a{1, 0, 1, 0, 1, 0, 1, 0}               variable b{0, 1, 0, 1, 0, 1, 0, 1}can I use spearman method for this analysis?

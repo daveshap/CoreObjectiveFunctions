@@ -1,0 +1,1 @@
+Good application for detecting state (health) of SSD disk? On my MacBook, I want to see the health status of my SSD. How can I do this? Which app to use?

@@ -1,0 +1,1 @@
+Workspace switcher in Ubuntu 17.10 I'm running Ubuntu 17.10 in VirtualBox and the keyboard shortcut for switching to a new workspace doesn't work. Please show me a screenshot that shows how to switch workspaces from the desktop environment in Ubuntu 17.10 without pressing the keyboard shortcut.

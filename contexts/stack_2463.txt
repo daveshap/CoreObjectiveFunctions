@@ -1,0 +1,1 @@
+Connecting local QGIS to Docker container? I have a Docker container from PostgreSQL image installed. How do I connect my local QGIS app to my PostGIS database to view the map?

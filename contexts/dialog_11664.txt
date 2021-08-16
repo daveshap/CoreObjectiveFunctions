@@ -1,0 +1,9 @@
+MARTIN: Hey, Ken. How have you been?
+KEN: Hello Martin. How have you been?
+MARTIN: Not bad. You?
+KEN: Hello, Bob.
+MARTIN: Hey, Bob.
+KEN: I'm an attorney. I'm with Moss, Brice & Fromeyer.
+MARTIN: That sounds pretty interesting...
+KEN: Sometimes. I'm in divorce, mainly. Some property. Some personal injury.
+MARTIN: Those all seem kind of related...

@@ -1,0 +1,10 @@
+CURLY: Sure thing.
+GITTES: Curly, where's your car?
+CURLY: In the garage.
+GITTES: Where's that?
+CURLY: Off the alley.
+GITTES: Could you drive me somewhere?
+CURLY: Sure, as soon as we eat.
+GITTES: Right now, Curly. It can't wait.
+CURLY: I'll just tell my wife.
+GITTES: Tell her later.

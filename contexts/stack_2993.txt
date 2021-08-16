@@ -1,0 +1,1 @@
+Help with reflectance measurement of Infrared This is a elementary question that troubles me.My understanding is that biological tissue absorbs and transmit light in the infrared region.How is that a sensor is able to detect temperature from infrared radiation? If these wavelength are absorbed by the subject, then what is the light that is reflected and captured by the IR camera?

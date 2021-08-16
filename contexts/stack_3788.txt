@@ -1,0 +1,1 @@
+Technique(s) for Forecasting Daily Sales For a 14 Day Interval What are techniques for forecasting daily sales for a 14 day interval?Note, my historical data is 14 days of daily sales data that may or may not have fallen in the same month (e.g. July 2017) as the interval I am trying to forecast for (e.g. July 2018).

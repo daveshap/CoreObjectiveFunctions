@@ -1,0 +1,1 @@
+Can I replace an ER107 for an IN4007 or IN4005? I am trying to repair a Power Supply where 2 resistances and one diode got burned, that diode was a ER107.I was looking at the datasheets and the things that change are the Forward Voltage, Peak Voltage and DC Blocking. I dont know if I can use the IN4007 or the IN4005 to replace it or If I shouldn't.

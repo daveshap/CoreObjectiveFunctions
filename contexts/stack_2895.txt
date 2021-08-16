@@ -1,0 +1,1 @@
+What is the energy required to create a gravitational field equivalent to that a mass $m$ shows? If the mass of a neutron star in its collapse becomes a singularity, then the resting energy of this gravitational field must be $E = mc^2$ ($m$ = star mass).Is this possibility wrong?

@@ -1,0 +1,1 @@
+Supervised Classification Imagery for rooftops I'm trying to do a supervised classification in ArcPro that will allow me to find Tar and Gravel rooftops in Miami. I have Landsat data but just wondering if there is imagery out there with better spacial resolution that might work better?

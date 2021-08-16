@@ -1,0 +1,12 @@
+What powers are vested in the Chief Justice as the presiding judge in an impeachment trial?
+After a president is impeached by the House, the conviction trial takes place with the Senate acting as the jury and the Chief Justice of the United States acting as the judge. As [precedent](https://supreme.justia.com/cases/federal/us/506/224/) indicates, impeachment is purely a political process and not a legal one. Therefore, the rules and procedures of a traditional trial that most people are most familiar with do not exactly apply in an impeachment trial.
+
+In fact, according to the *[Rules and Procedures of Practice in the Senate When Sitting on Impeachment Trials]( https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf)*, in an impeachment trial, the “Presiding Officer shall have power to make and issue… all orders, mandates, writs, and precepts authorized by these rules or by the Senate, and to make and enforce such other regulations and orders in the premises as the Senate may authorize or provide.” In other words, as the majority party of the Senate, the GOP appears to have the power to set the rules.
+
+Furthermore, the rules also state (bold emphasis by me):
+
+> And the Presiding Officer on the trial may rule on all questions of evidence including, but not limited to, questions of relevancy, materiality, and redundancy  of evidence and incidental questions, which ruling shall stand as the judgment of the Senate, **unless some Member of the Senate shall ask that a formal vote be taken thereon, in which case it shall be submitted to the Senate for decision without debate**; or he may at his option, in the first instance, submit any such question to a vote of the Members of the Senate. Upon all such questions the vote shall be taken in accordance with the Standing Rules of the Senate.
+
+And thus it seems that the Chief Justice can be overridden in their rulings if a majority of the Senate votes on it.
+
+So what exactly are the powers vested in the Chief Justice as the presiding judge in an impeachment trial?

@@ -1,0 +1,7 @@
+HEAD: You have a red shirt.
+DATA: This is not an appropriate time for a conversation.
+HEAD: Why?
+DATA: Because the captain has to concentrate on piloting the vehicle.
+HEAD: Why?
+PICARD: Data!
+DATA: Sorry, sir.

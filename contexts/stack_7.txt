@@ -1,0 +1,1 @@
+How to download the .ipa for MDM? We use Apple MDM at the small school I work at to manage our iPads.  In the past we would download the .ipa from the App Store then upload it to the MDM then deploy it to the iPads.  With the new updates we can't figure out a way to download the .ipa files?  Can anyone help?  (I will add we are not in the US and do not have access to VPP.)

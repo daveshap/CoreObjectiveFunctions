@@ -1,0 +1,14 @@
+JEROME: No bother.
+IRENE: I've been asked to compile a log for the investigators--they want to know everyone's whereabouts last night.
+JEROME: Last night? I was at home.
+IRENE: Can that be, er, verified? Were you alone?
+JEROME: No it can't be verified. Yes I was alone.
+JEROME: Looks bad, doesn't it, Irene? What about <i>you?</i> Where were you last night?
+IRENE: I was at home.
+JEROME: Were <i>you</i> alone?
+IRENE: Yes.
+JEROME: So we don't know for sure about you, either.
+IRENE: No.
+JEROME: Why don't we say we were together?
+IRENE: Why would we do that?
+JEROME: I have better things to do this week than answer the foolish questions of some flatfoot. Don't you?

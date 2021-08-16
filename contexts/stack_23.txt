@@ -1,0 +1,1 @@
+Can Timemachine restore the backup of an external drive to another external drive? I have two external drives attaching to my Mac, one for file storage and one for time machine. The latter one keeps the TM backups of the former one. If someday I lost the former one is it possible that I could just buy a new drive and restore the data back to the new drive easily?

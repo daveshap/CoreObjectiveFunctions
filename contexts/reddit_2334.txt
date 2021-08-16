@@ -1,0 +1,46 @@
+ALERT: GRINNELL COLLEGE HACKED!
+GRINNELL TWITTER UPDATE:
+"If you receive(d) such a message, you are strongly advised not to respond. We have contacted appropriate authorities, including the Federal Bureau of Investigation, and will send out notification as soon as possible."
+
+
+Grinnell college admissions files database has been hacked. The hackers are sending out Emails from the University's official Email account, request 1BTC for Regular Decision results and the full commented admissions file. DO NOT ENGAGE WITH THEM. 
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here is the Email they are sending through the official admissions email address:
+
+"Dear [NAME],
+You are now presented with a unique opportunity to purchase your entire admissions file:
+
+Comments by Admissions Officers
+Assigned Ratings
+Interview Report (if present)
+Teacher Recommendations
+Tentative Decision (if applying Regular)
+
+We are charging 1 BTC (~$3890) for this data. Be aware that although the price tag is substantial, this offer presents a unique opportunity to look at yourself from the inside of Grinnell Admissions office absolutely unfiltered. To receive the service, send the amount to 14ynXYJE8yC8PP2MS1E1A8eEnUnV53e5DH and write an email to ABF2901@protonmail.comthat contains one single string - your Bitcoin Transaction ID. If you don't have the amount yet but are planning to purchase the service, you are welcome to drop an empty message to the named address so that in case of compromise you will be able to get in touch with us.
+
+Let his message serve proof that Slate has indeed been breached. We look forward to working with you, [NAME]! Your birthday is on [BD].
+
+Sincerely,
+Diane Evergreen,
+UDA International"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+UPDATE: 
+THEY LOWERED THE PRICE TO 60$ LOL
+
+Here's their second email; I think they might be here on REDDIT:
+
+"Following the forum threads, we decided to lower the price to $60 dollars worth of Bitcoins. For this price you will get admissions comments and your interview report (if any)."
+
+UPDATE 2:
+Apparently Hamilton was also hacked.
+
+UPDATE 3:
+Let's hope they don't have access to our financial aid documents. I will add any further information to this post, so please comment if you know anything else about the hack.

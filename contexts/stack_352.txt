@@ -1,0 +1,1 @@
+How to use Time Machine to backup system from ssd I added an SSD to my Mac mini and installed macOS Mojave on it. (it is already installed on the HDD) I notice that Time Machine is still backing up from the HDD. How can I change the source drive for Time Machine to the SSD?

@@ -1,0 +1,1 @@
+mysql 5.5 repartition With MySQL 5.5, I want to change the partitioning scheme of a very large InnoDB table from \"hash\" to \"range\". Can I do it while the table is accepting DML? If not, what is the best-practice work-around?Thanks!

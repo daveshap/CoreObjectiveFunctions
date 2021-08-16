@@ -1,0 +1,1 @@
+Is there a way to have a right edge scroll function on Ubuntu? This was a feature I had on an older xp machine where if I dragged my finger on the right edge of my trackpad it would move down the page.  Since Ubuntu is now way ahead of xp, I would assume there is a way to enable a feature like this.  If this is possible, how?  Thanks and regards,Thomas

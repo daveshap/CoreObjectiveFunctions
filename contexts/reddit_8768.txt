@@ -1,0 +1,16 @@
+[META] New ban policy
+**This is not an April Fools joke!**
+
+It's a point of pride for the mod team here that we've banned very few users over the history of this subreddit. Given the topics we deal with, and the volatile environment created by online anonymity, you might expect that we issue frequent bans, but we've found that we can usually avoid them by directly engaging the users. We've had users who started off combative or flaunting the rules, but after numerous discussions and warnings from the mods, turned into valuable contributors.
+
+We would like to continue that approach, but the fact is, it's not sustainable. 
+
+First, it takes too much time. Frequent exchanges with a single user, who may post 5-10 comments a day that draw reports, are a drain on the whole mod team and they take us away from other important business. It's far easier to simply ban that user and end up with 5-10 fewer reports a day to investigate. We have always resisted that easy route, but with our current levels of traffic that has to change.
+
+Second, as the election has gotten steam, electoral politics has become dominant over policy in many NeutralPolitics discussions. We've had a number of problematic interactions with users whose primary purpose for being on NP is to promote or denigrate particular candidates, and the heightened passions are showing the inadequacies of our prior policy on bans.
+
+As has always been the case, multiple violations of the rules will draw a ban warning. However, from today forward, **users who respond inappropriately to the ban warning, either by failing to adjust the offending behavior or by being combative with the mods, will be banned immediately.** At the moderators' discretion, that ban may or may not be permanent.
+
+For clarity, our internal policy around banning a user is as follows: A ban is proposed to the full mod team by a specific mod with the reasoning stated. The team then votes on the proposal. The motion carries if a simple majority of all mods who participate are in favor, and that majority must include one of the two most senior mods.
+
+*This is part of a broader series of posts on restructuring NP.  See more [here.](https://www.reddit.com/r/NeutralPolitics/comments/4cxx7m/meta_rneutralpolitics_is_going_into_lockdown_mode/)*

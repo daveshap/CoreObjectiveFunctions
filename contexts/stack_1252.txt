@@ -1,0 +1,1 @@
+Deprecated raiserror detection I want to upgrade SQL server from 2008 to 2014 versiyon. I checked all of the deprecated features including raiserror syntax. But I have many stored procedures to check. Some of them use new syntax, some of them use old syntax and I need to alter the old syntax from them. How can I check all of the procedures to detect old raiserror syntax?

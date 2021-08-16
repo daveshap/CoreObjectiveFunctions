@@ -1,0 +1,1 @@
+Ubuntu 17.10 autologin despite this uncheck in settings I have a problem with autologin in my Ubuntu 17.10. In settings I have uncheck \"automatical login\" but still, when I turn on system then automatic log in. I looking for a solution in the internet but still nothing. Please help me guys.

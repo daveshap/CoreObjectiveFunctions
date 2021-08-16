@@ -1,0 +1,1 @@
+How the current of a wire pass so quickly if it has that less drift velocity of electrons.? The rate of flow of electrons is known as current. When we switch on a light bulb, then it lights immediately. If drift velocity of electrons is so small--at least on the supply on 220V (supply of my home)--then why does the light bulb light up so quickly?

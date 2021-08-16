@@ -1,0 +1,10 @@
+How to find research topic?
+I'm a CS undergrad with prior studies in actuarial science (33 credits) and 2 internships in that field (1 in research for auto insurance and the other at an auto insurance company). I figured I was bored to death by insurance but loved the probability/stats/CS aspect of what I'd learned and applied during my internships.
+
+They just announced additional research funding for 12-week "internships" this summer at my university and I want to apply. My data science internship this summer got cancelled due to Covid-19 and I will be applying to grad schools in AI this year.
+
+I'm mainly interested in maps, computer vision, autonomous vehicles and AI in general. I've done a little bit of research on these areas of studies on google but honestly I don't know much about them even though they interest me, so I'm having a hard time figuring out what research topic I could present in my application.
+
+What is needed to be advanced in those fields and would be accessible for an undergrad?
+
+Thanks!

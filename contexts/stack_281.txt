@@ -1,0 +1,1 @@
+Batch Renaming Folders Is there a way to batch replace current folder names with increasing numbers? The \"Rename Finder Items\" built-in feature only lets you replace in the 'Find and replace text' kind of way. Not all my current folder names have common characters. I'm using Mojave, btw.

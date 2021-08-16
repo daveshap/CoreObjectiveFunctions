@@ -1,0 +1,14 @@
+TREVES: Don't be frightened. He won't hurt you.
+CARR: Indeed!
+CARR: A hospital is no place for secrecy, Mr. Treves. Doctors spiriting hooded figures about are liable to cause comment. Why wasn't this patient properly admitted, and why is he in isolation? Is he contagious?
+TREVES: No sir, he's got bronchitis and he's been badly beaten.
+CARR: Why isn't he in the General Ward, then?
+TREVES: Well sir, he's quite seriously deformed, and I fear the other patients would find him... rather shocking.
+CARR: Deformed? Is that it. Then am I to assume that he is ultimately incurable?
+TREVES: Yes sir.
+CARR: What are your plans then, Treves... You are aware that the London does not accept incurables. The rules are quite clear on that point.
+TREVES: Yes, I'm well aware of that. But this case is quite exceptional.
+CARR: Oh, is he a friend of yours?
+TREVES: No, more of an acquaintance.
+CARR: I certainly sympathize with your problem, Treves... Why don't you try the British Home, or the Royal Hospital for perhaps they would have a place for him.
+TREVES: Yes sir, I'll look into that. Would you like to meet him sir?

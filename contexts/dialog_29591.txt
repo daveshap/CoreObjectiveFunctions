@@ -1,0 +1,30 @@
+ALAN: Beautiful!
+GIBBS: Hello, Alan.
+ALAN: Boy, I sit up there grindin' away all day, and you guys are down here disintegrating things and having fun.
+GIBBS: Not disintegrating, Alan -- digitizing. While the laser is dismantling the molecular structure of the object, the computer maps out a holographic model of it. The molecules themselves are suspended in the laser beam. Then the computer reads the model back out, the molecules go back into place, and... voila.
+ALAN: Great. Can it send me to Hawaii?
+GIBBS: Yes...but you have to go roundtrip, and you must purchase your program at least 30 days in advance. Hah!
+LORA: How's it going upstairs?
+ALAN: Frustrating. I had Tron almost ready to run, and Dillinger cut everybody with Group 7 access out of the system.
+ALAN: Ever since he got that Master Control Program set up, system's got more bugs than a bait store.
+GIBBS: Well, you have to expect some static. Computers are just machines after all, they can't think...
+ALAN: They'll start to soon enough.
+GIBBS: Yes, won't that be grand -- the computers will start thinking, and people will stop. Lora, I'm going to stay and run some data through. See you tomorrow.
+LORA: Did you say Group 7 access?
+ALAN: Yeah...pain in the neck, you know, I was all set
+LORA: Did he say why?
+ALAN: Something about tampering. Some body's prob'ly trying to siphon the R&D budget into his checking account, I don't know. Why are you so interested?
+LORA: Flynn had Group 7 access.
+ALAN: Flynn had access to you, too. I'm not interested in talking about him.
+LORA: Oh, I wish you'd forget about that. It was all so long ago. I've totally gotten over it.
+ALAN: Okay, okay...
+LORA: I want to go to his place.
+ALAN: You call that getting over it?
+LORA: I mean I want both of us to go.
+ALAN: What for?
+LORA: To warn him.
+ALAN: Of what?
+LORA: That Dillinger's on to him.
+ALAN: For what?
+LORA: For being on to Dillinger.
+ALAN: What -- ?

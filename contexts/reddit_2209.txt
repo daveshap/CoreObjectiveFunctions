@@ -1,0 +1,13 @@
+Why Inspect Element Can't Reveal Your College Decision
+Hi everyone!
+
+Inspect element is a tool used to analyze the code of the front-end, or interface, of a website. However, a portal is **dynamic**, so it is updated with new information, such as an admission decision.
+
+This updating of new information happens because in a dynamic webpage, the front-end code is controlled by a back-end system usually consisting of a server and databank. This is where your admission decision most likely is, and it will only show on the front-end code at a time specified by the back-end code. 
+
+Since inspect element only analyzes front-end code, it cannot see the decision until it appears on the interface you see. It cannot look into back-end databanks, the two codes are not connected in such a way. 
+
+Before you ask, no, you cant really hack into back-end code through the front-end code. They're not that seamlessly connected to eachother unless you have a gaping security issue (most universities will not) 
+
+
+Hope this makes sense!

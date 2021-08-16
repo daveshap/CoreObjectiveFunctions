@@ -1,0 +1,1 @@
+Opera for dual boot Windows 10 & Ubuntu 16.04? I'm using currently more Opera than FF, I think with FF, you can use the same profile directory so both Windows 10 &amp; Ubuntu can use the same configuration/history, etc. Is it possible to do the same with Opera? I tried the net but found nothing, can you please point me to the right direction? Thanks for your help.

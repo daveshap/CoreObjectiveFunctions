@@ -1,0 +1,3 @@
+MAX: What kind of gun was it?
+HAL: A .38.
+MAX: Right. Where are they?

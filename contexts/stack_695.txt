@@ -1,0 +1,1 @@
+Samsung Xpress M2070FW won't print PDF on Ubuntu 17.10 x64 I tried to install HP or Samsung ULD drivers but still problems printing only pdf.Scanning is ok, print text files is ok!I tried to use \"Samsung M2070 Series, driverless, cups-filters 1.17.9\" or \"Samsung M2070 Series [en]\" drivers without success.Please, someone help me please?Thanks a lot

@@ -1,0 +1,6 @@
+LOCK: We're here! You sent for us!
+SHOCK: Specifically.
+BARREL: By name.
+LOCK: Lock.
+SHOCK: Shock.
+BARREL: Barrel.

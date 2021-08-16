@@ -1,0 +1,22 @@
+Moving from start-up CTO to large company
+
+I've worked for mostly early stage start-ups in leadership roles and have held had some very fancy sounding titles, including CTO.  Since these were start-ups I'd wear many hats and be responsible for things such as:
+
+-designing and writing software 
+
+-building and deploying virtual servers
+
+-hiring and leading a small team of developers
+
+-reinstalling printer drivers and resetting people's passwords at 2am when they can't get into their e-mail
+
+-helping CEO develop the business plan.  
+
+
+I'm now interested in leaving the start-up world due to fatigue with the inherent risks and getting a job at a bigger company.  The problem is that CTO is a VERY different role at a large company like google or IBM.  I'm not qualified to hold a job with this title at a large company, nor is it even the career path I'm interesting in heading toward.  I'd like to be hands-on designing and writing software.
+
+
+I'm worried that applying for those jobs with CTO in my resume could make HR departments immediately toss out the resume fearing that this is a stop-gap job while I look for another C level position.  I also worry it would color me as having more of a business oriented background and career goals when really I have solid software engineering experience and matching degrees.
+
+
+Does anyone have advice for how best to handle this situation?  Would it make sense to put a different and more descriptive job title on my resume?  Or maybe qualify it as "Start-up CTO"?

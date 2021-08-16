@@ -1,0 +1,12 @@
+What exactly is the Queen's Speech in the UK? How does the vote on the speech work? What happens if the speech is voted down?
+Today, Queen Elizabeth II delivered [a Queen's Speech opening a new session of Parliament.](https://www.bbc.com/news/uk-politics-50016682)  The speech describes the government's agenda of legislation.
+
+According to that article, after 6 days of debate, MPs will vote on the speech.  The article also notes that the Johnson government faces a significant risk of losing that vote, and that the last PM to lose such a vote was Stanley Baldwin in 1924.
+
+My questions are:
+
+* What, exactly, is voted on at the end of 6 days?  I am aware of Canadian practice that there is a vote on [the address in reply to the speech from the throne.](https://www.ourcommons.ca/About/ProcedureAndPractice3rdEdition/ch_15_1-e.html)  Is that the same practice as in the UK?
+
+* Does a defeat on the vote on the Queen's speech constitute a vote of no confidence in the government?
+
+* If not, is that a change brought by the Fixed Term Parliaments Act, 2011?  [This briefing paper suggests the FTPA may have altered the confidence conventions.](https://publications.parliament.uk/pa/cm201719/cmselect/cmpubadm/1813/1813.pdf)

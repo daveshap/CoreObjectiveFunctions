@@ -1,0 +1,5 @@
+HOMER: How many months are you?
+CANDY: Two.
+WALLY: So, now, uh... you're not... I mean, do *you* do the--
+HOMER: No. Dr. Larch will be performing the procedure.
+WALLY: Ah, well... okay. Good! I just wondered...

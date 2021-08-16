@@ -1,0 +1,4 @@
+LEONARD: Discount Inn. Don't know what room; haven't got my key.
+TEDDY: Probably left it in your room.
+LEONARD: I'm sorry, I think I'm checked in here, but I've misplaced my key.
+BURT: Hi, Leonard.

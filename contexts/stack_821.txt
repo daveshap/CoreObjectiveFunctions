@@ -1,0 +1,1 @@
+When I am doing sudo apt-get update I got stuck at this : 0% [Connecting to in.archive.ubuntu.com (2001:67c:1560:8001::14)] [Connecting to security.ubuntu.com (2001:67c:1360:8001::17)]

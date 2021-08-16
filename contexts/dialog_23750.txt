@@ -1,0 +1,7 @@
+MAC: We're the experts.
+BERT: Who trusts experts?
+NATION: How did you come by this scenario?
+BERT: I am in Farley's employ -- and... ...we're discussing a network deal.
+NATION: Why Janet?
+BERT: Everyone loves the girl next door, particularly Farley.
+NATION: So it seems.

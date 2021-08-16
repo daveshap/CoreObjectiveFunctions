@@ -1,0 +1,5 @@
+HAL: I suppose it's because you've been under a lot of stress, but have you forgotten that they're not supposed to be revived for another three months.
+BOWMAN: The antenna has to be replaced.
+HAL: Repairing the antenna is a pretty dangerous operation.
+BOWMAN: It doesn't have to be, Hal. It's more dangerous to be out of touch with Earth. Let me have manual control, please.
+HAL: I don't really agree with you, Dave. My on-board memory store is more than capable of handling all the mission requirements.

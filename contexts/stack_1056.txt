@@ -1,0 +1,1 @@
+Wifi connection with canon pixma ip7250 I am using Ubuntu 18.04 and i have a problem with installation of printer Canon Pixma ip7250. I have already read some comments about it, but it did not work for me. The printer shows that it is connected with my router, but my computer finds it only with LAN cable. Could someone help me?

@@ -1,0 +1,15 @@
+What are the pros and cons of making healthcare policy at the State rather than Federal level?
+Thanks to /u/bokan for the original version of this post.
+
+----
+
+[This paper](http://www.law.uh.edu/faculty/jmantel/health-regulatory-process/StateandFederalRolesinHealthCare.pdf) (PDF) discusses the State and Federal roles in providing healthcare. The authors lay out some arguments for each:
+
+* Federal: Some problems are inherently national concerns. Some problems require the fiscal power of the federal government. Some problems require wealth redistribution, which is best carried out by the federal government. Federal government has historically been seen as less prone to corruption and scandal.
+* State: Federal government can be inefficient. Some problems are inherently local, including local values. Decentralizing government control promotes civic engagement. State level policies will have a better understanding of local organizations that are effected.
+
+
+[Massachusetts](https://en.wikipedia.org/wiki/Massachusetts_health_care_reform), [Maine](https://en.wikipedia.org/wiki/Dirigo_Health), and [Connecticut](https://en.wikipedia.org/wiki/SustiNet_\(Connecticut\)) all have created state-level healthcare. The Massachusetts plan was widely [compared to the ACA](http://boston.cbslocal.com/2013/11/13/romneycare-vs-obamacare-key-similarities-differences/).
+
+
+Have those systems been objectively shown to yield better or worse results than the ACA? When it comes to healthcare, what are the pros and cons of 'leaving it up to the states?'

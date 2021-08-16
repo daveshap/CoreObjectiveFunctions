@@ -1,0 +1,1 @@
+USB Backwards-Compatibility Is the USB 3.0 (and latest 3.2) specification only guaranteed to bebackwards compatible to USB 2.0?Some Arduino microcontrollers follow the original low-speed 1.5 Mb/sUSB standard, so equivalently, are new smartphones and laptops notguaranteed to work with them?  A specific example product whichdoes not support low-speed USB would help.

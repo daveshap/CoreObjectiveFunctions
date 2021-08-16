@@ -1,0 +1,6 @@
+REFUGEE: Moses, Moses Seradungu.
+PAUL: Can I help you?
+REFUGEE: I'm looking for Moses Seradungu's room.
+PAUL: What is his room number?
+REFUGEE: I don't know.
+PAUL: Go downstairs, I will help you.

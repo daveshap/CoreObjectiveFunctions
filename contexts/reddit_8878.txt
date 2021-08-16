@@ -1,0 +1,13 @@
+What specific actions can the USDA now take to ensure meat production facilities remain open after the DPA executive order?
+[The White House has issued an Executive Order](https://www.whitehouse.gov/presidential-actions/executive-order-delegating-authority-dpa-respect-food-supply-chain-resources-national-emergency-caused-outbreak-covid-19/) relating to meat and poultry.  The stated goal of the order is to ensure that meat processing facilities remain open.  They have done so based on the [Defense Production Act](https://www.fema.gov/media-library-data/20130726-1650-20490-5258/final__defense_production_act_091030.pdf), specifically, section 101 and 101(b).  This was [previously used in relation to medical supplies](https://www.lawfareblog.com/whats-trumps-executive-order-defense-production-act) in March; then it was [used to try to ramp up production of medical supplies](https://www.cnbc.com/2020/04/03/coronavirus-trump-used-defense-production-act-on-these-companies-so-far.html), but not specifically in order to prevent closure of businesses.
+
+The meat and poultry DPA order allows the government to make use of the [USDA's Priorities and Allocations procedures](https://www.govinfo.gov/content/pkg/CFR-2016-title7-vol7/pdf/CFR-2016-title7-vol7-part789.pdf).
+
+What specific powers and processes does designating food products as critical infrastructure grant the federal government?
+
+1. Can the government begin ordering meat via a [rated order](https://www.fema.gov/information-contractors-about-priority-rated-orders)?
+2. Can the government force plants to reopen that had voluntarily closed?
+3. Can the government prevent a plant from closing due to a worker shortage or safety issue?
+4. Can the DPA override state and local laws regarding pandemic procedures?  An earlier [discussion relating to social distancing here argues not](https://www.lawfareblog.com/can-federal-government-override-state-government-rules-social-distancing-promote-economy), but it is not exactly the same scenario.
+
+Additionally, does the [liability provision in DPA](https://www.law.cornell.edu/uscode/text/50/4557) automatically shield any meat processing companies from liability if they endanger workers by exposing them to unnecessary risk of infection?  [Liability protection is one of the claimed goals.](https://www.washingtonpost.com/business/2020/04/28/trump-meat-plants-dpa/)

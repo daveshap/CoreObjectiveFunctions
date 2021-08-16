@@ -1,0 +1,1 @@
+How/where is Minecraft lighting handled? How/where is lighting handled with a vanilla Minecraft server and client? My current understanding of lighting is that the server would store the block's light in the block data, then send this to the client for rendering. Is this correct?

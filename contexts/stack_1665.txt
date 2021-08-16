@@ -1,0 +1,1 @@
+Is it safe to measure 220Vrms@50Hz on DSO directly? I borrowed my friend's DSO to complete my project(Hantek DSO5072), but on scope it says CAT II/400V. So is it safe to measure 220Vrms@50Hz with it?

@@ -1,0 +1,1 @@
+Can Evince doul view change page combinition? When I turn on dual view in Evince (press D), the 2nd and 3rd page will be showed in one screen. How could I change as 1st and 2nd page in one screen?

@@ -1,0 +1,19 @@
+KYLE: Which one were you aiming at?
+DANNY: The mother.
+DANNY: Carla?... It's me, Danny...Danny Balint...? We met at that...[meeting at your house.]
+CARLA'S VOICE: Yeah, I remember.... Kill any Jews yet?
+DANNY: I didn't realize you cared.
+CARLA'S VOICE: I don't. I was just curious how full of shit you were.
+DANNY: Did you know that there was a <i>New York Times</i> reporter there that night?
+CARLA'S VOICE: Really, which one? I bet it was the guy with the Prada shoes.
+DANNY: I didn't notice his shoes.... Did your mother know he was there?
+CARLA'S VOICE: I doubt it. How did you find out?
+DANNY: He called me up. He wanted to talk to me about my ideas.
+CARLA: I bet. He didn't realize that nobody who talks such a good game ever plays one.
+DANNY: You weren't complaining about my play last time.
+CARLA'S VOICE: That's a much easier game.
+DANNY: Why don't you come visit, we'll have a rematch.
+CARLA: Too many good players down here. I'm with one right now.
+DANNY: Oh, really?
+CARLA: Bigger and better.
+DANNY: Then how come you're talking to me?

@@ -1,0 +1,5 @@
+NICK: Sit with Linda, man, will ya?... Give her a beer. Would you like a beer?
+LINDA: Sure.
+NICK: What kind of beer would you like?
+LINDA: I don't know.
+NICK: Give her Miller's. Miller's High Life.

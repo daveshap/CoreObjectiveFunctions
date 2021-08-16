@@ -1,0 +1,16 @@
+Help Sought From Job Seekers: I am Building an App to Identify Effective Job Seeking Techniques
+A friend and I are building an app that pools data from job seekers and publicly announces the results to help job seekers identify effective job seeking techniques. An example of a data set I could announce:
+
+Placement-to-applicant ratios by company
+
+It feels good to finally be incorporated, have a [website](https://www.statsenpai.com/), and start running some tests.
+
+If you are a job seeker or may be a job seeker in the future, I want your feedback. Here are some ways you could help me out:
+
+1. Take my [first survey](https://www.statsenpai.com/blog) about mobile use while job seeking. 
+
+2. Sign up for my [mailing list](https://www.statsenpai.com/) to get notified when I have data or other relevant announcements to help in your job search.
+
+3. Tell other job seekers and future job seekers about [my site](https://www.statsenpai.com/).
+
+4. Tell me about your ideas and/or job seeking gripes by [email](mailto://alma@statsenpai.com), or by responding to my message.

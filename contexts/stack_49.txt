@@ -1,0 +1,1 @@
+Can macOS operate/output video at 144 Hz screen refresh rate? I am planning to invest in an external 144 Hz display for smooth game developments, now as far as I know macOS outputs video at 60 Hz so if I buy an 144 Hz external display will my MacBook be able to output video/operate at 144 Hz screen refresh rate?

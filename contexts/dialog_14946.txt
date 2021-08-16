@@ -1,0 +1,19 @@
+GRANT: Eric, your parents are both here.
+ERIC: In Costa Rica?
+GRANT: On the island.
+ERIC: They'll never make it. I mean, they can't manage when the cable goes out.
+GRANT: You'd be surprised what people can do when they have too.
+ERIC: You're Alan Grant, aren't you? I read both of your books.
+GRANT: Which one do you prefer?
+ERIC: The first one. Before you where on the island. You liked dinosaurs back then.
+GRANT: Back then, they hadn't tried to eat me.
+ERIC: When InGen cleared out, they left a lot of stuff behind.
+GRANT: Any weapons, radios?
+ERIC: Found this, but the battery's dead.
+GRANT: It's a wonder you aren't. I'm amazed, Eric. I barely lasted 30 hours. You lasted eight weeks.
+ERIC: Is that all it's been? I thought it was longer.
+GRANT: The important thing is we both made it. That's something we have in common.
+GRANT: Did you read Malcolm's book?
+ERIC: Yeah.
+GRANT: What did you think?
+ERIC: I dunno. I mean, it was kind of preachy. Chaos-this, chaos-that. And like, to me, the guy seemed kind of high on himself.

@@ -1,0 +1,3 @@
+PILOT: Tower. Wolf One. I've got a problem here.
+TOWER: Say your problem, Wolf One. Are you declaring an emergency?
+PILOT: Stand by. One.

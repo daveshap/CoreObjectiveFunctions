@@ -1,0 +1,4 @@
+FROCK: Something tried to get into this room!
+PENDERGAST: And failed. These doors are solid steel.
+FROCK: This means there must be an animal loose in the museum!
+PENDERGAST: I wouldn't be so sure.

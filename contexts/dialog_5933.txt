@@ -1,0 +1,14 @@
+FUZZY: Is *your* father dead?
+LARCH: Cirrhosis--it's a disease of the liver.
+FUZZY: *Liver* killed him?
+LARCH: *Alcohol* killed him--he drank himself to death.
+FUZZY: But did you know him?
+LARCH: Barely. It hardly mattered that I knew him.
+FUZZY: Did you know your mother better?
+LARCH: She's dead now, too. She was a nanny.
+FUZZY: What's a nanny do?
+LARCH: She looks after other people's children.
+FUZZY: Did you grow up around here?
+LARCH: No. She was an immigrant.
+FUZZY: What's an immigrant?
+LARCH: Someone not from Maine.

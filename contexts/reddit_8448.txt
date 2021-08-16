@@ -1,0 +1,116 @@
+Does President Trump's international business empire cause conflict with the Emoluments Clause of the US Constitution?
+-----
+
+**Introduction:**
+
+-----
+
+I am a lawyer with an interest in Constitutional Law, but I practice Family Law and therefore may not have the absolute best grasp of the interpretation of Constitutional Law.
+
+Moreover, the Emoluments Clause is somewhat obscure, not often covered or taught in law school, and not often discussed in my area of law other than theoretically.
+
+I am posting to foster discussion on this topic, learn, and better understand how President Trump's business empire interacts with the Emoluments Clause of the US Constitution.
+
+-----
+
+**Sources:**
+
+-----
+
+The information I have gathered purporting a violation of the Emoluments Clause is best summed up in [this](https://www.brookings.edu/wp-content/uploads/2016/12/gs_121616_emoluments-clause1.pdf) paper. 
+
+The authors are;
+
+- [Normal L. Eisen](https://en.wikipedia.org/wiki/Norman_L._Eisen), the chief White House ethics lawyer from 2009-2011.
+
+- [Richard W. Painter](https://en.wikipedia.org/wiki/Richard_Painter), the chieft White House ethics lawyer from 2005-2007.
+
+- [Laurence H. Tribe](https://en.wikipedia.org/wiki/Laurence_Tribe), Professor of Constitutional law at Harvard University.
+
+-----
+
+The information I have gathered purporting there is no violation of the Emoluments Clause is best summed up in [this](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2902391) paper.
+
+The author is;
+
+- [Andy S. Grewal](http://www.fed-soc.org/experts/detail/andy-grewal) Associate Professor at the University of Iowa College of Law
+
+-----
+
+**Summary:**
+
+-----
+
+I implore you to read both papers in their entirety, but for brevity sake as a brief introduction, or as a refresher after you've read them - here is my understanding of the argument that these papers make.
+
+-----
+
+[Article I, Section 9](http://www.heritage.org/constitution/#!/articles/1/essays/68/emoluments-clause) of the Constitution provides as follows: “No Title of Nobility shall be granted by the United States: And **no Person holding any Office** of Profit or Trust under them, **shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.”**
+
+-----
+
+Violation?
+
+-----
+
+The Eisen paper argues for a broad interpretation of the clause, stating **"...the Clause unquestionably reaches any situation in which a federal officeholder receives money, items of value, or services from a foreign state.**
+
+The Eisen paper concludes that **While holding office, Mr. Trump will receive—by virtue of his continued interest in the Trump Organization and his stake in hundreds of other entities—a steady stream of monetary and other benefits from foreign powers and their agents.** Applied to Mr. Trump’s diverse dealings, **the text and purpose of the Emoluments Clause speak as one: this cannot be allowed.**  
+
+-----
+
+No Violation?
+
+-----
+
+The Grewal paper argues for a narrower interpretation, stating that **"...Only transactions conducted at other than arm’s length, or transactions involving the provision of services by the President personally, establish potential violations."**
+
+Under an office-related definition, the sale of goods generally would not give to emoluments, such as where she sold property at an arm’s length price to a foreign government. Under this reading, only goods sold at other than fair market value would trigger an Emoluments analysis.
+
+-----
+
+**Specific Instances of Potential Foul Play:**
+
+-----
+
+*Taken directly from the Eisen paper paper;*
+
+-----
+
+- Mere weeks before Mr. Trump spoke by phone with the President of Taiwan, dramatically altering American foreign policy, a businesswoman claiming to be associated with Mr. Trump’s conglomerate arrived in Taiwan and made inquiries about major new investments in luxury hotels.
+
+> Source;  Nicola Smith, Trump’s Taiwan Phone Call Preceded by Hotel Development Inquiry, The Guardian (Dec. 3, 2016)
+
+- Shortly before the election, President Duterte of the Philippines named Jose E.B. Antonio, a business partner of Mr. Trump and founder of a company behind Trump Tower Manila, as a special envoy to the United States.
+
+> Source;  Iris Gonzales, Trump Business Partner in Philippines Named Special Envoy to US, The Philippine Star (Nov. 8, 2016) 
+
+- After Mr. Trump spoke of banning Muslim immigrants, President Erdoğan of Turkey demanded that Mr. Trump’s name be removed from Trump Towers in Istanbul; but that demand abruptly ceased after Mr. Trump defended President Erdoğan’s brutal crackdown on Turkish dissidents. Indeed, while running for President, Mr. Trump openly admitted during a radio interview that “I have a little conflict of interest because I have a major, major building in Istanbul.”
+
+> Source;  Paddock et al., Potential Conflicts
+
+- The Industrial and Commercial Bank of China—owned by the People’s Republic of China—is the single largest tenant in Trump Tower. Its valuable lease will expire, and thus come up for re-negotiation, during Mr. Trump’s presidency.
+
+> Source;  Lipton & Craig, Trump’s Far-Flung Holdings; Caleb Melby, Stephanie Baker & Ben Brody, When Chinese Bank’s Trump Lease Ends, Potential Conflict Begins, Bloomberg (Nov. 28, 2016) 
+
+- Even as debates rage over American/Russian relations and Russian cyberattacks on U.S. interests and even on the recent presidential election, it has been reported that Russian financiers play a significant (albeit concealed) role in Mr. Trump’s organization.
+
+> Source;  Darren Samuelsohn, Trump’s Vast Web of Conflicts: A User’s Guide, Politico (Nov. 16, 2016) 
+
+- Mr. Trump’s businesses owe hundreds of millions to Deutsche Bank, which is currently negotiating a multi-billion-dollar settlement with the U.S. Department of Justice, a settlement that will now be overseen by an Attorney General and many other appointees selected by and serving at the pleasure of Mr. Trump.
+
+> Source;  Ibid; Jackie Northam, Trump’s Loans From Troubled German Bank Pose Conflict of Interest, NPR (Dec. 1, 2016); Drew Harwell, Trump’s unusual conflict: Millions in debts to German bank now facing federal fines, Washington Post (Sept. 30, 2016).
+
+-----
+
+**Discussion Outline:**
+
+-----
+
+I'd like to refrain from discussing the penalties for violating the Emoluments Clause, how important you think the Emoluments Clause is in relation to other issues, or whether or not you think violating the Emoluments Clause matters.
+
+The main points I'd like to discuss have to do with the text and interpretation of the Emoluments Clause as applied to President Trump's international business presence and whether or not it has been or is being violated.
+
+Another interesting point of discussion is how most Presidents have used a "blind trust" to circumvent problems regarding the Emoluments Clause - in which you place pre-Presidential personal holdings in a trust and give complete control to an independent third party - and how President Trump's discussion of "[giving control to his son](http://money.cnn.com/2017/01/11/news/trump-business-conflicts-plan/)" may or may not cure the defect or satisfy the blind trust requirements of an independent third party.
+
+Last, I would like to discuss which interpretation of the Emoluments Clause is better to achieve the goal of anti-corruption from foreign powers, and which of the enumerated specific instances you believe either do or no not violate one or both interpretations of the Emoluments Clause.

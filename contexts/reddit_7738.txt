@@ -1,0 +1,11 @@
+What sections should a good graduate CV have?
+In my current CV, I have the following sections:
+
+**Profile**: Short personal description
+**Awards and Responsibilities**: roles of responsibility and certificates
+**Attributes and Interests**: Specific hardware skills, software skills, etc.
+**Education**: Level of qualification, date, title, location. 
+**Work Experience**: list of work experience with descriptions and dates.
+**References**: contact details of referees 
+
+This covers 2 pages. What would you add or remove?

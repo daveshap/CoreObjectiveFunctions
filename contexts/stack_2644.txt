@@ -1,0 +1,1 @@
+r.mapcalculator I am using QGIS 2.18.25. I'm struggling to use r.mapcalc to calculate the ndvi for a workbook project. R.mapcalculator is shown on the workbook I'm using and seems simpler to use. Is there a plug-in to load this onto my version or a more user friendly GRASS tool in the version I'm using

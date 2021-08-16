@@ -1,0 +1,15 @@
+STANDARD: Activate lifter quads.
+BROUSSARD: Activated. Vertical drop checked. Correcting course. On tangential course now, orbiting. Crossing the terminator. Entering night side.
+ROBY: Atmospheric turbulence. Dust storm.
+STANDARD: Turn on navigation lights.
+BROUSSARD: Approaching point of origin. Closing at 20 kilometers, 15 and slowing. Ten. Five. Gentlemen, we are directly above the source of the transmission.
+STANDARD: What's the terrain down there?
+BROUSSARD: Well, line of sight is impossible due to dust. Radar gives me noise. Sonar gives me noise. Infrared -- noise. Let's try ultraviolet. There. Flat. It's totally flat. A plain.
+STANDARD: Is it solid?
+BROUSSARD: It's... basalt. Rock.
+STANDARD: Then take her down.
+BROUSSARD: Drop begins... now! Fifteen kilometers and dropping... twelve... ten... eight and slowing. Five. Three. Two. One kilometer and slowing. Lock tractor beams.
+ROBY: Locked.
+BROUSSARD: Kill drive engines.
+ROBY: Engines off.
+BROUSSARD: Nine hundred meters and dropping. 800. 700. Hang on gentlemen.

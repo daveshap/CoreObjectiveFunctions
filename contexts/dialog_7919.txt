@@ -1,0 +1,14 @@
+ED: Hello.
+KATHY: Hello. You're sleeping in a tuxedo.
+ED: I got married last night.
+KATHY: Oh. Congratulations.
+ED: The marriage already ended.
+KATHY: Oh. My condolences.
+ED: What are you making?
+KATHY: Booties for my father. He gets cold in this hospital.
+ED: How long's he been here?
+KATHY: This is my thirteenth pair.
+ED: Excuse me. Doctor? I'm with Mr. Lugosi. How is he?
+DOCTOR: Well... there's a lot of junk in his system for such an old man. Apparently, he was addicted to morphine, tried to kick it, and got re-addicted to methadone.
+ED: Will he be okay?
+DOCTOR: We'll do our best.

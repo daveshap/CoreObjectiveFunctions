@@ -1,0 +1,18 @@
+BRIDGEKEEPER: Who approaches the Bridge of Death Must answer me These questions three! Ere the other side he see.
+LAUNCELOT: Ask me the questions, Bridgekeeper. I am not afraid.
+BRIDGEKEEPER: What is your name?
+LAUNCELOT: My name is Sir Launcelot.
+BRIDGEKEEPER: What is your quest?
+LAUNCELOT: To find the Holy Grail.
+BRIDGEKEEPER: What is your favorite colour?
+LAUNCELOT: Blue.
+BRIDGEKEEPER: Right. Off you go.
+ROBIN: That's easy!
+BRIDGEKEEPER: Stop! Who approacheth the Bridge of Death Must answer me These questions three! Ere the other side he see!
+ROBIN: Ask me the questions, Bridgekeeper. I am not afraid.
+BRIDGEKEEPER: What is your name?
+ROBIN: My name is Sir Robin of Camelot!
+BRIDGEKEEPER: What is your quest?
+ROBIN: To seek the Grail!
+BRIDGEKEEPER: What is the capital of Assyria?
+ROBIN: I don't know that!

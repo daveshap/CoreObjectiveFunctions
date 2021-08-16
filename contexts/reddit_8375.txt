@@ -1,0 +1,22 @@
+The ACA/Obamacare and the GOP's alternatives
+With the senate voting yesterday to introduce a resolution that could begin the repeal of the ACA, it'd be good to discuss the benefits, costs, and effectiveness of the ACA as compared to alternative proposals, while recognizing the GOP has not formally coalesced around one single plan. 
+
+The [ACA](https://www.hhs.gov/healthcare/about-the-law/) was created to control healthcare costs by expanding insurance coverage (through Medicaid expansion and the individual mandate + insurance marketplace), and to tie healthcare costs to patient outcomes by changing how Medicare pays doctors. 
+
+Its [provisions include](http://kff.org/health-reform/fact-sheet/summary-of-the-affordable-care-act/): limits on age rating, pre-existing condition protection, staying on parents' policies up to age 26, cost-sharing subsidies, and contraceptive coverage. Congress can repeal the following provisions through budget reconciliation: medicaid expansion, premium subsidies, and the employer and individual mandates. This is where most Congressional Republican replacement proposals have focused their efforts. 
+
+The current front-runners for GOP replacements appear to be:
+
+* Paul Ryan's [A Better Way](https://abetterway.speaker.gov/_assets/pdf/ABetterWay-HealthCare-PolicyPaper.pdf) 
+
+* Orrin Hatch's [Patient CARE Act](http://www.finance.senate.gov/imo/media/doc/The%20Patient%20Choice,%20Affordability,%20Responsibility,%20and%20Empowerment%20Act.pdf)
+
+* Tom Price's [Empowering Patients First Act](http://tomprice.house.gov/sites/tomprice.house.gov/files/HR%202300%20Empowering%20Patients%20First%20Act%202015.pdf)
+
+Some common components of these plans include re-regulating the individual market to make premiums cheaper for younger individuals (by offering less benefits) and more expensive for older ones, protecting pre-existing conditions if continuous coverage is maintained, offering high-risk pools as a safety-net, changing Medicaid funding, and capping the tax-exclusion for insurance through employers.
+
+1) How effective might the elements of these plans be with regards to creating affordable premiums, encouraging insurance companies to offer competitive plans, and reducing the underinsure population? 
+
+2) If similar plans have been tried before anywhere, what were their outcomes? 
+
+3) If these measures aren't effective at increasing coverage and reducing costs, what policy changes would be? (irrespective of their feasibility in the current political climate)

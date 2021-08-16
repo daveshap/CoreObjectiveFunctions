@@ -1,0 +1,6 @@
+PLISSKEN: She's in the green.
+MALLOY: Lock fuel rods.
+PLISSKEN: Locked.
+MALLOY: Nuclear turbine to 75% power.
+PLISSKEN: 75% power.
+MALLOY: Hands on switches and counting. 5...4...3...2...1. Launch.

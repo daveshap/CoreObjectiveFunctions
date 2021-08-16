@@ -1,0 +1,1 @@
+Which driver should I use for my RX 560 for gaming? I just installed 17.10 on my machine with a X4 950 (A320 chipset) and RX 560. According to the \"additional drivers\" tab none are in use and the only available option pertains to AMD CPUs, not GPUs. How do I get best performance?

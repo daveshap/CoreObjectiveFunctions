@@ -1,0 +1,19 @@
+GABE: Remember, keep your arms and legs within the vehicle at all times--
+HAL: Hey, fuck you.
+GABE: Sarah, tonight why don't you and Hal come over for dinner?
+SARAH: Okay--I don't know about this.
+JESSIE: The winds are picking up.
+GABE: On my way. Alright Sarah, are you ready for the best ride in the park?
+SARAH: Please, can I think about this for a minute...Okay, I'm sorry, it's fine. What do you want me to do?
+GABE: Just keep lookin' at me and only think about the distance <u>across</u>. Count it as you go: One, two...by eight you'll be there.
+SARAH: Can I count as fast as I like?
+GABE: Sure you can.
+SARAH: I'm sorry for all the trouble... Thank you.
+GABE: There you go.
+SARAH: One...
+SARAH: Two...
+GABE: That's it, you look like a professional.
+SARAH: Three...
+SARAH: Four...five...
+GABE: Nice and easy...
+SARAH: Six...

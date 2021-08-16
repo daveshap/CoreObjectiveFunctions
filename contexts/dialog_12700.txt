@@ -1,0 +1,7 @@
+MOTHER: Ah Steven, it is good to see you.
+TRAVELLER: I only just heard of Conor. I came up from Catroch as soon as I could.
+MOTHER: You're a kind man to be sure.
+TRAVELLER: I thought it only proper to pay me last respects to the family.
+MOTHER: Steven, Conor didn't die.
+TRAVELLER: But I had heard his wounds were mortal.
+MOTHER: They were Steven, they were. It's been a miracle it has. He lasted right through and healed. No one in the village has ever seen anything like it. Ever.

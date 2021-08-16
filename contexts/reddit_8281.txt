@@ -1,0 +1,145 @@
+NeutralPolitics Super Tuesday Megathread
+Welcome to the biggest night of the primary season: Super Tuesday.  Today, 14 states as well as American Samoa^1 will be voting in primary elections to allocate delegates to the Democratic National Convention.^2
+
+* **How are the delegates are awarded?**
+
+ The key number to keep in mind when looking at results is **15%.**  If a candidate is [above 15%](https://www.270towin.com/content/thresholds-for-delegate-allocation-2020-democratic-primary-and-caucus) in a state or congressional district, the candidate gets delegates proportional to their vote.  If you're below 15%, [you get nothing.](https://www.youtube.com/watch?v=M5QGkOGZubQ)
+
+ States award generally 1/3 of delegates statewide, and the other 2/3 by congressional district, with more delegates allocated to districts [that have voted more democratic in past Presidential elections.](https://www.thegreenpapers.com/P20/D-Alloc.phtml)^3  So if a candidate is just below the 15% bubble statewide, they still might get a few delegates from individual congressional districts where they broke 15%.  
+
+* **How many delegates are at stake tonight?**
+
+ [There are 1357 delegates up for grabs,](https://www.nytimes.com/interactive/2020/03/02/us/politics/2020-super-tuesday-states.html) out of a total of [3979 total.](https://www.270towin.com/2020-democratic-nomination)  1991 delegates are needed to win the nomination.  
+
+ Today is a much bigger delegate haul up for grabs than in [2016](https://en.wikipedia.org/wiki/2016_Democratic_Party_presidential_primaries#March_1,_2016:_Super_Tuesday) largely because California moved its primary to today.  As both the most populous state and a Democratic stronghold, it has huge delegate numbers, 415, accounting for more than 1/10 of the entire number of delegates available.
+
+* **When will we know results?**
+
+ It will vary, with the first polls closing at [7PM ET in Virginia, and the last polls closing at 11PM ET in California.](https://www.vox.com/2020/3/3/21161503/super-tuesday-voting-polls-results-what-time)
+
+ However, some results may take quite a while.  California especially is both the biggest haul today, and [famously slow](https://www.npr.org/2020/03/01/809941998/on-super-tuesday-dont-expect-quick-election-results-from-the-west) in counting ballots.  Because California encourages a lot of mail voting, and counts ballots mailed on election day, they won't have all the ballots in today, and will need to process a lot of envelopes.
+
+* **Who is gonna win?**
+
+ Who do I look like, Nate Silver?
+
+* **Where can I see results?**
+
+ * [Washington Post results page](https://www.washingtonpost.com/elections/election-results/super-tuesday/?itid=hp_hp-bignews4_results-promo-2%3Ahomepage%2Fstory-ans)
+
+ * [CNN results page](https://www.cnn.com/election/2020/primaries-and-caucuses)
+
+ * [Fox News results page](https://www.foxnews.com/elections/2020/primary-results)
+  
+ * [Decision Desk HQ](https://results.decisiondeskhq.com/2020/super_tuesday) (signup required)
+
+ * [PBS Newshour election night coverage](https://www.youtube.com/watch?v=KU5JFZFqR_s)
+
+ * The New York Times [has 14 needles.](https://www.nytimes.com/interactive/2020/03/03/us/elections/forecast-super-tuesday-primary.html?action=click&module=ELEX_results&pgtype=Interactive&region=Navigation)
+
+I'll add updates as the night goes on, but first I shall engage in my election night tradition: sushi.
+
+Before results come in, feel free to ask any questions you think I can address above, or answer my question:
+
+Besides voting, what election day traditions or habits do you have?
+
+**7:00PM ET** First polls have closed, and networks are calling Virginia for Biden and Vermont for Sanders at poll closing.
+
+**7:07PM ET** Looks like the VA call is based on Biden doing _very_ well in the exit poll, which [has him around 50% to Bernie's 25%,](https://www.nbcnews.com/politics/2020-primary-elections/virginia-results?icid=election_nav) with all other candidates apparently below the viability threshold.  If that held (very big if) it would mean about 66 delegates to Biden, 33 to Bernie, 0 to anyone else. 
+
+**7:30PM ET** Polls have closed in North Carolina, and networks are calling it for Biden at polls close based on the exit poll.
+
+**7:37PM ET** American Samoa has reported [the results](https://www.nbcnews.com/politics/2020-primary-elections/american-samoa-results?icid=election_nav) of its caucus, which looks like it will give Mike Bloomberg and Tulsi Gabbard their first delegates of the process.  Looks like it'll be 4 delegates for Bloomberg on 175 votes and, 2 for Gabbard on 103 votes.
+
+**7:58PM ET** Looks like Biden will break the 15% threshold in Vermont, so he will get some delegates there.  In 2016 Sanders managed to keep Clinton below that threshold and got all of Vermont's delegates that year.
+
+**8:00PM ET**  Alabama called for Biden at polls closed, no calls in other states closing at 8pm.
+
+**8:10PM ET** Looks like a genuine three way contest for first in MA based on exit polls among Warren, Sanders, and Biden. 
+
+**8:23PM ET** Seeing some results in TX showing a close race, but I think that's early vote, so it might move a lot as we get today's vote in if trends in late deciders from VA/NC/AL hold into TX.
+
+**8:26PM ET** For those who are election turbonerds like me, the DecisionDeskHQ people use some different methods from most of the networks to get results numbers, and are usually a good bit faster at reporting.  So if you're the kinda person who need their results now, it may be worth dealing with their signup.
+
+**8:30PM ET** Arkansas polls closed, no call at polls close.
+
+**8:37PM ET**  Looks like outside of MA, Warren is struggling to hit the 15% threshold in many states, so she'll probably be looking at a quite small delegate haul out of tonight, unless she does surprisingly well in CA.  She might get a few congressional district delegates still in other states, or results may change, but being below 15% statewide is a big loss in delegate terms.
+
+Bloomberg is also shy of the mark in a few states so far.  Looks like he'll miss in VA, VT, and MA.  So far looks like he'll make it in states that have closed so far, but if that's early vote reports, he might fall on election day totals.
+
+**8:47PM ET** With about 90% of results in from Virginia, NYT is allocating about 67 delegates to Biden, 31 delegates to Sanders, 1 to Warren.
+
+**9:00PM ET** Texas, Minnesota, and Colorado polls close.  No calls at closing.
+
+**9:03PM ET** Biden is expanding his lead in NC as same day vote comes in, with Bloomberg falling and possibly on track to end up below the threshold.
+
+**9:11PM ET** Looks like networks are calling TN for Biden.  Seems that Biden, Sanders, and Bloomberg will all make the threshold there.
+
+**9:17PM ET** More calls: OK for Biden, CO for Sanders.
+
+**9:31PM ET**  MA is looking likely Biden, Sanders 2nd, Warren actually close to the threshold in her home state.  Fairly disastrous for Warren.
+
+**9:37PM ET** Gonna take a moment to recognize the recently departed-from-the-race Amy Klobuchar for [the best walk on music of the campaign.](https://www.youtube.com/watch?v=lhX06ovfnas)
+
+**9:42PM ET**  As I said above, the 15% threshold matters a ton.  Looking at who's currently on track to make/miss it, with the proviso that this could change (and using DDHQ numbers)
+
+* Biden: Gonna make it everywhere
+* Sanders: In some danger of missing it in AL, but safe everywhere else.
+* Bloomberg: Won't make it in VT or VA.  Very likely won't make it in ME, MA, AL or MN. more likely than not to miss it it in OK and TN.  In danger if late returns are bad for him in TN and TX.  Likely safe in AR.  Certain to make it in CO.
+* Warren: Won't make it in most states.  Has a good shot of making it in ME, MN, and CO.  Almost certain to make it in MA.
+
+None of these include California because polls are still open there.
+
+**9:50PM ET**  NBC News reports that Bloomberg will ["reassess"](https://twitter.com/JesseRodriguez/status/1235028685717045248) his campaign tomorrow.
+
+**9:56PM ET** Some, but not all, networks calling AR and MN for Biden.
+
+**10:11PM ET**  Polls closed in Utah at 10PM.  Sanders holds a susbtantial lead there in early returns.
+
+**10:14PM ET**  Update on who's hitting the 15% threshold.  Sanders looks safer to make it in Alabama, meaning he would get at least some delegates everywhere.  Bloomberg has fallen below threshold in Oklahoma and North Carolina, still teetering above it in Tennessee.
+
+**10:31PM ET** DDHQ (but nobody else I can see) is calling MA for Biden.  If that holds, that's an extremely good sign for him.  This is really about as good of a Super Tuesday as Biden could have asked for so far.  Though California is still not even polls closed, and that is the big prize of the night.
+
+**10:35PM ET** Utah has been called for Sanders.
+
+**10:52PM ET** Reports are that in many precincts in California and Texas, long lines are going to delay vote results, and of course those lines reflect a substantial failure of election officials to do their job and operate an efficient election.
+
+**11:00PM ET** Polls are now closed in California, though many voters remain in line.  If you are in line to vote, stay in line and you will be able to vote.
+
+**11:03PM ET** AP is calling California for Sanders at polls close.  I find that a bit surprising, but I assume they have some good reasons for doing so.
+
+**11:04PM ET** Other networks are not calling California.  I am really surprised by the AP call on zero results, especially in a heavily mail-vote state which is infamously slow to count.  I think Sanders is more likely than not to win CA (it's a strong state for him generally, and heavy early vote helps him).  But with the big late movement to Biden I'd want to get some real votes in to make that call.
+
+**11:09PM ET** OK, I assume AP is making the call based on the exit poll, which as of 6:30PM ET had [Bernie around 38 and Biden around 23.](https://www.nbcnews.com/politics/2020-primary-elections/california-results?icid=election_nav)  That's aggressive, but if it represents same day voters even close to accurately, I can see being comfortable with the call.  But I'd still hold off on a call.
+
+**11:19PM ET** Gonna make a threshold chart to show where candidates are making/missing it.  
+
+Legend:  Bold is made the threshold.  Italic is missed the threshold.  Standard is uncertain.
+
+* Biden: **ME, VT, MA, VA, NC, TN, AL, AR, OK, TX, CO, UT, MN, CA**
+
+* Sanders: **ME, VT, MA, VA, NC, TN,** AL, **AR, OK, TX, CO, UT, MN, CA**
+
+* Bloomberg: *ME, VT, MA, VA, NC,* **TN,** *AL,* AR, *OK,* TX, **CO, UT,** *MN,* CA
+
+* Warren: ME, *VT,* **MA,** *VA, NC, TN, AL, AR, OK, TX,* **CO, UT,** MN, *CA*
+
+**11:32PM ET** It looks like Texas will be very close between Biden and Sanders.  Given proportional allocation, it actually doesn't matter that much who ekes out a win if they're within a point of each other, though it may matter for narrative.  Much bigger is the question of whether Mike Bloomberg holds on to enough vote to crack 15% and swipe a share of delegates.  Currently he is at 18.19% which might hold him through what's been a consistent drop in day-of results for him today, but maybe not.  With it now looking like Biden would have the only path to the nomination with a majority of pledged delegates, whether Bloomberg hits the threshold in Texas could actually make a big difference.  It's probably worth on the order or 25 or so delegates.
+
+**11:55PM ET** Based on early returns not being strong for her in CA, plus her weak performance nationwide in same day vote, I am going to project that Warren does *not* make the threshold in California.  That's a significant boost to Sanders, as it probably means he's consolidated more of the left-wing vote there, and means he has to share fewer delegates out of the only state tonight where he's still got a shot at earning big delegate haul.
+
+**12:02AM ET** With 100% reporting in TN, I can say Mike Bloomberg has made the threshold there.  NYT projects 34 Biden delegates,  21 Sanders, 9 Bloomberg out of TN.
+
+**12:09AM ET** With over 90% reporting in Utah and Colorado (per DDHQ) I am comfortable calling that Warren _will_ make the threshold in those states.  That will cut down the haul Sanders gets out of them, though if Warren eventually drops out and supports Sanders, he would benefit on net from this outcome.  (That is a big "if").
+
+**12:17AM ET** Biden is now on track to win Texas, and probably by a few points.  The delegate math is hard to pencil out because Bloomberg is still dropping on same day results, and flirting with the 15% threshold.  My best guess is Biden nets ~12 delegates if Bloomberg makes the threshold, and nets ~20 delegates if Bloomberg misses it.  Perhaps more importantly, Biden probably gets 20 more delegates in absolute terms if Bloomberg misses the threshold than if he makes it, which helps his prospects for a first ballot win.
+
+**12:28AM ET** I am gonna call the liveblog here because I like sleep.  Overall, this is about as good a Super Tuesday for Biden as he could have asked for.  Sanders is in contention but in trouble.  Warren and Bloomberg do not seem to have any viable path to the nomination.
+
+---
+
+^1 American Samoa had a caucus.
+
+^2 There is also a Republican primary today, but it is not seriously contested.
+
+^3 If they didn't do this, then you'd see districts which are heavily republican get far more delegates per democratic primary voter than heavily democratic districts.

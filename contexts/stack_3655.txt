@@ -1,0 +1,1 @@
+How to analyze and track what data a software sends? How can i track which program sends data over my network and can i see the contents of it?If we have a AV software installed in a VM , can we see what it's sending from your pc when doing a scan?

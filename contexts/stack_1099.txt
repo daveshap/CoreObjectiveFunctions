@@ -1,0 +1,1 @@
+How Mysql Query Plan is generated? Mysql before executing a query with multiple joins. It creates multiple query plan and find the lowest cost plan to execute the query(approx).My questions areHow the query plan is generated on what basis(like no of fields in the where condition for a particular table)Is there any formula(or steps) to generate query plan by ourself

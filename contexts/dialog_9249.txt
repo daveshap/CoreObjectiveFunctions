@@ -1,0 +1,5 @@
+MICHAELS: I'm in charge of this mission! You were instructed to take orders from me, not give them!
+GRANT: Sorry, but the situation has changed.
+MICHAELS: Nothing has changed as far as <my> authority goes! He is <not> going to operate! Not in the little time we have left! There's no chance of success! It's sheer suicide for all of us!
+MICHAELS: Dr. Duval, you are not going through with this! I absolutely forbid it! I'm responsible for the lives of everyone here! I will not allow you or anyone else to leave this ship!
+DUVAL: I'm going to do what I can to save Benes.

@@ -1,0 +1,8 @@
+It seems as though Senate Republicans just suspend the rules about suspending committee rules. Is that what actually happened?
+And if so, what's the larger framework for making that possible?  Here's where they [suspended the rules](http://www.cnn.com/2017/02/01/politics/republicans-vote-to-suspend-committee-rules-advance-mnuchin-price-nominations/index.html?adkey=bn).  This seems to be the [rule about suspending the rules](http://www.rules.senate.gov/public/index.cfm?p=RuleV).  
+
+The language I'm curious about is in bold.  
+
+"1. No motion to suspend, modify, or amend any rule, or any part thereof, shall be in order, **except on one day's notice in writing, specifying precisely the rule or part proposed to be suspended**, modified, or amended, and the purpose thereof. Any rule may be suspended without notice by the **unanimous consent of the Senate**, except as otherwise provided by the rules."
+
+Was 1 day written notice provided? and if so, to and from whom?  Was there unanimous consent of the (entire?) Senate?

@@ -1,0 +1,4 @@
+ATTENDANT: ...Mind if I hold that Bible?
+EARLY: What do you need a Bible for?
+EARLY: You think I'm goin' to kill you. Well that'd make me a liar then wouldn't it?
+ATTENDANT: No sir.

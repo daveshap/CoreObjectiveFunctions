@@ -1,0 +1,1 @@
+Geocoding sensitive addresses without API I have a large set of sensitive addresses that I need to Geocode on a server.  I cannot send them to an external API due to HIPAA restrictions.  Ideally I'd love to use an open source solution, even if it is not perfect.  Any ideas?

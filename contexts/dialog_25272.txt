@@ -1,0 +1,12 @@
+FBI AGENT: All right, Commander, you wanna tell us anything?
+CHEKOV: Like what?
+FBI AGENT: Like who you really are and what you're doing here and what this thing is.
+CHEKOV: My name is Pavel Chekov. I am a Lt. Commander in Starfleet, United Federation of Planets, service number 656-5827b.
+FBI AGENT: All right. Let's take it from the top.
+CHEKOV: The top of what?
+FBI AGENT: Name?
+CHEKOV: My name?
+FBI AGENT: No, <u>my</u> name.
+CHEKOV: I do not know your name.
+FBI AGENT: You play games with me and you're through
+CHEKOV: I am? May I go now?

@@ -1,0 +1,1 @@
+What is the importance of fuzzing? I\u2019ve heard a lot about fuzzing website parameters with programs like OWASP-zap but what is the importance of it? A simple active scan finds vulnerabilities in a website such as XSS. So why do we need the fuzzer? If someone could shed some light on this that would be amazing! I\u2019m new to website hacking.

@@ -1,0 +1,12 @@
+Is there evidence suggesting the most effective set of policies for the use of police body cameras?
+The United States is three years into the spike in adoption of police body cameras and [studies show some unexpected results.](https://www.csmonitor.com/USA/Justice/2019/0809/The-body-cam-revolution-What-it-has-and-hasn-t-accomplished) 
+
+Rather than focus on the use of the cameras themselves, I'm really curious about the specific policies related to their use, because they [vary greatly from state to state,](https://apps.urban.org/features/body-camera-update/) which should provide us with some data about what works and what doesn't, but I'm not able to find anything.
+
+Some of the [ways in which the policies vary](https://www.brennancenter.org/body-cam-city-map) are the time non-evidentiary video is kept; limits on recording victims, witnesses, or private situations; and whether an officer may view video before making report or statement.
+
+One of the biggest issues is how and when the footage should be released. According to the [National Conference of State Legislatures](http://www.ncsl.org/research/civil-and-criminal-justice/body-worn-cameras-interactive-graphic.aspx#/), laws in some states treat body camera recordings as public records, but provide standards and many caveats for when police may withhold, redact or obscure certain videos. Laws in other states exclude body-worn camera footage from open record requests, but provide several exceptions that enable access to videos by specific persons or for specific situations.
+
+The goal of these provisions is to be transparent in law enforcement without unnecessarily infringing on privacy, because many [crime victims and witnesses who cooperate with police, as well as peaceful protestors, do not want to be filmed.](https://www.aclu.org/other/police-body-mounted-cameras-right-policies-place-win-all) This also affects the decision to make such recordings continuous or allow officers to turn the cameras on and off, which is [another issue of hot debate.](https://www.ibtimes.com/what-happens-when-police-turn-their-body-cameras-2050118)
+
+So, is there evidence that any particular mix of policies incentivizes better outcomes, such as less police misconduct, better community relations with law enforcement, and more justified prosecutorial decisions? If not, are there studies in progress looking at these issues? The variety of policies in place seems like a nearly ideal situation to examine their effects.

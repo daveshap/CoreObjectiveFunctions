@@ -1,0 +1,1 @@
+How to draw microstrip line in EAGLE? I am trying to connect W3113 antenna to my RFID UHF reader. The datasheet of the reader requires me to use 50 ohm microstrip line. However, I do not find where I can draw microstrip. Is it still the regular routing? If not, how do I draw the microstrip line in EAGLE? Thanks!

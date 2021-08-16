@@ -1,0 +1,19 @@
+MOSELLE: You like to sit down?
+KAREN: Thanks.
+KAREN: I'm looking for a friend of mine I think Maurice knows.
+MOSELLE: You not with probation, one of those?
+KAREN: No.
+MOSELLE: You a lawyer?
+KAREN: No, I'm not. Maybe you know him. Glenn Michaels?
+MOSELLE: Glenn? No, I don't know any Glenn.
+KAREN: He said he stayed here last November.
+MOSELLE: Here? In this house?
+KAREN: He said he stayed with Maurice.
+MOSELLE: Well, <i>he</i> ain't even here that much. I like to know where he goes, but at the same time I don't <i>want</i> to know, you understand?
+KAREN: Your dog was killed?
+MOSELLE: Got run over by a car.
+KAREN: What did you call it?
+MOSELLE: Was a she, name Tuffy.
+KAREN: Where do you think I might find Maurice?
+MOSELLE: I don't know -- the gym, the fights. I <i>know</i> he don't miss the fights. Having some tomorrow night at the State Theater. He use to take me.
+KAREN: The State Theater?

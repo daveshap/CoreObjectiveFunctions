@@ -1,0 +1,10 @@
+What strategies for mitigating planned obsolescence would be viable for the United States?
+[Planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) is the design of a product  with an intentional artificially shortened life time. The goal of this is to reduce the time between repeat purchases of a product from the same manufacturer. One example of such a product would be smartphones, with emphasis on iPhones. 
+
+With the recent Supreme Court case, [Impression v. Landmark](http://www.scotusblog.com/case-files/cases/impression-products-inc-v-lexmark-international-inc/), could be seen as a step towards mitigating planned obsolescence. A Right to Repair could be seen as a [precedent for similar cases](https://www.wired.com/2017/06/impression-v-lexmark/), such as the one involving farmers repairing or modifying their tractors.
+
+
+[France has recently passed a law aimed to mitigate planned obsolescence strategies by manufacturers.](https://www.fastcompany.com/3043252/this-new-french-law-is-designed-to-make-products-easier-to-repair-so-th) This law requires manufacturers to label their products with how long spare parts for that product will be available, and they must repair or replace the product if it breaks within the first two years of purchase.
+
+
+What other strategies have been proposed to reduce planned obsolescence?

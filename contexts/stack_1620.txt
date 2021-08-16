@@ -1,0 +1,1 @@
+How to design and build RF amplifier, that work in 450Khz I have a schematic, that is a sine generator and mixer that does AM  modulation. How to design and build an RF power amplifier and build a compact antenna. The goal is to transmit signal up to 50 meters. So the amplifier should be enough power. I plan to use only fixed frequency, that radiate device, it's about 450Khz.

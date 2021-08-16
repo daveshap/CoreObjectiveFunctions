@@ -1,0 +1,1 @@
+How to create a surface with a slope of 2%? I am working on a project where I have a polygon of a basin that I should create his base whose elevation begins at -1m and go down in every direction with a slope of 2%. Does anyone know how to do it automatically using ArcGIS?

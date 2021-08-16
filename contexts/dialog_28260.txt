@@ -1,0 +1,5 @@
+DOROTA: I'm going to get a doctor.
+MICHAL: You can't, it's too dangerous.
+DOROTA: I'll get Dr Luczak, we can trust him.
+MICHAL: Dorota, don't be ridiculous, he's a pediatrician.
+DOROTA: He's still a doctor.

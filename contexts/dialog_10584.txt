@@ -1,0 +1,6 @@
+SALESMAN: Can I help you?
+DOC: Sure can. I'd like an Invicta 12-gauge pump with the twenty-inch barrel.
+SALESMAN: All right. Shells?
+DOC: Two boxes of double-ought buck.
+SALESMAN: Gonna knock down a wall?
+DOC: Might try that.

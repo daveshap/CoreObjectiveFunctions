@@ -1,0 +1,1 @@
+Recovery menu missing in 18.04LTS I'm trying to drop a root shell for recovery, but after the reboot, I cannot see the recovery menu where I should select the \"Drop root shell\" option.After the secure-boot selection I just prompted for desktop user login. Why? I  a remember  recovery manu in Ubuntu 17.

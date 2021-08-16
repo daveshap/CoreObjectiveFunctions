@@ -1,0 +1,1 @@
+Simulate a USB stick insert I inserted a USB stick on my laptop and it automount the partition.I then did a umount /dev/sdb* to allow me to DD an image to it.Once DD is done, I do sync then physically unplug the USB then plug it back to get the 2 partitions mounted.my question is how can I avoid to physically unplug the USB and plug it back again?

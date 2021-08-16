@@ -1,0 +1,8 @@
+Trouble understanding research papers
+I am a new masters student in my second semester of grad school in electrical and computer engineering. I am having trouble understanding a lot of the research papers I am reading due to:
+1. Not knowing the mathematical notation of a lot of the papers I am reading
+2. Having trouble understanding the actual math due to not having a course in this level abstract or statistical mathematics
+
+A lot of my papers talk about minimizing the L2 norm for exampe and I am trying to find a resource or multiple resources to help me understanding the notation and what is actually being done when the paper is trying to minimize the L2 norm (just an example).
+
+If anyone has any good links or books I should pick up I would greatly apprecaite that.

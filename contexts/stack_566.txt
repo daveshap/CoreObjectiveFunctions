@@ -1,0 +1,1 @@
+Sublime text showing previous version icon When I search for sublime in the \"search your computer\" box, it shows the icon like this:Now when I open the application, the previous sublime text icon is shown as in image here:How do I replace the old icon with the new one?

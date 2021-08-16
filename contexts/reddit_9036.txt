@@ -1,0 +1,6 @@
+How can we hope to build consensus when even mathematical facts are trumped by political bias?
+[This fascinating article](http://grist.org/politics/science-confirms-politics-wrecks-your-ability-to-do-math/) about a recent Yale study does not bode well for the potential to build political consensus between disparate groups.
+
+I highly recommend reading the whole thing, but the gist of it is this: given a math problem relating to the efficacy of a skin cream, people got the answers right according to their individual mathematical ability (numeracy), but given *the same data* relating to the efficacy of gun control laws, people were more likely to answer according to their political beliefs. What's more, respondents with higher numeracy were actually *more* likely to be affected by their bias.
+
+So, if facts don't trump bias, even in those people best equipped to analyze the facts, what hope do we have of producing effective policies? And to get meta, what is the point of this subreddit?

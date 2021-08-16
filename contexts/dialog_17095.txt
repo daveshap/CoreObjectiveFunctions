@@ -1,0 +1,19 @@
+DOLLARHYDE: Are you cold? Would you like a blanket?
+LOUNDS: Was I in an accident?
+DOLLARHYDE: No, Mr. Lounds. You'll be just fine.
+LOUNDS: My back hurts, my skin. Did I get burned? I hope to God I'm not burned.
+DOLLARHYDE: Burned? Burned. No. You just rest there. I'll be right back.
+LOUNDS: Let me lie down. Listen, I want to call my office. My God, I'm in a Stryker frame. My back's broken. Tell me the truth.
+LOUNDS: What am I doing here?
+DOLLARHYDE: Atoning, Mr. Lounds.
+DOLLARHYDE: Do you know who I am, Mr. Lounds?
+LOUNDS: I don't want to know.
+DOLLARHYDE: According to you I'm a sexual failure. An animal, you said. You know now, don't you?
+LOUNDS: Yes.
+DOLLARHYDE: Do you feel privileged?
+LOUNDS: I'm very scared.
+DOLLARHYDE: Do you pray to God, Mr. Lounds?
+LOUNDS: Yes.
+DOLLARHYDE: Do you believe God is in attendance here, Mr. Lounds?
+LOUNDS: I don't know...
+DOLLARHYDE: In a little while I'll help you understand.

@@ -1,0 +1,12 @@
+REYNOLDS: David Reynolds, I'm the Manager here. Sit down, John.
+JACK: Jack.
+REYNOLDS: You've been recommended by the management here. They know your father. He has a bit of a reputation, hasn't he?
+JACK: Has he?
+REYNOLDS: In any case, I understand you've had some previous experience... in South Africa. You'll find the rules a little different here. Before we start, you haven't got a police record, have you?
+JACK: No.
+REYNOLDS: Where did you go to school?
+JACK: I was at Beadles.
+REYNOLDS: I don't think I know that one. Private, I suppose.
+REYNOLDS: There are three types of casino in the U.K. High volume. Small faction. And MOTR. That's middle of the road. Us.
+JACK: Do you have a Salon Prive?
+REYNOLDS: We tried. But there wasn't enough business. The punters like company.

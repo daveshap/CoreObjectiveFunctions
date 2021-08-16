@@ -1,0 +1,1 @@
+If we can say that the probability of finding an electron is 0.9 at point x, how does this tie in with the fact that an electron is a wave? Shouldn't the electron be everywhere because it is a wave? Or am I wrong, an electron is not a wave? It just has an associated wave function that determines where it might be?

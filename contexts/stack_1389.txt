@@ -1,0 +1,1 @@
+Resistor between differential lines In the above diagram of a differential line receiver for an encoder, resistors are place between each line and its inverse. I don't see how this would lower the current of each line, so I assume it has some other purpose.What is the resistor's role in this scenario? Is it at all related to a pull up/down resistor?

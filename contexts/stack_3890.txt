@@ -1,0 +1,1 @@
+Standard Normal Distribution Z value greater than 3.49 in the z-table Our class was given a problem where Z is a standard normal random variable and we have to look for:P(Z&lt;6.0) and P(Z>6.0)I don't know what to do since the value is over the max in the z-table provided to us which is 3.49

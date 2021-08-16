@@ -1,0 +1,18 @@
+How Does President Trump's Invocation of Executive Privilege Today Differ From His Refusal to Invoke Executive Privilege Previously?
+Sorry for the confusing title - for more context:
+
+Today, Donald Trump announced he was asserting executive privilege over the entire Mueller report and the underlying evidence.
+
+[source](https://www.nytimes.com/2019/05/08/us/politics/congress-contempt-barr.html?smtyp=cur&smid=tw-nytpolitics)
+
+> “This is to advise you that the president has asserted executive privilege over the entirety of the subpoenaed materials,” a Justice Department official, Stephen E. Boyd, wrote Wednesday morning, referencing not only the Mueller report but the underlying evidence that House Democrats are seeking.
+
+Previously, after the [Mueller Report](https://www.justice.gov/storage/report.pdf) was published and handed to the Attorney General, the White House was given the opportunity to invoke Executive Privilege with regards to the redacted report.
+
+Donald Trump chose not to.
+
+[source](http://time.com/5571587/white-house-executive-privilege-mueller-report/)
+
+> “Following that review, the President confirmed that, in the interests of transparency and full disclosure to the American people, he would not assert privilege over the Special Counsel’s report,” he said.
+
+So, my basic question here is "Does previously not invoking executive privilege in respect to a public disclosure prevent it being invoked later on?".

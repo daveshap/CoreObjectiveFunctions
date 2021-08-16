@@ -1,0 +1,35 @@
+Do the changing sentencing positions of the US government in the Roger Stone case constitute a violation of US law or DoJ policy?
+Yesterday the Department of Justice filed a [sentencing memorandum](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.279.0_2.pdf) for Roger Stone, who had provided information from WikiLeaks to the Trump campaign during 2016.  Stone was convicted in November 2019 by a jury of obstructing a Congressional investigation, making false statements to Congress, and witness tampering.
+
+In that sentencing memorandum, the DoJ sought a sentence within the range they calculated the US Sentencing Guidelines to suggest of 87 to 108 months (7-9 years).
+
+Stone's attorneys [disputed](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.280.0.pdf) the guidelines calculation made by the government, and believe the guidelines range should be 15-21 months imprisonment.  They also requested a downward departure from that range, seeking only probation without incarceration.
+
+After the sentencing memorandum from the government was filed, President Trump [tweeted](https://twitter.com/realDonaldTrump/status/1227122206783811585) 
+
+>"This is a horrible and very unfair situation. The real crimes were on the other side, as nothing happens to them. Cannot allow this miscarriage of justice!"  
+
+>>@ChuckRossDC  "Prosecutors recommend up to NINE YEARS in prison for Roger Stone. They call foreign election interference a "deadly adversary" even though Stone was never accused of working with Russians or WikiLeaks."
+
+After the President's tweet, news broke that the Department of Justice intended to file a second sentencing memorandum, [overriding the prosecutors who had signed the original sentencing memorandum.](https://www.reuters.com/article/us-usa-trump-russia-stone/in-reversal-justice-department-to-seek-shorter-sentence-for-trump-adviser-stone-idUSKBN2052E5)
+
+After that news breaking, one of the prosecutors who had signed the original sentencing brief [gave notice to the court that he was no longer working on the case, and had resigned as a special assistant US Attorney for the District of Columbia.](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.282.0_5.pdf)  A second prosecutor also [resigned as an Assistant US Attorney](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.283.0_3.pdf) shortly thereafter.
+
+**Edit for subsequent developments.**  The DoJ has filed a ["supplemental and amended"](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.286.0_5.pdf) sentencing memorandum, signed by John Crabb, Jr, who was not one of the attorneys previously on the case.  The supplemental memorandum says:
+
+>The prior filing submitted by the United States on February 10, 2020 (Gov. Sent. Memo.
+ECF No. 279) does not accurately reflect the Department of Justice’s position on what would be
+a reasonable sentence in this matter. While it remains the position of the United States that a
+sentence of incarceration is warranted here, the government respectfully submits that the range of
+87 to 108 months presented as the applicable advisory Guidelines range would not be appropriate
+or serve the interests of justice in this case
+
+A third attorney previously the case, [Adam Jed](https://www.courtlistener.com/recap/gov.uscourts.dcd.203583/gov.uscourts.dcd.203583.285.0_10.pdf) has also withdrawn from the case.
+
+---
+
+My questions are:
+
+1.  If the DoJ changed its position due to the President's tweet, or other pressure from the President, is that lawful?  Does it make a difference that the conduct Stone lied about related to the President's campaign?
+
+2.  Is it in compliance with DoJ guidelines for attorneys, or the rules of professional ethics?

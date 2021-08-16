@@ -1,0 +1,8 @@
+ULLMAN: Jack is going to take care of the Overlook for this winter. I would like you to take him around the place as soon as we are through.
+WATSON: Fine.
+ULLMAN: Jack is a schoolteacher.
+JACK: Eh - formerly a school-teacher.
+WATSON: What line of work are you in now?
+JACK: I'm a writer um... Teaching has been more or less a way of making ends meet.
+WATSON: Well this ought to be quite a change for you.
+JACK: Well, I'm looking for a change.

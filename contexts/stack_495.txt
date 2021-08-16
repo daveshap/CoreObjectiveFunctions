@@ -1,0 +1,1 @@
+Trying to install ubuntu 16 on new PC - 2.5 hours already? I just bought Intel i5-7500 with 8GB ram and 1TB disk and installing Ubuntu trough USB stick.It already passed the 2.5 hours mark and still telling me, it downloads packages. I already chose the media packages to download without the updates.Should it take so long to install? I also see Skip button, Should I skip it?

@@ -1,0 +1,7 @@
+DIRECTORY ENQUIRIES OPERATOR: Directory enquiries. Can I help you?
+LOMBARD: Yes. I’m trying to reach a friend but I can’t get through. The number is 01766 770 471.
+DIRECTORY ENQUIRIES OPERATOR: 01766 770 471. Let me check it for you, sir.
+DIRECTORY ENQUIRIES OPERATOR: There’s nothing wrong with the line, sir. Are you sure you have the right number? 770 471 is the number of a call box.
+LOMBARD: A call box? That’s odd. Where exactly?
+DIRECTORY ENQUIRIES OPERATOR: Penrhyndeudraeth, North Wales.
+LOMBARD: Can you tell me how you spell...

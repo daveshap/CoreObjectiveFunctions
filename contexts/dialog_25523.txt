@@ -1,0 +1,7 @@
+PICARD: A weapon.
+DATA: It would appear so.
+DATA: Geordi equipped me with the prototype for the Emergency Transport Unit. I recommend you use it to return to the Enterprise.
+PICARD: It'll only work for one of us.
+DATA: Yes, sir.
+PICARD: We'll find a way off together. Recommendations?
+DATA: There is a shuttlebay 948 meters from our current location.

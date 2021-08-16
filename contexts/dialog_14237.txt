@@ -1,0 +1,4 @@
+MARY: Is it snowing?
+GEORGE: Yeah, just started.
+MARY: Where's your coat and hat?
+GEORGE: Left them at the office.

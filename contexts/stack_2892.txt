@@ -1,0 +1,1 @@
+Why do we use the rotating wave picture to make approxiamations in open quantum systems? Why do we use the rotating wave picture to make approxiamations in open quantum systems? I understand why we use the Heisenberg picture when switching to the interaction picture. But why rotating picture?

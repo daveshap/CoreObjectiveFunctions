@@ -1,0 +1,12 @@
+[META] Seeking user feedback on insults directed at public figures
+We've had some internal discussions around this as a mod team, and want to get some user feedback around whether we should prohibit comments which contain insults/name calling directed at public figures.
+
+In particular this came up around a comment calling Donald Trump a cheeto.  We had similar issues around a John Oliver related browser extension which replaced the word "Trump" with "Drumpf."
+
+There are other public figures subject to namecalling too, and any policy would relate to other public figures equally.  Quantity wise though, people talk about the President of the United States far more than any other public figure.
+
+One issue to consider is how to deal with insults directed at public figures which may be factually justified.  E.g. if one wants to call a political figure a liar based on sources showing that they're knowingly saying things which are not true, we wouldn't want to ban that.
+
+Under our current rules, the general consensus has been that a comment which otherwise complies with the rules would not break a rule by using an insult directed at a public figure, but would if insulting another user.  A submission which used an insult against would violate the rule against neutral framing.
+
+Should this policy change?  If so, what specific ideas for a new policy would you suggest?

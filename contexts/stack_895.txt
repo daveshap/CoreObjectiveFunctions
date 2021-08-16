@@ -1,0 +1,1 @@
+Linux-Headers Reinstall I'm trying upgrade firefox but says that i need to reinstall linux-headers 4.4.0-98.I tried to install but that's it's what happens 'the package linux-headers needs to be reinstalled, but i can't find an archive for it'.

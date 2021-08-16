@@ -1,0 +1,1 @@
+Is there a parameter which describes the degree of isotropy/anisotropy of a single source? Our task is to analyse how isotropic a random collection of vectors is. All of them start at the origin and have the same length. Is there a parameter which describes the isotropy for this case? How do I calculate it?

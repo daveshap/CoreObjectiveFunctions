@@ -1,0 +1,1 @@
+How can I force Dropbox to Sync files I have several files in my local Dropbox directory which Finder shows with the blue \"in progress\" indicator, some have been there for days.How can I force Dropbox to Sync the unsynced files?

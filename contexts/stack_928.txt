@@ -1,0 +1,1 @@
+How do I effectuate /usr/bin/checkmodule and /usr/bin/semodule_package on Ubuntu? Or simulate them? It's for a build step that merely needs to succeed, but I'd like to do real work too. I just don't have enough information about it. This is do with SELinux, right? That exists for Ubuntu too; are there equivalent utilities?

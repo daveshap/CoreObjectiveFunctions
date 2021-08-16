@@ -1,0 +1,10 @@
+What are the historical standards of invoking the Insurrection Act?
+President Trump declared that he would deploy ["thousands and thousands of heavily armed soldiers, military personnel and law enforcement officers"](https://www.cnn.com/2020/06/01/politics/donald-trump-national-address-race/index.html) if needed to restore order in states around the country due to [the protests stemming from the death of George Floyd in Minneapolis.](https://www.cnn.com/us/live-news/george-floyd-protests-06-01-20/index.html)
+
+[The Insurrection Act](https://en.wikipedia.org/wiki/Insurrection_Act) allows the president to deploy military troops within the United States to suppress civil disorder, insurrection, and rebellion, but the act states that unless military troops are requested by a state, the president cannot deploy troops by order unless it becomes "impracticable to enforce federal laws through ordinary proceedings or if states are unable to safeguard its inhabitants' civil rights".
+
+Additionally, [Posse Comitatus Act](https://en.wikipedia.org/wiki/Posse_Comitatus_Act) further limits the president's powers to deploy military troops within the united states, although it does have a specific exclusion for the Insurrection Act.
+
+Which leads me to wonder, what are the historical standards of invoking the Insurrection Act? What were the circumstances behind the invocation?
+
+Has the Insurrection Act ever been invoked but later found to be in violation of the Posse Comitatus Act?

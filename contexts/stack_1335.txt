@@ -1,0 +1,1 @@
+very fine solenoid wires won't burn from AC source? I've seen tiny solenoid electromagnet (that is the solenoid used to open contacts inside a GFCI receptacle) with very fine wire used in the winding.. won't it burn if exposed directly to 120v ac power at each end? How is the winding computed?

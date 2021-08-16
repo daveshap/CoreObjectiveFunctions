@@ -1,0 +1,208 @@
+Information about Masters in CS/Visual Computing at Saarland University - I asked some questions I had in mind to a few students and thought I'd share their responses for other prospective students.
+I had got an admit for Visual Computing at Saarland, and I'd asked around about the university to a few current/past students. Just thought I'd share their answers for everyone who might be thinking of pursuing a Masters here. Note that some of the information is specific to CS/Visual Computing, and may not hold for other programs. I've numbered the answers, where each number corresponds to a specific student's answer. I've copied their answers verbatim, except fixing typos and removing personal details.
+
+**Q1: As a Saarland student, do you have a chance of getting to work with  researchers from MPI and DFKI, while being a Masters student? For  instance, do a lot of students get to do their Masters theses at  MPI/DFKI/any other research cluster? What does this depend on, your  grades/the program you're attending/networking with profs?**
+
+**A1**: Yes. As a master's student, I am involved with MPI-INF as a research  assistant (HiWi). Yes, there are plenty of masters students who do their  thesis with these institutes.
+
+**A2**: Yes, you can get work there. I know countless people who started working at DFKI close to the start of their studies, even when they weren't good at coding yet. I also know people who worked at the Scheer Tower, CISPA, or others. It should be absolutely no problem to  find a small side job during your studies. For theses: usually, professors will openly suggest topics and you  talk about it to them OR you have a topic in mind, talk to a professor  about it and he will either connect you with people who know a lot about  the topic or do the supervision himself. It is mandatory that your  first supervisor is a professor (being a professor is something more  unique in Germany than in in the US, it doesn't just mean "lecturer"). I  know people who did their theses at DFKI combined with their side job, I  know some who did it just with a professor and I personally did mine at  a company, working together with one professor. Lots of possibilities.
+
+**A3**: Yes, for instance I am doing my master's thesis in MPI and I know of a lot of students who do it in either DFKI/MPI.
+
+**A4**: Yes, grades matter but so does prior experience. It can help if you've taken a course with the prof. in question but isn't strictly necessary. If you're going to reach out to someone it's also important to write a nice motivation letter describing your research interests and to make connections to what research is being done in the department, i.e. send a targeted application and not a generic one.
+
+**A5**: Yes - grades are important - how you performed in their classes - you can go talk to them.
+
+&#x200B;
+
+**Q2: What do most Saarland graduates end up doing? Do they go on to do a PhD  at one of the associated research institutes, or move to industry? I did try to learn this from LinkedIn but it seems skewed towards research.**
+
+**A1**: Research. Masters students, for some reason, do not seem to be very  motivated to pursue positions in the industry. I am not one of them, and  I hope to go back to the industry as soon as I am done.
+
+&#x200B;
+
+**Q3: What's the student:prof ratio like, in Visual Computing (VC)? I mean, are profs usually responsive to individual queries/project discussions?**
+
+**A1**: Not sure about ratios. Some lectures have a lot of students, some hardly  have 20 students attending them. Really depends on whether it's a core  course, whether the subject is easy e.t.c. Professors have office hours  during which you can approach them. As far as I have noticed, they encourage discussions.
+
+**A2**: I don't know the exact ratio but it heavily depends on the courses.  There are courses with hundreds of people but also some with only 20-50.  It would be interesting to know where you're from. University here is  QUITE different to the UK/US. Brits and Americans have told me that in  their home countries, it's more like school, there are more resources  (because of the higher costs) which means you can go to the professor  any time you want and they will always be able to help you on the spot. In Germany, university expects you to be more independent, meaning  that you're expected to work through things yourself. Obviously you can  email your professor anytime and go to office hours and whatnot but I've  often heard complains from (especially) Americans that they felt like  they don't get enough support. The job of a professor in Germany is  research + teaching as opposed to only teaching, so they often have a  LOT on their schedule and are therefore more busy. But obviously, you  will find professors who are very communicative and some who are not. It  all depends.
+
+**A3**: I don't know the exact number, you can check the visual computing page for the number of profs. Some professors are very helpful/responsive some aren't. Usually the "in demand" professors are less responsive especially if you send them unsolicited (also not very well drafted) emails asking for thesis/hiwi, etc. You can check online for general rules of emailing profs, there are some good posts on Quora/StackOverflow.
+
+**A4**: As a general caveat, I completed the masters a few years ago and things have changed a little since then, mostly that more students are applying/getting accepted and the course selection/profs have changed a little. It depends on the course, but usually the ratio is OK and in any case all profs/tutors usually have a one-hour weekly slot for office hours and it shouldn't be tough to get an appointment to discuss whatever you need to.
+
+**A5**: Depends - if you have a good profile - yes.
+
+&#x200B;
+
+**Q4: Do you happen to know anything about the courses and the quality of teaching in the VC program?**
+
+**A1**: VC program has a lot of overlap with the computer science program, though VC is more restrictive in the sense that you *have*  to take some mandatory lectures. Quality of "teaching" depends really  on the professors. The courses, including the assignments, are usually  designed well, and the assignments will contain material not covered in  the lecture. This is not necessarily a bad thing.
+
+**A2**: I do not. I would think that at least some of them would overlap with normal CS courses. For those I can say that some people say that CS courses at Saarland University are a little more theoretical than at  other universities. But CS here has an excellent reputation and I've never known a graduate who did not get a good job afterwards.
+
+**A3**: Again, just like at any university the quality varies but there are some profs who are exceptionally good at teaching e.g. Prof. Weickert.
+
+**A4**: The quality of the program and the courses are very good.
+
+**A5**: I was in VC program - I changed to CS - it has a rigid structure and is quite math heavy.
+
+&#x200B;
+
+**Q5: It's stated on the VC program site that students can take core CS  courses and go on to get a Masters in CS. Do you happen to know people in CS who've done this successfully? I was wondering what the experience is like.**
+
+**A1**: I know students who switched from VC to a CS degree, because they found  the bucketing system in VC (i.e, you have to complete x credits in topic  y) annoying. Computer Science do not have any mandatory courses, and  hence you are never forced to study a topic you do not like.
+
+**A2**: I do not. It's not that uncommon to take courses from other specializations though. A friend of mine did a bachelors for both  "Medieninformatik" and normal "Informatik" (CS).
+
+**A3**: I know some people who have switched halfway through, it isn't complicated. Some people do it because the course requirements are less rigid for CS and you need slightly less coursework because some credit points go towards your MSc thesis presentation. If you're asking about getting a double degree, you might have to take some additional courses and do a second thesis.
+
+**A4**: As a VC student you can transfer to CS if your grades are good, the courses you can take as a CS student and a VC student are more or less the same.
+
+&#x200B;
+
+**Q6: In general, what's the work/life balance like? I understand different  people have different paces and lifestyles, but assuming that a student  doesn't slack off and doesn't party much, is the pace of teaching  manageable? For instance, do you see people in CS/VC struggling to keep up?**
+
+**A1**: Depends on the quality of the student, and more importantly, the choice  of lectures. You would have an easy time coping up with HCI  (Human-Computer Interaction - it is a core course) if you decide to take  that course. But instead, if you are taking a mathy core course like  optimization, naturally you will find if a bit more challenging.  Personally, I think that the coursework is very manageable. If you are  having a hard time, there's no penalty associated with dropping out of a  course. And students tend to do this a lot - they usually sign up for a  lot of courses, realise later that a) they don't like it or b) they  like it but do not have time for it, and this is very normal behavior.  For instance, I attended machine learning lectures this semester (core, 9  credits), realised that I have too much on my plate and there's no way  I'll find time for all the things that I am doing. Also, the ML course  this semester was offered by the math department, and I am not a fan of  their notations and love for theorems. So I stopped attending ML  lectures, and signed up for an "elements of statistical learning"  course. The topics are *very* similar to the ML course, but it is  just 5 credits (hence less work load) and they don't care much about  proofs. The point I am trying to make is, Saarland is very flexible. I'm  sure you will be able to find some combination of coursework that you  would be able to cope up with.
+
+**A2**: Obviously extremely different from person to person. There are courses  that are known to be difficult and others that are known to be easier. I  think most people struggle with math the most, although this might be  more for the bachelor's than the master's degree. I think it should be  fine if you apply yourself a little bit. Semester breaks are long in  Germany (2-3 months twice a year, if you don't take seminars during that  time), so you always have some time to relax and cool down.
+
+**A3**: Yes, it's manageable. Finding people to do assignments with helps. Often you are encouraged to hand them in in groups.
+
+**A4**: Depends on the courses you take, but yes, people do struggle if they  take more difficult courses, it depends on your priorities, what type of  courses you want to take, how fast you want to finish, etc.
+
+**A5**: I didn't have a work-life balance - especially during my thesis - it's all work - for me it was...but it's manageable.
+
+&#x200B;
+
+**Q7: For administrative tasks and filling paperwork, do you need to know fluent German?**
+
+**A1**: Yes. You must know German. But I don't speak any German. I managed anyway. So will you ;)
+
+**A2**: I'm gonna say no because of all my American friends surviving despite  not being close to fluent in the language. You should prepare yourself  for LOTS of annoying bureaucracy at the start though. In the first few  weeks, there's gonna be a LOT of annoying paperwork that has to be done.  But people are usually helpful enough and if you struggle too much,  Germans you will meet will help you out with translating.
+
+**A3**: No. Although I was already fluent in German, so I can't speak to this much. Isn't a barrier as far as I can tell from friends.
+
+**A4**: You can get by without knowing German, you can use Google translate and all but in some cases it may be difficult.
+
+**A5**: No no, you will get help - so don't worry.
+
+&#x200B;
+
+**Q8: I read that Saarland dormitories have a long waiting list. Do you happen to know how far back you need to book a slot, to have a good chance of  getting it?**
+
+**A1**: The waiting period is a semester. I ended up getting a one-room apartment (studio?) in the city.
+
+**A2**: Yes, they are always at full capacity and especially during winter  times, it's almost IMPOSSIBLE to find a spot if you don't apply  extremely early. The majority people live in so-called WGs  (Wohngemeinschaften) which just means shared flat with other people  (usually other students). This is the most cost-efficient option if you  don't generally dislike people (and also you will make friends much  easier).
+
+**A3**: No idea, but it's tricky to get a place and it's best to start as early as possible.
+
+**A5**: That's tough - don't rely on it.
+
+&#x200B;
+
+**Q9: Do you have any specific website recommendations for student apartments (shared housing) in Saarbrucken?**
+
+**A1**: There are a lot of WGs (i.e shared apartments). I sort of wanted to live alone, and hence got my room [here](https://www.studentenwohnungen-saarbruecken.de/unsere-wohnangebote-fur-studenten-saarbruecken.html).
+
+**A2**: The most common one by FAR is [https://www.wg-gesucht.de/](https://www.wg-gesucht.de/). The optimal places for students are St.Johann, Mitte or  Alt-Saarbrücken. St.Johann covers much of the city center and also  includes the "Nauwieserviertel" which is basically the student's quarter  full of pubs. Mitte is also in the city center but usually more  expensive and Alt-Saarbrücken is a little quieter, further away but  really cheap to live in. Dudweiler is also extremely close to the  university but it's VERY far away from the inner city and anything..  exciting. But they have a nice climbing gym at least.
+
+**A3**: This group: [https://www.facebook.com/groups/862796117115095/](https://www.facebook.com/groups/862796117115095/) and this website: [https://www.wg-gesucht.de/](https://www.wg-gesucht.de/).
+
+**A5**: [https://www.wg-gesucht.de/](https://www.wg-gesucht.de/)
+
+&#x200B;
+
+**Q10: Are there ample computing resources available to students at Saarland?  For instance, for deep learning experiments or rendering, one would need  access to GPU servers with high RAMs, often for a prolonged duration  (long-running experiments/simultaneous experiments). Are such resources  readily available to students?**
+
+**A1**: Yes. I took a high-level computer vision course (offered by MPI) on my first semester and the course involved a project, and all students were given access to decent GPUs. I don't remember exactly, but I think they were P100s. Basically, you SSH into MPI/University resources through a VPN.
+
+**A2**: We had this at the Computational Linguistics department to train language models etc. and our department is soooo much smaller. So I would definitely think: yes. But that's a question you could ask the Studienkoordinator.
+
+**A3**: Not sure about this. The deep learning boom took off when was already a research assistant in the computer vision department.
+
+**A5**: I would assume..
+
+&#x200B;
+
+**Q11: I've heard that the style of teaching math is rather "dry" in German  universities, with less emphasis on proof motivation and visualization,  and more on terse theorem-proof sessions. Would you say that is true to a  large extent, or is this dependent on individual profs?**
+
+**A1**: That statement is true, but fortunately not so much in Saarland. But  then again, I avoid proof-heavy math courses like the plague, so I might  not be the best person to answer this. The assignments do sometimes ask  the students to prove something, and I sometimes do get get annoyed  with this.
+
+**A2**: Yes, that's what I hear a lot too. Math can get rather dry. My math  courses were nothing like CS courses, so I cant compare them with mine.
+
+**A3**: Depends on the professor, and I don't know what your reference point is here, but some do place a lot of emphasis on theorem proofs, and some don't.
+
+**A5**: That's true - I think.
+
+&#x200B;
+
+**Q12: Is there any academic advantage/disadvantage in enrolling in one semester over another, for VC?**
+
+**A1**: Nope.
+
+**A2**: In my experience, the winter semester is the 'normal' one to start for  MOST pograms. That's when you have most of the introductory courses,  etc. But i can absolutely not say if this is the case for VC I'm afraid.
+
+**A3**: Depends on the courses on offer, but one nice course for the first semester which I believe is offered in the summer is the Image Processing and Computer Vision course. Ultimately, I don't think it matters too much.
+
+**A5**: Not really - not imo
+
+&#x200B;
+
+**Q13: How does the process of getting MPI to approve you doing your Masters  thesis there work? Is it like, you get good grades in a set of courses  related to the work of a researcher in MPI, contact him over email  asking for a RA position, then have an interview with them? Or do you  discuss your interests with one of the profs at Saarland, they recommend  your name over to a researcher at MPI, who then contacts you for an  interview?**
+
+**A1**: In my case, I just went to the lecturer at the end of the course (i.e  the last lecture of the course) and straight up asked him "Is there a  way I can contribute to your research, preferably as a HiWi?". He said  yes. By this point, he was familiar with me (I was a regular in the  class), and my assignment grades were good. He asked me to email him,  and mention that we talked after the lecture, and that was it. He read  through my resume and offered me a HiWi. Usually, if the  professor/lecturer does not know you, you go through an interview - I  didn't have to since he knew me. Getting a masters thesis at MPI follows  a similar pattern - turn up for lectures offered by people from the  MPI, get okayish grades at least, and then walk up to the professor and  ask. If you seem motivated enough, the professor will usually be happy  to have you as a thesis student. *Some* departments, like D2 at  MPI-INF (Multimodal computing and machine learning) are quite in demand  (everyone and their grandmother wants to do a thesis in ML+CV) and thus  has a GPA cutoff - 1.5 or better. That's an unfairly high cutoff, since  unlike the US, Germany does not have grade inflation, and you have to be  really good at giving exams to maintain an overall GPA of 1.5 or  higher. However, regardless of your GPA, most departments will offer you a thesis if you do reasonably well in their particular course and show sufficient motivation.
+
+&#x200B;
+
+**Q14: How easy is it to make the switch from VC to CS (Do you need to maintain high grades?  Does it depend on CS student strength at the time?), and when can it be  done at the earliest?**
+
+**A1**: It's quite easy. You just have to fill out an application form. Yes, you  must have a GPA of 2.0 or higher, and you can switch only after the  first semester. Getting 2.0 or higher shouldn't too difficult.
+
+&#x200B;
+
+**Q15: If I decide to take courses at a slow pace, can I stay and study beyond the normal duration of the program?**
+
+**A1**: Yup. You have a whopping 6 semesters to complete your coursework (i.e 90  credits). And then you can take another semester to do your thesis, I  guess. There's some restriction - for example, you *must*  complete 9 credits by the end of your first semester, 30 by the end of  the second, and so on (I forgot the exact numbers). But yes, you can  take more than the normal duration of the program. Also, there's no  "normal" duration of the program. Most students I know take 5 semesters -  4 semesters for coursework + a semester for the thesis. But I took more  courses than recommended, and I'm set to complete my coursework by my  3rd semester. I'll probably do the thesis on my fourth semester and be  done with the whole thing, or skip my fourth semester altogether to do  an internship somewhere, though I don't have any internship offers as of  yet. But then again, I was fine with filling up all my free time with assignments and the HiWi job, and not working so hard for the exams. Long story short, how fast you  want to graduate depends all on you. If you go all in, and enroll for  courses during the semester breaks as well (yes, some courses are  offered during the break), then you *can* be done with your  coursework in almost two semesters, and move on to your thesis. That  puts the earliest graduation date as 3 semesters.
+
+&#x200B;
+
+**Q16: What is it like to do a HiWi job at MPI? I mean, what does your day to  day work look like? Do you actually get involved with the prof's  research and get to publish stuff?**
+
+**A1**: This varies *wildly*. I think I won the HiWi lottery though. I  somewhat contribute to the research (i.e helped build a research  toolkit). I am not micro-managed, and my working hours are very flexible, and I'm on friendly terms with my advisor (we get a beer  together once every few weeks). But as far as I understand, what I have  is an exception and not the norm. An overwhelming majority of HiWi jobs are web dev stuff that  do not usually lead to a publication. However, if you do a good job,  you dramatically increase the chances of getting a thesis there, or in  any case, your advisor might be able to give you a recommendation letter  based on your HiWi.
+
+&#x200B;
+
+**Q17: Of the courses you've taken so far, what courses did you love? Also, are  there any courses that you'd blindly suggest to avoid (prof irregular,  teaching unclear with fast pace)? Of course, interests vary across  people, but I'm just trying to get a general idea of the department's strengths and weaknesses when it comes to teaching.**
+
+**A1**: I'll give you a short summary of the courses I took last summer semester:
+
+a. IPCV (Image Processing and Computer Vision) - well structured, you  get a very good understanding of image analysis (sobel and gaussian  filters, fourier transforms, optical flow etc), and the lectures are interesting.
+
+b. (HLCV) High Level Computer Vision - Offered by MPI. Lectures are *bad*  \- they're not boring but there are 200 slides per lecture and yet the  professor (Bernt Schiele) finishes early. I remember explicitly asking  him "do I need a deep learning background for this course?" and he  smiled and said, "not necessarily, you should be able to pick things up  during the course". I did pick things up, but only because my team put  in an insane amount of time on the assignments. HLCV basically drops you  at the deep end of the pool, and you either sink or you swim. But the  assignments and the project was worth it - I am quite confident with  pytorch now and the background I got really helped me with the other  courses. Once you go through HLCV, you can go through anything. Dr.  Schiele also explicitly mentioned that "If you survive the first 2  assignments, you will survive the course". I would heavily recommend  this course, but be prepared to slog.
+
+c. AI (Artificial Intelligence). Waste of time. I took this only  because it was just algorithms, and it was a core course (9 credits).  This was supposed to be my "easy course", and though the assignments  were easy enough, the exam was a Kobayashi Maru. You are given 2 hours,  and until you write (and think) really fast, you can't complete the  exam. Given enough time, I could have scored a lot more. Makes me wonder  what they are trying to evaluate - my understanding of the subject or  how fast I can churn out algorithms? I ended up getting a 2.7 for this  easy subject, but I won't complain since I got my 9 credits without  working much for it.
+
+d. TNIR (Topics in Neural Information Retrieval). My favorite course  last summer semester. The assignments involved reading actual research  papers and writing an essay comparing and contrasting them. Had a lot of  fun, and since you read a lot of research papers, you get a good idea  of the research field *and* a sense of accomplishment towards the  end of the course. But this can  be quite dry if you are not into NLP/IR.
+
+e. German classes. Enough said.
+
+&#x200B;
+
+**Q18: If you do an internship at a company in the last semester, whom would  you work with for your thesis? A prof from Saarland or a company person?**
+
+**A1**: For doing your thesis with a company, you have to get a professor from  the university to co-supervise you. Not sure if professors like doing  this. In any case, you can do an internship without it being a thesis -  you get 6 credit points for doing a "praktikum" - i.e an industrial  internship. The main reason students would like an industry thesis is  that they get paid there, while no professor would pay a Masters thesis student at the University.
+
+&#x200B;
+
+**Q19: I hear Saarland has a gym (Uni-fit). Do you happen to know how much they charge students?**
+
+**A1**: Oh yeah, I use the uni-gym. It's around 20 euros a month for the students.
+
+&#x200B;
+
+**Q20: Is there anything else you wish an international student knew before joining Saarland?**
+
+**A2**: Travel! Saarland is basically in the heart of Europe, you can get to  so many places. Paris is only 2-3 hours away. There are lots of German  cities to visit, too. There is so much to see and you should take  advantage of living so centrally in Europe. All my international friends  said that they loved how easy it was to travel through all of Europe. About studying here generally: never stress too much about  university, there is so much other stuff in life. Take time for your  hobbies, relax and to make and meet friends.  I consider some  international friends I met as some of my best friends to this day.  Don't see studying abroad just a cheap option to study but also to  broaden your horizons.
+
+**A5**: It's a good place :)

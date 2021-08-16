@@ -1,0 +1,9 @@
+RENTON: What's on the menu this evening?
+SWANNEY: Your favourite dish.
+RENTON: Excellent.
+SWANNEY: Your usual table, sir?
+RENTON: Why, thank you.
+SWANNEY: And would sir care to settle his bill in advance?
+RENTON: Stick it on my tab.
+SWANNEY: Regret to inform, sir, that your credit limit was reached and breached a long time ago.
+RENTON: In that case --

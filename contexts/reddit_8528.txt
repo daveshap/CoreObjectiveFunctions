@@ -1,0 +1,16 @@
+Consequences of if Nunes sent the WH an edited memo?
+Tonight, Rep. Adam Schiff of the House Intelligence Committee sent this tweet: 
+>[BREAKING: Discovered late tonight that Chairman Nunes made material changes to the memo he sent to White House – changes not approved by the Committee. White House therefore reviewing a document the Committee has not approved for release.](https://t.co/llhQK9L7l6)
+
+So far, I understand the memo was written by Nunes and was based on underlying intelligence that he had not seen, the DOJ implored the House not to release it and that they ["believe that wider distribution of the classified information presumably contained within your memorandum would represent a significant deviation from the terms of access negotiated in good faith by the Department, HSPCI, and the Office of Speaker Paul Ryan."](http://thehill.com/homenews/administration/370614-doj-official-tells-nunes-itd-be-reckless-to-release-memo-without), but that the ["Republicans invoked a power never before used by the secretive committee to effectively declassify the memo that they had compiled."](https://www.nytimes.com/2018/01/29/us/politics/release-the-memo-vote-house-intelligence-republicans.html?action=Click&contentCollection=BreakingNews&contentID=66442099&pgtype=Homepage), and that [White House staff has read the copy of Nunes' memo](https://www.reuters.com/article/us-usa-trump-russia-memo/white-house-chief-of-staff-republican-memo-to-come-out-soon-idUSKBN1FK25P).
+
+What consequences, if any, is Nunes exposed to? How much of the memo would Nunes have to change in order for him to have violated some rule, whether the rule applies to wrongful release of classified info, or some violation of the terms between the Committee and the DOJ, or some ethics violation, or what?
+
+
+~~~~
+
+Edit: I should've clarified, the letter from the DOJ to Nunes says this:
+
+>Seeking Committee approval of public release would require [House Permanent Select Committee on Intelligence] committee members to vote on a staff-drafted memorandum that purports to be based on classified source materials that neither you nor most of them have seen. 
+
+[Source](https://lawfareblog.com/document-justice-department-letter-nunes-about-memo)

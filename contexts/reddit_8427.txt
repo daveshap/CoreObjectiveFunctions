@@ -1,0 +1,6 @@
+What are the benefits and drawbacks of the citizenship question on the 2020 US Census?
+Recently, the [US Commerce Department has decided to add a citizenship question to the upcoming 2020 census](https://www.reuters.com/article/us-usa-census/u-s-to-add-citizenship-question-in-2020-census-commerce-dept-idUSKBN1H308B). Commerce Secretary Wilbur Ross, stated that the question was added "after a Department of Justice request based on the desire for better enforcement of the voting law." 
+
+[California](http://www.latimes.com/politics/la-pol-ca-census-citizenship-becerra-20180326-story.html) and [New York](https://www.reuters.com/article/us-usa-census/new-york-state-will-sue-to-block-census-citizenship-question-idUSKBN1H328L) have responded by saying they will sue to to remove the question from the census because they believe that the question will discourage immigrant participation in the census because they will be fearful of how the question could be used against them.
+
+How will this question be useful to enforce voting laws? Is there a potential for misuse of this information? Do the states in question have legal grounds to sue for the removal of this question?

@@ -1,0 +1,1 @@
+Eagle Change all part names (Designator) I would like to change all my part numbers(Designator Name) one by one, but Eagle does not allow to change a component name with a name that already exists. So what is the fastest way to change all parts name?  (I already know about renumber ULP function but it does not let you pick your own name)

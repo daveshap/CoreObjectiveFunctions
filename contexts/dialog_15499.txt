@@ -1,0 +1,8 @@
+QUEEN: What news from our friends?
+TUROLD: Barak is still strong in the north, and Tendo holds the high passes. But the great desert forts have fallen.
+QUEEN: Freylag's stronghold?
+TUROLD: It has been taken, Freylag and all his people slaughtered.
+QUEEN: It is only a few weeks and already half our strong places have fallen.
+TUROLD: The attacks are unceasing: by night, the Dark Ones; by day, those of our people who have sold themselves to them, those traitors who are called the Slayers.
+QUEEN: It is the way of all invaders. Those they would conquer they divide, buying allies with promises of land and power.
+TUROLD: We will hold. Their power is not unlimited.

@@ -1,0 +1,6 @@
+ANDERTON: You the sentry?
+GIDEON: Yes, sir. I'm Gideon. The music relaxes the prisoners.
+GIDEON: I don't ever see any of you precops down here, I'm not in trouble am I?
+ANDERTON: No, you're not in trouble. I'm interested in a murder.
+GIDEON: Kill type?
+ANDERTON: Drowning.

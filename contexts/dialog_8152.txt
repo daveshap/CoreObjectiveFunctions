@@ -1,0 +1,3 @@
+JACK: She is Lana Turner.
+EXLEY: What?
+JACK: She <u>is</u> Lana Turner.

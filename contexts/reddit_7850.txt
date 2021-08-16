@@ -1,0 +1,6 @@
+After working for about a month on a key part of my paper, I found out that the results show no meaningful conclusions at all :D
+So I've been studying how climate affects power systems, with my country as a case study. So I took historical climate data and dug up historical load profiles with some assumptions here and there. This process took me about a month or so, since there was so much shit to go through. And after everything, when I finally tried using regression on them, it turns out that there is no significant correlation between the variables. :D
+
+So that's probably an entire month wasted for now, and a crucial part of my thesis and paper gone, so I'll have to write a somewhat lesser quality paper with all the other stuff in the research and submit it to a somewhat lesser quality journal.
+
+Grad school is hell.

@@ -1,0 +1,7 @@
+PICARD: Doctor Soran?
+SORAN: Yes, yes, Captain. Thank you for coming.
+PICARD: Nothing for me. I understand there's something urgent you need to discuss with me.
+SORAN: Yes. I need to return to the observatory immediately. I must continue a critical experiment I was running on the Amargosa star.
+PICARD: Doctor, we're still conducting an investigation into the attack. Once we've completed our work, we'll be happy to allow you and your fellow scientists back aboard the observatory. Until then-
+SORAN: The timing is very important on my experiment- if it is not completed within the next twelve hours, years of research will be lost.
+PICARD: We're doing the best we can. Now if you'll excuse me...

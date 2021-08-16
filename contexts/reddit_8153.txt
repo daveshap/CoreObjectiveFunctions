@@ -1,0 +1,35 @@
+What have we learned from the principal conclusions of Robert Mueller's investigation released tonight?
+Tonight, Attorney General Bill Barr sent to Congress [a letter](https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/documents/AG%20March%2024%202019%20Letter%20to%20House%20and%20Senate%20Judiciary%20Committees.pdf) summarizing the findings of Special Counsel Mueller. This is just Barr's summary of the findings made by Mueller, and not Mueller's full report [sent to Barr on Friday,](https://int.nyt.com/data/documenthelper/708-attorney-general-william-barr-letter-mueller/b7fd3a05ab618bad8544/optimized/full.pdf#page=1) which has not been released.
+
+In the letter, Barr relates that Mueller said:
+
+>[T]he investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.
+
+The letter further states that Mueller investigated whether the President obstructed justice in relation to the investigation.  The report, according to Barr:
+
+>sets out evidence on both sides of the question and leaves unresolved what the Special Counsel views as 'difficult issues' of law and fact concerning whether the President's actions and intent could be viewed as obstruction.  The Special Counsel states that "while this report does not conclude that the President committed a crime, it also does not exonerate him."
+
+The letter then says it was left to Barr to decide whether the conduct constituted obstruction.  He says that he and Deputy AG Rod Rosenstein "have concluded that the evidence developed during the Special Counsel's investigation is not sufficient to establish that the President committed an obstruction-of-justice offense."
+
+The letter further states that most of the factual information related to obstruction was "the subject of public reporting."
+
+Mueller [was appointed](https://www.justice.gov/opa/press-release/file/967231/download) in 2017 to investigate  "any links and/or coordination bet ween the Russian government and individuals
+associated with the campaign of President Donald Trump."  In that investigation, he secured convictions for 7 individuals.^1  There are charges pending against [several Russian-government related entities](https://www.justice.gov/file/1035477/download) and [persons](https://www.justice.gov/file/1080281/download) related to hacking the Democratic National Committee and running extensive bot programs supporting the presidential campaign of then-candidate Donald J. Trump.
+
+* What new information have we learned tonight about the matters Mueller was charged with investigating?  
+
+* Related to the Barr/Rosenstein determination on obstruction, what are the facts which we know from public reporting they may have been considering?
+
+Edit to highlight: it's also the first link here, but [**This is a direct link to the letter.**](https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/documents/AG%20March%2024%202019%20Letter%20to%20House%20and%20Senate%20Judiciary%20Committees.pdf)
+
+
+---
+
+^1 they are [George Papadopoulos](https://www.justice.gov/file/1007346/download), [Michael T. Flynn](https://www.justice.gov/file/1015126/download), [Richard Pinedo](https://www.justice.gov/file/1035547/download), [Alex van der Zwaan](https://www.justice.gov/file/1036406/download), [Richard W. Gates III](https://www.justice.gov/file/1038806/download), [Paul J. Manafort, Jr.](https://www.justice.gov/file/1094156/download), and [Michael Cohen.](https://www.justice.gov/file/1115596/download)
+
+
+
+
+---
+
+Mod footnote: I am submitting this on behalf of the mod team because of extremely high interest about this subject.  We will be very strictly moderating the comments here, especially concerning not allowing unsourced or unsubstantiated speculation.

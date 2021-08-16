@@ -1,0 +1,13 @@
+ANNIE: It's me.
+ROBERT: Hi.
+ANNIE: Hi.
+ROBERT: So, what, uh, what train are you taking?
+ANNIE: I should be in by two.
+ROBERT: Okay. You want me to pick you up?
+ANNIE: Sure... What's Grace up to?
+ROBERT: Riding with Judith.
+ANNIE: I'm sorry about last night. I shouldn't have brought it up over the phone.
+ROBERT: That's okay. We have to talk about it and we're not always in the same place ... so... I just have to get used to it. What do you want to do about dinner?
+ANNIE: I don't know. We'll figure it out.
+ROBERT: Okay. We'll see you later then.
+ANNIE: Yeah. Bye.

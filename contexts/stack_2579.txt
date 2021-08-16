@@ -1,0 +1,1 @@
+How to calculate mean value of a raster for each polygon in a shapefile I wrote a Python script who calculate, for rasters, mean value for each polygon of a shapefile. But I think that it's a \"war machine\" (it takes many treatment time) and I would like to simplify it.Is somebody know a simple way to do it?I'm using geopandas for shapefile manipulations.

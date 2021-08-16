@@ -1,0 +1,9 @@
+WEIR: Any survivors?
+MILLER: Negative.
+WEIR: No one?
+MILLER: They're empty, Dr. Weir. Moving forward.
+WEIR: You've reached the First Containment Seal. The engineering decks are on the other side.
+JUSTIN: We still have pressure. The radiation count's steady at 7 millirads an hour.
+WEIR: Background radiation. Perfectly safe.
+PETERS: Dr. Weir, what's this the door to?
+WEIR: You're at the Bridge, Ms. Peters. You still haven't seen any crew?

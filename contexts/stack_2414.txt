@@ -1,0 +1,1 @@
+GIS File format conversions I want to code in python or any other language to create a software to convert the following files to each other:GeoJSON File;Tiff File; Shapefile;  KML/KMZ File; Grid netCDF File;ESRI Grid File; and Well Known Text File.I am new to GIS and python field I have no idea about how to proceed. We are planning to use QGIS to implement this conversion.

@@ -1,0 +1,1 @@
+Cross sectional regression in excel Hi Can someone please let me know whether cross sectional regression is possible in Excel?I'm trying to evaluate CAPM from MacBeth regression.I need to run the cross sectional regression, but seems it is not possible to do it in excel.Is this true?

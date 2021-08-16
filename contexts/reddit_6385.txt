@@ -1,0 +1,40 @@
+How I Save Gobs of Tedium Filling out Application after Application
+I know budgets are tight, but if you are filling out tons of job applications, you can do yourself a huge favor by investing in text completion software. 
+
+This is software that is constantly running on your desktop/laptop computer (ie Windows and Mac) and transforms bits of text ("snippets") into words, phrases, or sentences. (For example, "vi" is transformed into "Vandelay Industries" once tab or space is pressed.) 
+
+In my case, I use TypeIt4Me ($5) for Mac. If you're on Windows and are willing to learn a new syntax, AutoHotKey is a free and highly flexible option. (I actually came to like the latter very much once I learned it's archaic ways.) 
+
+Anyways, for each job I've had in the past, I have created a standard set of snippets. 
+
+* First, I create a unique snippet to expand into the company name. (i.e. "vi" from above). 
+
+* Next, I create snippets for that company's address and for other commonly requested data. To make things easy, I begin each snippet with the letters that comprise the company snippet. (e.g. "vipos" for the position I held at Vandelay Industries and "vides" for a description of my job duties.) 
+
+So, for an example, here's the template I use:
+
+>vi - Vandelay Industries
+
+>vist - 555 Broadway Boulevard
+
+>vicity - New York, New York
+
+>viz - 00000
+
+>vipar - (555) 555-5555
+
+>vidash - 555-555-5555
+
+>vipos - Vice President, Sales (Latex)
+
+>vides - Sold latex to importers across the U.S. Goes on for several sentences and can even include multiple paragraphs. 
+
+>vipay - $50,000
+
+>visup - Bob Henseley
+
+There. Once you set this up, you can use it on tons of online applications that require you to describe each job you've been in, one-by-one. And because you use standard syntax (e.g. "…st" always yields a street address), you can mindlessly enter in this info and avoid errors. 
+
+
+
+You can also use this technique for filling out your personal information and references.

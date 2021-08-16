@@ -1,0 +1,8 @@
+What is the policy viability of a US state implementing a universal or single-payer healthcare system?
+With the current debate over the future of [the ACA](http://www.healthline.com/health/consumer-healthcare-guide/how-does-the-affordable-care-act-work#2) and the Republican-proposed [AHCA,](https://www.theatlantic.com/politics/archive/2017/05/what-we-know-about-the-american-health-care-act/525426/) there has been discussion around the idea of one or more states implementing universal healthcare systems on a state level.
+
+There is currently [legislation in California](http://www.latimes.com/politics/la-pol-sac-single-payer-healthcare-20170426-story.html) regarding a statewide single-payer system.  Vermont had between 2010 and 2014 worked on creating such a program, [but abandoned the project in 2014.](http://www.nejm.org/doi/full/10.1056/NEJMp1501050#t=article)
+
+This model would parallel the manner in which Canada's single payer system was developed, which [began in Saskatchewan as a single province's hospital insurance scheme,](http://www.law.harvard.edu/programs/lwp/healthc.pdf) and, despite [significant pushback](https://en.wikipedia.org/wiki/Saskatchewan_doctors%27_strike) at the time, it eventually became the model which was adopted by all Canadian provinces.
+
+So, what is the viability of copying the Canadian model by a US state?  In particular, what sort of a tax scheme would be necessary to support it, and what incentives would it give providers and patients?

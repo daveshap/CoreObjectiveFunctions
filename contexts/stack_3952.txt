@@ -1,0 +1,1 @@
+Need for assumption of continuity of the distribution In non parametric Inference what is the need to make the assumption that the underlying distribution of the random variable under consideration is absolutely continuous?

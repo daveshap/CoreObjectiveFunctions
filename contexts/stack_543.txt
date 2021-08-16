@@ -1,0 +1,1 @@
+Ubuntu installation issues I am having Dell Inspiron i3 6th gen processor 4 gb ram and 1 tb hard disk with windows pre-installed in uefi mode.. Whenever I try to dual boot ubuntu in my laptop installation gets stuck at time zone selection zone. Please help. P. S. - I am connected to Internet while installing ubuntu

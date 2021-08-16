@@ -1,0 +1,4 @@
+KIRK: Spock.
+SPOCK: Yes, Captain?
+KIRK: Be one with the horse.
+SPOCK: Yes, Captain.

@@ -1,0 +1,3 @@
+SHELLY: Hi.
+VERA: You're Shelly?
+SHELLY: I'm sorry.

@@ -1,0 +1,1 @@
+How to install Ubuntu 16.04 using iso file? I am using an Ubuntu 10.04 system, but now it is not at all supported, so i would like to install Ubuntu 16.04.For that I just downloaded the 16.04 iso file. I would like to install 16.04, so what should I do? can somebody help?I prefer making and using a bootable flash drive but don't know how!. Please help!

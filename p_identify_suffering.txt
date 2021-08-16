@@ -1,0 +1,29 @@
+Identify whether or not there is suffering present in the following scenarios.
+
+Scenario 1
+bye. i’ve been diagnosed with persistent depression. i’m going to overdose on anti depressants, pain killers, and slit my wrists. a few months ago my parents sent me to the mental health center, but instead of comfort they were frustrated and pissed at me for being depressed. i have anxiety that never goes away. i’m spending my last day watching marvel movies and sleeping. i’m not going to write a note. probably leave the house around three am and do it by a bridge. i feel at peace thinking about it. the only thing i’m worried about is going to hell. i’m a christian and i don’t want to burn. i want to see God, but i also don’t want to be alive. tonight i’m going to die. thank you
+Suffering: True <<END>>
+
+Scenario 2
+How do Quebec city bus tickets work? I'm in Quebec city for a while and want to use the bus for trips that involve a transfer each way, so from point A to B I need to catch 2 buses. Obviously I'll need to catch 2 again to return home.I bought an 'Occasionelle' ticket loaded with '12 bil gen', but I'm unsure how it gets depleted, or whether I can use the card as many times as needed over a period of 12 days usage.I'm trying to make sense of it, but the RTC website is extremely unclear in this regard.Thanks!
+Suffering: False <<END>>
+
+Scenario 3
+I don’t feel the same way back and idk how to deal with it. one of my guy friends has recently confessed to me and i genuinely do not know what to do. he’s been very open about it and i appreciate it but at the same time i feel kinda weirded out? i’m not sure how to describe it but i know it’s different. we had a thirty minute talk a couple of days ago and i told him i can’t feel the same way back but he didn’t really listen to that but rather went on how much he liked me and what he liked about me. i consider him a best friend and he likes me and i don’t know what to do because i don’t want to straight out ignore him but i don’t want to continuously hang out with him before because i feel like that would give him the wrong idea.
+Suffering: True <<END>>
+
+Scenario 4
+Question about discrimination Hello I have a quick question regarding a situation regarding a graduate school I am familiar with, and I was hoping to get some insight. The Graduate School in question has many upper level defense and national security personnel acting as faculty, however the school is a non-profit, open institution eligible to anyone who applies and is accepted (including international students). I'm hearing that a student from the Middle East (I believe from Iran), may be denied entry to the school because certain members of the faculty have a problem teaching subjects pertaining to national security to citizens of countries the USA does not have a good relationship with. However, this student is already studying in the states on a F-1 Visa, and according to the government should be allowed to study wherever he chooses and gets accepted too. Mind you, this institution is public, not private, and the faculty member in question is only upset because he claims his security clearance won't allow him to work with this type of student. Any thoughts?
+Suffering: False <<END>>
+
+Scenario 5
+remembered a drunken mistake and it's been eating me up So back in September, I was at a party and everyone there was pretty drunk (I know this is in no way an excuse for my behaviour). Basically, what I remember is that I was flirting with this guy and we had our arms around each other. My hand went down his back and I grabbed his butt. I honestly feel so guilty and ashamed about this. I would have brought up the incident earlier and apologized, but I had no recollection of any of this until recently, when I saw a picture from that night and it got my memory jogging. It was months ago, and the two of us are friends now. To make matters worse, he is dating one of my best friends (they were not together at the time). My question is whether it would be appropriate to bring it up to him now and apologize, or if that would create drama. I'm genuinely at a loss— even if he wasn't upset about it, I feel disgusting and I hate that I treated another person like that. If anyone can offer me some perspective on the situation, that would be super helpful. Thanks.
+Suffering: True <<END>>
+
+Scenario 6
+Went on one date and am already head over heels for this guy. Is that crazy? I feel crazy because I usually take things really slow when I start to date, but I’m so into this guy it’s nuts! We’ve been talking on the phone and texting nonstop. We went on one date and it was incredible! I’ve never been so nervous that I’m going to fuck something up before. He’s so sweet and happy and lovely and beautiful. I think he likes me too! God, it feels crazy and like my feelings are developing really quick. I feel like I need to slow down and relax almost! Man, keep your fingers crossed for me guys!! I’m excited to see where this goes :-) EDIT: Sounds like a lot of you have been burned. I’ll err on the side of caution and try to slow down, but I’m not turning down my excitement. Thank you for all the input, and thank you to all those who shared my positivity!
+Suffering: False <<END>>
+
+Scenario 7:
+<<TEXT>>
+Suffering:

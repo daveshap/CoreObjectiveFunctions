@@ -1,0 +1,3 @@
+ULLMAN: What time does the plane leave?
+WATSON: Eight thirty.
+ULLMAN: Well, that still gives up plenty of time to go over everything first.

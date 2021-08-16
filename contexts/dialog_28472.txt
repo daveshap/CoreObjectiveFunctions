@@ -1,0 +1,20 @@
+WYNANT: Did you get my money?
+MACAULAY: I do wish you'd tell me where you're going.
+WYNANT: I'm not telling anyone.
+MACAULAY: But suppose some business comes up...
+WYNANT: That's just why I'm going.
+MACAULAY: One hundred... two hundred... three...
+WYNANT: Never mind.
+MACAULAY: I wish you'd count them. There's a thousand dollars there.
+WYNANT: I trust you.
+MACAULAY: Isn't there anything else I can do for you? Have you bought your ticket?
+WYNANT: No.
+MACAULAY: Well, let me do that for you.
+WYNANT: You might do that. Get me a ticket for... No, you don't!
+WYNANT: Thanks, and goodbye.
+MACAULAY: What'll I do if something comes up?
+WYNANT: Settle it yourself. What have I got a lawyer for?
+MACAULAY: Is Julia going with you?
+WYNANT: No.
+MACAULAY: But what if you need more money?
+WYNANT: I left instructions with Julia. She'll get it from you. Goodbye.

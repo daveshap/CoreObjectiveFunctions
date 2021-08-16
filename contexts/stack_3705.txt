@@ -1,0 +1,1 @@
+What is a good value for Sensitivity and specificity of a predictive model? Hope all is well.I developed predictive models and I wonder if anyone has some gold standard for sensitivity and specificity from the literature so that I can refer my results to the ones in the literature to validate my study?I really appreciate it.Many ThanksBen

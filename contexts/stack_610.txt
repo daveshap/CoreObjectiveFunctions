@@ -1,0 +1,1 @@
+Arranging my applications by type on Ubuntu with GNOME Shell I'm using the latest Ubuntu 17.10 with the GNOME shell. It's really lovely but I'm still lost and finding my way around Linux for the first time in my life.Anyone knows how to arrange the applications by type (rather than by name)?

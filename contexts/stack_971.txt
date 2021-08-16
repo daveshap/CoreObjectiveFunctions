@@ -1,0 +1,1 @@
+How can I solve this trouble issue in downloading tensorflow and anaconda? I have ubuntu 18.04 64 bit . i bought a hard ssd . and gpu is intel haswell i  tried to download anaconda ,but it is interrupted ,lap tope type is hpprobook. and tried to use command-line and follow instruction to download python 3,but the system download only python 2.7 isnt supported by tensorflow

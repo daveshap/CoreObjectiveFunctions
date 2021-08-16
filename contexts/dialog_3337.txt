@@ -1,0 +1,27 @@
+CHANCE: Yes. It has.
+PRESIDENT: ... You will honor me and my family with a visit, won't you?
+CHANCE: Yes. I will.
+PRESIDENT: Wonderful, we'll all look forward to seeing you. Is Eve around? I'd like to say hello.
+RAND: No, she flew up to Boston for another charity event. She'll be sorry to have missed you.
+PRESIDENT: I'm sorry, too. Well, Nancy wanted me to send along her best to the two of you - and, Ben, I want to thank you for your time and thoughts.
+RAND: Nonsense, Mr. President - I thank you for coming to spend time with a dying man.
+PRESIDENT: Now, Ben, I won't have any of that. Why don't you listen to your good friend Chauncey this is a time to think of life!
+RAND: You're right, Mr. President I don't like feeling sorry for myself.
+PRESIDENT: Take care of yourself, Ben.
+RAND: You take care too, Bobby.
+PRESIDENT: Mr. Gardiner...
+RAND: He's a decent fellow, the President, isn't he?
+CHANCE: Yes, Ben - he is.
+RAND: He was quite impressed with your comments, Chauncey - he hears my sort of analysis from everyone, but yours, unfortunately - seldom if ever at all.
+CHANCE: I'm glad he came, Ben. It was nice talking to the President.
+PRESIDENT: Kaufman, I'm going to need information on Mr. Chauncey Gardiner's background.
+KAUFMAN: Gardiner, yes, sir.
+PRESIDENT: And put it through on a Code Red - I want it as soon as possible.
+KAUFMAN: No problem, Chief.
+RAND: ... You know, Chauncey, there's something about you... You're direct, you grasp things quickly and you state them plainly. You don't play games with words to protect yourself. I feel I can speak to you frankly... You know what I was talking to you about last night?
+CHANCE: No, Ben.
+RAND: Oh, sure you do, the financial assistance program. I think you might be just the man to take charge of such an undertaking. I'd like you to meet with the members of the Board, we'll be able to discuss the matter at greater length at that time.
+CHANCE: I understand.
+RAND: And, please, Chauncey - don't rush your decision. I know you're not a man to act on the spur of the moment.
+CHANCE: Thank you, Ben.
+RAND: And now, Chauncey, I'm afraid you must excuse me - I'm very tired all of a sudden.

@@ -1,0 +1,7 @@
+MAVERICK: I'm pinned to the panel.
+GOOSE: Time to go.
+MAVERICK: I can't eject.
+GOOSE: 3000 feet. I'll do it.
+MAVERICK: Go ahead. I can't reach. 2000 feet!
+GOOSE: 1000.
+MAVERICK: Let's go. Eject.

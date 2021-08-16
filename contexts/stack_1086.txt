@@ -1,0 +1,1 @@
+Copy this folder into the root directory of disksim I am trying to install a simulator (disksim) in ubuntu but i am not getting these two things:1) Can i just directly copy a folder and paste it into another folder(Disksim) or i have to do it through terminal?2) What is meant by root directory of Disksim?

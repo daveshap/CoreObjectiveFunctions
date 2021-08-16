@@ -1,0 +1,4 @@
+RIKER: It looks like we're too late.
+WORF: There are no other ships in the system.
+DATA: Sensors show five life signs aboard the station, Captain.
+RIKER: The station complement was nineteen.

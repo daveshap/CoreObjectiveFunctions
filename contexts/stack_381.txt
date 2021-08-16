@@ -1,0 +1,1 @@
+Why do I have to shrink the C drive partition of windows to install Ubuntu in dual boot? Install Ubuntu alongside Windows option appears only when unallocated space has been shrunk from C drive of Windows.Why does it have to be only 4 drives including unallocated to dual boot?

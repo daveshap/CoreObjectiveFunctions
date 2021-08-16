@@ -1,0 +1,1 @@
+Right-click convert PDF to JPG? Looking for an easy way for one of my employees to convert PDF files to a JPG. I can do something in CLI, but he can't. It has to either be automated (less desirable), or a right click convert thing.The reason being so that he can download a PDF from his email, and print it on a Zebra printer in glabel.Suggestions?

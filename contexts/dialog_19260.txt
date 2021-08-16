@@ -1,0 +1,14 @@
+MCCOY: Hey, bro.
+CASE: It's Case. Remember me?
+MCCOY: Case... Yeah, Miami Joeboy, quick study. How you doing, kid?
+CASE: Fine, Dixie. Fine.
+MCCOY: Last I heard you cracked Sukura International. I couldn't believe it.
+CASE: Yeah. That was me.
+MCCOY: Jesus Christ, Kid. Nobody's ever cracked Sukura.
+CASE: As far as they know, that's absolutely true.
+MCCOY: Ya learned good. So, what's happening?
+CASE: That's a good question. What's the last thing you remember?
+MCCOY: Nothin'. Not a goddamn thing. What the fuck...
+CASE: Dixie, you know how a ROM construct works?
+MCCOY: Sure, Kid. It's a firmware construct.
+CASE: Okay, Dix. You _are_ a ROM construct.

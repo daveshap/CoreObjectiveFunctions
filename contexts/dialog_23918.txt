@@ -1,0 +1,22 @@
+PADEN: Nifty.
+STELLA: The world is what you make of it, friend. If it doesn't fit, you make alterations.
+PADEN: I'll drink to that. Will you join me, Miss --
+STELLA: Stella.
+PADEN: Paden.
+PADEN: Stella... Are you the midnight star herself?
+STELLA: I am. I'm always there, but I only shine at night.
+PADEN: My compliments to you, Miss Stella. This is what I call a saloon.
+STELLA: Thanks. That's what I call it too.
+PADEN: And I know what I'm talking about.
+STELLA: You like a good saloon?
+PADEN: It's the only place I'm happy.
+STELLA: Me too. What's wrong with us?
+PADEN: You wouldn't be needing any help around here, would you? Maybe with the gambling?
+STELLA: You see that fellow over there in the gray coat?
+STELLA: That's Kelly, my so-called partner. He runs that side.
+PADEN: So-called?
+STELLA: Yeah, aside from being a loud-mouthed, lying cheat, he's just the man I would have picked.
+PADEN: Why'd you go into business with him?
+STELLA: I don't own this place. The man who does stuck me with Kelly.
+PADEN: Who's the owner?
+STELLA: Here he comes right now.

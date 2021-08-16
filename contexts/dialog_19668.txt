@@ -1,0 +1,9 @@
+TAXI DRIVER: Where to, madame?
+NINOTCHKA: Can you recommend a restaurant?
+TAXI DRIVER: Well, there's Pruniers if you care for seafood. If you want to lunch in the Bois, there's...
+NINOTCHKA: Where do you eat?
+TAXI DRIVER: At Père Mathieu's.
+NINOTCHKA: Where is that?
+TAXI DRIVER: It's just a place for workmen.
+NINOTCHKA: Where is it?
+TAXI DRIVER: Eight blocks down in the Rue de Poivrel.

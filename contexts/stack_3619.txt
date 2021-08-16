@@ -1,0 +1,1 @@
+Should I refresh access token There is a case when a specific authorized user changes his password or email. As email or password is part of user authentication, I think that it is necessary to revoke all auth tokensBut, how to best practice to refresh auth token in this case?

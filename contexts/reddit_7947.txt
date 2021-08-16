@@ -1,0 +1,6 @@
+Documenting code... Do you always do it?
+I just started my first semester of grad school doing computational biology. I have joined a lab, and this is really the first time I’ve programmed as more than just a hobbyist. I’ve always been anal about commenting code, but it seems that most people in the lab don’t. 
+
+Also, our PI is always encouraging us to complete as much as possible each week. So, it seems natural to skimp out on comments for the sake of speed. 
+
+Does anyone have advice on how they document code or what impacts undocumented code may have on publishing results?

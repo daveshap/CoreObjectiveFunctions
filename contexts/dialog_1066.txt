@@ -1,0 +1,11 @@
+JUDGE: Your name, please.
+MCCORD: James McCord.
+JUDGE: Will you step forward, sir.
+JUDGE: And what is your occupation, Mr. McCord?
+MCCORD: Security consultant.
+JUDGE: Where?
+MCCORD: Government. Recently retired.
+JUDGE: Where in government?
+MCCORD: ...Central... Intelligence... Agency...
+JUDGE: Where?
+MCCORD: The C.I.A.

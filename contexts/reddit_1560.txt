@@ -1,0 +1,8 @@
+We Built an Ivy Rejection Simulator (to help you prepare for the real thing)
+u/protiumoxide and I have built a website that allows you to simulate rejections from any Ivy League university (and a few other T20s).
+
+**Here’s the site:** [**https://ivyhub.org/decision-letters/**](https://ivyhub.org/decision-letters/)
+
+To simulate a rejection, click on the college you would like to simulate, and then click on the “Click Here To Simulate The Rejection Experience” button.
+
+Let us know what you think, and good luck to you all!

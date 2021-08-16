@@ -1,0 +1,5 @@
+BEAUREGARD: Looks like the curse is still at work.
+CUTHBERT: The claws are sharp... I must have cut myself. Better move these crates to the secure storage area where they'll be safe.
+BEAUREGARD: Don't know if it'll do any good, Mr. Cuthbert.
+CUTHBERT: Why not?
+BEAUREGARD: No one broke into this room, sir. Someone broke out. That lock was torn off from the <u>inside</u>.

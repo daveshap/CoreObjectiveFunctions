@@ -1,0 +1,8 @@
+TREVES: Are you the proprietor?
+OWNER: And who might you be, sir?
+TREVES: Just one of the curious. I'd like to see it.
+OWNER: I don't think so. No sir, we're closed.
+TREVES: I'd pay handsomely for a private showing. Are you the proprietor?
+OWNER: Handsomely?... Who sent you?
+TREVES: Pardon me?
+OWNER: Never mind. I'm the owner.

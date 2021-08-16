@@ -1,0 +1,1 @@
+MongoDB multiple Cluster data sync Can we have this type of configuration?1)MongoDB - Multiple cluster data synchronizing master to master2)MongoDB - Multiple cluster DR3)MongoDB - Multiple cluster Blue-green deployment

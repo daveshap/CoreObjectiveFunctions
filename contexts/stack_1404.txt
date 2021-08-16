@@ -1,0 +1,1 @@
+Want to convert 14.8v to 5v at Max 30 Amp current draw I want to convert 14.8v to 5v at Max 30 Amp current draw. IS this possible using resistors?? I don't know that how much current a resistors can draw without any circuit issue.

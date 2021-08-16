@@ -1,0 +1,21 @@
+WALTON: You're awake. I've prepared some broth. It'll help restore you.
+VICTOR: I'm... dying.
+VICTOR: Frostbite. Gangrene. A simple diagnosis.
+WALTON: Are you a physician?
+VICTOR: How is it you come to be here?
+WALTON: There's a startling question, coming from you. I'm captain of this ship. We sailed from Archangel a month ago, seeking a passage to the North Pole.
+VICTOR: Ah. An explorer.
+WALTON: Would-be. I'm plagued with my share of difficulties just at the moment.
+VICTOR: I heard.
+WALTON: I can't say I blame them. We're trapped in this ice and bedeviled by some sort of... creature.
+VICTOR: Creature? A... human like creature?
+WALTON: You know of it?
+VICTOR: Your men are right to be afraid.
+WALTON: Then explain it, whatever it is. It could save the voyage. I've spent years planning this. My entire fortune.
+VICTOR: You'd persist at the cost of your own life? The lives of your crew?
+WALTON: Lives are ephemeral. The knowledge we gain, the achievements we leave behind... those live on.
+VICTOR: Do you share my madness?
+WALTON: Madness?
+VICTOR: We are kindred, you and I. Men of ambition. Let me tell you all that I have lost in such pursuits. I pray my story will come to mean for you all that is capricious and evil in man.
+WALTON: Who are you?
+VICTOR: My name is Frankenstein...

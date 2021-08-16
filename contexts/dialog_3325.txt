@@ -1,0 +1,6 @@
+CHANCE: Do you know Raphael?
+BILLINGS: No sir, I don't believe I do.
+CHANCE: Oh. I have a message for him.
+BILLINGS: Yes, sir.
+CHANCE: A Black man gave me the message.
+BILLINGS: Well, I still don't believe I know the man, Mr. Gardiner. Now, hold still.

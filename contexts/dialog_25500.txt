@@ -1,0 +1,10 @@
+DATA: Starfleet intelligence was only able to provide a partial account of his military record. We can infer he is relatively young and a capablecommander. He fought seventeen major engagements in the war. All successful. Beyond that, we know nothing.
+PICARD: Well... it seems we're truly sailing into the unknown. Keep at it. Anything you can give me would be appreciated. Dismissed.
+DATA: At present he serves no useful function. Dr. Soong created us to become active and useful members of society. I do not believe he would have wanted the B-9 to live out his life in his present state.
+GEORDI: I can't believe the Captain went along with a memory download.
+DATA: Captain Picard agrees that the B-9 was probably designed with the same self-actualization parameters as myself. If my memory engrams are successfully integrated into his positronic matrix, he should have all my abilities.
+GEORDI: He'd have all your memories too. You feel comfortable with that?
+DATA: I feel nothing, Geordi. It is my belief that with my memory engrams he will be able to function as a more complete individual.
+GEORDI: An individual more like you, you mean.
+DATA: Yes.
+GEORDI: Maybe he's not supposed to be like you. Maybe he's supposed to be just like he is.

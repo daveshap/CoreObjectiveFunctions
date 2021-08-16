@@ -1,0 +1,3 @@
+HARRIMAN: We don't have a tractor beam.
+KIRK: You left spacedock without a tractor beam?
+HARRIMAN: It won't be installed until Tuesday. Ensign Sulu, try generating a subspace field around the ships. That might break them free.

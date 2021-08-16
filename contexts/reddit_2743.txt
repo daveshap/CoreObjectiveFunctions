@@ -1,0 +1,6 @@
+I made a script that tailors my resume to a job position. Am I cheating?
+Hi! I'm rather designer, not a developer but I wrote a script (javascript + PHP) that modifies my resume to any designer/developer position by searching key terms or key phrases in a job description.  I made my resume in JSON structure for fast modification (inserting or deleting skills). I also use parsed job descriptions from Indeed/Jooble to teach my super-easy ML-algorithm (it helps me to search more key phrases and skills from different sources)
+
+&#x200B;
+
+So... Am I cheating with recruiters and automated resume checkers? Is it legal?

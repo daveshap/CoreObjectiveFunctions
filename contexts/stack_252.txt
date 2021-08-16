@@ -1,0 +1,1 @@
+Mac Pro 1,1 Ethernet not working, How do diagnose the problem I have a Mac Pro model 1,1 which used to work with Ethernet pluged into either RJ45 socket. It now does not recognize either connection.Since this could be physical or sortware, how can I further diagnose the problem?

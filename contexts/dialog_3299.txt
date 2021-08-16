@@ -1,0 +1,19 @@
+BETELGEUSE: Cookie, they are dead, dead, deadski.
+LYDIA: Of course they're dead. They're ghosts.
+BETELGEUSE: No, I mean they've gone. Decamped. Split. Vanished.
+LYDIA: Where'd they go?
+BETELGEUSE: The happy hunting ground. Who cares?
+LYDIA: Are you a spirit too?
+BETELGEUSE: Sort of. High spirit. Heh heh. Listen, cookie, I've been trapped in this burg for hundreds of years. All I want is to get out.
+LYDIA: I want to get in.
+BETELGEUSE: You do? Over here? On <u>my</u> side?
+LYDIA: I think so.
+BETELGEUSE: Well, yes, of course. It's great over here. You'll meet all the greats. James Dean. Buddy Holly. 'The little things a you say and do... make me want to be with you-a-hoo.'
+LYDIA: Well, it can't be any worse than my life here.
+BETELGEUSE: That's right. They treat you like scum I bet?
+LYDIA: Yeah.
+BETELGEUSE: I can't help you from this side, but here's how we do it. So <u>simple</u>. Say my name three times. That's all. I'll be all yours. Then I'll bring you over here in style.
+LYDIA: I... I don't know what your name is.
+BETELGEUSE: Minor problem. The rules. I can't tell it to you. But... do you know how to play charades?
+LYDIA: Yes.
+BETELGEUSE: Of course you do.

@@ -1,0 +1,18 @@
+DUPONT: Mr. Gardiner, how very nice to have you with us this evening.
+CHANCE: Yes.
+DUPONT: I'd like to thank you for filling in on such short notice for the Vice President.
+CHANCE: You're welcome.
+DUPONT: I always find it surprising, Mr. Gardiner, to find men like yourself, who are working so intimately with the President, yet manage to remain relatively unknown.
+CHANCE: Yes. That is surprising.
+DUPONT: ... Well, your anonymity will be a thing of the past from now on.
+CHANCE: I hope so.
+DUPONT: Yes... Of course, you know, Mr. Gardiner, that I always prefer an open and frank conversation with my guests, I hope you don't object to that.
+CHANCE: No. I don't object.
+DUPONT: Fine, then let's get started. The current state of our country is of vital interest to us all, and I would like to know if you agree with the President's view of the economy?
+CHANCE: Which view?
+DUPONT: Come now, Mr. Gardiner, before his speech at the Financial Institute the President consulted with you and Benjamin Rand, did he not?
+CHANCE: Yes. I was there with Ben.
+DUPONT: I know that, Mr. Gardiner.
+CHANCE: Yes.
+DUPONT: Well, let me rephrase the question; the President compared the economy of this country to a garden, and stated that after a period of decline a time of growth would naturally follow. Do you go along with this belief?
+CHANCE: Yes, I know the garden very well. I have worked in it all my life. It is a good garden and a healthy one; its trees are healthy and so are its shrubs and flowers, as long as they are trimmed and watered in the right seasons. The garden needs a lot of care. I do agree with the President; everything in it will grow strong, and there is plenty of room in it for new trees and new flowers of all kinds.

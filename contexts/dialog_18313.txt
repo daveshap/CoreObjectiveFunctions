@@ -1,0 +1,9 @@
+ALL: I see. Yes, of course.
+BEDEVERE: So how can we tell if she is made of wood?
+FIRST VILLAGER: Make a bridge out of her.
+BEDEVERE: Ah ... but can you not also make bridges out of stone?
+ALL: Ah. Yes, of course ... um ... err ...
+BEDEVERE: Does wood sink in water?
+ALL: No, no, It floats. Throw her in the pond Tie weights on her. To the pond.
+BEDEVERE: Wait. Wait ... tell me, what also floats on water?
+ALL: Bread? No, no, no. Apples .... gravy ... very small rocks ...

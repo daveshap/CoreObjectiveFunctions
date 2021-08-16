@@ -1,0 +1,16 @@
+Where to obtain PDF copies of BMJ articles/sections unavailable on BMJ.com (or unavailable on PMC pre-2008)?
+Hi,  I was wondering about where I might be able to source sections of the  BMJ as PDFs, that are presently only available in online non-PDF form on  [BMJ.com](https://bmj.com/).
+
+For instance, the article,
+
+Midmer, D. Cinemeducation: a comprehensive guide to using film in medical education. BMJ 2005; 330 doi: [https://doi.org/10.1136/bmj.330.7503.s232-a](https://doi.org/10.1136/bmj.330.7503.s232-a)
+
+(available at [https://www.bmj.com/content/330/7503/s232.2](https://www.bmj.com/content/330/7503/s232.2)) is provided in webpage form with no PDF links.
+
+Being  a pre-2008 article, most articles would be on Pubmed Central. But I  have found that this and some others like it, specifically those that  don't have page-number suffixes (in this case: 's232-a'), are not  available on PMC either (in this case, [https://www.ncbi.nlm.nih.gov/pmc/issues/18603/](https://www.ncbi.nlm.nih.gov/pmc/issues/18603/)). Have I misunderstood its location within PMC? Or is truly not there?
+
+And what are the options to obtain PDFs of post-2008 articles that are not available as PDFs on BMJ.com?
+
+Hence,  my query is, whether and how it might be possible to obtain PDFs of  such articles (without scanning the physical journal itself).?
+
+Thank you.

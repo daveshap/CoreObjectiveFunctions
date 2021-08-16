@@ -1,0 +1,5 @@
+KIRK: Row
+SPOCK: That song did not come up in my research, Captain.
+KIRK: The lyrics are - are very simple. It's, er, Row
+KIRK: Come on, Spock. Why didn't you jump in?
+SPOCK: I was trying to comprehend the meaning of the words.

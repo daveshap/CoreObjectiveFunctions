@@ -1,0 +1,1 @@
+Cassandra Cluster storage I want to try out Cassandra Cluster. My main question is about scalability.Every node in a Cassandra cluster has the same copy of data. So when I have in total 1 TB and have 5 nodes -> 5TB.This at some point will get huge. How do I scale Cassandra so that the storage can be distributed? Do I need to shard manually then again?

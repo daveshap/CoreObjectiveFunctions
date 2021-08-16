@@ -1,0 +1,1 @@
+Does a bitlocker pin become part of the key? I recently added a pin to my bitlocker encryption and this seemed to be pretty much instant. In what way is this pin an actual part of the key that is needed to decrypt the hard drive? Or is it used to decrypt the actual key itself (in combination with information from the TPM) before decrypting the actual hard drive?

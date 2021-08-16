@@ -1,0 +1,34 @@
+KAREN: Daniel Burdon, please. Karen Sisco.
+CHINO: Excuse me, Adele?
+ADELE: Yes.
+CHINO: You do the sawing of the box in half trick with you inside?
+ADELE: Yes.
+CHINO: Tell me, how do you do that?
+KAREN: Shut up.
+BURDON: Karen. Where are you? I been trying to get a hold of you.
+KAREN: Daniel. Listen --
+BURDON: Where are you? I been trying to reach you.
+KAREN: I'm at Adele Delisi's.
+BURDON: What-- we already talked to her. That's a dead end.
+KAREN: Yeah, I know. I was just leaving. Why were you trying to reach me?
+BURDON: There was a Buddy Bragg at Lompoc around the same time Foley was there. We got an address for him at the Adams Hotel in Hallandale. I want you to go there, see if you can get the manager to i.d. him as the other guy. If he does, you call me right away...
+KAREN: All right, but...
+BURDON: But don't you <u>do</u> anything. You just have a seat, wait for me to get there.
+KAREN: Sure, Daniel.
+BURDON: Now. What is it you wanted to tell me?
+KAREN: Oh, I was just wondering, if I were to bring in Chirino, would you put me on the task force?
+BURDON: What? Is that what you're calling me about?
+KAREN: Yes or no, Daniel. If I get him, will you let me go after Foley?
+BURDON: Yeah, sure, Karen. You bring in Chirino, you can be on the task force.
+KAREN: That's all I wanted to know.
+BURDON: Good. Now forget about the ex-wife and get over to the Adams Hotel.
+ADELE: You're good.
+KAREN: Thank you.
+FOLEY: First thing we do, we get to Detroit, we find Glenn, then we find a window to throw him out of.
+BUDDY: I been thinkin', if I was Glenn, I was up there to take down the Ripper, where would I go?
+FOLEY: Well, first off, if you were Glenn, you wouldn't be thinking.
+BUDDY: Remember Snoopy Miller, his old pal from Lompoc?
+FOLEY: Snoopy. Christ, I thought he'd be brain dead by now.
+BUDDY: He isn't fighting no more. Glenn told me the Snoop's been managing some guys up there now, works out at the Kronk.
+BURDON: You get the key?
+KAREN: They're in 7D.

@@ -1,0 +1,1 @@
+Install Ubuntu with Win10 on different SSD I have Win10 installed on a m.2 SSD. I bought a new SATA ssd for ubuntu. Should I choose \"Install alongside Win10\" or \"Erase and install Ubuntu\" for the new SSD?

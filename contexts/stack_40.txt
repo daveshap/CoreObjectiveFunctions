@@ -1,0 +1,1 @@
+Prevent duplicate tabs in Xcode editor In Xcode editor, is there a way to open files in a new tab only if one is not already present, and if it is, then switch to that tab. If it isn't possible to do so via the preference settings, can it be done via script?

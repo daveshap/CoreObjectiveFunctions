@@ -1,0 +1,20 @@
+Google, Facebook, Amazon and Apple have all come under increased scrutiny from regulators and lawmakers. What powers have officials invoked to break-up and investigate large companies in the past? Specific to these tech companies, what have officials said they'd like to do?
+Tech companies have come under [increased scrutiny from Washington](https://www.nytimes.com/2019/06/03/technology/facebook-ftc-antitrust.html).
+
+From both regulators:
+
+> ...the Justice Department has agreed to handle potential antitrust investigations related to Apple and Google, while the Federal Trade Commission will take on Facebook and Amazon.
+
+And lawmakers:
+
+> Lawmakers in the House said on Monday that they were looking into the tech giants’ possible anti-competitive behavior. That could lead to the first overhaul of antitrust rules in many decades, an effort to keep up with an industry that didn’t exist when antitrust laws were written.
+
+The stock values of Amazon, Google, Facebook and Apple did [not respond well to this news](https://www.nbcnews.com/tech/tech-news/amazon-google-facebook-shares-tumble-antitrust-concerns-n1013256).
+
+---
+
+I have a couple of questions on this topic:
+
+1: What powers have regulators and lawmakers invoked to break-up and/or investigate large companies in the past?
+
+2: Specific to Facebook, Google, Amazon and Apple, what have officials said they would like to do?

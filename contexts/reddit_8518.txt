@@ -1,0 +1,45 @@
+Does the DOJ - or anyone - have the power to restrict Mueller's Congressional testimony?
+U.S. Special Counsel Robert Mueller, who issued a report in April on Russian meddling in the 2016 presidential election, will testify in open session before the House of Representatives Judiciary and Intelligence Committees on July 24th. [Quoting Reuters](https://www.reuters.com/article/us-usa-trump-mueller/u-s-special-counsel-mueller-to-testify-before-house-panels-on-july-17-statement-idUSKCN1TR04Y) for some background:
+
+> Representative Jerrold Nadler, chairman of the judiciary panel, and Representative Adam Schiff, head of the intelligence panel, said in a joint statement that Mueller had agreed to testify after the two committees issued subpoenas
+
+...
+
+> Mueller’s 448-page report, released publicly in April, found Russia meddled in the 2016 presidential election and that Republican President Donald Trump’s election campaign had multiple contacts with Russian officials.
+> 
+> But the report found insufficient evidence to establish a criminal conspiracy between the campaign and Moscow.
+> 
+> The report, which was partially redacted, also outlined instances in which Trump tried to interfere with Mueller’s investigation, but declined to make a judgment on whether that amounted to obstruction of justice.
+> 
+> Mueller, in his first public comments since starting the two-year investigation, said on May 29 that his probe was never going to end with criminal charges against Trump and indicated it was up to Congress to decide whether he should be impeached.
+> 
+> “If we had confidence that the president clearly did not commit a crime, we would have said so,” Mueller said. “We did not, however, make a determination as to whether the president did commit a crime.”
+
+&nbsp;
+
+&nbsp;
+
+
+[Today (Monday, 22 July)](https://www.reuters.com/article/us-usa-trump-mueller/u-s-justice-department-tells-mueller-to-limit-congressional-testimony-idUSKCN1UH2KI):
+> 
+> The U.S. Justice Department told former Special Counsel Robert Mueller on Monday he should limit his testimony before Congress this week to discussing his public report on the Russia probe.
+> 
+> In a letter to Mueller, Associate Deputy Attorney General Bradley Weinsheimer said his testimony set for Wednesday “must remain within the boundaries of your public report because matters within the scope of your investigation were covered by executive privilege.”
+> 
+> The letter said “these privileges would include discussion about investigative steps or decisions made during your investigation not otherwise described in the public version of your report.”
+
+ 
+&nbsp;
+
+&nbsp;
+
+**To what degree does the DoJ have the legal authority to limit Mueller's testimony?** In particular (example questions cribbed from [NYT](https://www.nytimes.com/interactive/2019/07/22/us/politics/mueller-testimony-questions.html)),
+
+1. Can DoJ forbid him from responding to questions about the *conduct* of the investigation? e.g., "Why didn’t you subpoena the president?"
+1. Can DoJ forbid him from responding to questions about his *opinion about* the investigation? e.g., "Do you think the president was candid in his responses?" or "If Mr. Trump were an ordinary citizen, would you have found that there was sufficient evidence to charge him with obstruction of justice?" or "Your report noted the importance of preserving evidence of possible obstruction of justice by the president. For what purpose? Were you contemplating possible prosecution of the president by future prosecutors, once he left office?"
+1. Can DoJ forbid him from responding to questions about Mueller's *intent* during the investigation? e.g., "Did you intend for your report to serve as a referral for Congress for possible impeachment proceedings?"
+1. Can DoJ forbid him from responding to questions about his conduct *after* the investigation? e.g., "What did you write in the first letter you sent to Mr. Barr, and what did you tell him when you met?"
+
+&nbsp;
+
+**Edit**: slight formatting change.

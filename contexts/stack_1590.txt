@@ -1,0 +1,1 @@
+How to use Antenna to amplify RFID read range? I'm using a RC522 with Arduino to test a RFID application but I want to amplifiy this range to read sort of 1-3m. I don't have experience with this so I want know if this is possible, or other alternative to solve my problem. I found some antennas in the web search, but I not sure if this works like I want.

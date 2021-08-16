@@ -1,0 +1,9 @@
+CALLOWAY: My name is Calloway.
+MARTINS: Martins.
+CALLOWAY: You a friend of Lime's?
+MARTINS: Yes.
+CALLOWAY: Been here long?
+MARTINS: No.
+CALLOWAY: You've had a bit of a shock, haven't you? You could do with a drink.
+MARTINS: Could you buy me one. I haven't got any Austrian kroners. Thanks.
+CALLOWAY: Schmolka!

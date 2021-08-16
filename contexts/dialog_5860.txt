@@ -1,0 +1,5 @@
+ESCOBAR: Hello, Jake.
+GITTES: How are you, Lou?
+ESCOBAR: I have a cold I can't seem to shake but other than that, I'm fine.
+GITTES: Summer colds are the worst.
+ESCOBAR: Yeah, they are.

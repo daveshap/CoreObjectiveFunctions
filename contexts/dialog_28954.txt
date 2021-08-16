@@ -1,0 +1,6 @@
+MARY: Oh, Mr. Den-n-by!
+DENBY: Everyone but me--what do you want now, Mary?
+MARY: I feel better now--I've got a riddle! When is a plate of bean soup not a plate of bean soup?
+DENBY: All right. When <U>is</U> a plate of bean soup not a plate of noodle soup?
+MARY: When it falls off the table and turns turtle--Cute?
+DENBY: Mary--fall off the boat and turn to the left--

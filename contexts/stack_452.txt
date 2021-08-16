@@ -1,0 +1,1 @@
+Android emulator independent of Virtual Box/VM-ware capability While searching for an Android emulator I found \"Genymotion\" or \"AndroVM\" which I can't use because my Laptop is not capable of running virtual machines.  I need an emulator independent of VM's like Virtual Box, prefer options like GPS or Android device configurations.

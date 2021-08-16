@@ -1,0 +1,7 @@
+COLWYN: Take the western passage.
+LYSSA: All directions are the same here.
+YNYR: The spiral begins in the west.
+COLWYN: Where the spiral begins.
+LYSSA: Yes.
+COLWYN: Move quickly. We are coming for you. We are in the Fortress.
+LYSSA: I knew you would come.

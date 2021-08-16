@@ -1,0 +1,7 @@
+Have countries with diminishing populations adopted policies to ameliorate the demographic changes?
+The total fertility rate ([TRF](https://en.wikipedia.org/wiki/Total_fertility_rate)) of the United States has been steadily declining [since 2010](https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_13-508.pdf) and as of 2018 stands at [1.73](https://www.pewresearch.org/fact-tank/2019/05/22/u-s-fertility-rate-explained/). In the US, a TFR of 2.08 is believed to be the  [replacement level](https://en.wikipedia.org/wiki/Total_fertility_rate#Replacement_rates) or the rate needed to sustain a population levels. 
+
+However this issue is not unique to the United States. In 2014, Japan's [estimated population](https://en.wikipedia.org/wiki/Aging_of_Japan) was 127 million. Current predictions expect that number to decrease by 24% to 97 million by 2050. Similar falls in fertility rates are seen [across Europe](https://www.theguardian.com/world/2015/aug/23/baby-crisis-europe-brink-depopulation-disaster). Given these global trends
+
+* What are there known impacts of a declining population? Are there specific economic impacts? 
+* Have countries with diminishing populations adopted policies to ameliorate the demographic changes? Is there evidence characterizing their effectiveness?

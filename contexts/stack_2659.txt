@@ -1,0 +1,1 @@
+How can I create RGB composite from a set of rasters I have a lot of 4 bands rasters with bands: blue-green-red-NIR, and I need to create 3 bands rasters with bands: red-green-blue. How I can automizate this process using QGIS?

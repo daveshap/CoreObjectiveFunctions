@@ -1,0 +1,1 @@
+How to visualize multiband imagery using rasterio? How do I plot a satellite image using rasterio? I'm able to plot the individual bands but not the entire image. Is there a way to combine the separate R, G, B numpy arrays to create a standard RGB image?

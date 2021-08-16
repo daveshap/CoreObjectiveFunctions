@@ -1,0 +1,1 @@
+Make Raster Layer with Overlapping Images I am trying to set up a template which will display different maps based on layer definitions. One of the layers is a raster layer. Is it possible to combine a number of overlapping images into a single layer so specific images can be selected with a definition query?

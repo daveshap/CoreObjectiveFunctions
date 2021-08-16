@@ -1,0 +1,18 @@
+HEYWARD: How far is it, scout?
+HAWKEYE: Day and a half Where did you get... the guide?
+HEYWARD: Colonel Munro sent him. He was one of our Mohawk allies.
+HAWKEYE: He is Huron and nothing else. Why would he want to murder the girl?
+HEYWARD: What?!
+HAWKEYE: Dark haired...
+HEYWARD: Miss Cora Munro. He never set eyes on her before today.
+HAWKEYE: No blood vengeance? No re-proach or insult?
+HEYWARD: Of course not! And how is it you were nearby?
+HAWKEYE: Came across the war party, tracked 'em.
+HEYWARD: Then you're assigned to Fort William Henry?
+HAWKEYE: No.
+HEYWARD: Fort Edward, then?
+HAWKEYE: No. Headin' west. To Can-tuck-ee.
+HEYWARD: I thought all our colonial scouts were in the militia?
+HAWKEYE: I ain't your scout". And I am in no damn militia."
+HEYWARD: Then you are one of those who would allow England to fight alone while she protects you from France?
+HAWKEYE: England does not protect me and does not war against France on our account. She uses us to war against France on her own account... of greed for land and furs.

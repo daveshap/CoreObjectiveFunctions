@@ -1,0 +1,6 @@
+BILLY: How was your trip? Profitable?
+GRANT: We'll be broke in four weeks.
+BILLY: Three weeks. I had to rent some equipment.
+GRANT: You rented an automated litter box.
+BILLY: It's a rapid prototyper. I feed in the scan data from the raptor skull, than the computer breaks it into thousands of slices which this thing prints, one layer on top of the other. It's the future of paleontology.
+GRANT: Not if it can't dig.

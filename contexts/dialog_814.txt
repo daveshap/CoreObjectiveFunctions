@@ -1,0 +1,19 @@
+STANDARD: Find anything we missed?
+ROBY: I don't even know what I'm looking for.
+STANDARD: Still worried?
+ROBY: Oh well... you know me.
+STANDARD: I've always respected your opinion, Martin. If something worries you, it worries me.
+ROBY: What would you say that was supposed to mean?
+STANDARD: Well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...
+ROBY: But why draw it on the wall?
+ROBY: This ship is full of cat hair.
+STANDARD: Tell you what, Martin. As soon as the engine's fixed --
+STANDARD: This is Chaz.
+BROUSSARD: Chaz, this is Dell. Can you come topside for a minute?
+STANDARD: What's up?
+BROUSSARD: Well, the sun just came up again, and it seems the wind's died down. It's as clear as a bell outside. There's something I think you ought to see.
+STANDARD: I'm on my way.
+STANDARD: What is it?
+BROUSSARD: Take a look.
+BROUSSARD: I was scanning the horizon to see what I could pick up. Look there, on that screen.
+STANDARD: What is it, I can't --

@@ -1,0 +1,1 @@
+Unable to install android studio ubuntu 17.10 From terminal unable to locate package error.I have already added repository.

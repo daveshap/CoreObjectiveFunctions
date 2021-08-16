@@ -1,0 +1,3 @@
+KIRK: Spock... Did braking thrusters fire?
+SPOCK: They did, Admiral.
+KIRK: Then... Where the hell are we?

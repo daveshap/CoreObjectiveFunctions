@@ -1,0 +1,1 @@
+How can i recover my sudo passaword? I have already tried the root solution on the GBU thing, but it ask for the password:\"Give root password for maintenance (or press control-D to continue)\" Do you guys know any other way to recover it?I use ubuntu 17.04

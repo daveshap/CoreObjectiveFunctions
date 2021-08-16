@@ -1,0 +1,4 @@
+RIKER: Report.
+TROI: We just lost main power... and we've got Class-Three alerts all over the ship. I'm not sure what's --
+WORF: A ship-wide decompression has been initiated!
+RIKER: What?

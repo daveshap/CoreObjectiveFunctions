@@ -1,0 +1,8 @@
+WEIR: That's the engineering containment. And there's the main airlock. We can dock there.
+MILLER: Smith, use the arm and lock us onto that antennae cluster.
+WEIR: Be careful. It's not a load bearing structure...
+SMITH: It is now. We're locked in.
+MILLER: Starck, give me a read.
+STARCK: The reactor's still hot. We've got several small radiation sources, leaks probably. Nothing serious.
+WEIR: Do they have pressure?
+STARCK: Affirmative. The hull's intact... but there's no gravity and the thermal units are off line. I'm showing deep cold. The crew couldn't survive unless they were in stasis.

@@ -1,0 +1,1 @@
+Spatial distribution based on point data I have a specified geometric boundry with three data sets that correspond to rainfall measurements at three stations of which two are outside of the geometry and one inside. I would like to find a rainfall distribution (no matter how approximate it is) for the whole geometry according to these three data sets. How could I do this?

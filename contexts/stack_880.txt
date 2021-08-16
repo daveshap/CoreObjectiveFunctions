@@ -1,0 +1,1 @@
+How to update Qt from 5.5.1 to 5.9.5 on Ubuntu 16.04 Currently, Ubuntu 16.04 has Qt up to 5.5.1 while Ubuntu 18.04 has Qt up to 5.9.5. Currently I'm forced to use Ubuntu 16.04, however, I need to use a program that needs Qt 5.9. How could I update Qt to version 5.9.5?Note that I'm configuring it on a docker container. This means that the solution shouldn't involve GUI.

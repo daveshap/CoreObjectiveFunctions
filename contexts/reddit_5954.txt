@@ -1,0 +1,16 @@
+Does a boot camp make sense for me? (x-post cscareerquestions)
+Hey all.
+
+I'm a 35 year old guy who was told a couple of weeks ago that he's being let go. I was a consultant for a very boutique firm, specializing in fleet management. About 5 years ago, I received my MBA with a concentration in Supply Chain & Analytics. I'm currently interviewing at a few places. I have 3 second round interviews coming up this week, mostly in the consulting space (but for which, I'm kind of meh about).
+
+​
+
+I didn't get a chance to build a ton of skills at the current role, focusing mainly on Excel and Lime Survey. I did get a chance to write reports, so my communication and writing skills are pretty strong. I also got the opportunity to visit with clients face to face. I have some PM experience in my background as well.
+
+​
+
+I'm trying to determine next steps. I believe tech is going to continue to grow but, outside of some SQL and Tableau lessons I took a year and a half ago, I have virtually no coding skills. No Python. No R. No VBA.
+
+​
+
+My question is this: would a bootcamp make sense for me? I could see myself being a data scientist or senior data scientist pretty easily. I have about 15K saved up and can move anywhere. That being said, would it make sense to take a pay cut for a couple of years in exchange for a broader set of coding skills? Thanks in advance.

@@ -1,0 +1,29 @@
+CLERK: Gate three. It's boarding now.
+JENNY: Thank you.
+CLERK: Have a nice trip.
+JENNY: The closest I was able to get you was Lathrop Wells...
+STAR MAN: Is that a baby?
+JENNY: Yes.
+STAR MAN: A baby is a new person?
+JENNY: Eh... yes...
+STAR MAN: Do you have a baby?
+JENNY: No... The closest...
+STAR MAN: Why?
+JENNY: I'd love to have a baby. But I can't...
+STAR MAN: Why?
+JENNY: I can't... Forget the baby. Okay? The closest I was able to get you was Lathrop Wells. You'll have to hitchhike the rest of the way.
+STAR MAN: But I must go here.
+JENNY: I know that. But the buses don't go there.
+STAR MAN: What is hitchhike?
+JENNY: That's easy. I'll explain that in a minute. This is your ticket. When you get on the bus here, the driver will take this part. You will ride to Omaha. When you get to Omaha, ask the driver. 'Salt Lake City, please. I do not speak English.'
+JENNY: Say it.
+STAR MAN: 'Salt Lake City, please. I do not speak English.'
+JENNY: The driver will...
+STAR MAN: But I speak English.
+JENNY: Will you please do it my way? You'll get into trouble if you don't. If anybody talks to you, tell them... I do not speak English.
+STAR MAN: I do not speak English.
+JENNY: Right. In Omaha the driver will put you on the bus for Salt Lake City and the new driver will take... ...this part. When you get to Salt Lake City, ask the driver, 'Las Vegas, please'...
+STAR MAN: 'Las Vegas, please. I do not speak English.' What is hitchhike?
+JENNY: You want this ticket?
+STAR MAN: Yes.
+JENNY: Then don't be smart.

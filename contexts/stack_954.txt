@@ -1,0 +1,1 @@
+Drivers on ubuntu 18.04.1 live usb.! I plan to use my live usb with persistence for Ubuntu without installing.. Made using unetbootin But I always need to set nomodeset to boot up. I updated nvidia drivers too but no use after reboot.. All drivers folders get deletedI'm even unable to use persistent data.

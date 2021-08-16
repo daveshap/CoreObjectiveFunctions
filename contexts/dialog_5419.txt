@@ -1,0 +1,7 @@
+DRIVER: You're not out of Pascagoula, are you?
+CHUCK: No.
+CHUCK: I used to drive one of those. A long time ago.
+DRIVER: Hey, once a driver, always a driver. You want a lift? I've just got one more pickup.
+CHUCK: Sure.
+DRIVER: You're Chuck Noland.
+CHUCK: Yeah.

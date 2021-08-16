@@ -1,0 +1,5 @@
+ULLMAN: Bill, I'd like you to meet Jack Torrance.
+WATSON: How do you do?
+JACK: Bill, how do you do?
+WATSON: Pleased to meet you.
+JACK: Pleasure to meet you.

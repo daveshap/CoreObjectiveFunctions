@@ -1,0 +1,6 @@
+PICARD: Signal the Endeavor to fall back. We'll cover them.
+TROI: Aye, sir.
+DATA: Dispersive armor is holding.
+PICARD: Bring us about. Target Borg ship alpha four, port side battery.
+WORF: Port battery, ready sir!
+PICARD: Fire.

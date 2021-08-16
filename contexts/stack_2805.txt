@@ -1,0 +1,1 @@
+Entanglement in double slit experiment Suppose we send 2 entangled photons through the 2 slit, does measuring the position of one of the photons affect the other particle's wave function or does the other particle still behave as a wave ?

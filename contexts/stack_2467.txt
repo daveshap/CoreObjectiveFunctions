@@ -1,0 +1,1 @@
+Saving Shapefile - Zero Features Error I am using QGIS 3.02. I opened a GDB file in QGIS and saved it as a shapefile in EPSG: 4326. Now I want to save it in EPSG: 2264 but I am running into an issue. Every time I save it as EPSG: 2264 the features disappear - QGIS produces a layer with zero features, and nothing is visible on the map.What could be the issue?

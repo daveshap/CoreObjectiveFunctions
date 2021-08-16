@@ -1,0 +1,1 @@
+Note Recovery Alternatives It appears that by switching iCloud accounts on my MacBook, ALL the notes stored in Notes.app have disappeared/been deleted. These notes were not synced with iCloud -- and Time Machine was disabled.I understand that there's a possibility that these notes still exist somewhere on my Mac HD.Where would I look for these notes? How can I restore them?

@@ -1,0 +1,1 @@
+Impact of shrinking transaction log file after transaction log backup in SQL Server In SQL Server, is there any performance issue if we shrink log file after taking the transaction log backup.If yes, then please explain the reason.

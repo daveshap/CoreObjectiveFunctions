@@ -1,0 +1,26 @@
+COP: Okay, lady. Out.
+MAUDE: Hello.
+MAUDE: Haven't we met before?
+COP: None of that, lady.
+MAUDE: Oh, well. Must have been your brother.
+COP: Out!
+MAUDE: But there is a family resemblance.
+COP: You too, Buster. Stand over here. Lady, you're in a heap of trouble. I have you down here for several violations; speeding, resisting arrest, driving without a license, driving a stolen vehicle, possession of a stolen tree... Where's the tree?
+MAUDE: We planted it.
+COP: Is this your shovel?
+MAUDE: No.
+COP: Possession of a stolen shovel.
+MAUDE: Officer, I can explain.
+COP: Lady, resisting arrest is a serious criminal offense. Under the state criminal code, section 545, paragraph 10-B...
+MAUDE: Oh, don't get officious. You're not yourself when you're officious. That's the curse of a government job.
+COP: Lady, is it true you're driving without a license?
+MAUDE: Check.
+COP: And that truck - is it registered in your name?
+MAUDE: Oh no! Not in <u>my</u> name.
+COP: Then whose name is it registered in?
+MAUDE: Well, I don't know. Do you know, Harold?
+COP: Where are the papers?
+MAUDE: I suppose they are in the truck. Are you going to take a lot of time with this?
+COP: Wait here.
+MAUDE: Because if you are...
+COP: Lady! Be quiet.

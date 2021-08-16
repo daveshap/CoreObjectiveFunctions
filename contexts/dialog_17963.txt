@@ -1,0 +1,11 @@
+WITWER: My name is Danny Witwer. I'm --
+LARA: I know who you are.
+WITWER: This your work?
+LARA: Yes.
+WITWER: I like it.
+LARA: Thanks. You take anything in your coffee?
+WITWER: Cream and sugar.
+LARA: I don't have any cream. Sorry.
+WITWER: Just sugar then. You and John ever come here?
+LARA: We used to, every summer.
+WITWER: He's not here now, is he?

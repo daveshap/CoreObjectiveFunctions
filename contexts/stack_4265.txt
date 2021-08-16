@@ -1,0 +1,1 @@
+Steam Powered Door I'm no engineer, but I was wondering how a steam-powered door would work. I want it to be difficult to open unless you know how (not a simple \"twist the doorknob and open\"). There is access to plenty of water and fire in this scenario as well.

@@ -1,0 +1,1 @@
+minimum uncertainty in measurement of position Suppose, I made a measurement of the position of an electron using a photon. How the minimum uncertainty in the measurement of the position be one wave length?Also how do we use waves to measure the position of an electron? any help will be highly appreciated.

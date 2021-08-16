@@ -1,0 +1,7 @@
+CREATURE: Mine, mine.
+LUKE: Okay, Artoo, let him have it. Now get out of here, little fellow, we've got things to do.
+CREATURE: No, no! I'll stay and help you find your friend.
+LUKE: I'm not looking for a friend. I'm looking for a Jedi Master.
+CREATURE: Oh, a Jedi Master. Different altogether. Yoda you seek, Yoda.
+LUKE: You know the Jedi Master?
+CREATURE: Of course, yes. But now eat we must. Good food, I have good food. Come, come.

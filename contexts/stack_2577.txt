@@ -1,0 +1,1 @@
+Geoserver MVT v2 Is there a geoserver extension (2.13.x) to generate MVT in spec v2 or some plan to include it within the extension or other plugins that allow to generate mvt v2?

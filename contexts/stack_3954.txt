@@ -1,0 +1,1 @@
+How to combine confidence and probability scores into a single metric I have an algorithm which outputs a confidence score and a probability score that a particular user belongs to class $C_i$, for multiple values of $i$. I want to output a single class $C_o$ as the final prediction. How do I combine these two independent metrics to output a single prediction?

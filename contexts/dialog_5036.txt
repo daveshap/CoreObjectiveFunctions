@@ -1,0 +1,23 @@
+PIKE: I been working on some stuff for you. What'cha doing?
+BUFFY: I'm going shopping. Don't try to stop me.
+PIKE: Cool. I could actually use a couple of Allen wrenches. What do you need?
+BUFFY: A dress.
+PIKE: Dress, huh? What for?
+BUFFY: For the dance.
+PIKE: Come again?
+BUFFY: I'm going to the senior dance.
+PIKE: Second word... sound like 'dance'.
+BUFFY: I'm going to the dance.
+PIKE: What for?
+BUFFY: In order to dance and to drink punch and to be with my friends. Comprende?
+PIKE: I don't believe this. The world's under attack by the legions of the undead and you're going to a mixer?
+BUFFY: It's not a mixer. It's the senior dance. And it's important. You wouldn't understand.
+PIKE: You got that right. I thought you wanted to kill vampires.
+BUFFY: I don't want to kill anybody, and I don't want to talk about it anymore.
+PIKE: Listen, I know you're bummed about your friend, and I'm really sorry...
+BUFFY: He did what he was supposed to.
+PIKE: But, Buffy, you're the guy, the chosen guy.
+BUFFY: Right. I'm the chosen one. And I choose to be shopping.
+PIKE: I should have known.
+BUFFY: Leave me alone.
+PIKE: Benny was right. You guys are all exactly the same.

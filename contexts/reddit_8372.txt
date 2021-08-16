@@ -1,0 +1,14 @@
+What does Trump's Religious Freedom Executive Order actually accomplish?
+Source for the EO: https://www.whitehouse.gov/the-press-office/2017/05/04/presidential-executive-order-promoting-free-speech-and-religious-liberty
+
+
+When reading this over, nothing really concrete stood out to me that this EO was really accomplishing. Maybe I missed some of the nuance or how this EO will play with existing laws?
+
+Section 2 says this: "In particular, the Secretary of the Treasury shall ensure, to the extent permitted by law, that the Department of the Treasury does not take any adverse action against any individual, house of worship, or other religious organization on the basis that such individual or organization speaks or has spoken about moral or political issues from a religious perspective, where speech of similar character has, consistent with law, not ordinarily been treated as participation or intervention in a political campaign on behalf of (or in opposition to) a candidate for public office by the Department of the Treasury"
+Maybe I'm getting lost on the long sentence structure, but it sounds like it's saying the DoT will not take adverse action against religious organizations when they talk about politics where that speech is not ordinarily treated as political campaigning. But it also says consistent with law. So what does that really mean? Isn't it already against the law for religious organizations to use funds to campaign? So what does this section really change?
+
+Section 3 (Conscience Protections with Respect to Preventive-Care Mandate) seemed the most concrete, but the language is written as "shall consider" - meaning that they don't have to implement anything from this EO. 
+
+Section 4 just seems to be "hey guys remember the first amendment when looking at laws, kthx"
+
+Surely I seem to be missing something important here.

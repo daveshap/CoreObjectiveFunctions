@@ -1,0 +1,16 @@
+ALISON: Yes, we do know each other. I'm Alison Jones.
+MITCHELL: Alison Jones.
+MITCHELL: Yes.
+ALISON: Ally. That was my nickname.
+MITCHELL: Ally. That's right.
+ALISON: How are you?
+MITCHELL: I'm just fine, Ally. What about you?
+ALISON: I'm fine. Still working with my father.
+MITCHELL: And what does he do again?
+ALISON: He used to work with you. Until you found out he was having an affair with your wife.
+MITCHELL: Ally Jones.
+ALISON: How is Mrs. Stephens?
+MITCHELL: We're...not together.
+ALISON: I'd heard that. But she's well?
+MITCHELL: Yes...fine.
+ALISON: And Zoe? How's Zoe?

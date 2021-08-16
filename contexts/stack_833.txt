@@ -1,0 +1,1 @@
+Getting iso from mirrors How do I download the ISO file for a Linux distro from a mirror site? When I open mirrors, it shows a directory with multiple files. What exactly are they?

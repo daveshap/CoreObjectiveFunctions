@@ -1,0 +1,7 @@
+LONGFELLOW: Are you married?
+APPLICANT: Yes, sir.
+LONGFELLOW: Any children?
+APPLICANT: No, no children.
+LONGFELLOW: All right, Mr. Dodsworth. I think you'll qualify. Take this to that desk over there for further instructions.
+APPLICANT: Thank you very much.
+LONGFELLOW: Next, please.

@@ -1,0 +1,13 @@
+ETHAN: Here's to you, Luther. To being off the disavowed list.
+LUTHER: Hey, I'm the flavour of the month!
+ETHAN: You're more than that, Luther. They were mistaken about you and they're trying to show you they know it. They want you back in.
+LUTHER: Sure. They want me back in so I won't break in! They <i>still</i> can't figure out how we did it.
+ETHAN: You didn't tell 'em at the debriefing?
+LUTHER: I figured I'd let 'em reinstate my back pay, give me a promotion, check out my office at Langley and <i>then</i>, maybe, talk about it.
+ETHAN: It's all one big negotiation, isn't it?
+LUTHER: Why don't you come back with me?
+ETHAN: Just don't know why I'd be doing it.
+LUTHER: You really liked Phelps, didn't you?
+ETHAN: He was a good guy for a long, long time. Just - not long enough. Gotta catch my flight.. So. How's it feel being a solid citizen again?
+LUTHER: Oh man...I don't know. I'm gonna miss being disreputable.
+ETHAN: Well, Luther - if it makes you feel any better I'll always think of you that way.

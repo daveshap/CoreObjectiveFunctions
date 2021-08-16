@@ -1,0 +1,1 @@
+In practical BJTs, why can't Vce become 0 when the transistor is saturated? Practically it is about 0.2 V when saturation starts. Why can't it go to 0?

@@ -1,0 +1,12 @@
+CLERK: Welcome to the Hotel Earle. May I help you, sir?
+BARTON: I'm checking in. Barton Fink.
+CLERK: F-I-N-K. Fink, Barton. That must be you, huh?
+BARTON: Must be.
+CLERK: Okay then, everything seems to be in order. Everything seems to be in order.
+CLERK: ...Are you a tranz or a rez?
+BARTON: Excuse me?
+CLERK: Transient or resident?
+BARTON: I don't know... I mean, I'll be here, uh, indefinitely.
+CLERK: Rez. That'll be twenty-five fifty a week payable in advance. Checkout time is twelve sharp, only you can forget that on account you're a rez. If you need anything, anything at all, you dial zero on your personal in-room telephone and talk to me. My name is Chet.
+BARTON: Well, I'm going to be working here, mostly at night; I'm a writer. Do you have room service?
+CLERK: Kitchen closes at eight but I'm the night clerk. I can always ring out for sandwiches.

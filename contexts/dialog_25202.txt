@@ -1,0 +1,19 @@
+DAVID: Saavik... My god, what happened to them?
+SAAVIK: It would seem that Grissom was destroyed by an enemy attack.
+DAVID: You mean, we're stranded down here?!
+SAAVIK: Logic indicates that is the case.
+DAVID: How can you be logical at a time like this?! We have to get thee hell off this planet!
+SAAVIK: That may be difficult...
+DAVID: Why don't you just call for <u>help</u>!
+SAAVIK: I have already made one transmission too many...
+SAAVIK: It's time for total truth between us. This planet is not what you intended, or hoped for, is it?
+DAVID: Not exactly.
+SAAVIK: Why?
+DAVID: I used protomatter in the Genesis matrix.
+SAAVIK: Protomatter. An unstable substance which every ethical scientist in the galaxy has denounced as dangerously unpredictable.
+DAVID: It was the only way to solve certain problems --
+SAAVIK: Did your collaborator know?
+DAVID: My mother knew nothing about it. That's why I asked her to leave Genesis in my hands.
+SAAVIK: So, like your father, you changed the rules...
+DAVID: If I hadn't, it might have been years -- or never!
+SAAVIK: And how many have paid the price for your impatience? How many have died? How much damage have you done... And what is yet to come?

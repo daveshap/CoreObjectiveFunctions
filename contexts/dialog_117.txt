@@ -1,0 +1,14 @@
+ISABEL: But without your brothers. Nor are you to return to Santo Domingo or any of the other colonies. You may explore the continent.
+COLUMBUS: Thank you.
+ISABEL: There is one thing I'd like to understand... Why do you want to go back, after all this?
+COLUMBUS: Your Majesty -- some men are content to read about things. I must see them with my own eyes. I cannot be other than I am.
+ISABEL: I know, I should not tolerate his impertinence.
+SANCHEZ: Then why?
+ISABEL: Because he is not afraid of me.
+SANCHEZ: All I have to do is call the guards.
+COLUMBUS: Call them.
+SANCHEZ: I am not afraid of you. You are nothing but a dreamer.
+COLUMBUS: Look out of that window.
+COLUMBUS: What do you see?
+SANCHEZ: Roofs... towers, palaces... spires...
+COLUMBUS: All of them created by people like me.

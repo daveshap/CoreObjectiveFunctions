@@ -1,0 +1,1 @@
+Is Gini index actively involved in splitting a Random Forest node? Since there are many references that a RF uses a slightly different approach on splitting a node in comparison to Vanilla Bagging. Does Gini index play an active role in the split or it's just another index like Information Gain to measure the improvement of the uncertainty from one node to a next?

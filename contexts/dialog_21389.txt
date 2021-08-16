@@ -1,0 +1,13 @@
+EDWARD: Want to know something? I don't quite know. I hadn't planned this.
+VIVIAN: Do you plan everything?
+EDWARD: Always.
+VIVIAN: Well, the meter's running, it's your money. Speaking of which, cash'll do. In advance.
+EDWARD: Fair enough.
+EDWARD: Let's talk some more first.
+VIVIAN: Right. So! In town on business?
+EDWARD: Uh-huh.
+VIVIAN: Let me guess, you're a... lawyer.
+EDWARD: And why do you say that?
+VIVIAN: I dunno... you have that sharp, useless look.
+EDWARD: Sounds like you've known a lot of lawyers.
+VIVIAN: I've known a lot of everybody.

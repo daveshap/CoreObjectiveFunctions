@@ -1,0 +1,1 @@
+Add Images to video I want to add some images to my mp4 video,one at the beginning and 3-4 at the end, thats all, I dont have any experience with videos before, whats the best software for do that? Im using Ubuntu 18.04

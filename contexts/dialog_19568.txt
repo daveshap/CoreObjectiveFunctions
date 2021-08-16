@@ -1,0 +1,6 @@
+LOCK: <i> I wish my cohorts weren't so dumb.</i>
+BARREL: <i> I'm not the dumb one...</i>
+SHOCK: <i> ... You're no fun.</i>
+LOCK: <i> Shut up and listen...!</i>
+LOCK: <i> I've got something, listen now, This one is real good, you'll see. We'll send a present to his door Upon there'll be a note to read.</i>
+BARREL: <i> Now in the box, we'll wait and hide Until his curiosity Entices him to look inside...</i>

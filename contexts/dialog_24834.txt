@@ -1,0 +1,8 @@
+TAYLOR: Barnes, can you hear me, are you all right?
+BARNES: Why yes Ryan, I am, and thanks for asking. You don't have to talk to the intercom, I can hear you fine.
+TAYLOR: What is the condition of the bridge?
+BARNES: The bridge is fine, Taylor, how are things down there?
+TAYLOR: Transmit the code 3 emergency and take us offline. Override the airlock sensors and hurry! We're running out of time, we have to get to the pods!
+BARNES: Much as I'd like to help you and our valued guests, I'm afraid I can't.
+TAYLOR: What are you talking about! Can you transmit the code 3 -
+BARNES: Yes I can transmit the code 3 emergency! I just don't think it's a prudent move at this juncture.

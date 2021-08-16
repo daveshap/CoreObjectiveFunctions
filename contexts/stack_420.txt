@@ -1,0 +1,1 @@
+Live CD not writing I'm trying to put a operating system live CD onto a flash drive but I keep getting an error saying something happened and could not finish writing on to the drive. I've used unetbootin, Ubuntu live CD maker and another genetic form of simular to Ubuntu's naive live CD maker. What am I doing wrong?

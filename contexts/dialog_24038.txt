@@ -1,0 +1,13 @@
+MOTHER SUPERIOR: Excused. Open the cabinet to your left. You will find appropriate attire.
+CHRISTY: Can do.
+CHRISTY: No! No! I can't do this!
+MOTHER SUPERIOR: Normally dressed, you are a sore thumb, and you endanger us all. While you are here, you will conduct yourself as a nun. Only I shall know who, and what, you truly are. You will not disrupt the convent. You will not influence the Sisters with your colorful street talk. You will draw no attention to yourself in any way.
+CHRISTY: But look at rites Look at this! I'm a nun! I'm invisible! I'm a penguin!
+MOTHER SUPERIOR: As of now, and until you leave, you are Sister Mary Clarence.
+CHRISTY: Mary Clarence? Like a guy? Like a dumb guy?
+MOTHER SUPERIOR: The Mary is in deference to the Holy Mother, the Clarence in honor of Saint Clarence Loyola. There are three vows that every nun must accept. The vow of poverty...
+CHRISTY: No problem.
+MOTHER SUPERIOR: The vow of obedience.
+CHRISTY: Like to who?
+MOTHER SUPERIOR: And the vow of chastity.
+CHRISTY: I'm outta here.

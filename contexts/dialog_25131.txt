@@ -1,0 +1,11 @@
+CHEKOV: ... come in, please. This is Reliant calling Regula I. Repeat. This is USS Reliant --
+CAROL: Commander, we are receiving. This is Regula I. Go ahead.
+CHEKOV: Dr. Marcus... good. We're en route to you and should be there in three days.
+CAROL: En route? Why? We weren't expecting you for another three months. Has something happened? <u>Has something happened</u>? Do you read us?
+CHEKOV: All went well. Nothing has happened. Ceti Alpha VI has checked out.
+CAROL: I still don't under --
+CHEKOV: We have received new orders. Upon our arrival at Regula I, all materials of Project Genesis will be transferred to this ship for immediate testing at Ceti Alpha VI.
+CAROL: <u>Will you please be quiet</u>! Commander Chekov, this is completely irregular. Who gave the order you are quoting? Who gave the order?
+CHEKOV: The order comes from Starfleet command, Dr. Marcus, direct from the General Staff.
+CAROL: But Genesis is a civilian project, under my control --
+CHEKOV: I have my orders.

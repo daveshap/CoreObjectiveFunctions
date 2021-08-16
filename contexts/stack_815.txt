@@ -1,0 +1,1 @@
+How can I format an encrypted hard drive in Ubuntu? some time ago, a laptop broke down. I managed to save the ram, the processor and the hard drive, that disk had a Window$ 10 installed and is encrypted by BIOS. Instead of throwing it, I would like to format it and put a casing to be able to use it as an external disk.How could I do this? Thanks.

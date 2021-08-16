@@ -1,0 +1,4 @@
+WEIR: This is Weir.
+LYLE: Dr. Weir, Admiral Hollis would like to see you as soon as possible.
+WEIR: You wanted to see me, Admiral?
+HOLLIS: I apologize for the short notice, Bill, but we've had something come up that requires your immediate attention. Lyle?

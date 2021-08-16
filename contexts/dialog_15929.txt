@@ -1,0 +1,9 @@
+GUMP: Start acting like you're worthy of this mission... Here. Whatever you do, don't dare drop it.
+SCREWBALL: Nay, Sire, I'll cling to it as to life itself...
+GUMP: Good, lad... Here, Jack, give me a hand with the windlass... There's a good fellow...
+JACK: One more turn...
+GUMP: That's it!
+JACK: Have the engineers corrected for alignment and trajectory?
+GUMP: Aye. Before the wee pesties attacked.
+JACK: Then it's Godspeed, Screwball.
+GUMP: Fire away!

@@ -1,0 +1,9 @@
+LEADER: This the only spare?
+TECH 2: Yes.
+LEADER: The other working.
+TECH 2: Perfectly.
+TECH 2: Ow?...
+LEADER: It'l be alright.
+TECH 2: It will.
+LEADER: It doesn't hurt.
+TECH 2: No?

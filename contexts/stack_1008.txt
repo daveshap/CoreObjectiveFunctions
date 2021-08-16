@@ -1,0 +1,1 @@
+How to install Lubuntu 18.10 I have an Acer Aspire One Cloudbook 14 AO1-431 with a 32GB hard disk. I need help on how to install Lubuntu 18.10 on my laptop. When I try to install it every time it goes in the part where it says where to install Lubuntu on which hard drive. It says to create a partition for installing Lubuntu on, and it is confusing.

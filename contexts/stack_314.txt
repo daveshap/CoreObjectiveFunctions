@@ -1,0 +1,1 @@
+What video resolutions does late-2015 iMac 5K support on external monitors? I've got a Core i5 3.2GHz iMac with AMD R9 M390 2Gb. I decided to connect my old HP LP3065 monitor, but to my surprise it would only show either 1280x800 or 1024x640, though it supposed to be up to 2560x1600.Could the problem be with graphics card, cable, or old monitor?

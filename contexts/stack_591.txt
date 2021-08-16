@@ -1,0 +1,1 @@
+Geary Mail is failing to send mail from gmail I have been having this problem a lot lately and it really is getting my nerve.  I even went as far as deleting all the files including hidden config files yet nothing has been able to alter this so it will work again.  I will include a log file next time I open it up, but I do need to know where to look.

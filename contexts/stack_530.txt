@@ -1,0 +1,1 @@
+Per Display fractional scaling in Gnome 3.26 As I am about to move to Ubuntu 17.10 after years of KDE/Plasma, I came to no conclusive answer if Gnome 3.26 will support per display fractional scaling.I am ware of the scale-monitor-framebuffer experimental setting but will it be possible to set monitor 1 to eg. 150% scaling and monitor 2 to 125%  and if so, where?

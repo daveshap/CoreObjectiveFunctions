@@ -1,0 +1,1 @@
+Why are pendulums' time periods amplitude-invariant? Whether the angle is low or high, it returns at the same time.How come this is true?

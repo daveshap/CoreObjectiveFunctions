@@ -1,0 +1,1 @@
+Ubuntu 17.10 powers off without going through the shutdown cycle When I shut my laptop down then it powers off almost immediately. It doesn't stop the services properly, and even firefox says it was shutdown improperly.I have tried 'init 6', 'reboot', 'shutdown', 'systemctl reboot'. It's all behaving the same.What can I do?

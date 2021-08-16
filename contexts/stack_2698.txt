@@ -1,0 +1,1 @@
+Adding state map using QGIS? I'm new to QGIS.I'm trying to add a map just of the State of NJ. I figured out to load Google street map, but that's as far as I got.My goal is to get a Map of NJ with its counties. I found a few maps online that are PDFs. Not sure how to bring it into QGIS and still be able to  geocode with that.

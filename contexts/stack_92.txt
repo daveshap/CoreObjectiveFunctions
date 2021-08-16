@@ -1,0 +1,1 @@
+Software export compliance for App Store I have developed a game for iOS platform. This game uses Google Analytics.I have following questions:Is my game(software) subject to export compliance for App Store submission?Do I need to provide any documents related to export compliance for App Store submission?I would appreciate any suggestion and thoughts on this topic. Thank you.

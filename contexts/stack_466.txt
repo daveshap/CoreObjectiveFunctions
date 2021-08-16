@@ -1,0 +1,1 @@
+Disable USB Mass Storage for root user I want to disable USB access to root and enable it when it is required.I need to restrict users to copy and paste anything using external drives.Can anyone help me on this?

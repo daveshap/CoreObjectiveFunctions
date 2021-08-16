@@ -1,0 +1,1 @@
+Thunderbird 60.2.1 doesn't notify with new email? I want thunderbird 60.2.1 to show email notifications even my thunderbird client is not active (running in background). It only works when I open the client. But It doesn't give notifications in background.

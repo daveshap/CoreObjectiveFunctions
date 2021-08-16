@@ -1,0 +1,101 @@
+The White House, citing "absolute immunity", directed Hope Hicks to refuse to answer any and all questions pertaining to the time frame around her tenure as White House Communications Director.
+The White House, citing *absolute immunity*, directed Hope Hicks to refuse to answer any and all questions pertaining to the time frame around her tenure as White House Communications Director.
+
+- What is the basis for *absolute immunity*?
+- Is the basis backed by a law?
+- Are there any limitations?
+- What is the historical precedent for citing *absolute immunity*?
+
+---
+
+### Absolute immunity definition.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Absolute_immunity) has the following definition:
+
+> Absolute immunity is a form of legal immunity for government officials that confers total immunity from criminal prosecution and lawsuits so long as they are acting within the scope of their duties.
+
+[Julian Epstein](https://www.nationalmemo.com/former-counsel-hicks-cant-claim-absolute-immunity-may-invoke-fifth-amendment/), former Democratic chief counsel for the House Judiciary Committee says:
+
+> “Absolute immunity would be a claim by the White House that none of the staff or the president need to answer any questions in a congressional proceeding or a legal proceeding,” Epstein explained to CNN, quickly adding that when President Richard Nixon tried to claim absolute immunity during the Watergate scandal in the 1970s, the U.S. Supreme Court ruled that there was no such thing.
+
+Chairman Nadler characterizes it on pg 11 of the transcript as:
+
+> Chairman Nadler: With all due respect, that is absolute nonsense as a matter of law.
+
+[CNN](https://www.cnn.com/2019/06/19/politics/explainer-congressional-testimony-limits/index.html) references a [OLC memo](https://www.justice.gov/file/30896/download) from 2014 which states:
+
+> For the President’s absolute immunity to be fully meaningful, and for these
+separation of powers principles to be adequately protected, the President’s
+immediate advisers must likewise have absolute immunity from congressional
+compulsion to testify about matters that occur during the course of discharging
+their official duties.
+
+---
+
+### Transcript of the testimony.
+
+Here is the [transcript ](https://www.lawfareblog.com/transcript-hope-hicks-interview-house-judiciary-committee) of Hope Hicks House testimony.
+
+[Politico](https://www.politico.com/story/2019/06/20/hope-hicks-refused-questions-house-testimony-1374240) counted **155 objections**.
+
+---
+
+### Some key points, and context.
+
+- Ms. Hicks was accompanied by her personal lawyers, White House lawyers, and a DoJ lawyer.
+- As far as I can tell, White House counsel is the one doing all of the objections.
+- This is not executive privilege.
+
+Pg. 17 of the transcript.
+
+> Chairman Nadler: Are you asserting executive privilege in declining to answer the question?
+
+> Ms. Hicks: No.
+
+Pg. 18.
+
+> Chairman Nadler:  Now, Mr. Purpura, on behalf of the White House, are you asserting any other basis for declining to answer the question other than absolute immunity?
+
+> Mr. Purpura: No.
+
+---
+
+- *Absolute immunity* from answering **all** questions about **any** topics for the period of January 20, 2017 thru March 29, 2018.
+
+Pg. 21.
+
+> Chairman Nadler: In other words, you are asserting absolute immunity that she cannot testify as to any knowledge of anything that occurred after the President was inaugurated?
+
+...
+
+> Mr. Purpura: For the purpose of this hearing, yes.
+
+...
+
+> Mr. Purpura: Under the terms of the absolute immunity described in Mr. Cipollone's letter, she may not speak about anything that occurred during the time of her employment in the White House as a close adviser to the President.
+
+Chairman Nadler asks if a non-existent war happened.
+
+Pg. 22.
+
+> Chairman Nadler:  Anything that occurred during that time?
+
+> Chairman Nadler: Did a war break out between Israel and Egypt during that time period?
+
+> Mr. Purpura: Same objection.
+
+
+---
+
+I'm not sure how to categorize this exchange. This happens throughout the interview. WH counsel objects to Ms. Hicks answering the question directly, but doesn't object to her reading the answer from the Mueller Report.
+
+Pg. 35-36.
+
+> Chairman Nadler: Do you recall the President giving a live interview the same day as the July 19th, 2017, meeting with Mr. Lewandowski, the meeting where you typed the notes?
+
+> Mr. Purpura: Objection.
+
+> Chairman Nadler: I'd like to introduce pages 93 to 94 of volume two, including footnote 636 of the Mueller report. Can you please read out loud the highlighted portion into the record?
+
+> Ms. Hicks: Within hours of the President's meeting with Lewandowski on July 19th, 2017, the President gave an unplanned
+interview to The New York Times in which he criticized Sessions' decision to recuse from the Russia investigation.

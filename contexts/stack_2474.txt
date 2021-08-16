@@ -1,0 +1,1 @@
+Using ArcPy how do you get out a specific category from a shapefile I am using ArcPy and wanting to know is there a way to extract a specific category from a shapefile. For example I have a shapefile that I was given that is labled Kansas_pointOfInterest.shp, and I suppose to extract from that only churches (pts I suppose) from that shapefile. How is this done through ArcPy?

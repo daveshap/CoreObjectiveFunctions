@@ -1,0 +1,10 @@
+ETIENNE: One kilometer
+FRANCOISE: Two.
+ETIENNE: Richard?
+RICHARD: I don't know - I'm American.
+ETIENNE: So?
+RICHARD: We think in miles, not kilometers.
+ETIENNE: So how many miles do you think it is?
+RICHARD: I have no idea but it looks like a long way.
+FRANCOISE: Too far?
+RICHARD: If it's too far, then we'll drown. But if we don’t try then we'll never know.

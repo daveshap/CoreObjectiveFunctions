@@ -1,0 +1,6 @@
+DRIVER: You know where they are?
+BILLY: Sure.
+DRIVER: How far?
+BILLY: About ten kilometers.
+DRIVER: Sixty Lira?
+BILLY: Sixty?

@@ -1,0 +1,15 @@
+DEALER: Oh really? Where you from?
+WILSON: England. Only, we saw there was a show on, thought I might pick something up for a price, type of thing.
+DEALER: You came to the right place, sir. My wife's second cousin is English. Well, Scotch-Irish. Can I interest you in a holster?
+WILSON: Just luck, this, really. Never been to one of these before.
+DEALER: You're in gun country now, my friend.
+WILSON: Been to the Boat Show.
+DEALER: Packs a punch, but it's compact, has accessible features -- makes a nice concealed-carry piece.
+ED: He don't have a concealed weapons permit.
+WILSON: Don't have time for a lot of paperwork, y'know. Just popped over on a quick visit.
+DEALER: I can take care of the paperwork.
+WILSON: Yeah?
+DEALER: No problem. If <u>you</u> don't have a problem with me reporting this gun stolen.
+WILSON: No. Not at all. Do we?
+ED: Not me, man.
+WILSON: I mean, it's already a steal, n'it -- what you said -- four hundred for this one?

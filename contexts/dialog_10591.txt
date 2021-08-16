@@ -1,0 +1,14 @@
+DOC: Drive.
+SLIM: Suit yourself.
+SLIM: How was that?
+DOC: Just fine.
+SLIM: Where we go in1?
+DOC: Mexico. I'd like to find a quiet place to cross.
+SLIM: Why not?
+DOC: You okay?
+CAROL: Where do we go from here?
+DOC: I don't know, airport I guess.
+CAROL: They will have our description before we can get a plane.
+DOC: Yeah.
+SLIM: I guess you ain't gonna shoot me, are you?
+DOC: I kinda doubt it.

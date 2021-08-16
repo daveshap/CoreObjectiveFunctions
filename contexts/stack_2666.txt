@@ -1,0 +1,1 @@
+Clip Raster by Mask Layer to jpg not tiff Is it possible to set your output file for the Clip Raster by Mask Layer tool as a jpg and not a tiff?  Are there extra parameters or commands I can use to do this?I can export as tiff and convert to jpg with another program but I am doing this for a large amount of features and it's extremely inefficient.

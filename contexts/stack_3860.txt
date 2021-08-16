@@ -1,0 +1,1 @@
+Find the peak of probability 30 If probability is P=1/3 and N=100, what is the probability you succeed 30 times? where does this P30 fall in the curve? I don't have mean or standard deviation to calculate the height of the point!

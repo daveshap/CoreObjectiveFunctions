@@ -1,0 +1,1 @@
+Why does a viscous fluid tends to cling to a solid in contact with it? My textbook says that a viscous fluid tends to cling to a solid in contact with it, and also gives a consequence of the same: \"Dust particles cling to blades of a fan even when it is rotating rapidly.\"I gave it lots of thought but couldn't come up with any satisfactory reason.

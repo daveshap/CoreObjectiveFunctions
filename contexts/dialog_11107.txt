@@ -1,0 +1,8 @@
+WHALE: Everything alright, Mr. Boone?
+CLAY: Just got away from me. Sorry to disturb you.
+WHALE: I was just about to ask Hanna to bring down iced tea. I'd like it very much if you'd join me.
+CLAY: I stink to high heaven right now.
+WHALE: The honest sweat of one's brow. I assure you I won't be offended. Let me tell Hanna to bring tea for two.
+WHALE: Or would you prefer a beer?
+CLAY: No. Iced tea's fine.
+WHALE: Splendid.

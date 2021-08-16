@@ -1,0 +1,1 @@
+Hard Drive .img of Ubuntu Is there a feasible way to essentially just download a .img file of an already working Ubuntu distribution that I can write directly to my hard drive?Pretty much any default would work fine for me but i spend most of my time every couple months burning it to a thumb drive and then waiting for the installation to work/finish.

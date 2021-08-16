@@ -1,0 +1,10 @@
+Is the Trump Administration's use of the Espionage Act against Julian Assange constitutional?
+In 1971, the Supreme Court ruled in favor of the New York Times and Washington Post in the United States' suit against them^[1](https://cdn.loc.gov/service/ll/usrep/usrep403/usrep403713/usrep403713.pdf); the Nixon Administration cited the Espionage Act of 1917 in support of it's position to prevent those media outlets from publishing classified documents.^[2](https://www.mtsu.edu/first-amendment/article/1045/espionage-act-of-1917) The Government claimed that the actions of the New York Times and Washington Post, in publishing the Pentagon Papers (officially known as the *Report of the Office of Defense Vietnam Task Force* or *History of U. S. Decision-Making Process on Viet Nam Policy*), represented a grave threat to national security.    
+
+Julian Assange is being charged by the U.S Government under sections 793(g), 793(b), 793(c), 793(d) and 793(e) of the Espionage Act, and sections 371 and 1030 of the *Computer Fraud and Abuse Act*.^[3](https://int.nyt.com/data/documenthelper/1037-julian-assange-espionage-act-indictment/426b4e534ab60553ba6c/optimized/full.pdf#page=1)  The Justice Department national security division claims that Julian Assange "is no journalist" and presumably should not be subject to the same protection as a news media corporation.^[4](http://nymag.com/intelligencer/2019/05/wikileaks-founder-assange-indicted-under-espionage-act.html)
+
+1.  Is criminalizing the publication of secret government documents under the Espionage Act of 1917 constitutional?
+
+2.  Did the Government achieve a sufficient level of evidence to fulfill the requirements for prior restraint?^[5](https://fas.org/sgp/crs/misc/95-815.pdf)*
+
+*see page 9.

@@ -1,0 +1,19 @@
+CORSICAN: Yes, sir?
+NAPOLEON: A glass of champagne, please.
+CORSICAN: Yes, sir. I hope you will excuse me for asking, General Bonaparte, but are you Corsican?
+NAPOLEON: Yes, I am.
+CORSICAN: I thought so, I noticed your name when you were announced. I'm Corsican too -- my name is Arena.
+NAPOLEON: Oh -- where do you come from?
+CORSICAN: Bastia -- and you?
+NAPOLEON: Ajaccio.
+CORSICAN: Have you been back recently?
+NAPOLEON: I haven't been there for three years.
+CORSICAN: I haven't been back for ten years. Is your family still there?
+NAPOLEON: No, they're living in Nice now.
+CORSICAN: That's a nice city. This is your first time here, isn't it?
+NAPOLEON: Yes, as a matter of fact, it is.
+CORSICAN: You don't know many of Citizen Barras' friends, do you?
+NAPOLEON: Ah-hh, no.
+CORSICAN: I thought not. I noticed you by yourself, all night.
+CORSICAN: Just a minute, General. Listen, don't let them fool you with all their grand la-de-da. They've all made their money from the war -- mostly from crooked war contracts. They say Citizen Barras has put away millions.
+NAPOLEON: I see...

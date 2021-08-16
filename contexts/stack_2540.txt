@@ -1,0 +1,1 @@
+How to iterate through date and time text file, line by line? I am building a model on ArcGIS and I am now trying to iterate through a text file that contains in each line date and time information.I tried to do that on Model Builder, only I used the get field tool but I couldn't figure out how to iterate line per line.

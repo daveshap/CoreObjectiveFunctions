@@ -1,0 +1,11 @@
+Is there precedence for members of Congress to recuse themselves from hearings in which they have conflicts of interest?
+Are members of Congress required to recuse themselves from investigatory or trial matters in which they have a potential conflict of interest, or in the absence of a law or rule requiring as such, is there precedent for such actions? Do other countries have laws for the avoidance of conflicts of interest by legislative bodies in their investigative or trial roles?
+
+
+There are currently Conflict of Interest rules in the [Senate](https://www.ethics.senate.gov/public/index.cfm/conflictsofinterest) and [House of Representatives](https://ethics.house.gov/financial-dislosure/policies-underlying-disclosure) for the disclosure and avoidance of fiduciary conflicts of interest.
+
+
+As a recent example, Representative Nunes, the minority chair of the House Intelligence Committee, has been reported to [have connections to Lev Parnas](https://www.c-span.org/video/?c4832774/user-clip-rep-eric-swalwell-calls-rep-devin-nunes-lev-parnas-connection). [Lev Parnas is currently under criminal indictment](https://www.washingtonpost.com/context/u-s-vs-lev-parnas-et-al-indicment/12ab2d62-230f-4e38-8f1a-b6221ee48876/), and is deeply involved in the Ukraine scandal. It has been proposed that Nunes's connection to Parnas represents a conflict of interest in Nunes's investigatory role in the impeachment hearings.
+
+
+Another recent example is [Senator Ron Johnson, who is a witness with regards to incidents in the Ukraine affair](https://apnews.com/fc2821213aa64724b0086e7f0fdafff7), but would also potentially serve as a 'juror' in a Senate trial of President Trump. Senator Ron Johnson has stated that he will not recuse himself. [It has been proposed that Johnson's role as a witness represents a conflict of interest to his role as a juror.](https://www.thenation.com/article/ron-johnson-recuse-impeachment/)

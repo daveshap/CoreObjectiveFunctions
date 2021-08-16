@@ -1,0 +1,1 @@
+Connection between Lagrangian and (pre)symplectic structure How is the precise relationship between a Lagrangian and the (pre)symplectic structure?Given a (pre)symplectic structure can I construct a (equivalence class of) Lagrangian(s)?References are very welcome.

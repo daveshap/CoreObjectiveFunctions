@@ -1,0 +1,1 @@
+lxqt \"whisker menu\"? I'm running 16.04 on a very old PC, so I'm using the Enlightenment (currently E22) desktop. I'm looking at LXQT, but I'd like the \"program search\" feature that comes with XFCE's Whisker Menu. I'm told that a whisker menu-type search isn't possible in LXDE (which is why I don't use it), but can it be (easily) done in LXQT?

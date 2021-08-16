@@ -1,0 +1,1 @@
+Capacitive voltage divider with varactor Is it possible to create a capacitive voltage divider where one of the capacitors is a varactor whose capacitance can be manipulated/varied according to a signal? A varactor is a two port device; what would the circuit look like so the voltage control signal could vary the capacitance?

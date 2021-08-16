@@ -1,0 +1,1 @@
+Feature importance in random forest I need to know how feature importance in python adds up to 100. I have read other answers in stack overflow but could not get what I needed. Can anyone explain how feature importance in python sums up to 100?

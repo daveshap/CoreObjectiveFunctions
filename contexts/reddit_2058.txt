@@ -1,0 +1,87 @@
+let's make a company
+**This is going to be a long post. Before you apply or say anything, please read everything.**
+
+Hi! I'm BakerHouse2021, the MIT student who runs [College Admissions Blog](http://collegeadmissions.blog/). From the Chance Me Calculator to Guess My Decision, I have developed a number of college-related apps.
+
+I love blogging, but I've realized that the process is incredibly time-intensive. I want to give out as much advice as possible, but churning out content is a slow process, especially since I'm working alone.
+
+**Having realized this, I'm reaching out to the A2C community to join me on my next venture.**
+
+# The Idea
+
+I'm developing a website filled with articles, advice, and tips for **AP classes**. There already exist a number of resources online to help students learn the specific content for each course. As such, I'm not looking to write resources on the content. Rather, I want to write content that acts as a "synthesis" layer, one level above the content. What do I mean by this?
+
+There's a difference between learning the raw content for a class and processing it. It's one thing to memorize all the hard facts and formulas, and it's another to parse that information and break it up into key components.
+
+I want a collection of articles such as: "5 Key Things to Remember for the AP Chem Exam" and "Great Study Resources for AP Language." The articles do not teach the content itself, but rather help hammer key points.
+
+# The Issue
+
+There are a ton of AP classes, and it's impossible for me to write 10+ articles for each course. Also, it's expensive to pay someone for each individual article.
+
+# The Solution
+
+I have years of experience in web development, blogging, and SEO. If done right, a site of this nature could receive millions of views over the course of a year, reaching thousands of students across the nation. The way I can make this idea a reality is if I gather a large group of writers, and if we can work together on churning out the content.
+
+# Business Plan
+
+Below you can find key points on how I plan to structure this project.
+
+* 18 AP classes to cover
+   * United States History
+   * Biology
+   * Calculus AB
+   * Calculus BC
+   * Chemistry
+   * English Language and Composition
+   * English Literature and Composition
+   * Environmental Science
+   * European History
+   * United States Government and Politics
+   * Macroeconomics
+   * Microeconomics
+   * Physics 1
+   * Physics 2
+   * Physics C: Electricity and Magnetism
+   * Physics C: Mechanics
+   * Psychology
+   * Statistics
+* 4 writers for each course (1 course manager, 3 authors)
+   * The course manager vets the content and compiles a list of articles to write, and delegates it to his/her authors
+* Total of 72 writers
+* 1 CEO, 18 managers, 54 authors
+* Revenue distribution
+   * **CEO:** 10%
+   * **Each manager:** 1.5% of monthly revenue
+   * **Each author:** 1% of monthly revenue
+   * **Savings:** 5%
+   * **Bonuses:** 4%
+* Recruiting for the first half of February
+* Writing for the second half of February
+   * Each author and manager writes **7, 1,000+ word articles** over the course of about a month
+* Launch by mid-march (a bit ambitious, I know)
+* I'll be developing the website, writing content, managing the social media, and advertising
+   * I'll also build an "Our Team" page, including the headshots and names of managers and authors who want to be included
+   * If we grow quickly, I'll look to get someone to help me with development and business strategy
+* Bonuses will be distributed to each course team depending on performance
+   * The job of the course manager is to work with his/her authors to determine what to write
+   * The goal is to both help students, but to also *attract* students (for instance, the "5 things you *need* to know" template works well, as shown on PrepScholar); it's up to the course manager to devise a list of articles to write
+   * Each course team will receive a bonus proportional to how well their content performs *relative* to their course's search volume on search engines
+* By mid-March, the goal is to have over 500 pages of high-quality content on the website
+* With over 500 pages, and assuming the content performs well on search engines, within three months the website could acquire 5,000,000 views, and with a page RPM of \~$3.00, that would be about $15,000 in revenue (and this would be through just one ad network; I also plan to use in-text advertising, which would yield approximately another couple thousand, but this is a very rough estimate)
+   * The content will remain on the web permanently, and assuming growth month over month, and peaks in May, this project could provide a very steady passive income for *years to come*
+* This is not a get-rich-quick scheme, but with correct execution and leadership, I see this being a fun project to work on with a large group of you
+
+# Application
+
+**If this post gets over 100 upvotes, I'll release the applications for course managers and authors.**
+
+**Follow me on Reddit (or this post) to receive a notification when I release the applications.**
+
+# Disclaimer
+
+This is a super late-night thought I had. It's ambitious, and sometimes I feel it sounds stupid, but I feel it's equally as viable. Sometimes I feel you just gotta take risks and do the stuff that even sounds stupid. You'll never know how it'll turn out.
+
+Also, if this post does get a good response and over 100 upvotes, I want to make clear that those who choose to work with me will have access to my contact info (and my MIT email) so that there is complete transparency. I will also be calling all team members individually.
+
+Let's see how this goes.

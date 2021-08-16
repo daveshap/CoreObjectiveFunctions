@@ -1,0 +1,1 @@
+Increase animation speed in Cosmic Cuttlefish Is it possible to increase animation speed for window transitions in Cosmic Cuttlefish?Edit: Is it possible to set a maximum duration for the transition effects?

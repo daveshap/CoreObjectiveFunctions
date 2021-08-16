@@ -1,0 +1,15 @@
+ALLENBY: And you, Benjamin, must be strong and brave for me. Turn over, please.
+RAND: In a minute, Robert - in a minute... Chauncey, I would like to ask a favor of you...
+CHANCE: Certainly, Ben.
+RAND: Senator Rowley's widow, Sophie, is hosting an evening reception tomorrow evening honoring Ambassador Skrapinov of the Soviet Union... I think it's rather obvious that Robert won't allow me to attend, so - would you go in my place, and escort Eve?
+CHANCE: Yes. I would like to escort Eve.
+RAND: Good. Together, the two of you should create quite a stir - I can already hear the gossip.
+EVE: ... Ben, really...
+RAND: ... Thank you, Chauncey... Thank you very much. ... All right, Robert, I'm all yours.
+EVE: ... You don't happen to have a tuxedo in your suitcase, do you?
+CHANCE: No, thank you.
+EVE: Oh. Well, we can fix up one of Ben's for you tomorrow night. Sophie insists an Black Tie.
+CHANCE: I see.
+EVE: ... I have very few friends, Chauncey... And Benjamin's friends are all quite a bit older...
+EVE: ... Good night, Chauncey.
+CHANCE: Good night, Eve.

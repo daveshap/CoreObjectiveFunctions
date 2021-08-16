@@ -1,0 +1,1 @@
+Showing error unknown filesystem after i deleted the linux partition fron windows I installed Ubuntu Gnome from unallocated space. And later I deleted the unallocated space and made a disk partition in windows. After that i cant log into my laptop Lenovo G50-45

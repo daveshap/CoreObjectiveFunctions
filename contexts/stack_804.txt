@@ -1,0 +1,1 @@
+Miracast: Ubuntu 18.04 > SmartTV I own a SmartTV from Thomson that supports \"Miracast\" for \"Screen Mirroring\and I have successfull tested it on Android-Device.Now my question is what software I need in Ubuntu 18.04 to mirror the screen + sound from Linux to SmartTV.Unfortunately, I have not found anything on this.

@@ -1,0 +1,1 @@
+How to decrease brightness even more in Ubuntu? I have been using an app called DimScreen on Windows, but I can't find any app that would make it possible for my Ubuntu. I tried xbacklight and it does not seem to work.Do you guys know how to decrease it lower than the minimum brightness?

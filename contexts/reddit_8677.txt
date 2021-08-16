@@ -1,0 +1,12 @@
+Do Congressmen vote on their own impeachment?
+1.If a senator or Representative is implicated in an impeachment hearing, does that senator vote on their own trial/impeachment/expulsion?
+
+2.Can more than one senator/rep be implicated under one articles of impeachment?
+For example, if one senator is accused to taking a bribe from another senator, do either/both have to recuse themelves from any vote on the matter?
+
+3.Does this change the bar for impeachment on an absolute, if not proportional level?
+
+sources:
+
+I read through the [Rules of the House](http://clerk.house.gov/legislative/house-rules.pdf), the Rules of the [Committee on the Judiciary](https://judiciary.house.gov/wp-content/uploads/2013/07/115th_Rules_of_Procedure.pdf), but couldn't find anything detailing the process.
+The Senate has its' [Rules](https://www.senate.gov/artandhistory/history/resources/pdf/3_1986SenatesImpeachmentRules.pdf) published, and it mentions a Senator being a witness in Article XVIII. It also mentions how a vote will proceed in Article XXIII, but again, nothing about a Senator being impeached.

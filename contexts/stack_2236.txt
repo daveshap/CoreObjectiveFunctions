@@ -1,0 +1,1 @@
+Test for a specific item with a coloured name in a chest I have a problem to detect an item with coloured name in a chest. I've made an item thru essentials plugin:/i 352:1 1 name:&amp;f123So, that name with white colour. But the NBT tag of the name is \u00a7f and i can't put this symbol into my command block. How can i detect it? Please, don't advise don't use coloured names.

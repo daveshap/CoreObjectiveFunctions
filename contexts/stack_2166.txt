@@ -1,0 +1,1 @@
+Is spitters' attack range equal to turret range? I was considering building a defense that will prevent spitters from attacking turrets immediately by forcing them to walk around walls first. But is their range smaller than that of the turrets? Is larger spitters' attack range greater?

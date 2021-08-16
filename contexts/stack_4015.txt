@@ -1,0 +1,1 @@
+Intuition behind choosing between versions of Engle-Granger and Johansen cointegration tests No matter how much I've been searching so far, I haven't found any clear explanation of the logic behind choosing the optimum version of cointegration tests (No constand, with constant, with constant and trend etc.).Is there any formal etiology behind the intuition of such consideration?

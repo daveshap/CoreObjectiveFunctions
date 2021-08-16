@@ -1,0 +1,1 @@
+Find a list of installed apps that can no longer run because they have not been updated with the current operating system? The question is for both iOS and macOS. I have enough apps installed that I\u2019d like to make this info into a kind of report.

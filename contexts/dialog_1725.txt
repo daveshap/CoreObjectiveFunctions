@@ -1,0 +1,5 @@
+MILO: Wow. You must have 20,000 lines of code there...
+GARY: 34,000. But they're real short lines. 'Just came out that way.
+GARY: Been thinking about the push mechanism in the handler. And it came over me: it's in the wrong place.
+MILO: The wrong place?
+GARY: The answer's not in the box. It's in the band.

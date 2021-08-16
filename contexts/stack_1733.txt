@@ -1,0 +1,1 @@
+How do electrons carry thermal energy in Peltier coolers? I've read that when electrons enter from metal to semiconductor type N, they gain thermal energy and make that side cooler and the reverse happens when they leave semiconductor to the conductor.Why does this happen?  How do electrons gain, hold, transfer and lose this thermal energy in this process?

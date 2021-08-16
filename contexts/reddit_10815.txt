@@ -1,0 +1,11 @@
+Update on the warning about PMs from "Koko" (/u/itskokobot). **Please continue to report any sightings.**
+[Original Sticky Post from December here](https://www.reddit.com/r/SuicideWatch/comments/5jin1q/warning_if_you_get_a_pm_from_uitskokobot_please/).   "Koko" is a chatbot application that claims to be able to identify people in crisis and also do AI-based "therapy" with them.  The Koko team had had some conversations with some reddit staff members, but then turned on their bot here (reddit account /u/itskokobot) prematurely and without proper communication.   Based on the SW/depression mod teams' investigation, we don't recommend this service as either safe or effective. 
+
+
+The reddit community team has been keeping us informed as this situation has unfolded, but we haven't had any definitive news to report to you until now.  The "bottom line" is that:
+
+##Although a possible collaboration between reddit and [Koko](http://itskoko.com) was being considered, Reddit's community team has requested that Koko's team disengage from further discussions and work on reddit.##
+
+**Please continue to report any private messaging or other activity that appears to be related to the Koko bot.**
+
+Edits:  Fixed oopsie in link, added some background.

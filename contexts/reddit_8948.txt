@@ -1,0 +1,6 @@
+Is horizontal merger less scrutinized than a vertical merger?
+The Disney/Fox deal is looming this week. However, [this article](http://money.cnn.com/2017/12/07/media/21st-century-fox-disney-antitrust/index.html) says it may raise some anti-trust issues along the way. The argument is that Disney will be acquiring 20th Century Fox and 21st’s tv networks to profit, increase their market share, and reduce competition. Both operate in the same industry and offer the same goods and services, which meets the criteria for a horizontal merger, which the article says it's more scrutinized than vertical like AT&T-Time Warner merger. In comparison, it would be harder for Comcast or Verizon to acquire because they're ISPs, whereas Disney is a movie/theme park studio. 
+
+[This](https://www.wsj.com/articles/disney-deal-for-fox-would-end-era-of-the-big-six-studios-1512907201) also says that:
+
+>Fox under Disney would likely make fewer movies, further reducing the number of releases from traditional Hollywood studios at a time when Netflix and Amazon are aggressively expanding their film output, primarily for their streaming platforms, these people said. The six major studios released 139 films last year compared with 189 in 2007, according to the Motion Picture Association of America.

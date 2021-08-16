@@ -1,0 +1,1 @@
+Ubuntu 18.04 running slow on vbox (Gaming PC) I have a gaming pc (windows 10) with:GPU: 4 gb (nvidia GTX) CPU: 8 cpu's , 16 gb of ram (Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz)To try to make ubuntu faster i've changed the settings of vbox so this are my current:What can i do to make it run smooth since i have a computer good enough for that?

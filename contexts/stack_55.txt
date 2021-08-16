@@ -1,0 +1,1 @@
+Changing service order using Terminal I would like to write a script to change the service order from Ethernet 1 to Ethernet 2.  Any help would be appreciated.

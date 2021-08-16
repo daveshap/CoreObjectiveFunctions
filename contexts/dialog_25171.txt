@@ -1,0 +1,6 @@
+SPOCK: Sporadic energy readings port side, aft. Could be an impulse turn.
+KIRK: He won't break off now. If he followed me this far he'll be back. But from where...?
+SPOCK: He's intelligent, but not experienced. His pattern indicates two dimensional thinking...
+KIRK: Mr. Saavik, all stop.
+SAAVIK: All stop, sir.
+KIRK: Descend ten thousand meters. Stand by photon torpedoes.

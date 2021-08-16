@@ -1,0 +1,4 @@
+JOHN: Is it dead?
+TERMINATOR: Terminated.
+JOHN: Will it melt in there?
+TERMINATOR: Yes. Throw it in.

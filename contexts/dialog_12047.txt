@@ -1,0 +1,9 @@
+VERGER: Ah, yes, ah yes. Our Doctor Lechter... And have they sent you, once again to <u>capture</u> him? How terrible for you...
+STARLING: No, sir, it's not my job to capt... why do you say how terrible?
+VERGER: Because we must leave the past <u>in</u> the past. Ah. And here we have artifacts of, yes, my own encounter with him...
+STARLING: Sir, various drawings, done by Dr. Lechter, while in prison, stolen from the prison after his escape, have surfaced and are being sold at auction. Several large reserve bids have been placed on them. I have to ask if you've placed those bids.
+VERGER: Because?
+STARLING: Because if it was not you, then, perhaps it was Dr. Lechter, trying to reclaim his own property.
+VERGER: And why would you suspect me, of this ghoulishness?
+STARLING: Because, sir, you are the only one of his victims who lived. And because you have large resources.
+VERGER: Large resources, Starling, which I prefer to devote elsewhere....

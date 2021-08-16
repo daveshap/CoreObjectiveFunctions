@@ -1,0 +1,15 @@
+CHARNIER: Tu sais j'ai réfléchi longuement à ton cadeau pour le voyage. Je l'ai choisi moi-même. Tiens.
+MARIE: Je peux l'ouvrir tout de suite?
+CHARNIER: Si tu veux.
+MARIE: Oh Alain! C'est merveilleux! Tu me gâtes. Je t'aime. Attends, je vais te montrer moi aussi ce que j'ai acheté.
+CHARNIER: Encore du sho ping!
+MARIE: Regarde mon pêcheur de baleine... Tu sais il va faire très froid cet hiver.
+CHARNIER: Avec ça tu pourras le supporter.
+MARIE: Mais non, c'est pour toi.
+CHARNIER: Pour moi?
+MARIE: Regarde, il te va parfaitement bien!
+CHARNIER: Formidable! Sans toi je m'habillerais encore en docker. Je suis passé voir Françoise.
+MARIE: Comment va-t-elle?
+CHARNIER: Je n'ai jamais vu tant de sérenité. Elle m'a demandé de tes nouvelles et si nous étions heureux.
+MARIE: Le sommes nous?
+CHARNIER: Non!

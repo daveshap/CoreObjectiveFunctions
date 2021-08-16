@@ -1,0 +1,1 @@
+Portable high lumens array I am trying to build a portable light source - running (exclusively) on a 12v electrical bike battery. Have it operate approx 1 hour on a charge and produce the maximum possible lumens.What would be the best approach Led and driver wise? (Strip/die?) A bit lost trying to calculate what components will fit best.

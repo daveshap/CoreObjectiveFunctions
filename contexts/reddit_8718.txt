@@ -1,0 +1,12 @@
+What is the most politically favorable decision on Paris agreement?
+The President is [still](https://twitter.com/realDonaldTrump/status/868441116726710272) in a decision-making phase.
+
+Before being elected he proposed to [renegotiate or even cancel](http://www.reuters.com/article/us-usa-election-trump-energy-idUSKCN0YH2D9) the agreement. We can't know what his decision will be without speculating too much. However, we can ask what decision is politically optimal? 
+
+This question has 2 parts. First one is how wide is a space of decisions, whether it's completely binary (accept/not accept agreement) or there is a set of points in between?
+
+And second part is what decision represents common ground between positions of his supporters and opponents? Of course, if it's possible to find some compromise at all. 
+
+Full text of Paris agreement is accessible from [here](http://unfccc.int/paris_agreement/items/9485.php). A summary is [here](https://ec.europa.eu/clima/policies/international/negotiations/paris_en#tab-0-0) (unfortunately, I haven't found one that is both clear and concise). 
+
+EDIT: here are some graphs on public opinion: about [global warming](http://www.pewinternet.org/2016/10/04/the-politics-of-climate/ps_2016-10-04_politics-of-climate_0-02/) and [paris agreement](http://climatecommunication.yale.edu/wp-content/uploads/2016/12/Politics-and-Global-Warming-November-2016-01.png)(86% of dems and 51% of reps support it). Latter results are surprising to me, but survey is quite representative (1000 respondents).

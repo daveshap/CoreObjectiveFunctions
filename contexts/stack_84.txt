@@ -1,0 +1,1 @@
+Automator Service that opens URL from rich text I would like to make an Automator Service that will open any link in a different browser (i.e. Firefox) than default (Safari). Precisely: I want to right click on any link in Mac OS and select a service that will open that link in a Firefox.

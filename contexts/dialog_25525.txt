@@ -1,0 +1,9 @@
+PICARD: What do you imagine this is?
+DATA: Port thrusters, sir. Would you like me to drive?
+PICARD: Can you open the shuttlebay doors?
+DATA: Affirmative, sir. Negative, sir. They have instigated security overrides and erected a force field around the external portals.
+PICARD: Well then... only one way to go.
+DATA: Do you think this is a wise course of action?
+PICARD: We're about to find out... Power up disruptors and fire on my mark.
+DATA: Ready, Captain.
+PICARD: Fire!

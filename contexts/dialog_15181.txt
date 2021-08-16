@@ -1,0 +1,23 @@
+BIZZLEBEK: -- I'm flattered, of course, to be considered a friend -- even without knowing all the details. -- To see such determination is reward enough for me.
+KAFKA: The Kafka men are famous for it, you know. Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --
+KAFKA: -- Oh, yes, determination runs in the family.
+BIZZLEBEK: There is <u>one</u> thing I'd like you to tell me.
+KAFKA: I'm trying to find things out myself -- that's the whole point.
+BIZZLEBEK: What made you think <u>I'd</u> be able to get you into the Castle?
+KAFKA: The cemetery is nearer the Castle than anywhere else -- wasn't it part of the Castle originally? -- I always assumed there'd be a gate or something. Isn't there?
+BIZZLEBEK: In a manner of speaking.
+BIZZLEBEK: I was restoring some stones here in the upper section one day -- and I found this.
+KAFKA: An empty tomb?
+BIZZLEBEK: A cenotaph -- a monument to someone whose remains ended up elsewhere. But look --
+BIZZLEBEK: The Castle gates were blockaded in the time of the great plague -- it's an escape route. Don't get stuck.
+KAFKA: Not a chance. I'm the thinnest person I know.
+KAFKA: -- You appreciate my writing.
+BIZZLEBEK: Yes.
+KAFKA: Will you do me a favor then?
+BIZZLEBEK: Another one?
+KAFKA: If I don't see you later -- go to my house and find my notebooks -- and destroy them. All my manuscripts -- just burn them. Please.
+BIZZLEBEK: What an extraordinary request!
+KAFKA: It's my last and final one.
+BIZZLEBEK: Then its authority is in doubt.
+KAFKA: A true friend would do it.
+BIZZLEBEK: Not necessarily. A <u>wife</u> would.

@@ -1,0 +1,4 @@
+KC-LO PILOT: We copy. Stand by... Tower?
+TOWER: Tower, here.
+KC-LO PILOT: This is Romeo Tango Zulu changing call signs. Tower, alert air traffic, Romeo Tango Zulu is now Air Force One. This is Air Force One... The President is safe onboard.
+TOWER: Copy, Air Force One.

@@ -1,0 +1,9 @@
+What are the advantages and disadvantages of unconditionally allowing people to vote by mail?
+In light of social-distancing necessities for the ongoing global pandemic, some in the US are [now calling](https://time.com/5808041/coronavirus-vote-by-mail/) for more states to allow citizens to vote in elections by mailing in their ballots instead of going to a polling place, without requiring a valid excuse why they're unable to go to a polling place like absentee voting. What advantages does unconditional voting by mail bring, and at what cost?
+
+More specifically,
+
+* Even without a virus to worry about, are there groups of people who are inherently more likely to vote if they can do it by mail than if they have to go to a polling place?
+* Does voting by mail pose a greater risk of voting fraud?
+* Are there any estimates of the short-run cost and time to switch to the new system, or the long-run cost of operating that way?
+* What are the results in places that have already adopted unconditional voting by mail, or those that have 100% voting by mail and no polling places at all?

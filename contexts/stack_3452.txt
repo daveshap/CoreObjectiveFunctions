@@ -1,0 +1,1 @@
+Handling the loss of a phone with FIDO UAF I would like to know how this UAF method works when we lose our phone. With Google Authenticator we have to save on a paper some info about the generation of the secret key. But how does this work with UAF? If you have also some website that implements it and where I can try it thank you for sharing them.

@@ -1,0 +1,8 @@
+Displaying unpublished data analyses on Github
+I’m not sure if this is the place to ask or if I am better asking stats people but it is related to any data analysis stuff you have done in grad school for your PI.
+
+Well basically I’m in Biostats Masters and I have done a lot of stat analyses on bio/biochem datasets for people in my lab. 
+
+These analyses are not simple t-tests or anything that trivial they are a lot of comprehensive Mixed Model GLMs/GAMs. I’d like to showcase some of this stuff for employers but I’m not sure if its ok. 
+
+What is the way to go about this? Because the data is unpublished. The thing is if I can’t show this then I don’t have much to show on there.

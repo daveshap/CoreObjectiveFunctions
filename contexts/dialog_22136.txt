@@ -1,0 +1,8 @@
+LUKE: Han!
+HAN: Luke!
+LUKE: Are you all right?
+HAN: Fine. Together again, huh?
+LUKE: Wouldn't miss it.
+HAN: How are we doing?
+LUKE: The same as always.
+HAN: That bad, huh? Where's Leia?

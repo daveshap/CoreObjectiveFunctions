@@ -1,0 +1,9 @@
+BARNES: No, I just ran it! Why are you running it again?
+TAYLOR: Well it's a good thing that I did.
+TAYLOR: It's telling me fail mode confirmed. Did you see this?
+BARNES: There must be some mistake. You sure you hit the right commands?
+TAYLOR: Yes I'm sure I hit the right commands.
+BARNES: Why don't you reset and run it again. The pods check out ok.
+TAYLOR: You're certain of that?
+BARNES: Trust me. Even checked 'em with my own eyes.
+TAYLOR: All right, I'll give it a shot.

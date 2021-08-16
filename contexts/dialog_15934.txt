@@ -1,0 +1,9 @@
+GUMP: The kitchen be the most important room in a palace, for if the victuals ain't right, little else is likely to be so.
+JACK: Did you bring me here to sup?
+GUMP: Nay, lad, we're here to collect a weapon you'll need fighting the Baron.
+JACK: What weapon?
+GUMP: Sunlight.
+JACK: Plan on carrying some away in a kettle?
+GUMP: Easier than that, Jack. Screwball! Fetch me down a couple of them plates.
+SCREWBALL: How're these?
+GUMP: They'll do nicely.

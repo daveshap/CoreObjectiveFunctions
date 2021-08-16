@@ -1,0 +1,10 @@
+ED: Excuse me, Miss Vampira?
+VAMPIRA: Yes?
+ED: You don't know me, but my name is Ed Wood. I'm a film producer. I'm currently in production on a science-fiction piece, with Bela Lugosi and Swedish wrestler Tor Johnson. And I saw you here, and I thought: Kismet!
+VAMPIRA: I don't understand. Do you want my autograph?
+ED: No. I think my film is perfect for you.
+VAMPIRA: You want me to show it on my TV program? Well I got nothing to do with that. You should call up the station manager at Channel Seven --
+ED: No! I don't want you to show the movie, I want you to be <u>in it</u>! See, maybe I should explain: We started shooting, but then after three days we got shut down. So we're having a backers party, to raise some more money. Perhaps you'd like to come next door and meet some of the backers...?
+VAMPIRA: Uh, look, I'm with some friends, and we're about to eat --
+ED: Please! It'll only take a minute. You can have some hors d'oeuvres, and meet my backers! There's a really nice dentist from Oxnard...
+VAMPIRA: Look buddy, I'm a big star. I've got real offers from real studios. I don't need to blow some dentist for a part. So forget it!

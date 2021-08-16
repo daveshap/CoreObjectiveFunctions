@@ -1,0 +1,11 @@
+LINDSEY: Hello.
+PAUL: Hi, Lindsey, this is Paul. Is Annie there?
+LINDSEY: Yes, she is.
+PAUL: Will you get her for me?
+LINDSEY: She's washing her clothes.
+PAUL: Well, go tell her it's me, okay?
+LINDSEY: Okay.
+LINDSEY: Annie, Paul's on the phone!
+ANNIE: Lindsey, open the door! I'm locked in the laundry room!
+LINDSEY: You locked yourself in.
+ANNIE: I know. Pull my legs. I'm stuck.

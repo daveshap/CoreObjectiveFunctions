@@ -1,0 +1,8 @@
+FAUST: That one section of the ventilator shaft has only two outlets -- you notice? The food storage room on one end --
+HUNTER: -- And the cooling unit on the other.
+STANDARD: So it's trapped in between -- now we have to drive it out.
+FAUST: Poison gas...
+HUNTER: We can't pump poison gas down into the cooling unit! It'll flood the whole ship!
+STANDARD: The only other thing I can think of is for somebody to crawl in there and flush it out.
+ROBY: Are you <u>crazy</u>?
+STANDARD: The man would need protection, obviously -- as well as some way to drive the thing before him.

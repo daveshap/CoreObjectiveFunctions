@@ -1,0 +1,1 @@
+Detecting GSM activity Is it possible to detect the GSM usage activity using SDR? I know that it's possible to do this using EMF meter, for example. What about SDR?Radius of the range: 30-40 metersP.S. ..GSM activity - by that I mean the usage of GSM networks by mobile phones, for example.

@@ -1,0 +1,3 @@
+SPOCK: I believe I have found a faster way.
+KIRK: Hmmm?
+SPOCK: Uh-uh.

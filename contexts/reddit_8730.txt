@@ -1,0 +1,14 @@
+What are the benefits and downsides of at-will employment laws, and what alternatives to this employment design are available?
+>"Many people are surprised to learn, whether from an employment contract or employee handbook, that they are an "at-will employee." This means that your employer can terminate you at any time, for any cause -- with or without notice. An employer has every right to walk up to an at-will employee and say, "I don't like that your favorite color is purple. You're fired." There are very few, if any, remedies for you, unless your employer did something to violate your employee rights or broke labor laws."
+
+[-Source](https://employment.findlaw.com/hiring-process/at-will-employee-faq-s.html)
+
+I'm aware that other countries have different employment laws: 
+
+* For example, Japan has very strict employee protections and employers are not allowed to terminate employees barring dire circumstances. [Source](https://www.dlapiper.com/~/media/Files/Other/2015/P1314_JanFeb2014_ELA.pdf).
+
+* The United Kingdom also includes a certain level of employee protection, requiring a justifiable reason for dismissal. Most employees in the UK are based on formal contracts and all the permissible reasons for dismissing someone are laid out in the contract beforehand. Most of these contracts require prior notice before termination, and an employer will often need to show cause. [Source](https://www.footholdamerica.com/faqs/employing-a-us-worker/us-employment-law-vs-uk-employment-law/) 
+
+* Germany engages in similar worker protections to the UK. [Source](https://www.lexology.com/library/detail.aspx?g=b8d624ed-4dd7-4874-9570-2fafb57b3a54)
+
+What are the benefits and downsides to at-will employment, and what alternatives to this set of employment laws are available in the US? Have increasing employee protections shown to have a negative or positive effect on the economies of the states or countries in question?

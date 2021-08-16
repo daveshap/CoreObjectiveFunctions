@@ -1,0 +1,1 @@
+iOS: Delete default Apple apps built-into iOS 9.3.5 How do I delete the Apple apps that come installed by default with the iPhone, like Podcasts, iBooks or Game Center app?It appears that these apps take up a lot of storage space on my iPhone 4s. I don't know for sure if one can or can't remove them.

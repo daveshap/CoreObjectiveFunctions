@@ -1,0 +1,1 @@
+Hiding NULL text in attributes using QGIS? In QGIS 3, how do I hide the 'NULL' text from empty attributes?QGIS 2.18 has a setting for that, but can't find it in QGIS 3.4.

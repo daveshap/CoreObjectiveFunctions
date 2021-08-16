@@ -1,0 +1,25 @@
+DELMAR: Answer the man.
+HAL: Nothing, just tourist souvenirs.
+QUALEN: Souvenirs? No, wrong answer. Looks like your friend plans on hanging around, that possible?
+HAL: No, he's gone.
+QUALEN: No, he's close, and he's using our money to keep you alive. Nobody's worth that much on the open market. Except you, the loyal one. Didn't I tell you to warm the place up?
+GABE: Man, it costs a fortune to heat this place.
+JESSIE: I'm glad you find humor in this. Do you know what people would do for that?
+GABE: I can't believe you just said that.
+JESSIE: Neither can I. What do you think they're doing now?
+GABE: Making things real rough for Hal.
+JESSIE: You still wear the cable necklace I gave you.
+GABE: Call me sentimental.
+JESSIE: Remember the first time we came up here?
+GABE: Of course I do.
+JESSIE: It was great.
+GABE: You attacked me.
+JESSIE: Can you think of something more romantic than attacked?
+GABE: Only kidding...<u>actually</u> I attacked you.
+JESSIE: No, actually it was more like mutual attacking.
+JESSIE: Why can't things stay the way they are...everything has to change. What we had was perfect.
+GABE: I don't know. Here, lay down and get some rest. We're going to need it.
+JESSIE: Gabe...your arm?
+GABE: Yeah?
+JESSIE: If you're not using your arm, can I borrow it?
+GABE: Sure, just give it back when you're done.

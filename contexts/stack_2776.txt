@@ -1,0 +1,1 @@
+Resistivity of electrolytes My book mentions how can I find the resistivity of metals but can somebody Pls explain how can one find the resistivity/conductivity in case of electrolytes

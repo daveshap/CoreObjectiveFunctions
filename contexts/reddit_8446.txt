@@ -1,0 +1,16 @@
+Is the PREPA/Whitefish Energy contract unusual for a government contract after a natural disaster?
+There has been [substantial controversy](http://www.npr.org/sections/thetwo-way/2017/10/24/559864118/tiny-montana-firm-gets-300-million-contract-to-help-restore-power-in-puerto-rico) about the awarding of a $300 million contract by PREPA, the [Puerto Rican power authority](https://en.wikipedia.org/wiki/Puerto_Rico_Electric_Power_Authority) to a company called Whitefish Energy, which apparently had only two employees and $1 million in annual revenue prior to the contract.
+
+Yesterday a purported copy of the PREPA/Whitefish contract was posted online.  
+
+**Edit: Apparently the copy of the contract may contain personal information of some of the signatories.  I've pulled the link though the relevant excerpt can be found [here](https://twitter.com/kenklippenstein/status/923741769719779328)**
+
+Is this contract unusual in form?  Are there provisions which are atypical or prohibited in government contracts.  In particular I wonder about Article 59 of the contract, which states:
+
+>The Contractor agrees to provide PREPA, the Commonwealth of Puerto Rico, the FEMA administrator, the Comptroller General of the United States, or any of their authorized representatives access to any books, documents, papers, and records of the Contractor which are directly pertinent to this Contract for the purposes of making audits, examination, excerpts, and transctipstions, during the Contractor's performance of the contract and for up to three (3) years after Contractor's receipt of final payment under the Contract. **In no event shall PREPA, the Commonwealth of Puerto Rico, the FEMA administrator, the Comptroller General of the United States, or any of their authorized representatives have the right to audit or review the cost and profit elements of the labor rates specified herein.**
+
+(Emphasis added)
+
+Is there precedent for a contractor like Whitefish getting a contract like this?  If so, is it a good precedent or bad precedent?
+
+Is the contract typical in form and content for these sort of contracts?  If not, how serious are the deviations?  Is the 'no audit' provision in respect to labor rates normal?

@@ -1,0 +1,24 @@
+EVE: Chauncey!
+CHANCE: Hello, Eve.
+EVE: Your leg must be getting better.
+CHANCE: Yes. It's feeling much better now.
+EVE: Good. I'm glad to hear that. ... How did you like meeting the President?
+CHANCE: Fine. He's very nice.
+EVE: Yes, he is. I'm sorry I didn't get to see him.
+EVE: ... Chauncey... Last night you mentioned an old man, that died.
+CHANCE: Yes.
+EVE: Was he a relative? Or an intimate friend?
+CHANCE: He was a very wealthy man, he looked after me since I was young.
+EVE: Oh, I see... Your mentor, perhaps?
+CHANCE: ... Mentor...?
+EVE: Forgive me, Chauncey - I didn't mean to pry. You must have been very close to him.
+CHANCE: Yes. I was.
+EVE: I'm sorry... ... And what about Louise? YOU mentioned that she had gone, were you close to her also?
+CHANCE: Yes. I liked Louise very much. She was his maid.
+EVE: Oh, his maid!... Stupid me, I thought perhaps she was someone that you may have been romantically involved with.
+CHANCE: Oh, no. She brought me my meals.
+EVE: Of course.
+CHANCE: What is that?
+EVE: Our greenhouse.
+CHANCE: Oh, I like that very much.
+EVE: Yes, so do we.

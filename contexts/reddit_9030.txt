@@ -1,0 +1,11 @@
+Why are health insurance exchanges state marketplaces? Why is there not a national marketplace?
+Health insurance exchanges are organizations in each state through which people can purchase health insurance. These were created by the ACA. There are also private exchanges that operate within states. Why are these exchanges limited to operating within a state? What is the rationale for not having a national marketplace?
+
+State insurance marketplaces:
+https://www.healthcare.gov/marketplace-in-your-state/
+
+Brief overview of state insurance marketplaces:
+https://en.wikipedia.org/wiki/Health_insurance_marketplace
+
+One argument against the efficacy of a national market: 
+http://www.commonwealthfund.org/publications/blog/2017/apr/selling-health-insurance-across-state-lines

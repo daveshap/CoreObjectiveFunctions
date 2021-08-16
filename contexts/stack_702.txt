@@ -1,0 +1,1 @@
+output ascii art in a red color on terminal so i wanted to make a MR ROBOT default banner, but i don't know how to make the output in a red Color in terminal, could somebody please help? also does anybody have the Original MR ROBOT ascii art? if so please drop it here.ps: using kali linux 2018.1 release

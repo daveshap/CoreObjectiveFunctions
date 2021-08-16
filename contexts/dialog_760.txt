@@ -1,0 +1,10 @@
+STRIKER: Look, you'll be back in town tomorrow night. We'll have dinner -- talk it over.
+ELAINE: I won't be back. I've requested the Atlanta run.
+STRIKER: Elaine, not yet. I promise you I really can change.
+ELAINE: Then why don't you take the job that Louie Netz offered you at Boeing?
+STRIKER: You know I haven't been able to get near an airplane since the war. And even if I could, they wouldn't hire me because of my war record.
+ELAINE: Your <u>war</u> <u>record</u>? You're the only one keeping that alive. For everyone else it's ancient history.
+STRIKER: You expect me to believe that?
+ELAINE: It's the truth. What's hurt you the most is your record since the war. Different cities, different jobs, and not one of them shows you can accept any real responsibility.
+STRIKER: But if you'll just give me...
+ELAINE: It's too late, Ted. When I get back to Chicago, I'm going to start my life all over again. I'm sorry.

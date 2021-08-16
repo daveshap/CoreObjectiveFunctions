@@ -1,0 +1,32 @@
+What new information about links between the Russian government and the Trump campaign have we learned from the Mueller report?
+In [his report](https://www.justice.gov/storage/report.pdf)^1 released with redactions today, Special Counsel Robert S. Mueller said:
+
+>[T]he Special Counsel's investigation established that
+Russia interfered in the 2016 presidential election principally through two operations. First, a
+Russian entity carried out a social media campaign that favored presidential candidate Donald J.
+Trump and disparaged presidential candidate Hillary Clinton. Second, a Russian intelligence
+service conducted computer-intrusion operations against entities, employees, and volunteers
+working on the Clinton Campaign and then released stolen documents. The investigation also
+identified numerous links between the Russian government and the Trump Campaign. Although
+the investigation established that the Russian government perceived it would benefit from a Trump
+presidency and worked to secure that outcome, and that the Campaign expected it would benefit  electorally from information stolen and released through Russian efforts, the investigation did not
+establish that members of the Trump Campaign conspired or coordinated with the Russian
+government in its election interference activities.^2
+
+
+
+* What if any of the "numerous links between the Russian government and the Trump Campaign" were not previously known to the public before this report?  
+
+---
+
+^1 GIANT PDF warning.  This thing is over 100 MB.  It's also not text searchable.  [This](https://viewfromll2.files.wordpress.com/2019/04/mueller-report.pdf) is a searchable version which was done with OCR and may not be 100% accurate in word searches.
+
+^2 Vol 1, p. 1-2
+
+---
+
+Special request:  **Please cite volume and page numbers when referencing the report.**
+
+This thing is an absolute beast of a document clocking in over 400 pages.  It is broken into two volumes, volume 1 on Russian interference efforts and links to the Trump campaign, and volume 2 on obstruction of justice.  Each volume has its own page numbers.  So when citing anything from the report, please say a page *and volume* number.
+
+If you cite the report without a page number we will not consider that a proper source, because it's too difficult to check.

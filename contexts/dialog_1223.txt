@@ -1,0 +1,26 @@
+DAVID: Dr. Hirsch? I'd rather not be by myself.
+DR. HIRSCH: Of course not, David. I'll fetch in young Miss Price.
+DAVID: You're a very beautiful girl.
+ALEX: I thought you were asleep.
+DAVID: I was. What are you reading?
+ALEX: 'A Connecticut Yankee in King Arthur's Court' by Mark Twain.
+DAVID: Do you like it?
+ALEX: I've just started it. My friend gave it to me.
+ALEX: What do you dream about?
+DAVID: I dream of death mostly.
+ALEX: I'm sorry. I shouldn't have asked you.
+DAVID: It's okay. I want to talk to you.
+DAVID: How old are you?
+ALEX: That's not really a very proper question.
+DAVID: How old are you?
+ALEX: Twenty-eight.
+DAVID: I'm twenty-seven.
+ALEX: I know.
+DAVID: Now what do you want to talk about?
+ALEX: Was Jack Goodman your good friend?
+DAVID: My best friend. My very best friend.
+ALEX: Shall I read to you?
+DAVID: What? Oh, yes, please.
+ALEX: A Connecticut Yankee in King Arthur's Court by Samuel L. Clemens. This is after the preface but before chapter one: A Word of Explanation. You all right?
+DAVID: Yes, go on.
+ALEX: Ahem, A Word of Explanation. It was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company - for he did all the talking. We fell together as modest people will in the tail of the herd...

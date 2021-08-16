@@ -1,0 +1,20 @@
+What happens now with the "Travel Ban"?
+Today, [SCOTUS ruled 5-4 that the Trump has constitutional authority to implement his "Travel Ban"](https://www.supremecourt.gov/opinions/17pdf/17-965_h315.pdf).
+
+So my questions are pretty simple: What happens now?
+
+If we read the text of the [current "Travel Ban"](https://www.whitehouse.gov/presidential-actions/executive-order-protecting-nation-foreign-terrorist-entry-united-states-2/), which was issued in March of 2017, there are several key things I'd like to inquire about.
+
+The first is the statement that such a travel ban will last only 90-days:
+
+> Under these authorities, I determined that, for a brief period of 90 days, while existing screening and vetting procedures were under review, the entry into the United States of certain aliens from the seven identified countries — each afflicted by terrorism in a manner that compromised the ability of the United States to rely on normal decision-making procedures about travel to the United States — would be detrimental to the interests of the United States. Nonetheless, I permitted the Secretary of State and the Secretary of Homeland Security to grant case-by-case waivers when they determined that it was in the national interest to do so.
+
+Does the 90-day period begin now, or how does that work? Also, is it enforced by law or is the 90-day window an arbitrary number that has no legal bearing?
+
+Lastly, there are several mentions of stipulating factors for this proclamation, specifically surrounding our (The United States) "review" of several processes. Examples:
+
+> Under these authorities, I determined that, for a brief period of 90 days, **while existing screening and vetting procedures were under review**, the entry into the United States of certain aliens from the seven identified countries — each afflicted by terrorism in a manner that compromised the ability of the United States to rely on normal decision-making procedures about travel to the United States — would be detrimental to the interests of the United States. Nonetheless, I permitted the Secretary of State and the Secretary of Homeland Security to grant case-by-case waivers when they determined that it was in the national interest to do so.
+
+> Executive Order 13769 also suspended the USRAP for 120 days. Terrorist groups have sought to infiltrate several nations through refugee programs. Accordingly, I temporarily suspended the USRAP **pending a review of our procedures for screening and vetting refugees.** Nonetheless, I permitted the Secretary of State and the Secretary of Homeland Security to jointly grant case-by-case waivers when they determined that it was in the national interest to do so.
+
+Since these statements, to me, imply that this ban will continue as long as our processes are under review, is there anything that legally obligates the government to conduct an actual review of their processes *and finish it*, or could they theoretically conduct a review for four years?

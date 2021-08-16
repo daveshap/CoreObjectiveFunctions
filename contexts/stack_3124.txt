@@ -1,0 +1,1 @@
+Merging black holes -- how fast do they hit? Orbital mechanics says something falling from infinity hits at the escape velocity of the object it strikes.The escape velocity at the event horizon is lightspeed, it must be higher for the singularity inside.Thus we have a superluminal impact velocity.  Huh?  Does special relativity manage to avoid this situation?

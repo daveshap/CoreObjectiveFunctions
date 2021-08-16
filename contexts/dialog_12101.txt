@@ -1,0 +1,6 @@
+LECHTER: You look lovely.
+STARLING: Thank you. No, I know you'd prefer I'm glad you <u>find</u> me so...""
+LECHTER: I'd prefer you to say what you feel.
+STARLING: What is that that smells so wonderful.
+LECHTER: I hope you'll <u>find</u> it so. Yes. It's <u>good</u> to see you regaining your strength...
+STARLING: Thanks to <u>you</u>...

@@ -1,0 +1,1 @@
+Stellaris Apocalypse cc problem I'm having problem using cc of research_all_technologies and research_technology or technologies can't remember. But when I use research_all_technologies only non repeatable researched but not repeatable ones and research_technology/technologies it says it needs augment something so I don't understand whats it saying.

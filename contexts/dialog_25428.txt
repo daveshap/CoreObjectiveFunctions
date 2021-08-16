@@ -1,0 +1,15 @@
+WORF: Target locked!
+PICARD: Fire!
+PICARD: Mister Data, I want to know the exact date and time. Give me a damage report on that missile silo.
+DATA: Today is March second, 2063. The time in Montana is oh-eight-forty- five.
+RIKER: Looks like they damaged the silo...
+PICARD: Life signs?
+RIKER: Can't tell. Long-range bio- sensors are off-line.
+PICARD: Worf, have Doctor Crusher, Mister La Forge and a security team meet me in Transporter Room Three. Civilian clothes.
+WORF: Aye, sir.
+RIKER: Captain?
+PICARD: In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test... from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his ship.
+RIKER: And if they succeed, humans won't make First Contact with the Vulcans tomorrow. As First Officer I should be the one beaming down...
+PICARD: Normally, I would agree. But in this case, the mission requires a certain knowledge of 21st century history. You're many things, Number One, but you're not much of an historian.
+RIKER: Good luck, sir.
+PICARD: I'll keep in contact. You have the Bridge.

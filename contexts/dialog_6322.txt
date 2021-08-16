@@ -1,0 +1,12 @@
+SALESGIRL: I'm sorry. Nothing under Pearson.
+JAKE: You're sure? This is... Just a complete disaster.
+SALESGIRL: What was it?
+JAKE: A ring for my wife. A lot like that one. In fact, it was that one.
+SALESGIRL: That's no problem. We have those in stock.
+JAKE: Thank you. Sorry, I'm just a little anxious to give it to her. You take out of state checks?
+SALESGIRL: With identification.
+JAKE: I understand that, but I had my wallet stolen last night. Is there any way..?
+SALESGIRL: I'm sorry.
+JAKE: I know it's policy, but... The thing is... It's our first anniversary and we're only in town for the weekend. It's a very, very special night for my wife and I. This ring is my gift to her and I think she's going to really love it. I can give you phone numbers to call for people who'll vouch. I can send you I.D. later...
+SALESGIRL: I'm sorry.
+JAKE: This is embarrassing.

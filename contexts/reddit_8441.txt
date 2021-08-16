@@ -1,0 +1,10 @@
+San Francisco proposed initiative to retroactively tax IPO income on individuals. Is this constitutional?
+https://www.axios.com/san-francisco-proposes-ipo-tax-uber-lyft-63d1d608-0819-44ab-860b-066371b08038.html
+
+https://www.bloomberg.com/news/articles/2019-04-24/san-francisco-ipo-tax-would-target-uber-and-other-tech-startups
+
+San Francisco is proposing a **retroactive** tax on IPO-based personal income. Would such a tax be constitutional per the ex-post-facto provision of the Constitution?
+
+Ex-post-facto laws are explicitly forbidden in [Article I Sec 10](https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution#Section_10:_Limits_on_the_States):
+
+> No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, **ex post facto Law**, or Law impairing the Obligation of Contracts, or grant any Title of Nobility

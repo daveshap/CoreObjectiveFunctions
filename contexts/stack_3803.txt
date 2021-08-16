@@ -1,0 +1,1 @@
+Multivariate Elastic Net with glmnet I am using glmnet package for elastic net. I'd like to perform variable selection and classification on a 50x41 data set with 3 response variables (one continuous and two categorical), but I have not found any method to perform it. Is that possible? Or should I use another package?

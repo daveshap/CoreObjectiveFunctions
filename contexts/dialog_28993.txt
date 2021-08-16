@@ -1,0 +1,11 @@
+ANYA: Hope we're not intruding.
+LOTHER: This is Miss Marsh.
+ANYA: Yes--I met Miss Marsh. In fact, she always seems to be turning up in the most unusual circumstances. What's the matter, Miss Marsh--aren't you feeling well?
+ANYA: Well--shall we go into dinner?
+LOTHER: I'll join you later.
+ANYA: And <U>do</U> bring Miss Marsh-- --when she's had time to tidy up a bit.
+SALLY: You're Anya Rosson, aren't you? I've heard of you back in New York.
+ANYA: Sorry I can't return the compliment.
+SALLY: You were indiscreet enough to leave your gloves in my apartment one evening-- --and he was gentleman enough to boast <U>why</U> you'd been there and show me a snapshot of you.
+ANYA: I don't understand.
+SALLY: I think you do.

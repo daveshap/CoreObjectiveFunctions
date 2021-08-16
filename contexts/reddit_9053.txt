@@ -1,0 +1,6 @@
+In Saturday's debate, host Martha Raddatz referred to encryption as " a new terrorist tool used in the Paris attacks." Is there any evidence that encryption was used in the Paris attacks?
+Here is a transcript of the debate, you can ctl-f for the quote: http://time.com/4156144/democratic-debate-third-new-hampshire-abc-transcript/
+
+I recall this article from a few weeks ago saying that some terror suspects may _not_ have used encryption: https://theintercept.com/2015/11/18/signs-point-to-unencrypted-communications-between-terror-suspects/
+
+So is there a basis for saying that encryption was used in the Paris attacks? Once we settle the factual questions, perhaps we can ask, what are the implications of media that frame questions in such a way?

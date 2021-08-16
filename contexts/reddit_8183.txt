@@ -1,0 +1,18 @@
+Nunes Memo: What is true, what is misleading? What is new, what was previously known? And what are potential consequences for the investigations into Russian election meddling?
+Hi folks,
+
+I'd like to break down the memo away from the major political subreddit megathreads a bit. [The memo can be read from this  Scribd link.](https://www.scribd.com/document/370599381/Nunes-Memo)
+
+With all the speculation bouncing around prior to the release of the memo, it has become difficult to separate what was known vs speculated on regarding the memo and to what degree. I'd like to sort that out to some degree.
+
+I'd also like to sort out where material presented in the memo changes the picture of the ongoing investigations, and where the memo may be misleading. Four possible starting points are: (1) the timing of surveillance on Carter Page, (2) the role of Bruce Ohr in the investigations, (3) the relationship to the Papadopoulos investigation, and (4) the necessity of the Steele dossier to the investigation. I'd love to discuss any other points as well.
+
+Regarding (1), we've heard previously that [Page was under FISA surveillance since 2014](http://www.washingtonexaminer.com/former-trump-adviser-carter-page-under-fisa-warrant-since-2014-report/article/2630576), but I'm not sure where that info comes from (the above has no corroboration in the link). Is the application mentioned in the memo a continuation or a new warrant? If a continuation, wouldn't that make the memo's assertions about the necessity of the Steele dossier misleading? If a new warrant, was he being surveilled earlier? And why was this a new warrant, not a continuation?
+
+Regarding (2), Steele is said to have contacted DoJ through Bruce Ohr. Do we have any additional info on this contact? Was he Steele's only DoJ contact or were there others? What is Ohr's role now? How much do potential conflicts-of-interest regarding Ohr's wife and the DNC matter?
+
+Regarding (3), the Papadopoulos info provided doesn't seem to gel with the rest of the memo's narrative. The memo states the investigation into Papadopoulos began in July 2016, but the FISA warrant for Page didn't begin until October. Is info on Papadopoulos in the dossier, and was the dossier used to begin that investigation? I'm not entirely sure what I'm asking here; it seems to me to be another chance to bring up Strzok's name more than anything else, but I'm open to discussion.
+
+Regarding (4), do we have corroboration that McCabe stated the investigation into Page required the dossier information? If true, that might make the FISA warrant originally issud questionable, [or it might not](https://lawfareblog.com/dubious-legal-claim-behind-releasethememo) as discussed in this lawfareblog post from before the public release of the memo. Essentially, the post states that bias in the evidence used to obtain the warrant is not enough to stop the warrant from being issued if the biased information is precise and from a reliable source.
+
+That's just to get a discussion started - I'm hoping to break down the memo some more and draw connections to info we had before the release of the memo as well.

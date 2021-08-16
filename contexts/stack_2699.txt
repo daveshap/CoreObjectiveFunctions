@@ -1,0 +1,1 @@
+Transforming polygon from Arc 1960 UTM Zone 37S to WGS 1984 UTM Zone 37S? I have a polygon which is in Arc 1960 UTM Zone 37S coordinate system and I need to transform it to to WGS 1984 UTM Zone 37S. I have not been successful in doing this using ArcMap. Is there a solution for this?

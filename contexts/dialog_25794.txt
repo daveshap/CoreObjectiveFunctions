@@ -1,0 +1,7 @@
+PICARD: That's where he's going.
+DATA: It should be noted, sir, that the collapse of the Veridian star would produce a shock wave similar to the one we observed at Amargosa.
+PICARD: And destroy every planet in the system.
+PICARD: Are any of them inhabited?
+DATA: Veridian III is uninhabited, but Veridian IV supports a pre-industrial humanoid society.
+PICARD: Population?
+DATA: Approximately two hundred thirty million.

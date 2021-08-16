@@ -1,0 +1,28 @@
+A Federal judge ruled on Friday that an all-male military draft is unconstitutional. What impact does this have on Selective Service registration and future U.S. military drafts?
+Formed in 1917, the [Selective Service System](https://en.wikipedia.org/wiki/Selective_Service_System#Who_must_register) is an independent Federal agency that keeps records of individuals registered for a potential military draft.
+
+Failure to register used to result in penalties, however these have not been prosecuted in many years (from Source 1):
+
+> The last prosecution for non-registration was in January 1986. In interviews published in U.S. News & World Report in May 2016, current and former Selective Service System officials said that in 1988, the Department of Justice and Selective Service agreed to suspend any further prosecutions of non-registrants. No law since 1980 has required anyone to possess, carry, or show a draft card, and routine checks requiring identification virtually never include a request for a draft card.
+
+In practice, the last draft was decades ago and enrolling in the military is voluntary today, however the Selective Service has several administrative roles not pertaining to the military. Some of these administrative roles incentivize enrollment (from Source 1):
+
+> Registration with Selective Service is also required for various federal programs and benefits, including the Free Application for Federal Student Aid (FAFSA), student loans and Pell Grants, job training, federal employment, and naturalization.
+
+----
+
+In 1981, the Supreme Court in [Rostker v. Goldberg](https://en.wikipedia.org/wiki/Rostker_v._Goldberg) upheld the constitutionality of the all-male draft. This decision was partly determined based on the limited roles women could have in the military at the time.
+
+On Friday, a [Federal judge ruled](https://www.usatoday.com/story/news/nation/2019/02/24/military-draft-judge-rules-male-only-registration-unconstitutional/2968872002/) that women have sufficient access to combat roles in the military and that Rostker v. Goldberg no longer applies.
+
+The [judge's ruling](https://www.documentcloud.org/documents/5747780-190224-SELECTIVE-SERVICE-DECISION-Full.html) (PDF warning) was a [Declaratory Judgement](https://en.wikipedia.org/wiki/Declaratory_judgment), and probably doesn't have great implications right now (from Source 3):
+
+> "Yes, to some extent this is symbolic, but it does have some real-world impact," said Marc Angelucci, the lawyer for the men challenging the draft. "Either they need to get rid of the draft registration, or they need to require women to do the same thing that men do."
+
+---
+
+I have a couple of questions:
+
+1: How does a Declaratory Judgment work, and what does it do?
+
+2: Does this ruling have any effect on the Selective Service System in the immediate? What about if another draft were to be held?

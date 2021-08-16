@@ -1,0 +1,1 @@
+BitLocker To Go password strength When using BitLocker To Go, given that removable drives are inherently offline and may have to resist such attacks, what are the best practices / recommendations for password strength?

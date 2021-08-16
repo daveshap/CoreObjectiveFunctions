@@ -1,0 +1,1 @@
+How do I get Waterfox to work? I installed Waterfox but it is not available as an application, just a folder. How do I get it to work like a normal app? Thanks in advance.

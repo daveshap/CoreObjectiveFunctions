@@ -1,0 +1,6 @@
+HARDY: How are you?
+STYLES: Been better. I read about what's been happening with you... I should have called --
+HARDY: What kind of trouble are you in?
+HARDY: That bad?
+STYLES: Would I have called you if it wasn't? If there was any other way --
+HARDY: Tell me what I can do.

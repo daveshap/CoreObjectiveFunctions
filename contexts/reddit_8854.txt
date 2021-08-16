@@ -1,0 +1,24 @@
+Do US school districts choosing to be online-only risk violating the 14th amendment equal protection clause?
+[Several large us regions and districts are considering or have actually announced plans to continue online-only learning.](https://www.cnn.com/2020/07/13/us/school-reopening-plans-major-cities/index.html)
+
+For example (from the above article):
+
+>California's two largest school districts announced Monday that schools will not open for any in-person instruction when the academic year starts in August, and that students will continue to learn remotely. Los Angeles Unified School District and San Diego Unified School District are the largest school districts to date to forgo any type of in-person instruction.
+
+[In earlier months, online learning presented a clear challenge to many families and areas because of inadequate or non-existent access to internet services.  Districts and governments offered some solutions such as hotspots, but those do not work adequately in rural areas and add significant hardship to families in other areas.](https://edsource.org/2020/more-california-students-are-online-but-digital-divide-runs-deep-with-distance-learning/630456)
+
+>Over the last few weeks, state leaders have said that an estimated one in five California students — approximately [1.2 million](https://www.gov.ca.gov/2020/04/20/governor-newsom-announces-cross-sector-partnerships-to-support-distance-learning-and-bridge-the-digital-divide/) — lacked broadband or a computer to access distance learning. The problems are particularly acute in rural areas, where only 34% of households are subscribed to an internet service compared with 78% in urban areas, according to an EdSource analysis of 2018 data.  
+>  
+>Major progress has already been made as districts, private donors and elected officials rush to get devices to students, but hundreds of thousands of students remain unable to access online learning.
+
+and
+
+>Rural schools are finding mobile WiFi devices don’t work at all for students in some of the most remote parts of the state that lack broadband infrastructure. That’s the case in Del Norte Unified, which consists of 11 schools and is the single district within Del Norte County, which reaches the Oregon border.  
+>  
+>“A lot of students are in places where there isn’t consistent power, let alone internet,” said Ryan Bahten, director of information network services for Del Norte Unified, located just south of the Oregon border. “These hotspots are a nonstarter for us,” referring to WiFi devices donated by T-Mobile to the California Department of Education.
+
+In the landmark case Brown v Board of Education, the [court opinion](https://www.law.cornell.edu/supremecourt/text/347/483/USSC_PRO_347_483_1) seemed to make it clear that equal access to schooling is a constitutionally protected right:
+
+>Today, education is perhaps the most important function of state and local governments. Compulsory school attendance laws and the great expenditures for education both demonstrate our recognition of the importance of education to our democratic society. It is required in the performance of our most basic public responsibilities, even service in the armed forces. It is the very foundation of good citizenship. Today it is a principal instrument in awakening the child to cultural values, in preparing him for later professional training, and in helping him to adjust normally to his environment. In these days, it is doubtful that any child may reasonably be expected to succeed in life if he is denied the opportunity of an education. Such an opportunity, where the state has undertaken to provide it, is a right which must be made available to all on equal terms.
+
+Regardless of the specific situation in California, do districts risk running afoul of 14th amendment protections if they are unable to provide equal access to online learning for all students and have chosen to be online-only?

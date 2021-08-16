@@ -1,0 +1,1 @@
+Host VMs on Ubuntu Server and access them remotely? Is it possible to host virtual machines on a workstation running Ubuntu Server 16.04 (no GUI) and log into them remotely from a Windows PC?

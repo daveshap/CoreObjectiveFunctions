@@ -1,0 +1,1 @@
+PC as a MIDI controller with output to USB Is there a program to output MIDI signals to USB? I installed vmpk but I am not sure if it is able to do this job. At this stage, I want to control stm32f4-discovery with Deskripator-v2.

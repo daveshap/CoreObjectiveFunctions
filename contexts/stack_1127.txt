@@ -1,0 +1,1 @@
+How to query MySql using 256 AES decrypt with key and IV How does one write a MySql query to do a search on (for example) a username, when the username has been AES encrypted with a key and an IV?I can't find examples of how to write the query.Of course one has to decrypt the entire dataset and then filter it. Doesn't this cause memory problems?

@@ -1,0 +1,1 @@
+Is ACF plot enough to rule out auto-correlation in my model? Do you think it's enough to check ACF plot to rule out possibility of auto-correlation in the data?

@@ -1,0 +1,13 @@
+PANES: Is there space here?
+SKYE: Yes.
+PANES: Do you need anything else?
+SKYE: No, no thanks.
+PANES: I was impressed.
+SKYE: Oh?
+PANES: The charades.
+SKYE: Thank you.
+PANES: That was my clue.
+SKYE: Oh?
+PANES: The Shostakovich.
+SKYE: Really??
+PANES: Oh yes, indeed. That was my clue, you see.

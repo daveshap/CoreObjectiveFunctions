@@ -1,0 +1,1 @@
+Can OSX still sync dropbox while \"asleep\"? If a Mac Mini running macOS 10.11 is in sleep mode, but powered on and connected to the network, will Dropbox still sync in the background?

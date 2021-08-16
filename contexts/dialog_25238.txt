@@ -1,0 +1,13 @@
+KIRK: Systems report. Communications?
+UHURA: Communications Systems ready. Communications Officer -- ready as she'll ever be.
+KIRK: Mr. Sulu?
+SULU: Guidance is functional. Onboard Computer will interface with Federation memory bank...
+KIRK: Weapons systems?
+CHEKOV: Operational, Admiral. Cloaking Device now available in all modes of flight.
+KIRK: I'm impressed, Mr. Chekov. A lot of effort for a short voyage.
+CHEKOV: We are in an enemy wessel, sir. I didn't wish to be shot down on thee way to our own funeral.
+KIRK: Most prudent. Engine room. Report, Scotty.
+SCOTTY: We're ready, sir. I've converted the Dilithium Sequencer to something less primitive. And Admiral -- I've replaced the Klingon Food Packs. They was givin' me sour stomach.
+KIRK: Appreciated by all, Mr. Scott. Prepare for departure.
+KIRK: Well, Saavik. I guess this is goodbye.
+SAAVIK: Yes, Admiral. Sir. I have not had the opportunity to tell you about your son. David died most bravely. He saved Spock. He saved us all... I thought you should know.

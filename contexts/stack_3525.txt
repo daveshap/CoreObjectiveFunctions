@@ -1,0 +1,1 @@
+Do VPNs connect to my ISP? When I ask the VPN server to do the queries for me, does the VPN use its own ISP to run the queries over the internet?Or did the VPN server use my ISP connection to search over the internet and by doing that he uses his own [VPN] IP Address and DNS server?The question refers to VPN services like nordvpn, hidemyass etc..

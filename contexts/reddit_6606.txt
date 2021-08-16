@@ -1,0 +1,36 @@
+Working job for roughly 3 months. Company lied about literally everything.
+Lets start here:
+
+I've worked in this field (information technology) for awhile now. From programming (nothing fancy moved to network admin because I didn't like it much) but mostly as a Network admin.
+
+I found a job while unemployed (last job didn't fire me, the company closed) so in the mean time I decided to look for work. Well over 1000 applications all around my area and I got one hit.
+
+Job description: 17-25 dollars an hour depending on certs, experience, and education. Network administration (right up my ally.) Come in to the first interview: 
+
+"Well we don't have the capacity for network administration just yet, but that's what you will become in about 60 days from starting. We are looking for experienced people." 
+
+"Ok, that's acceptable, will I need to build the network?" 
+
+"Nope."
+
+Went into my second interview. Got told "you are hired." First day I was told everything I was told up to this point was a lie. I would be paid 12.5 an hour if I accepted. I told them I wouldn't take it for less than 16, they told me "Ok we offer 15 or leave. There is no room for advancement as that is the cap out pay for this position." I asked about the job being a network admin job or becoming that "Nope won't happen." I took the job mostly because I needed something to hold me over. In my area the standard is staying at a job for at least 6 months before quitting or you won't find work even at a gas station, so now I'm stuck here.
+
+Currently this position has hired 6-7 people, every single one is over qualified. Since staring they have changed our title 3 times: Network Admin -> Network Helpdesk -> Technical Call Center Associate.
+
+This has really *REALLY* gotten under my skin. I'm at my half way point with this company towards 6 months. Now one saving grace this place has is the following: We don't do much of anything. Perday I'm taking about 10-15 calls, this takes me roughly 5-20 minutes a call. So there is a lot of free time to do nothing.
+
+Well now this place is pushing us writing SOP's for network administration. I'm simply not going to do it tbh. I don't care. You want SOP's for network administration out of me? Pay me 21 dollars an hour and I'll make those SOP's for you. They are now pushing us using network administration tools but refusing to increase our pay. I'm simply not going to use them. I'm just not going to fucking do it. You want me to act as a network admin? Pay me as a network admin.
+
+We work with helpdesks around the world, and all I can say is they are the most incompetent helpdesks I've ever worked with. Several in the English speaking world and they are no better either. If I pass clients or internal people to them, the people at those help desks will scream at me, and the client. Why? Even if its for their helpdesk they will scream. I literally had one guy on the phone screaming that he wouldn't do any work because he just didn't feel like it.
+
+This company doesn't follow any industry standard. Not around security, or how a helpdesk should be structured. I've tried brining this up multiple times (I could build a helpdesk that runs more efficiently with 1/3rd the people this one has in a few hours.) My supervisor has brought the same things up to our management and they refuse to listen. Bare in mind this is a multi-national company with quite literally millions of clients. We get fishing phone calls daily.
+
+Now lets get to my counterparts: Most of them either have one, or multiple degrees in this field, several certifications, and more experience than me. Two run side businesses that the company is now asking them to close to which they said "nope. Not going to happen."
+
+One of the supervisors who have nothing to do with us has been actively complaining about how 'little' we do. He complained that all we do is look at facebook (Sorta true, but the only reason everyone at this desk hasn't walked out is because we don't do much. Everyone here is way overqualified.)
+
+All I know is I will have two more certifications before I leave this place and I'm absolutely stunned at how this place manages to make any money.
+
+So seriously what the fuck? Has anyone had this experience before?
+
+TL;DR redux: "We need network admins but no budget, hire them as helpdesk and insist they act as a network admin. Just lie through your teeth to get these people." Another way of putting this: "We need a master welder, but we cant pay one, hire a welder as a bag boy at the grocery store and tell him its either weld or else. Lie however it takes to get him into the position."

@@ -1,0 +1,17 @@
+JANINE: You're very handy, I can tell. I bet you like to read a lot, too.
+SPENGLER: Print is dead.
+JANINE: That's very fascinating to me. I read a lot myself. Some people think I'm too intellectual. But I think reading is a fabulous way to spend your spare time. I also play racketball. Do you ever play?
+SPENGLER: Is that a game?
+JANINE: It's a great game! You should play sometime. I bet you'd be good. You seem very athletic. Do you have any hobbies?
+SPENGLER: I collect spores, molds and fungus.
+JANINE: Oh, that's very - unusual.
+SPENGLER: I think it's the food of the future.
+JANINE: Remind me not to go to lunch with you.
+VENKMAN: Hello. I'm Peter Venkman. May I help you?
+DANA: Yes ... well ... I'm not sure. What I have to say may sound a little ... unusual.
+VENKMAN: We're all professionals here, Miss ...
+DANA: Barrett. Dana Barrett.
+VENKMAN: Why don't you step into the office and we'll talk about it. Hold all my calls, Janine.
+JANINE: What calls?
+DANA: ... and then I opened the door again but it was gone. There was nothing there.
+VENKMAN: So what do you think it was?

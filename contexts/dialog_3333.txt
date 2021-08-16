@@ -1,0 +1,11 @@
+PRESIDENT: Ben!
+RAND: ... Mr. President, how good to see you.
+PRESIDENT: It's so good to see you too, Ben, you look terrific!
+RAND: I'm not convinced of that, Mr. President, but your visit has raised my spirits...
+PRESIDENT: Well, I'm delighted to be here, my friend. I've missed you. Here, sit down, get off your feet.
+CHANCE: Good morning, Mr. President.
+PRESIDENT: ... Hello.
+RAND: Mr. President, I'd like you to meet my dear friend, Mr. Chauncey Gardiner.
+PRESIDENT: Mr. Gardiner, my pleasure.
+CHANCE: You look much taller on television, Mr. President.
+PRESIDENT: ... Oh, really...

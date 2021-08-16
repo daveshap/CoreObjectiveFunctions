@@ -1,0 +1,57 @@
+[META] Reminders and clarifications about the rules and moderation in r/NeutralPolitics
+Dear users,
+
+The mods here feel like it's time for some reminders about how this subreddit is run.
+
+Primarily, as we write at the top of every post:
+
+> /r/NeutralPolitics is a curated space. 
+
+> In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate.
+
+A lot of people seem to ignore this, but we're begging you… **please read the rules!**
+
+Now, here are a few refreshers on the specifics…
+
+**Why are sources required?**
+
+The requirement to provide sources for all assertions of fact (Rule 2) is part of the [founding ethos of this subreddit.](https://www.reddit.com/r/NeutralPolitics/comments/4cxvz1/meta_neutralpolitics_origins_and_purpose/) Many things people believe to be true are, in fact, not. Providing sources is the best way to support your assertions. It is our cornerstone philosophy.
+
+**How to handle requests for sources.**
+
+Commenters should respond to any reasonable request for sources as an honest inquiry made in good faith. What may seem "obvious" or "common sense" to you is often not to others. So, if somebody — mod or user — asks you to support your statement, please just comply. You might end up teaching something, or learning something, or both. Assertions of fact require sources on NeutralPolitics and requests for such sources are part of the deal. They're not an assault or a challenge. Think of them as an invitation to provide knowledge.
+
+**"You can just google it."**
+
+No. It's the responsibility of the person making the claim to support it. It's also far more efficient for the one person making the assertion to link to the source than to charge thousands of individual readers with supporting it.
+
+**There's no exception for "common knowledge."**
+
+[This is explicitly stated in the rules](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_rule_2.3A_source_your_facts) because "common knowledge" is poorly defined and completely subjective. What qualifies as common knowledge to one person might be a shocking fact to another. For example, people who are new to a topic or are from cultures other than the dominant one in the discussion may have no idea about these supposedly "common" pieces of knowledge.
+
+Additionally, statements of "common knowledge" are often wrong. The fact that a large number of people may believe something has [no bearing on whether or not it's true.](https://en.wikipedia.org/wiki/Argumentum_ad_populum)
+
+We occasionally get pushback from users on this point, and it often takes the form of something like, "Do I have to source that the sky is blue?" This is a convenient example for a few reasons:
+
+1. The sky is *not* blue. It only looks that way to us because of [human physiology](https://www.livescience.com/320-blue-skies-eye-beholder.html) and how the [light scatters through the atmosphere.](https://spaceplace.nasa.gov/blue-sky/en/)
+2. Even at that, it doesn't always appear blue. It's red and orange at sunrise and sunset, white on an overcast day, gray when there are rain clouds, and black at night.
+3. Finally, this is a political discussion forum, so any assertion about the color of the sky is likely to be removed for being off topic. The same goes for similar examples, like "water is wet." When we get into political topics, there's actually much *less* agreement on what constitutes common knowledge, so we don't accept any of it.
+
+**Removal reasons (we don't always post them)**
+
+The mods try to reply with a reason for each removed comment. However, users have repeatedly complained that heavily redacted threads get crowded with removal reasons, making it hard to find the actual content. 
+
+That in mind, there are some situations where we don't post them. The most common is when they're in a chain that is off-topic or stemming from a rule-violating comment. In that case, we'll just nuke the whole chain rather than post a dozen or so removal reasons. Comments that are just obvious trolling, spam or repeats may also be removed without notice.
+
+What this means is that you might not notice if your comment is removed. The best way to avoid this is to not violate the [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) in the first place, but if you have any doubt, you can also check the public mod logs.
+
+**Public mod logs**
+
+In the interest of transparency, moderation logs are public on r/NeutralPolitics. We have [our own system](https://modlogs.fyi/r/NeutralPolitics) (there's also a link in the sidebar) or you can use [ceddit](https://www.ceddit.com/r/NeutralPolitics).
+
+
+That's all. Feel free to post your questions or comments below.
+
+As always, thanks for your participation.
+
+— r/NeutralPolitics mod team

@@ -1,0 +1,72 @@
+Should I take 4 math classes at the same time?
+TL;DR - I am a "registered" masters student in math, but I take undergrad math classes since my bachelors was in bio. In my bio bachelors, I took multivariable (including Stoke's theorem) and one class that combined intro to linear and intro to diffQ class. I took a gap year between undergrad and grad school, so I forgot most of math.
+
+In my math masters, should I take real analysis, intro to proof, vector analysis (intro to linear algebra + stoke's theorem), and linear algebra (intro to some advance concepts) at the same time? 
+
+Apologize for the long read in advance. I appreciate and welcome all constructive feedback. Thank you for your time.
+
+========================================================================
+
+My undergrad bachelors included classes A100 and A200. Not actual course numbers, but I modified for simplicity stake. **I took both A100 and A200 at the same time.** 
+
+A100 - Multivariable Calculus that include Vectors, Partial derivatives, Lagrange multipliers,  Double and triple integrals, Spherical and cylindrical coordinates, Surface and line integrals. Divergence, gradient, and curl. Stokes Theorem and it's derivation to Green, Divergence, Fundamental Theorem, and General Stokes. 
+
+For the midterms- I got a 
+
+1. midterm 1 (vectors, PDE, lagrange) I got a 82,
+2. midterm 2 (double, triple integrals, spherical, cylindrical, surface and line integrals) I got a 65 lol. Double and triple integrals are my weakness. This midterm was dropped.
+3. midterm 3 (divergence, gradient, curl), I got a 85. 
+4. On final (Divergence, gradient, curl, stokes theorem) I got an 88.
+
+I forgot most of my calc 3 vector analysis knowledge. I got a B in the class though. 
+
+A200 - A combined linear algebra and DiffQ class -  introduction to ODEs and linear algebra, Gaussian elimination, matrix theory, linear transformations, vector spaces, subspaces, basis, eigenvectors, eigenvalues and the diagonalization of matrices
+
+1. Midterm 1 (ODEs - separable, non homogenous, homogenous, etc) I got a 91
+2. Midterm 2 (Linear Algebra part - Gaussian elimination, RREF, matrix theory, linear transformations, vector spaces, subspaces, basis, eigenvalues). I got a 78 lol. I knew the concepts but damn the linear algebra symbols were tricky AF. This midterm was dropped.
+3. Midterm 3 (Diagonalization of matrices, using linear algebra to solve ODEs, 2nd order) I got a 92.
+4. Final (Combining everything with an emphasis on the midterm 3. Also more linear algebra symbols). I got a 87. 
+
+I got an A- in A200. Class was curved and average was like a 85. I got an 88.5 in the class as a whole and got an A-.
+
+&#x200B;
+
+**This was my undergrad math classes. I took these 2 classes at the same time. My undergrad bachelors math was harder than my current undergrad classes (B100 - B5000) classes in terms of depth, homework, and problem solving.** 
+
+===================================================================
+
+Now the undergrad classes that I'm taking for my masters. 
+
+B100 - Multivariable calculus  - Vectors, infinite series, Taylor's theorem,  partial derivatives, multiple integrals. I took this class and I got an A. 
+
+***This multivariable class was so much easier than my bachelors A100 class. There was no vector analysis and stoke's theorem. Just basic vectors and infinite series and multiple integrals. I still suck at multiple integrals though.***
+
+Now should I take 4 math classes at the same time?
+
+1. B200 - Matrices,  determinants, general vector spaces, basis and dimension, eigenvalue problems, first order ODE linear equations, vector field theory, theorems of Green, Stokes, and Gauss. **B200 looks like a combined A100 and A200 class. So my 2 undergrad math classes combined to one**.
+2. B300 Intro to proofs -  Basic proofs in set theory, logic, mathematical induction, relations, orders, functions, Cantor's theory of countability, and real number system 
+3. B400 Real Analysis  Sequences, properties of continuous functions, derivatives and differentials, functions defined by series, integrability and integrals, convergence of function sequences. 
+4. B500 Linear Algebra -  Vector spaces, basis and dimension, matrices, linear transformations, determinants, solution of systems of linear equations, eigenvalues, and eigenvectors, Jordan form, and image processing 
+
+&#x200B;
+
+Should I take all these 4 undergrad classes at the same time? 
+
+Some things to consider:
+
+1. My undergrad cumulative gpa was a 3.23. I went to an engineering school to study bio lol. The math was so much harder and more applied with some sprinkles of proof and theoretical. 
+2. My quant GRE was bad too. I didn't study and got a 159 or 79%. I am still surprised I got into a math masters program lol. 
+3. My advisor told me that I don't need intro to proof before taking real analysis. He wants me to take real analysis so I can be better prepared for grad level math which I'm going to take in the Fall of 2020. 
+4. Time management wise.
+   1.  intro to proof only meets Mondays and Wednesday. 
+   2. Real Analysis meets Tuesdays and Thursday
+   3. Linear Algebra meets Tuesday and Thursday after 2 hours after Real Analysis is done.
+   4. Vector Analysis with some linear algebra meets Mondays and Wednesdays after 2 hours when intro to proof is done.
+
+I don't have any other time commitments. It also takes me 1 hour to commute to school. I still have some struggles with multiple integrals and changes of basis. 
+
+&#x200B;
+
+Do you think it's worth it? Given the fact that I took some DiffQ, Linear, and Stokes theorem class (but I forgot it in my gap year), can I take 4 undergrad math classes at the same time? Should I drop intro to proofs? 
+
+Apologies for the long read. Thank you for reading. I appreciate all advice. Thank you for making it this far in reading.

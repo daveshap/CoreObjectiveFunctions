@@ -1,0 +1,10 @@
+SPOCK: Captain?
+KIRK: Spock, we're on leave. You can call me Jim.
+SPOCK: Jim.
+KIRK: Yes, Spock?
+SPOCK: Life is not a dream.
+KIRK: Go to sleep, Spock.
+SPOCK: Yes, Captain.
+KIRK: Goodnight, Bones.
+KIRK: Goodnight, Spock.
+SPOCK: Goodnight, Doctor.

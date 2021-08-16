@@ -1,0 +1,9 @@
+TALLEY: Marlon and Al....
+THE WATCHMAN: We want them. You will not let anyone go into that house--or anything come out-- until my people recover these disks.
+TALLEY: I can't control what happens. The Sheriffs are running the scene.
+THE WATCHMAN: You will re-assume command. In two hours, a group of my people will arrive at York Estates. You will tell the Sheriffs that they are an FBI tactical team.
+THE WATCHMAN: When this phone rings, you answer. It will be me. I'll tell you what to do. When I have what I want, you get your family.
+TALLEY: You want . . . Marlon and Al.
+THE WATCHMAN: I have people in York Estates right under your nose. If you do <u>anything</u> except what I'm telling you, you'll get Jane and Amanda back in the mail. We clear on that?
+TALLEY: These disks . . . where are they?
+THE WATCHMAN: Smith will know.

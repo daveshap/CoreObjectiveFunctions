@@ -1,0 +1,1 @@
+How Can I Stop My Mac From Reopening Applications After A Power Failure? I live in the woods and lose power frequently. When this happens, MacOS tries to restore every application that was open when the power went out. I don't want it to do this. How do i prevent this from happening.Please note, i am not asking about preventing apps from opening after a restart.

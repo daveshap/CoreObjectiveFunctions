@@ -1,0 +1,4 @@
+A dating app based on get to know you questions, where photos get progressively less blurry with each question you answer
+I noticed pretty much all dating apps are swipeing based after looking at a photo or two.
+
+Would there be any interest in an app based on a specific set of get to know you questions, where photos get progressively less blurry with each question you answer. Ofcourse, if both parties agree to show their photo before they get through the questions they can do so.

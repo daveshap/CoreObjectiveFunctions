@@ -1,0 +1,1 @@
+Lennard-Jones potential For the Lennard-Jones interatomic potential, the portion of the graph between r = sigma and r = equilibrium has a negative potential energy (attraction) and a negative force (repulsion). I am trying to reconcile these two.

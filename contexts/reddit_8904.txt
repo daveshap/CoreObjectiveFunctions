@@ -1,0 +1,36 @@
+Can anyone provide me with reliably sourced 2016 election statistics
+I wanted to know, if everybody who didn't vote in the 2016 election had voted for a third party candidate, or an independent candidate, would they have won instead.
+
+I can't be bothered to figure this out state by state, so going by total numbers (which is clearly not perfect due to Clinton winning the popular vote); Clinton received 65,844,610 votes. Trump received 62,979,636 votes. Source:
+
+https://splinternews.com/here-is-the-final-popular-vote-count-of-the-2016-electi-1793864349
+
+I then discovered there was a difference between total number of registered voters (people who can vote) and total number of people who could hypothetically vote (if they register).
+
+I decided to try and find the total number of registered voters first. 
+
+Which brings us to now. After dismissing a few sources because they were vague in their definitions, and their numbers were surprisingly high (i assumed they were giving me the total number of voting age people who could hypothetically vote if registered). I found two seemingly credible sources for numbers:
+
+https://www.politico.com/story/2016/10/how-many-registered-voters-are-in-america-2016-229993
+
+That source explicitly says registered voters in late 2016 was just over 200m.
+
+https://www.statista.com/statistics/273743/number-of-registered-voters-in-the-united-states/
+
+And that source gives the number specifically for the 2016 election at 157m.
+
+I thought maybe the first source was the number that registered after the election, but the second source gives the number of registered voters at the 2018 elections at 153m. I doubt the number went from 157 to 200 to 153 in two years.
+
+Which of these sources are known to be reliable or unreliable? As you can see it would make the difference regarding my original question, whether the number of people who could, but didn't, vote, would have made a difference.
+
+Or which alternate sources are known to be reliable or unreliable?
+
+(This is clearly being cheeky, but if anyone wants to do the work for me and source your findings, that'd work too...?)
+
+Please help :-)
+
+Edit: thank you so much for the answers so far. I'm sure i can figure out the answer to my question from here. Kinda busy tonight though, but I'll sort through all those sources when i have some time. Especially thanks to u/leonkennedy74 I'm going to be giving some thought to how possible this hypothesis actually is in the current system.
+
+Edit 2: The reason i started where i did is from a statement i made, and then tried to find out if it's true; that if everyone who could have voted did, but for a third party candidate, we'd now have a three party system.
+
+But the boring answer to that is that the current system wouldn't allow that sort of a sudden massive swing into three parties :-(

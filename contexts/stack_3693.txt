@@ -1,0 +1,1 @@
+Presence of heteroskedasticity gls, wls, robust OLS I already detect heteroskedasticity in the data, which means that OLS is no longer an option.Another question, I know that robust OLS can give a good confidence interval. How about GLS and WLS's advantages in the presence of heteroskedasticity?

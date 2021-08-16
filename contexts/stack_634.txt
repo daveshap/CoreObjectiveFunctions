@@ -1,0 +1,1 @@
+Are all Ubuntu apps the same on every device Bit of a newbie question Are all Ubuntu apps the same regardless of the device for instance if I made an app for Ubuntu on a jetson tx2 developer kit would the code be same as a Ubuntu app ran on a MacBook?

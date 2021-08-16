@@ -1,0 +1,10 @@
+How unusual are the Russian Government activities described in the criminal indictment brought today by Robert Mueller?
+Today, US Special Counsel Robert Mueller [indicted](https://www.justice.gov/file/1080281/download) 12 named officers of the Russian government's [Main Intelligence Directorate (GRU)](https://en.wikipedia.org/wiki/Main_Intelligence_Directorate) for hacking into the emails and servers of the Clinton campaign, Democratic National Committee, and Democratic Congressional Campaign Committee.
+
+ The indictment charges that the named defendants used spearphishing emails to obtain passwords from various DNCC and campaign officials and then in some cased leveraged access gained from those passwords to attack servers, and that GRU malware persisted on DNC servers throughout most of the 2016 campaign.
+
+The GRU then is charged to have passed the information to the public through the identites of DCLeaks and Guccifer 2.0 both of which were controlled by them.  They also passed information through an organization which is identified as "organization 1" but which press reports [indicate is Wikileaks.](https://www.vox.com/2018/7/13/17569030/mueller-indictments-russia-hackers-bernie-sanders-hillary-clinton-democratic-national-convention)
+
+The indictment also alleges that a US congressional candidate contacted the Guccifer 2.0 persona and requested stolen documents, which request was satisfied.
+
+Is the conduct described in the indictment unusual for a government to conduct?  Are there comparable contemporary examples of this sort of digital espionage and hacking relating to elections?

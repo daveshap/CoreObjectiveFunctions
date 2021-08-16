@@ -1,0 +1,6 @@
+How effectively does the new Trump executive order on travel avoid court rulings against the old executive order?
+Today, [Donald Trump released a new executive order on travel](https://www.nytimes.com/2017/03/06/us/politics/travel-ban-muslim-trump.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news) ([text here](http://www.cnn.com/2017/03/06/politics/trump-new-travel-ban-executive-order-full-text/)) which is meant to supersede the order [he put forward on Jan 27.](https://www.federalregister.gov/documents/2017/02/01/2017-02281/protecting-the-nation-from-foreign-terrorist-entry-into-the-united-states)
+
+The previous order had been enjoined nationally in the case of *Washington v. Trump* [which was upheld by the 9th circuit on due process grounds.](https://cdn.ca9.uscourts.gov/datastore/opinions/2017/02/09/17-35105.pdf)  It had also been enjoined in Virginia [for being a violation of the establishment clause](http://www.politico.com/f/?id=0000015a-3a0e-d784-a5fb-3ebe82c60000) by a district court.
+
+To what extent does the new order succeed in avoiding the pitfalls that led the District of Washington, the 9th Circuit, and the Eastern District of Virginia to enjoin portions of the Jan 27 order?  How much has the scope of the order been narrowed?

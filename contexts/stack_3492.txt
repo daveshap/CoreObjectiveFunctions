@@ -1,0 +1,1 @@
+Fuzzing with Owasp-Zap I am doing web application testing and mostly performing injections into fields etc. Instead of having to do these manually in each form field how do I go about making this automated against all form fields on a page? I heard this can be done in OWASP-zap but cannot figure out how to do it. Can someone shed some light on this for me?

@@ -1,0 +1,1 @@
+HMM with emission depending on past states I'm looking for a way to fit a model akin to a Hidden Markov Model, with a Markov chain of hidden states. However, the observation at each time point depends on the past ~10 hidden states, instead of only on the current state. Any idea on how this model could be fit?

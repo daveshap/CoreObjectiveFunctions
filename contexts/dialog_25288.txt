@@ -1,0 +1,3 @@
+KIRK: Bearing!
+UHURA: Bearing 327, range 600 nautical.
+KIRK: Put them on screen!

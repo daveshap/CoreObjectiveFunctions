@@ -1,0 +1,1 @@
+Magnetic field of a solenoid vs a circular loop Why doesnt the magnetic field inside a solenoid depend on its radius whereas the magnetic field inside a circular loop or a coil depends on its radius?Please explain using simple language keeping in mind that I'm a 10th standard student.

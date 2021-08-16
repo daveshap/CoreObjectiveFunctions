@@ -1,0 +1,31 @@
+STANDARD: How do you feel, Dell?
+BROUSSARD: Wretched. What happened to me?
+STANDARD: Don't you remember?
+BROUSSARD: Don't remember nothing. Can't hardly remember my name.
+ROBY: Are you in pain?
+BROUSSARD: Not exactly, just feel like somebody's been beating me with rubber hoses for about six years.
+STANDARD: Hell, you're in great shape, you've got your sense of humor back!
+BROUSSARD: God I'm hungry.
+ROBY: Dell, what's the last thing you can remember?
+BROUSSARD: ... I don't know...
+ROBY: Do you remember the pyramid?
+BROUSSARD: No. Just some horrible dreams about smothering. Where are we?
+STANDARD: We're going home. We're in hyperspace.
+MELKONIS: We're going into the freezers now.
+BROUSSARD: I'm really starving; can we get some food before we go into the freezers?
+STANDARD: I think that's a pretty reasonable request.
+HUNTER: Boy do I feel a lot better. It's a straight shot back to the Colonies, and then we can start taking bids on the paydirt. Any bets on the top bid?
+FAUST: Well, we should at least be able to each buy our own planet.
+MELKONIS: I'm going to write a book about this expedition. I'm going to call it The Snark Log.""
+STANDARD: The commander normally has first publication rights.
+MELKONIS: Maybe we could write it together.
+ROBY: First thing I'm going to do when we get back is eat some biological food.
+MELKONIS: What's the matter, you don't like this stuff?
+ROBY: Tastes like something you'd feed a chicken to make it lay more eggs.
+STANDARD: Oh it's okay. I've had better cag than this, but I've had worse too, if you know what I mean.
+FAUST: I kind of like it.
+ROBY: You like this shit?
+FAUST: It grows on you.
+ROBY: You know what they make this stuff out of?
+FAUST: Yes, I know what they make it out of, so what? It's food now. <u>You're</u> eating it.
+ROBY: I didn't say it was bad for you, it's just kind of sickening, that's all.

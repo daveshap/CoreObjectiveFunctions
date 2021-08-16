@@ -1,0 +1,26 @@
+Most US States do not require motorcyclists to wear a helmet. Evidence shows helmets are effective in reducing fatalities and injuries from accidents, and yet some states have repealed or relaxed their helmet laws. Where did this push come from, and have there been any benefits from repeals?
+The [exact law](https://www.iihs.org/topics/motorcycles/motorcycle-helmet-laws-table) on when you are required to wear a helmet differs from state to state, but most states do not require helmets for motorcyclists, even if they require them for bicyclists under the age of 18.
+
+This is very state specific, and even in cases where there is an exception, it might be behind a requirement. Take [Texas for example](https://www.txdot.gov/driver/share-road/motorcycles.html) where:
+
+> All riders under the age of 21 are required to wear a helmet when operating a motorcycle. Riders over 21 may ride without a helmet only if they have completed a safety course or are covered by an applicable insurance plan.
+
+Overall, more states allow for motorcyclists to not wear a helmet (like Texas) than force them to wear a helmet (Source 1).
+
+---
+
+The CDC says [helmets are associated](https://www.cdc.gov/motorvehiclesafety/mc/index.html) with a reduction in injuries and fatalities from accidents.
+
+---
+
+States that have repealed or weakened their helmet laws include [Kentucky and Louisiana](https://one.nhtsa.gov/people/injury/pedbimot/motorcycle/kentuky-la03/index.html), [Florida](https://www.iihs.org/topics/bibliography/ref/1839), and [Michigan](https://www.iihs.org/media/13465fd7-23d7-46fd-a15e-ddf13d66c490/dsoeSw/HLDI%20Research/Bulletins/hldi_bulletin_30.09.pdf). 
+
+In each case, repealing or weakening helmet laws was associated with negative effects such as [insurance increases, more fatalities, and more head injuries](https://www.iihs.org/topics/motorcycles#helmet-laws).
+
+---
+
+I have a couple of questions on this topic:
+
+1: For specific states like Florida, Michigan, and other that have relaxed their helmet requirements -- what was the push do so? Where did the motivation come from?
+
+2: Have there been any benefits for states that relaxed their helmet requirements?

@@ -1,0 +1,1 @@
+Rasterising text automatically I'm working on a typeface, and am looking at generating test-cases of how specific strings are rendered. What's the simplest way of automatically rasterising many different text-files into a bitmap?

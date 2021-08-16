@@ -1,0 +1,30 @@
+LILI: You promised!
+JACK: Never.
+LILI: But you did... you did!
+JACK: I may have said perhaps...
+LILI: Liar!
+JACK: Or perchance...
+LILI: It's my father, gone a-hunting. The Baron Couer de Noir is his guest and must be provided with some sport.
+JACK: Sport, indeed.
+LILI: The Baron is a frightful man. They say he's an ogre. He wears a mask so none may see his face.
+JACK: Blackheart. Aptly named.
+LILI: Oh, fie. What about the unicorn?
+JACK: Unicorn?
+LILI: A promise is a sacred oath.
+JACK: All right. I'll show you something sacred.
+LILI: Let's rest a minute. I'm so thirsty.
+JACK: Stop complaining.
+LILI: A gentleman would offer water.
+JACK: Only were he a fool to boot. See yon viper?
+LILI: I detest serpents.
+JACK: That viper has envenomed the water. No animal will drink here now.
+LILI: What shall we do?
+JACK: Be patient.
+LILI: Oh, dear.
+JACK: What's the matter?
+LILI: I've lost my napkin. It was all elf-work and lace... I must have dropped it when you startled me so.
+JACK: I'll go search for it.
+LILI: Don't leave me now. I fear the unicorn won't show himself without you.
+JACK: I'm not its master.
+LILI: The napkin will keep. I'd rather not be alone.
+JACK: Your command is my wish, Princess Lili.

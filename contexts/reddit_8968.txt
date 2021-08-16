@@ -1,0 +1,36 @@
+A Resource Guide for Building Your Fact-Based Opinion
+Hi all,
+
+Are you tired of getting your information from the same old news source? Feeling down about how difficult it can be to find reliable information? Do you want to form a political opinion, but just don't know whether the information you're reading is reliable?
+
+We're here to help. At NeutralPolitics, our service representatives are at work identifying educational resources and unbiased data sets so that you can spend your time doing what matters: learning about political topics and digging through numbers so that you can write the perfect response to that one post that you saw.
+
+Special thanks to /u/AFreebornManoftheUSA, who inspired this guide with a message suggesting that we include many of the primary U.S. data sources listed below to the sidebar, where we have added this guide for easy reference in the future.
+
+##Educational Websites
+
+* **[U.S. Congress Video Series on the Legislative Process](https://www.congress.gov/legislative-process)**: Nine-video series that breaks down the details of how Congress works. No "I'm a Bill" music video to be found, unfortunately, but still quite useful.
+* **[Khan Academy Program on Economics and Finance](https://www.khanacademy.org/economics-finance-domain)**: This covers microeconomics, macroeconomics, finance and capital markets, and entrepreneurship. Highly informative and helpful for anyone who is interested in better understanding how our economy works.
+* **[MIT's OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/)**: Straight from MIT classrooms, this portal makes available material on every topic under the sun.
+* **[edX Courses on Social Science](https://www.edx.org/course/subject/social-sciences)**: Another respected educational website that allows you to learn more about some pretty esoteric topics published by respected universities and institutions such as Princeton, MIT, and Georgetown.
+* **[FRED Publications](https://research.stlouisfed.org/publications/)**: Essays on economic theory and contemporary economics published by the Federal Reserve Bank of St. Louis.
+* **[How to Make a FOIA Request](https://www.foia.gov/how-to.html)**: Learn the process so that you can participate in encouraging an open, transparent government.
+
+##Primary U.S. Data Sources
+
+* **[Congressional Official Website](https://www.congress.gov/)**: See current legislative activities, read the Congressional Record, and find out the details about bills.
+* **[GovTrack](https://www.govtrack.us/)**: Browse current legislation by topic, find out who your representatives are, and sign up for alerts to get notified when they take actions on sponsored bills or participate in a roll call vote.
+* **[Data.gov](https://www.data.gov/)**: Get the raw data from a mountain of open government data sets ranging from climate observations to traffic violations. Also contains some nice data visualizations!
+* **[USASpending.gov](https://www.usaspending.gov/Pages/Default.aspx)**: Find out how funds are dispersed on a federal and local level, with filterable spending maps, profiles of fund recipients, and raw downloads for the analysts out there who want to do their own exploration.
+* **[FOIA.gov](https://www.foia.gov/)**: Read annual Freedom of Information Act reports by department, make a FOIA request yourself, and see what information previous requests have revealed.
+* **[Sunlight Foundation Tools](https://sunlightfoundation.com/tools/)**: Browse a wide variety of tools that allow you to track campaign contributions, follow legislative activity, identify foreign lobbying, and more.
+* **[FRED Economic Data](https://fred.stlouisfed.org/)**: Some of the best data visualizations available on U.S. economics, published by the Research division of the Federal Reserve Bank of St. Louis.
+* **[American Economic Association Data Sources](https://www.aeaweb.org/resources/data)**: Collects data sources for both U.S. and non-U.S. data, so that you can better understand what's going on across the world.
+* **[National Bureau for Economics Research Data Sets](http://www.nber.org/data_index.html/)**: Looking for price quantity indexes and values for U.S. exports and imports in 1879? Look no further! If you want to get into the weeds, NBER has a lot to look through, including some pretty obscure data.
+* **[Bureau of Labor Statistics](https://www.bls.gov/)**: Get your statistics on employment and labor straight from the horse's mouth, as well as interesting papers released with the Bureau's findings based on that data.
+
+----------------------------------------------------------------------------
+
+Well, that's all for now. We hope that you enjoy fun learning, analyzing, and building your opinions with the best data available. Also, if you have a resource that you think is worth adding to the list, please feel free to share in the comments! We are particularly looking to expand with resources that are relevant to international politics.
+
+Have fun!

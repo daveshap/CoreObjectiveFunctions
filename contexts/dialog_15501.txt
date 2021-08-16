@@ -1,0 +1,11 @@
+QUEEN: Lord Rowan is one of Lyssa's godfathers. He will defend her in the ceremony. I wish that Lord Modred were here. He is a godfather of her own blood.
+TUROLD: Modred has treated with the Dark Ones.
+ROWAN: Modred! Impossible!
+TUROLD: He leads a group of Slayers, under the leopard banner.
+QUEEN: For some, the lure of power is stronger than the ties of blood. No matter. I had hoped to have the wedding next spring, Lord Turold, with all the nobles of the kingdom in attendance. But Fate and this war have ordained otherwise.
+TUROLD: It is important to assure the succession.
+QUEEN: Yes.
+QUEEN: I will tell you something you did not know, Turold. Had it been my choice, all those years ago, I would have chosen you for my king. But my parents chose otherwise.
+TUROLD: I knew.
+QUEEN: You knew! You are a rude bumpkin!
+TUROLD: That I am, my lady.

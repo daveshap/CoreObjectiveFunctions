@@ -1,0 +1,7 @@
+MAYOR: How do you do, Miss Viridiana!
+VIRIDIANA: Is anything the matter, Mr. Mayor?
+MAYOR: You cannot leave ...
+VIRIDIANA: Why not?
+MAYOR: There's been an accident.
+VIRIDIANA: Where?
+MAYOR: Come with me.

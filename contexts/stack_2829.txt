@@ -1,0 +1,1 @@
+Vibration of strings What happens if we clamp a string at both it's ends and pluck it at different distances from one of the ends? Will the frequency of oscillation be the same or will it differ based on the place from where it was plucked?

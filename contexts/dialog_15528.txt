@@ -1,0 +1,36 @@
+WIDOW: Who speaks that name!
+YNYR: Ynyr!
+WIDOW: It is fifty years since I heard that name.
+YNYR: It is fifty years since I spoke it to you.
+WIDOW: I was beautiful then.
+YNYR: The most beautiful woman in the world.
+WIDOW: But you would not stay with me.
+YNYR: Could not. Could not betray the girl to whom I was betrothed.
+WIDOW: She was not as beautiful.
+YNYR: No, she was not as beautiful.
+WIDOW: She bore you many children?
+YNYR: We had no children.
+WIDOW: You had a son.
+YNYR: You said nothing. You told me nothing.
+WIDOW: You had left me! I kept silent out of rage.
+YNYR: Where is he? My son.
+WIDOW: I killed him when he was born. This place is my punishment.
+WIDOW: Do not try your trickery on me!
+YNYR: It is no trickery.
+WIDOW: Those are reflections. <u>This</u> is my face!
+YNYR: You see?
+WIDOW: Yes.
+YNYR: Memory is no trick, it is a power. The power to see.
+WIDOW: Power you have given me. What can my power give you?
+YNYR: Knowledge.
+WIDOW: Of what?
+YNYR: The Fortress of Krull. When will it come near here?
+WIDOW: Why must you know?
+YNYR: There is a girl there. Her name is Lyssa.
+WIDOW: You lie!
+YNYR: Could I lie to you and still see your beauty?
+WIDOW: No.
+YNYR: A young man seeks her. A young man about the age I was when I met you.
+WIDOW: Tomorrow, the Fortress of Krull will rise with the sun in the Valley of Reeds. But the knowledge is of no use to you. No man has ever escaped the Web. And soon the creature will come for you, even here.
+WIDOW: It will not help.
+YNYR: Then the other Lyssa will share your fate. She will grow old in the Fortress as you have grown old here.

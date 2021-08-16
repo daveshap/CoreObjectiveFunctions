@@ -1,0 +1,10 @@
+CARR: How are you feeling today?
+MERRICK: I feel much better. Thank you for asking. And you?
+CARR: I'm feeling very fit, thank you. How is your bronchitis?
+MERRICK: I feel much better. Thank you.
+CARR: Are you comfortable here?
+MERRICK: Everyone has been very kind. I am extremely grateful.
+TREVES: Mr. Merrick likes the food here. Don't you John?
+MERRICK: Oh yes! It is much better than what I am used to.
+CARR: Oh yes?
+TREVES: And what was that, John?

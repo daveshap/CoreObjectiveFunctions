@@ -1,0 +1,11 @@
+TALBY: Ah, Lieutenant Doolittle? Sir?
+DOOLITTLE: Sh, Talby, don't bother me now.
+TALBY: Ah, well, I think I've found the malfunction, sir. I'm in the Emergency Air Lock...
+DOOLITTLE: Not now!
+TALBY: Well, I'm in the Emergency Air Lock and --
+PINBACK: One hundred twenty seconds to drop, bomb, have you checked your platinum euridium energy shielding?
+BOMB #20: Energy shielding positive function.
+PINBACK: Do you remember the detonation time?
+BOMB #20: Detonation in twenty minutes.
+PINBACK: Right, that synchronizes here. Okay, bomb, arm yourself.
+BOMB #20: Armed.

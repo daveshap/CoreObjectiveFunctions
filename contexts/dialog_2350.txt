@@ -1,0 +1,8 @@
+LANDON: Am I at the same angle to you and the basket as before?
+LUIS: Yeah.
+LANDON: Are you?
+LANDON: So what did we just make?
+LUIS: A similar triangle?
+LANDON: What else? What kind of triangle has three sides of different lengths.
+LUIS: Scalene?
+LANDON: Okay. Make me an isosceles.

@@ -1,0 +1,25 @@
+CRISWELL: Yes, yes yes I know all that.
+PRINCESS OF DARKNESS: At the first sight of the morning sun's rays, we must be gone.
+CRISWELL: I suppose most of the others will have to wait for their judgement until after the next full moon.
+PRINCESS OF DARKNESS: It would seem so, Master
+CRISWELL: Ahh, but I declare there is still time for <i>some</i>thing.
+THE MUMMY: There are one or two which should complement the night's entertainment, Master
+CRISWELL: Ahh, good. Then I will see them. Dismiss the rest.
+THE MUMMY: Yes, sir, Master.
+BOB: The ropes are coming loose.
+SHIRLEY: Be careful!
+BOB: I am--It's our only chance.
+SHIRLEY: Nothing is worth your life.
+BOB: My guess is if we don't take the chance pretty soon, we're not going to have much life left anyway.
+SHIRLEY: I'm frightened. I'm so frightened.
+BOB: Hold on just a little longer, Shirley.
+SHIRLEY: Be careful, oh please be careful. We'll never get out of here alive, I know it. I just feel it.
+BOB: You do?
+SHIRLEY: Yes I feel it in my bones.
+BOB: You're talking nonsense.
+SHIRLEY: Oh, no I'm not. These heathens probably have an open grave for us.
+BOB: They wouldn't dare put us in the same grave-- <b>or would they?</b>
+SHIRLEY: I should hope not. I hate you!
+BOB: That sudden?
+SHIRLEY: Yes, that sudden. If it weren't for you we wouldn't be hunting for an old cemetery on a night like this. It's all your fault.
+BOB: ...And I thought you loved me.

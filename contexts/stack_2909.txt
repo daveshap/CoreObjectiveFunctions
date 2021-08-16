@@ -1,0 +1,1 @@
+Free body diagram representation of coriolis force In many problems,horizontal and vertical components of coriolis force are taken into consideration. But I really don't know how to fit these components into a free body diagram. Can anyone help me out in drawing it?

@@ -1,0 +1,1 @@
+Ubuntu installation for previous versions. (16.04.4) I want to install Ubuntu 16.04.4 version from archive.ubuntu.com repository. however i could always install only 16.04.5..is there a specific method where i can install previous versions within a major version?

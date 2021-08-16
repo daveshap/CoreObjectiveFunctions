@@ -1,0 +1,4 @@
+REILLY: I terrible with mechanical things.
+GLASS: No you're not, you just don't understand them. Here, do what I tell you.
+REILLY: It's working.
+GLASS: Congratulations, you just built your first ticker.

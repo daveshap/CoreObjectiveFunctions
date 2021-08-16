@@ -1,0 +1,1 @@
+how to set up sql server alerts based on a schedule basis? We would like to stop getting sql server alerts from dev servers during the weekend. We have alerts for severity 016 to 025.

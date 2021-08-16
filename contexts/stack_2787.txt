@@ -1,0 +1,1 @@
+Reflection of light wave in absence of colloids When light goes through air we see the Beam (if we are using a laser beam) because of dispersion by dust. I have two questions:What happens in pure air or gases and what happens in pure water? Why do we see the light if there is no dust?Any mathematical reasoning or link will be welcome.

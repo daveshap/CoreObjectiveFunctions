@@ -1,0 +1,6 @@
+HOTEL MANAGER: Show Mr. Van Orton to his room.
+NICHOLAS: The key?
+HOTEL MANAGER: Hm?
+NICHOLAS: Is there a room key?
+HOTEL MANAGER: Didn't I give you two?
+NICHOLAS: No, you didn't...

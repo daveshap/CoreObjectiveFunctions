@@ -1,0 +1,1 @@
+How to identify Ubuntu VM is running on VMware on-premises cloud or VMware cloud in AWS? I need to Identify my Ubuntu VM is running on VMware on-premises cloud or VMware cloud in AWS (aws.amazon.com/vmware). I have root access to my Ubuntu VM. I do not have any access to VMware cloud or AWS cloud.

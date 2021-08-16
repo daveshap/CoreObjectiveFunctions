@@ -1,0 +1,6 @@
+How can I fit my paper in conference page limit?
+My paper finally got accepted on my 4th attempt. Now when I am trying to reformat my paper in the template shared by them for camera ready submission, it is going out of limits by a lot. The template is Springer LNCS. It has huge margins and one column text. My paper goes to a whopping 15 pages right now. Page limit is 11.  I have 2 figures and 2 tables in paper.
+
+What are my options to fit the paper somehow? Can I changes format to double column? Can I remove/summaries few less important paragraphs from my paper? Or is there anything else I can do? 
+
+I did check the page limit earlier and did submit my paper in 10 pages(another Springer format with double column) but I didn't expect the page count to increase so much in a different format.

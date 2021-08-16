@@ -1,0 +1,1 @@
+Right Click Not Working I am new to use ubuntu version 18.04.1. After installing right click is not working however i am able to use  when i use external mouse, But built in mouse is not working.Please help me System Details - Dell Vostro 3446 64 bit architecture.

@@ -1,0 +1,4 @@
+RIKER: Could we access the defective coil and trigger their cloak?
+DATA: Perhaps. Yes! If we sent a low-level ionic pulse, it might reset the coil and engage the cloaking systems.
+WORF: As their cloak begins to engage, their shields will drop.
+RIKER: Right. And they'll be vulnerable for at least two seconds. Data,lock onto that plasma coil.

@@ -1,0 +1,1 @@
+Determining if route self intersects using Java? I have a sequence of coordinates (lat,lng) defining a route. How can I determine whether this route is self intersecting? I am trying to implement a Java method for this, but I have been unsuccessful so far.

@@ -1,0 +1,1 @@
+Bluescreen issues in windows 10 after dualbooting with Ubuntu I dualbooted Windows 10 with Ubuntu.But when i boot into windows i get a bluescreen after sometime stating PAGE_FAULT_IN_NONPAGED_AREA.What can be the cause?

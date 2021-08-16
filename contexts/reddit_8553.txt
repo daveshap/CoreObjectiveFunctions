@@ -1,0 +1,14 @@
+What are the legal authorities relating to quarantines in the US?
+With the spread of the [Coronavirus dubbed COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and US domestic authorities saying that ["it is likely that this virus will cause a pandemic,"](https://www.cdc.gov/coronavirus/2019-ncov/summary.html#risk-assessment) I want to know a bit more about the legal authorities around quarantines in the US.
+
+[This page from the CDC provides some information on the subject](https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html) but leaves some questions open. 
+
+In particular:
+
+* Does the Federal government have the authority to impose quarantine requirements on individuals within the US absent special circumstances like interstate or international travel?
+
+* What are the circumstances and procedures under which any quarantine or isolation orders could be subject to legal challenge?
+
+* If there is a conflict between federal and state officials related to a quarantine question, how does that get resolved?
+
+* Can federal officials commandeer state-owned or privately-owned resources (such as hospital facilities, medicine stocks, etc) to effectuate quarantine or other public health measures?

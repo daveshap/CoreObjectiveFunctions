@@ -1,0 +1,1 @@
+diablo 2 on Lubuntu I have a diablo 2 disc in my disk drive whenever I try to change the execute permission to anybody it Says Error setting permissions: Read-only file system. Help!

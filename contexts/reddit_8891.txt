@@ -1,0 +1,18 @@
+Will Article 17 (previously 13) of the EU Copyright Directive require platforms to implement upload filters?
+With EU elections coming up, heated discussions on the EU Copyright Directive have begin to take place again. They're often centered around Article 17 (previously 13), which will allegedly oblige content platforms such as reddit or youtube to implement upload filters for content, or be liable for any copyright infringements. ^[1](https://www.cnet.com/news/article-13-eu-countries-approve-copyright-directive/) ^[2](https://www.theverge.com/2019/3/26/18280726/europe-copyright-directive) Some EU legislators have defended the directive, saying there is no requirement for upload filters. ^[3](http://www.europarl.europa.eu/news/en/press-room/20190111IPR23225/questions-and-answers-on-issues-about-the-digital-copyright-directive) 
+
+The following are the parts of the directive which I believe to be most relevant to the question of upload filters: 
+
+>4 . If no authorisation is granted, online content-sharing service providers shall be liable for unauthorised acts of communication to the public, including making available to the public, of copyright-protected works and other subject matter, unless the service providers demonstrate that they have: 
+
+>(a) made best efforts to obtain an authorisation, and 
+
+>(b) made, in accordance with high industry standards of professional diligence, best efforts to ensure the unavailability of specific works and other subject matter for which the rightholders have provided the service providers with the relevant and necessary information; and in any event [...] 
+
+... 
+
+>8 . *The application of this Article shall not lead to any general monitoring obligation.* 
+
+>Member States shall provide that online content-sharing service providers provide rightholders, at their request, with adequate information on the functioning of their practices with regard to the cooperation referred to in paragraph 4 and, where licensing agreements are concluded between service providers and rightholders, information on the use of content covered by the agreements. 
+
+For full context, [here is the directive](http://www.europarl.europa.eu/doceo/document/TA-8-2019-0231_EN.html). I would also like to see clarification on exactly how directives in general are implemented in the member states, aswell as the consequences of member state implementations specifically in the case of Article 17.

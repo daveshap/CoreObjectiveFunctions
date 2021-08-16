@@ -1,0 +1,1 @@
+How to find aliases? Where can I find a list/file of all aliases created in Ubuntu 17.04?I mean shortcuts for commands most frequently used and more.

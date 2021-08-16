@@ -1,0 +1,6 @@
+TALBY: Lieutenant Doolittle, this is Talby. Lieutenant?
+DOOLITTLE: Yes, Talby, what is it?
+TALBY: Sorry to interrupt your lunch, sir, but I'm in the Computer Room, and I think I've located the malfunction. The scanner shows it to be some sort of fault in the communications laser, down by the Emergency Air Lock. Can't pinpoint it exactly, but I'm going down there with a starsuit and try to find it.
+DOOLITTLE: Sounds good, Talby. Let me know if anything important comes up.
+BOILER: Why doesn't Talby ever eat down here with the rest of us?
+DOOLITTLE: He just likes it up in the dome, that's all.

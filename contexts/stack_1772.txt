@@ -1,0 +1,1 @@
+What is the value of the given resistor? I tried checking with 5 band color code but was unsuccessful.Resistor is blown hence the value cannot be determined using multimeter.

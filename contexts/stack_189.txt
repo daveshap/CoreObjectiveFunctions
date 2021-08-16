@@ -1,0 +1,1 @@
+What's the purpose of directory /private/var/db/receipts? I searched and found several steps to remove the redundant files. Then I found in /private/var/db/receipts there are many config like files, Anyone know the purpose if this directory?

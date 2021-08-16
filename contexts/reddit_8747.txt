@@ -1,0 +1,14 @@
+With the recent successful test flight of the Falcon Heavy, what are the pros and cons of governments outsourcing launch capability to private firms?
+So SpaceX [had a successful launch the other day of their new Falcon Heavy rocket,](https://www.theverge.com/tldr/2018/2/7/16982052/spacex-falcon-heavy-photos-videos-watch-replay) sending a [test payload of a Tesla roadster and spacesuit off into interplanetary space.](https://www.theverge.com/2018/2/6/16983744/spacex-tesla-falcon-heavy-roadster-orbit-asteroid-belt-elon-musk-mars)  The Falcon Heavy [is the most powerful currently available rocket on Earth, capable of launching 63,000 kg to Low Earth Orbit.](https://en.wikipedia.org/wiki/Falcon_Heavy)  The most powerful rocket of all time remains NASA's Saturn V, which did the moon missions, and could deliver [about 140,000 kg to LEO.](https://en.wikipedia.org/wiki/Saturn_V)
+
+SpaceX is also not the only player in the commercial rocket market.  [Arianespace,](https://en.wikipedia.org/wiki/Arianespace)  [ULA (a joint venture of Lockheed Martin and Boeing),](https://en.wikipedia.org/wiki/United_Launch_Alliance) and [Orbital ATK](https://en.wikipedia.org/wiki/Orbital_ATK) produce orbital launch vehicles which regularly fly.  Additionally there are startups such as Jeff Bezos' [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin) have sought to enter the field and developed significant components such as their own new engine.
+
+On the government side, NASA is working in-house on the [Space Launch System](https://en.wikipedia.org/wiki/Space_Launch_System) which in early phases is designed to be approximately equivalent to the Falcon Heavy's expendable payload capacity, and in later phases to approximately match the Saturn V.
+
+The SLS also [has been plagued by cost issues and may be very expensive to fly, as a fully expendable vehicle.](https://arstechnica.com/science/2016/08/how-much-will-sls-and-orion-cost-to-fly-finally-some-answers/)
+
+As a competitor to the SLS, SpaceX has proposed [the BFR](https://en.wikipedia.org/wiki/BFR_(rocket\)), which would be a fully reusable heavy lift system.  They claim to [want to test it next year.](https://www.popularmechanics.com/space/rockets/a16672538/spacex-testing-new-rocket-bfr-next-year/) But SpaceX is known for... aggressive schedule predictions.  [The Falcon Heavy has been delayed 5 years.](https://www.newsy.com/stories/spacex-launches-falcon-heavy-5-years-later-than-planned/)
+
+---
+
+So with all of that said: What are the pros and cons of governments outsourcing launch capability to private firms?  Do they present a major cost saving opportunity?  An avenue for corruption?  Are there national security perils in outsourcing?  What have been notable successes and failures of such outsourcing?

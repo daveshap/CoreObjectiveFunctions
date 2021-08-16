@@ -1,0 +1,22 @@
+DUFF: Thank you, Ma'am. That's fine.
+JOSIE: You must be new in town.
+DUFF: I'll have me some of that punch there, too.
+JOSIE: Haven't seen you around, have I?
+DUFF: No. I'm new in town.
+JOSIE: You working?
+DUFF: Yeah. On the section gang.
+JOSIE: Oh yeah?
+DUFF: You work around town?
+JOSIE: I'm a teacher.
+DUFF: Went to college, huh?
+JOSIE: In Birmingham.
+DUFF: Oh yeah? That's my home town.
+JOSIE: Your folks live there?
+DUFF: No. My mother's dead. You goin' back inside?
+JOSIE: Yes, aren't you?
+DUFF: No. Never had much use for hell-howlers. You goin'?
+JOSIE: My father's the preacher.
+DUFF: Oh yeah? Well, I guess you got no choice.
+JOSIE: That's right.
+DUFF: Look, I don't know what you been told 'bout section gangs, but how 'bout seein' me sometime?
+JOSIE: Maybe.

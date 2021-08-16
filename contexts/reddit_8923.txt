@@ -1,0 +1,23 @@
+How would the US federal government ban a website without requiring a new law from Congress?
+# Questions
+
+What is the most likely or most viable way that the US federal government could ban a website (or app) without requiring a new law from Congress?
+
+What challenges would that ban face?
+
+Bonus question: What tends to be the threshold(s) that a Chinese owned company must exceed (% of Chinese ownership, activities, proof of censorship, proof of embedded CCP members, etc) for that company or their products to receive sanction-like actions from the US that go beyond standard regulations?
+
+# Context
+
+US White House administration confirmed that WeChat and TikTok [are each facing scrutiny in the US](https://techcrunch.com/2020/07/13/wechat-backlash-us/) and the administration is threatening to ban them.
+
+Every major internet censorship initiative that I know of at the national level [are acts of congress](https://en.wikipedia.org/wiki/Internet_censorship_in_the_United_States#Computer_Fraud_and_Abuse_Act_(CFAA)).
+
+Even the best explanations I can find about how a ban would work cast significant doubt on any options that do not need congressional approval:
+
+* US Commerce Department could put TikTok on its ["entity" list](https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list)  but the US government blocking traffic to TikTok is "unlikely to succeed given our legal systems."
+*  The administration has limited authority to ban outright any specific piece of software, like an app. EFF general council says "There is no law that would authorize the federal government to ban ordinary American from using an app."
+* A law or executive order that targets TikTok could spur a challenge under the First Amendment using rulings such as [Bernstein v. DOJ](https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech), in which the court found a computer scientist had the First Amendment right to publish an encryption algorithm. 
+* "The Committee on Foreign Investment in the US is [already investigating TikTok](https://www.cnet.com/news/us-launches-a-national-security-review-of-tiktok-report/) for national security concerns...could end up requiring changes to TikTok's substantial operations inside the US." But that started in November 2019, and its not clear to me when that wraps up and what impact it can have in the grand scheme of things.
+
+EDIT: Clarified I meant blocking a website or app

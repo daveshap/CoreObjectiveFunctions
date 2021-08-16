@@ -1,0 +1,1 @@
+CARTO polygon styles How do I assign polygon colors in CARTO based on whether it is a positive or negative number? For example, I want the range of negatives to be one color, and the range of positives another, with a gradient in each.

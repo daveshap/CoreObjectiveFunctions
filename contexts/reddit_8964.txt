@@ -1,0 +1,74 @@
+[META] r/NeutralPolitics is going into lockdown mode and restructuring
+**This is not an April Fools joke!**
+
+Dear users,
+
+From 5:00 p.m. EST today until the morning of April 4th, /r/NeutralPolitics will be in "lockdown" mode for restructuring. This meta post, and the various other meta posts linked within, describes what we're doing and why.
+
+(Again, not an April Fools joke.)
+
+--------
+
+**What the lockdown means:**
+
+* Mods will approve no new submissions from now until Monday morning.
+* All posts from the previous seven days will be locked until Monday morning. Mods will use the interim period to clean up discussions in those posts to make sure the comments comply with the rules.
+* This series of meta posts will stay open so users and mods can interact.
+
+----------
+
+**Why we're doing what we're doing.**
+
+r/NeutralPolitics has a long history of encouraging a certain type of discussion that's not found in many other places on the internet. If you're not familiar with that history, [reading about it](https://www.reddit.com/r/NeutralPolitics/comments/4cxvz1/meta_neutralpolitics_origins_and_purpose/) might help you understand our larger goals.
+
+In the last few months, this subreddit has undergone an unprecedented period of subscriber growth and it has brought about a shift in the tone of discussion. That has prompted increasing complaints from the users, which fall roughly into two camps.
+
+Users who are accustomed to the discussion environment we have built over the last four years (we'll call them 'Group A') have complained repeatedly to the mods about the:
+
+* Decline in comment quality.
+* Decline in vigilance of policing comments for citations.
+* Increase in "eloquent opinions parading themselves as facts." (Thanks to a specific user for this apt description.)
+* Comments that should be removed for rule violations are instead upvoted by a large number of readers.
+* Diminished participation from users who used to contribute well-sourced insights that counter the common narratives.
+
+Meanwhile, other participants (who we'll call 'Group B') complain the rules and enforcement are *too* strict to allow the kind of freeform discussions they find on other subreddits, websites, facebook, at dinner tables, etc. Some of the comments we've received from these users are:
+
+* "I think" statements shouldn't require a source. It's just personal opinion.
+* Concepts that are, or should be, common knowledge don't require a citation. Everyone knows what their definitions are.
+* Speculation is useful, even if it can't be supported with evidence.
+* These rules are stifling discussion.
+
+Past waves of growth have been accompanied by similar adjustment and complaint periods, but in all those cases, the Group A folks have vastly outnumbered those from Group B. This time is different. The split of opinions is roughly even now, which means there's a sizable portion of our users who want a discussion environment with more relaxed rules.
+
+This has put us at a crossroads. We have to decide what kind of subreddit we want to be.
+
+After careful consideration, the mods have concluded that adjusting the sub to accommodate Group B would be throwing in the towel on creating the evidence-based environment outlined in our [mission statement](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_mission_statement), which we're not quite ready to do yet.
+
+Instead, we've decided to launch an outlet specifically for those users. /r/NeutralTalk is a new subreddit based on the rules of /r/NeutralPolitics, but with a few key restrictions eliminated to allow more freeform and speculative discussions. [The official announcement is here.](https://www.reddit.com/r/NeutralPolitics/comments/4cxvs8/meta_announcing_neutraltalk_a_companion_sub_to/) We encourage you to check it out.
+
+In the meantime, /r/NeutralPolitics, will undergo a *tightening* of the rules, and especially enforcement, in an effort to bring quality back in line with what our long-time users expect and to entice quality contributors back to the discussions.
+
+The following concepts are all outlined in the rules already, but we'll be focusing on more strict enforcement from here on: 
+
+* Prefacing a comment with "I think" does not absolve you of the need to support your assertions with logic and evidence. If you're making a claim, you need to make a case for that claim. There are myriad sites on the internet (including /r/NeutralTalk) where you can state your personal opinion without the need for evidentiary support. This isn't one of them.
+* "Commenters should respond to any reasonable request for sources as an honest inquiry made in good faith." What may seem "obvious" or "common sense" to you is often not to others. In fact, the most obvious conclusions are often wrong and, as it's said, "*common sense* is the least common of the senses." So, if somebody — mod or user — asks you to provide a source for your assertion of fact, please just comply. You might end up teaching something, or learning something, or both. The fact that you think your point is obvious, or common knowledge, or self-evident is irrelevant. Assertions of fact require sources on NeutralPolitics and requests for such sources are part of the deal. Don't view them as an assault or a challenge. They're just an invitation to provide knowledge.
+* As per [this](https://www.reddit.com/r/NeutralPolitics/comments/49fy8q/meta_rneutralpolitics_passing_60k_subscribers_new/) past announcement, posts that are requests for speculation are no longer be permitted on NeutralPolitics. The answers to speculative questions are inherently handicapped against the rules. Please take your requests for *informed* speculation to /r/NeutralTalk.
+
+To some users, especially the folks firmly in Group B, this period of enforcement is going to seem especially brutal. So be it. Hopefully, you'll find a home in /r/NeutralTalk or elsewhere. For right now, the preservation of four years of work is the mod team's highest priority.
+
+On the other hand, if you want to help us restore the tone of discussion that we set out to foster from the beginning, please review the guidelines, source your assertions, and report content that violates the rules. And if you're really committed, [become a mod!](https://www.reddit.com/r/NeutralPolitics/comments/4cxwm0/meta_neutralpolitics_needs_new_mods/) We need the help.
+
+--------
+
+**Other important notes and changes.**
+
+* We have a new, stricter policy on banning users. Please [read the details here.](https://www.reddit.com/r/NeutralPolitics/comments/4cxs5o/meta_new_ban_policy/)
+
+* Most posters don't read the [submission rules,](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_submission_rules) which makes a lot of extra work for moderators. This problem has only increased as our traffic has increased. Fully 60% of submissions never see the light of day in the subreddit. See [here for more information.](https://www.reddit.com/r/NeutralPolitics/comments/4cxwow/meta_neutralpolitics_traffic_and_submission/)
+
+* We'd like to encourage proposals for additions to our [Comment Hall of Fame](https://www.reddit.com/r/NeutralPolitics/wiki/commenthalloffame). If you have a comment you think is deserving, please let us know in the comments! Additionally, the Hall of Fame will now be more prominently featured on our sidebar as a series of model comments. We hope that they will serve as examples for what we want to see on NeutralPolitics. 
+
+
+-----
+
+We look forward to your comments below.

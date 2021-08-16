@@ -1,0 +1,1 @@
+Should a CDN service like Cloudflare protect against Brute Force Attacks, or only from DDoS? I know that CDN services usually protect a user by hiding it's original machine's IP and by screening (and banning) any attackers that send too many requests in the form of DDoS.But should a CDN service like Cloudflare protect against Brute Force Attacks, or only from DDoS?

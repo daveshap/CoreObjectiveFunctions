@@ -1,0 +1,6 @@
+Data analysis with R
+Can anyone point me in the direction of some good beginners tools for learning to do data analysis with R? I’ll be taking a class on it in second year but I’d like to get a bit ahead and I have a rather large data set that I really don’t want to do by hand. 
+
+Thanks!
+
+Edit: Thank you for all the great resources everyone. You’re all a treasure

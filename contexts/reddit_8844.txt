@@ -1,0 +1,8 @@
+Is a city making its own money legal? If legal, what are the pros and cons of doing this?
+There is an [article](https://news.trust.org/item/20200709101434-84sxx) going around about a small town in Washington state that has made its own wooden money.  
+
+[Article 1, Section 10, Clause 1 of the United States Constitution says](https://constitution.congress.gov/browse/article-1/section-10/) "No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; **coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts;** pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility." (Emphasis added)
+
+Is this legal, or does this fall afoul of that provision?  
+
+Assuming it is legal, what are the pros and cons of doing this?   Do we have any historical examples besides [company scrip](https://en.wikipedia.org/wiki/Company_scrip) which became [illegal in 1938](https://en.wikipedia.org/wiki/Scrip) with the [FLSA](https://www.law.cornell.edu/cfr/text/29/531.34)?

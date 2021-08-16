@@ -1,0 +1,32 @@
+What would need to be cut to achieve the rumored $10.5 trillion in cuts proposed by the Trump administration?
+[The Hill is reporting today](http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts) that the Trump administration's first proposed budget will include $10.5 trillion in cuts over a 10 year period.
+
+The article lists a few programs which are on the chopping block:
+
+* $900 million from economic development programs
+
+* $286 million from [community policing programs.](https://www.justice.gov/jmd/file/821491/download)
+
+* A maximum of $489 million from [violence against women act programs.](https://www.justice.gov/jmd/file/822296/download)
+
+* [$385 million from legal aid programs](http://www.lsc.gov/media-center/publications/fy-2017-budget-request)
+
+* [$147 million from the National Endowment for the Arts](https://www.arts.gov/sites/default/files/nea-fy16-appropriations-request.pdf)
+
+* [$445 million from the Corporation for Public Broadcasting.](http://www.cpb.org/files/appropriation/justification-FY17-and-FY19.pdf)
+
+* [$3.28 billion](https://energy.gov/sites/prod/files/2015/01/f19/DOE%20FY%202016%20Budget%20Fact%20Sheet.pdf) from renewables programs at the Department of Energy.
+
+* $33 million by reducing nuclear energy research to 2008 levels. [$875 million in 2008](https://energy.gov/articles/department-energy-requests-243-billion-fy-2008-budget) vs [$908 million in the most recent budget I could find](https://energy.gov/sites/prod/files/2015/01/f19/DOE%20FY%202016%20Budget%20Fact%20Sheet.pdf)
+
+
+
+
+
+There are a couple of other cuts whose amounts I can't calculate, but they don't seem to be to large programs.
+
+Adding up the above, it gets to about $5.5 billion in cuts.
+
+To achieve $10500 billion in cuts over 10 years would arithmetically require about $1050 billion in cuts in the first year.  Maybe a bit less if we account for inflation.
+
+The specified cuts are ~0.5% of the total necessary to achieve the stated target.  What would plausibly be the other 99.5% of the cuts?  Have specific proposals been made in the past which identify particular programs?  The article mentions a 2015 Republican Study Committee budget, but I can't find if that proposed specific cuts to specific programs, or if it was just a general level target.

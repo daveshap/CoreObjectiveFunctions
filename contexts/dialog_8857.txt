@@ -1,0 +1,19 @@
+CARDINAL: You're convinced that it's genuine.
+KARRAS: I don't know. No, not really I suppose. But I've made a prudent judgement that it meets the conditions set down in the Ritual.
+CARDINAL: You'd want to do the exorcism yourself?
+KARRAS: Yes.
+CARDINAL: It might be best to have a man with experience. Maybe someone who's spent time in the foreign missions.
+KARRAS: I see, your excellency.
+CARDINAL: Let's see whose around. In the meantime I'll call you as soon as I know.
+KARRAS: Thank you your excellency.
+PRESIDENT: Well, he does know the background. I doubt there's any danger in just having him assist. There should be a psychiatrist present, anyway.
+CARDINAL: And what about the exorcist? Any ideas?
+PRESIDENT: How about Lankaster Merrin.
+CARDINAL: Merrin? I had notion he was over in Iraq. I think I read he was working on a dig around Nineveh.
+PRESIDENT: That's right Mike. But he's finished and came back around three ot four months ago, He's in Woodstock now.
+CARDINAL: What's he doing there? Teaching?
+PRESIDENT: No, he's working on another book.
+CARDINAL: Don't you think he's too old, though? How's his health?
+PRESIDENT: It must be alright. He's still running around digging up tombs. Besides, he's had experience.
+CARDINAL: I didn't know that.
+PRESIDENT: Ten maybe twelve years ago, in Africa. The exorcism supposedly lasted for months. I heard it damn near killed him.

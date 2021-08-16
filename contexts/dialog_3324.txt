@@ -1,0 +1,8 @@
+CHANCE: ... That is a very small room.
+WILSON: Yes sir, I guess that's true smallest room in the house.
+CHANCE: Yes. It seems to be.
+RAND: Welcome to Rand Memorial Hospital, Mr. Gardiner.
+CHANCE: ... I see.
+CHANCE: I feel very good in here.
+RAND: Sure you do. This ward is air tight, I have a little extra oxygen pumped in, keeps my spirits up.
+CHANCE: Yes. I like that very much.

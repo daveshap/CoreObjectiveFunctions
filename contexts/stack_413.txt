@@ -1,0 +1,1 @@
+Why does Ubuntu 14.04 LTS use a non-LTS kernel version? I only recently became aware that LTS wasn't just an Ubuntu thing - there's LTS kernel versions too. Yet the kernel version used (3.13) in Ubuntu 14.04 LTS is not an LTS kernel version. Is it considered unimportant whether or not a kernel version is LTS?

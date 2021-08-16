@@ -1,0 +1,37 @@
+Under the Fixed Term Parliaments Act, are there any circumstances under which the Queen could dismiss the UK Prime Minister?
+Boris Johnson, the newly appointed UK Prime Minister, is currently supported based on party breakdown [by a majority of exactly 1 MP](https://www.theguardian.com/politics/2019/aug/02/what-would-it-take-for-boris-johnson-to-lose-his-majority-of-one-tories-labour) in the House of Commons.  Given this precarious position, and the impending [Brexit deadline of October 31](https://www.bbc.com/news/uk-politics-47889404) there has been considerable discussion of the possibility that Johnson will face (and possibly lose) a no confidence vote from the House of Commons when Parliament returns in September.  Opposition leader Jeremy Corbyn [has said he will bring such a motion.](https://www.mirror.co.uk/news/politics/jeremy-corbyn-fight-block-no-18836509)
+
+Senior aide to Johnson Dominic Cummings [has been reported as saying](https://www.thetimes.co.uk/article/boris-johnson-to-defy-any-vote-of-no-confidence-s28ksnhzm) that in the event of a no confidence vote, Johnson would refuse to resign.  
+
+Under the [Fixed Term Parliaments Act of 2011](http://www.legislation.gov.uk/ukpga/2011/14/section/2/enacted) when there is a vote "That this House has no confidence in Her Majesty’s Government" there are 14 days for the House to vote affirmative confidence in a new government, or else an early election happens.
+
+The [Cabinet Manual](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/60641/cabinet-manual.pdf) (at p. 15, part 2.19) describes the process as follows:
+
+>Under the Fixed-term Parliaments Act
+2011, if a government is defeated on a
+motion that ‘this House has no confidence
+in Her Majesty’s Government’, there is
+then a 14-day period during which an
+alternative government can be formed
+from the House of Commons as presently
+constituted, or the incumbent government
+can seek to regain the confidence of the
+House. If no government can secure the
+confidence of the House of Commons
+during that period, through the approval of
+a motion that ‘this House has confidence
+in Her Majesty’s Government’, a general
+election will take place. Other decisions
+of the House of Commons which have
+previously been regarded as expressing ‘no
+confidence’ in the government no longer
+enable or require the Prime Minister to hold
+a general election. **The Prime Minister is
+expected to resign where it is clear that he
+or she does not have the confidence of the
+House of Commons and that an alternative
+government does have the confidence.** 
+
+If the Prime Minister does not resign as the Cabinet Manual expects, or there is a dispute as to whether an alternative government does have the confidence of the Commons, does the Queen retain the reserve power of dismissal?
+
+The only modern example of the dismissal power being used I can find is the [1975 Australian constitutional crisis.](https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis)  Are there any other examples in UK history especially that could be illuminating?

@@ -1,0 +1,1 @@
+How can I change the shape default in Preview app? Every time I click on the oval shape in Preview, I get a big ellipse filled in opaque blue.<br>How do I change this default such that every time I click on the oval, I get a transparent circle with a black border?

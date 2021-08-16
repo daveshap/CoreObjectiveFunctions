@@ -1,0 +1,3 @@
+DATA: I'm showing fresh air behind this calcite formation, Captain...
+PICARD: Will the structure hold if we blast through?
+DATA: I believe it is safe, sir.

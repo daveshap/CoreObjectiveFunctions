@@ -1,0 +1,29 @@
+PANES: How's the movie going? Your movie. You are making a movie, aren't you?
+SALLY: Yes. Fine.
+PANES: That's it? Yes. Fine?
+SALLY: I don't want to talk about it.
+PANES: Why not?
+SALLY: I never like to talk about my work.
+PANES: Alright. Well, that's something new.
+SALLY: No. Not something new.
+PANES: Well, something's wrong.
+SALLY: Nothing's wrong. It's great, okay? Having the time of my life. Mac's a fantastic director. And what can anyone say about Cal that hasn't been said. And it's great working with friends, blah blah blah.
+PANES: Um. Happy for you.
+SALLY: Thanks.
+PANES: So tell me, how's it going?
+SALLY: Oh you know. No doubts. No second thoughts. Am I a monster?
+PANES: You're my best friend.
+SALLY: That's not an answer, is it?
+PANES: Yes, you're a monster.
+SALLY: Thank you, Panes.
+PANES: You don't need to thank me.
+SALLY: We're going to have to go back out there.
+PANES: I guess.
+JEFFREY: Let me. I'm Jeffrey.
+MONICA: Monica.
+JEFFREY: And you know our friends, how?
+MONICA: We live next door.
+JEFFREY: Oh. You're them.
+MONICA: Excuse me?
+JEFFREY: We've heard lots about you.
+MONICA: You have?

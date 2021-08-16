@@ -1,0 +1,1 @@
+Light reflection from a charged surface Will we see differences (in intensity or spectrum) of visible light reflection from surface of positively versus negatively charged metal plate (or any non-conducting materials)? Are there data about such experiments?

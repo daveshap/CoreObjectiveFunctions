@@ -1,0 +1,9 @@
+MACREADY: Not the only one.
+CHILDS: The fire's got the temperature way up all over camp... won't last long though.
+MACREADY: Neither will we.
+CHILDS: Maybe we should try and fix the radio... try and get some help.
+MACREADY: Maybe we shouldn't.
+CHILDS: Then we'll never make it.
+MACREADY: Maybe we shouldn't make it.
+CHILDS: If you're worried about anything, let's take that blood test of yours.
+MACREADY: If we've got any surprises for each other -- we shouldn't be in any condition to do anything about it. You play chess?

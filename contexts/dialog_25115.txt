@@ -1,0 +1,15 @@
+KIRK: I assume you are loitering here to learn what efficiency rating I plan to give your cadets.
+SPOCK: I am understandably curious.
+KIRK: They destroyed the simulator room and you with it.
+SPOCK: The <u>Kobayshi Maru</u> scenario frequently wreaks havoc with students and equipment. As I recall you took the test three times yourself. Your final solution was, shall we say, unique?
+KIRK: It had the virtue of never having been tried.
+SPOCK: Yours was not a solution which would have occurred to a Vulcan mentality.
+KIRK: So you said at the time. Speaking of which, your prot‚g‚'s first rare -- a trifle emotional --
+SPOCK: She's half Romulan, Jim. The admixture makes her more volatile than -- me, for example.
+KIRK: Than you. Yes, I see that. By the way, thank you for this.
+SPOCK: I know of your fondness for antiques.
+KIRK: 'It was the best of times, it was the worst of times...' Message, Spock?
+SPOCK: None of which I am consciously aware -- except, of course, happy birthday -- surely the best of times.
+KIRK: Hrummm... and where are you off to, now?
+SPOCK: The Enterprise. I must check in before your inspection. And you?
+KIRK: Home.

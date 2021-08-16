@@ -1,0 +1,1 @@
+Mob Spanwer mined by creeper not working Recently I was working on a tunnel near my a skeleton Spanwer I found, when suddenly a creeper came and blew up next to me. The strange thing is, that the Spanwer dropped as item, which I later placed somewhere else, and now it doesn't spawner anything. Anyone know how to make it spawner again, without mods.

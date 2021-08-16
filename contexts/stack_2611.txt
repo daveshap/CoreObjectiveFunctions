@@ -1,0 +1,1 @@
+Adding Properties to a feature in Google Earth Engine Is there a way to add a property to a feature in the GEE. I know that you can edit existing properties with set(), but haven't found a way to add a property.

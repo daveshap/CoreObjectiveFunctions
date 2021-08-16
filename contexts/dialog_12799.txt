@@ -1,0 +1,8 @@
+HARTMAN: I'm Sheriff Hartman. You want me?
+PINKUS: You're certainly a hard fellow to find, Sheriff.
+MAYOR: What do you want?
+PINKUS: I'm a messenger at the State House. This is from the Governor.
+MAYOR: What's from the Governor?
+PINKUS: The reprieve for Earl Williams.
+HARTMAN: For who?
+PINKUS: Earl Williams. The reprieve.

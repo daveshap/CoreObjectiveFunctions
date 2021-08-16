@@ -1,0 +1,1 @@
+Automate MATLAB and LTspice I'm using MATLAB and LTspice. I have to write a script to automate these two softwares in such a way,  1. Output file of the MATLAB is feed into LTspice. 2. LTspice output results are inserted back into MATLAB file.How to script these automation ?

@@ -1,0 +1,1 @@
+Can we define rms current for pure inductive and capacitive ac circuit? For a purely inductive and capacitive ac(sinusoidally varying) circuit, average power dissipated across a capacitor or an inductor is zero. Then does that mean RMS current is zero?

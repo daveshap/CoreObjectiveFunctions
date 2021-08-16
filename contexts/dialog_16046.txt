@@ -1,0 +1,6 @@
+CLAUDE: This fork is filthy.
+RAY: The fork is the least of your worries, Claude.
+RAY: What's your name?
+WILLIE: Me? Willie Long.
+RAY: What are you in for, Willie?
+WILLIE: That's a long story...

@@ -1,0 +1,1 @@
+Connect to wireless network with Ubuntu 17.04 I have a VMware virtual machine running Ubuntu 17.04. My PC is connected to my WLAN but the VM isn't in the network. I suspect that the network card isn't install on my VM. I can connect to LAN to install drivers but I can't always be connected.How can install the driver (if this is the problem)?

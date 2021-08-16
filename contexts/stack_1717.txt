@@ -1,0 +1,1 @@
+Struggling with current deductions A practical current source with a 1-A short-circuit current and 100-ohm internal resistance is to be used to deliver 1/12 A to a 100-ohm load.  Determine an external resistance that can be placed across the source terminals, to achieve this result.  Express the answer in ohms.

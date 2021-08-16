@@ -1,0 +1,1 @@
+What happens in an organ pipe at frequencies other than the harmonics? I learned that, at frequencies corresponding to harmonics, standing waves are formed. But what actually happens at other frequencies? Won't the reflected wave superimpose with the original wave? Do any other phenomena happen?

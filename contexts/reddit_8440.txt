@@ -1,0 +1,70 @@
+The Central Government of Spain will rule Catalonia directly from Madrid, using the 155 article of the Constitution. The current government parties, however, have <1% of City Councils in Catalonia (1/794). Are there any international precedents of such situation? Are such scenarios sustainable?
+The main point of the question/s is to discuss the relationship that local councils and local governments has with the bigger picture nowadays in any modern democracy:
+
+- How much power do local governments represent, if any, and should that be taken into account in current politics or it doesn't hold any real significance.
+
+- Is it sustainable when there's such unbalance between one territory and another —like it's happening now in Catalonia— and what kind of measures should be used to solve this, taking into account that these kind of conflicts have historically escalated into violence and wars, making that an unacceptable way —and one that the catalans aren't going to push.
+
+Actual question/s are at the bottom, after all the context is given.
+
+---
+
+Sources for claims in title (basically electoral data), plus involved parties political alignment:
+
+1. [AMI](http://www.municipisindependencia.cat/), Association of Municipalities for Independence (link is official webpage), has, according to [wikipedia](https://en.wikipedia.org/wiki/Association_of_Municipalities_for_Independence), *"the support of 786 town councils out of the 948 total in Catalonia (82,9%). In addition, 39 out of 42 county councils give support to the association and also all the four Catalan provincial councils."*
+
+2. The lasting ~20% of City Councils are owned by PSC and CSQEP, which are center-left and hard-left leaning parties that are part of state-wide parties ([PSOE-PSC](https://en.wikipedia.org/wiki/Socialists%27_Party_of_Catalonia)) and coalitions (CSQEP and [Podemos](https://en.wikipedia.org/wiki/Podemos_\(Spanish_political_party\))). Those parties are the actual opposition in [the Spanish Congress](https://commons.wikimedia.org/wiki/File:Spanish_Congress_of_Deputies_\(12th_Legislature\).svg). PSOE (the main spanish opposition party right now —homologous of Democrats in the US, and Labour in the UK) rejected 155 application during all the legislature, but has backed it once the PP-Ciudadanos Government pushed for it earlier this week; Podemos, the 3th party in seats, rejects it all the way.
+
+3. Between the aforementioned City Councils ruled by PSC or CSQEP, are most of the biggest cities in Catalonia, like Barcelona and the cosmopolitan surroundings, Tarragona, or Lleida, making 3 of 4 the province Capitals. This shows an interesting part of the whole point, imo: the political weight that life in big cities —"modern, cosmopolitan life"— has in these kind of matters that affect the rest of a territory, with lower density.
+
+4. Albeit those ~20% of City Councils aren't part of the Association of Municipalities for Independence, many of them have already [openly rejected](http://www.lavanguardia.com/politica/20171021/432245123748/alcaldes-psc-piden-rechazar-155.html) the application of 155 —including the Barcelona one, which mayor is part of CSQEP, the coalition party that rejects it in the Spanish Congress. This doesn't mean they will not abide, but it shows their disconformity.
+
+5. The actual [government in Spain](https://es.wikipedia.org/wiki/XII_legislatura_de_Espa%C3%B1a), elected in 2016 and that pushed for the 155 application this past week, is mainly PP with the support Ciudadanos. Between those 2 parties, they rule one single tiny town in Catalonia (sourced in next point).
+
+5. The only City Council owned by Spain's ruling party (PP) in Catalonia is [Pontons](http://www.huffingtonpost.es/2017/07/18/la-vida-en-pontons-el-unico-municipio-catalan-donde-gobierna-el_a_23035629/), a 453 citizens municipality, making it an anecdote —still, as a curiosity, that town had a [80% turnout](http://elmon.cat/politica/arrasa-lunic-municipi-governat-pel-pp) in the 1-O 'illegal' referendum.
+
+7. Among the previous point, Ciudadanos, the party that supports PP in Madrid and earns them the Government, hasn't got a single municipality currently —and has only had one single mayor there, in it's brief history.
+
+8. Results of the current events, ~70% Mayors in Catalonia are allegedly [being prosecuted](http://www.elmundo.es/grafico/cataluna/2017/09/08/59b28078e2704e19168b4593.html) for having shown public support and collaboration with organising the 'illegal' 1-O vote. [37 have already](http://www.larazon.es/espana/la-fiscalia-cita-a-37-alcaldes-como-investigados-por-su-apoyo-al-referendum-AE16034422) appeared in front of the judge.
+
+---
+
+Further context:
+
+**What is the 155 article of the Spanish Constitution, and why has it been pushed?**
+
+- The 155 article of the Spanish Constitution [was pushed by Spain's Government](https://elpais.com/elpais/2017/10/21/inenglish/1508587023_487115.html) this past weekend, and will have to go through the Senate to be approved. Such article is [a measure](https://es.wikipedia.org/wiki/Art%C3%ADculo_155_de_la_Constituci%C3%B3n_espa%C3%B1ola_de_1978) to shield the State from disobedience in any autonomous community, when any autonomous government (in this case, the catalan Generalitat of Catalonia) rejects following the requests of the Central Government, which would be backed by the Constitutional law that rules us all.
+
+- The reason for Madrid's central government applying the 155 is the Catalan Government push for an Unillateral Declaration of Independence. The reason the Catalan Government has been able to push for that it's because it has [an absolute majority in seats](https://en.wikipedia.org/wiki/Catalan_regional_election,_2015#Results), as of the last elections in pro-Yes parties. After the 'illegal referendum' as the finishing point of the legislature —complying with the main point of their electoral promises— the Independence of Catalonia was [announced yet immediatelly suspended](https://www.theguardian.com/world/2017/oct/10/catalan-government-suspends-declaration-of-independence), after the 1st of October vote. The immediate suspension was to call for a dialogue in terms, for negotiating a better way out —a legal one— than the unillateral, after the Catalan Government considered the [1st of October 'illegal' referendum](https://en.wikipedia.org/wiki/Catalan_independence_referendum,_2017) success substantial enough to push for independence. That kind of measure has been compared with the [Slovenian way](https://en.wikipedia.org/wiki/Brioni_Agreement) of gaining independence in 1991.
+
+- This suspenden situation lasted about a month, and the Central Government finally pushed for the 155 to prevent anything else from happening. This will take away any political power from the Catalan Government, rendering the Catalan President unable to push for anything, overtaking any offices they consider necessary for the time being, plus the control of catalan autonomous police, and the public media apparently, too. In other words, the 155 is an 'à la carte' article to make the territories follow the Constitutional law.
+
+- Pushing that article will mean that PP, a party with [8.49% of the votes in Catalonia](https://en.wikipedia.org/wiki/Catalan_regional_election,_2015#Results), will rule that territory for a while —only with the backing of Ciudadanos though, a party that has 17.90% of the vote in Catalonia, summing to 26,4% of the votes of the territory with PP. This engorges 1/4th of the people entitlement, while it creates greater distress over the 48% of pro-Yes voters, being the distress present but lesser in the lasting ~25% (pro-legal-referendum parties).
+
+- Albeit the main goal of the PP is, allegedly, to call for new elections in the Catalan Parliament as soon as possible, [polls show](http://www.elperiodico.com/es/politica/20171022/encuesta-elecciones-cataluna-6371299) that the independentist simple majority is consolidated, showing a quasi-identic scenario. As such, pushing for them isn't solving anything apparently, making the situation stuck and unsustainable long term.
+
+Last but not least, for context on independentism in the contemporary world, mainly Europe:
+
+- [Unillateral declarations of independence](https://en.wikipedia.org/wiki/Unilateral_declaration_of_independence), being Croatia, Slovenia, and Kosovo, the last ones in Europe the last half of a Century, after wars and violent episodes.
+
+- ~~Non-unilateral~~ [declarations of independence](https://en.wikipedia.org/wiki/Declaration_of_independence), in modern Europe, include mainly the countries that were former parts of the USSR, like the Baltic Countries and many Balkanian ones.
+
+**edit**: removed "non-unilateral", as that was an error of mine adding it for emphasis, and /u/CQME kindly addressed that this was not right.
+
+---
+
+So, for the question/s, I guess they are:
+
+- **Are there any other modern territories where virtually none of the local councils are represented by the main party, or any coalition, that rules the upper instances of the territory, outside of it?**
+
+- **Are such scenarios sustainable only by the rule of law, which is the only thing the Spanish main parties have said they'll follow, ever?**
+
+---
+
+I'm quite illiterate in terms of history and politics, but the closest situations I know of are:
+
+- The Northern Ireland situation, where they're mainly overruled by the UK in many things (part of the peace treaties), albeit Wikipedia shows me that [there're a big deal of local governments](https://en.wikipedia.org/wiki/Local_government_in_Northern_Ireland) ruled by unionist parties in Northern Ireland —as far as I can tell, unionist conservative parties like DUP are part of the Conservatives main party, in the House of Commons, and Labour does too, so there's indeed some balance there.
+
+- In Spain, the other really distinct autonomous community, the Basque Country, has too [3 out of 251](https://es.wikipedia.org/wiki/Partido_Popular_del_Pa%C3%ADs_Vasco#Elecciones_municipales_y_forales_2015) city councils. However, as center to right Basque Nationalists aren't currently pushing for independence, they actually have some deals with Spain's hard unionist parties like PP and Ciudadanos. (In Spain, which screams conflict, the main voted party is the 4th and 5th party in Catalonia and Basque Country, gathering ).
+
+- It's worth mentiong that the above 2 territories had a violent apporach by radical groups back in the day, being [ETA](https://en.wikipedia.org/wiki/ETA_\(separatist_group\)) a terrorist group for Basque independentists, and the [IRA](https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army), a paramilitary army.

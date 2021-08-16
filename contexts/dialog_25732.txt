@@ -1,0 +1,8 @@
+SPOCK: Reporting as ordered, Captain.
+KIRK: Sit down, please.
+SPOCK: Sir, I would appreciate Dr. McCoy absenting himself from this interview.
+KIRK: I want him here. Sit down!
+KIRK: You've reported that you felt strong thought emotions. A group of minds from a space vessel? Could you make out any plan, anything to do with Earth?
+SPOCK: Negative, Captain. I could sense only what seemed an almost omniscient pattern of perfect logic. I can explain nothing more; I understand nothing more.
+KIRK: Also -- there was nothing in your report about <U>why</U> you're here.
+SPOCK: That inquiry invades my personal life, Captain.

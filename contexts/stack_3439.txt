@@ -1,0 +1,1 @@
+How precisely can your ISP tell you are using Tor? I often read that your ISP can tell if you are using Tor. Assuming you use a bridge the only way to do this seems to be statistical analysis of a packet capture. How exactly is this done given that the initial connection is over TLS and can you prevent it?

@@ -1,0 +1,1 @@
+How do I connect a four way key in a potentiometer? How do I connect (which wire to which terminal) a four way key to a Potentiometer to compare the EMF of two cells.Circuit diagram and a four wayway key is shown in the pictures.

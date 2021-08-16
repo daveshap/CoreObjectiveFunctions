@@ -1,0 +1,1 @@
+Hash variation - .vc and string format? Why is a veracrypt hash contained in a '.vc' and not in what appears to be a standard mixed number and letter string format?

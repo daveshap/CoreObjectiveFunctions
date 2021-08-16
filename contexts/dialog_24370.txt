@@ -1,0 +1,6 @@
+BANDIT: -- Gimme a twenty, pardner.
+CLEDUS: I'm at marker eight-five.
+BANDIT: Son-of-a-gun. Me too.
+KATE: I'm Kate. You must be Cledus.
+CLEDUS: Yes, ma'am.
+KATE: How's your twenty?

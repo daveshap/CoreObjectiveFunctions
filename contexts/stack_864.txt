@@ -1,0 +1,1 @@
+Ubuntu 18.04 suspends every 10 seconds i installed ubuntu 18.04 on my notebook and when i login my screen goes black after about 10 seconds and i have to login again.I updated everything after installation and tried to upgrade to kernel version 4.17.8.But i have still the same issue.Could you help me please?Thanks!

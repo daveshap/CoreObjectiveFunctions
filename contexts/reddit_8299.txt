@@ -1,0 +1,36 @@
+Does the tweet Representative Matt Gaetz directed towards Michael Cohen constitute witness tampering? How does his special status from Congress affect such a charge?
+On the eve of Michael Cohen's [public testimony to the House Oversight](https://oversight.house.gov/news/press-releases/committee-announces-rescheduling-of-michael-cohen-s-public-testimony) committee, Representative Matt Gaetz sent out a [Tweet directed toward Cohen](https://www.nbcnews.com/politics/politics-news/gop-rep-matt-gaetz-tweets-cryptic-message-cohen-public-testimony-n976481): 
+
+> Hey @MichaelCohen212 - Do your wife & father-in-law know about your girlfriends? Maybe tonight would be a good time for that chat. I wonder if she’ll remain faithful when you’re in prison. She’s about to learn a lot...
+
+He has since [deleted the tweet](https://twitter.com/mattgaetz/status/1100503846386835456), but it was widely reported as attempting to influence or threaten Cohen. Examples [1](https://www.politico.com/story/2019/02/26/matt-gaetz-michael-cohen-1189581), [2](https://www.usatoday.com/story/news/politics/2019/02/26/rep-matt-gaetz-tweets-apparent-threat-michael-cohen/2996444002/), [3](https://www.vox.com/2019/2/26/18241996/matt-gaetz-michael-cohen-trump-twitter-threat), [4](https://thehill.com/homenews/house/431699-gop-lawmaker-asks-if-cohens-wife-will-remain-faithful-while-hes-in-prison), [5](https://www.cnn.com/2019/02/26/politics/matt-gaetz-tweet-michael-cohen/index.html).
+
+---
+
+Representative Bill Pascrell [called for an investigation into the tweet](https://thehill.com/homenews/house/431715-dem-lawmaker-calls-for-investigation-into-gaetzs-tweet-before-cohen-testimony).
+
+House majority leader Nancy Pelosi, while not mentioning Gaetz specifically, sent out a [tweet directed at fellow House members](https://thehill.com/homenews/house/431740-pelosi-says-ethics-committee-should-vigilantly-monitor-social-media-statements):
+
+> I encourage all members to be mindful that comments made on social media or in the press can adversely affect the ability of House Committees to obtain the truthful and complete information necessary to fulfill their duties.
+
+> As a result, such statements can be construed as not reflecting credibility on the House, and the Committee on Ethics should vigilantly monitor these types of statements, which may not be protected by the speech clause.
+
+Matt Gaetz [defended his comments to reporters](https://thehill.com/homenews/house/431727-gop-lawmaker-says-tweet-about-cohen-is-witness-testing-not-witness-tampering), saying:
+
+> "We’re witness testing not witness tampering."
+
+---
+
+The difference between 'testing' and 'tampering' is important. *Witness tampering* is a crime under [18 U.S. Code § 1512](https://www.law.cornell.edu/uscode/text/18/1512).
+
+However, as the Nancy Pelosi mentions and the [New York Times explains](https://www.nytimes.com/2019/02/26/us/politics/michael-cohen-testimony.html), Gaetz might be protected under the 'speech and debate' clause:
+
+> Like all members of Congress, Mr. Gaetz is covered under the “speech or debate” clause of the Constitution, which grants lawmakers wide latitude in their comments when Congress is in session and has been cited many times in the past as protection against punishment.
+
+---
+
+I have a couple of questions about this:
+
+1: Does the tweet alone by Gaetz constitute witness tampering?
+
+2: How does Gaetz's special status as a member of Congress under the 'speech and debate' clause affect such a charge?

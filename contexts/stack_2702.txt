@@ -1,0 +1,1 @@
+Calculating fraction of area characterized with certain values? I have a rasater data with cell values of the following: missing, 1, 2, 3, 4, and 5Now I need to find the fraction defined as (area with value 5)/(Sum of areas with values 1,2,3,4) for a certain polygon.So I need to ignore missing values.How do I do that in Arcmap?

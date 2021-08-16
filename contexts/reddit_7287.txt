@@ -1,0 +1,4 @@
+Which ERP system is easiest to implement & maintain for $400-500mill Company?
+I am looking for an opinion, I am extremely familiar with Sage 300 and X3 (complete in's and out's) and not as much experience with some of the well known Tier 1 Implementations (MS Dynamics, SAP, NetSuite, etc.).
+
+How hard is the learning curve, transitioning to something like SAP or MS Dynamics? Would those be the best options or would Sage 300 or X3 be more than capable? This is a Manufacturing enrivonment which i'm familiar with san have good experience with Sage. I am very tech savvy so it would be a matter of adapting for me.

@@ -1,0 +1,1 @@
+Limiting the search widget results to a country in ArcGIS JS API 4.9 I'm using the Search widget in the 4.9 version of the javascript API. Can I limit the results to a given country when using the default geocoding service?

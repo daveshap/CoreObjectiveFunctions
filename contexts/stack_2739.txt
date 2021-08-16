@@ -1,0 +1,1 @@
+How does a gyroscope flip? Consider a gyroscope which is hanging with a string. Is it possible to $flip$ the orientation of the a gyroscope by oscillating the point of suspension? How does it come out mathematically?

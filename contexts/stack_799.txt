@@ -1,0 +1,1 @@
+Ubuntu server /etc ownership I have accidentally changed the owner:group for /etc on my dev server. I would like to reset it back to root:root. Can anyone help me with the required steps. If I try : chown root:root etc It refuses by saying ooperation not permitted

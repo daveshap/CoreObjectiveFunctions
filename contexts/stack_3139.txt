@@ -1,0 +1,1 @@
+Quantum logic gates (2-inputs 1-output) Is there a quantum logic gate (or any sequence of QLGs) that takes as input two Qubits and outputs one Qubit? If yes, could you please write it down in the simple example?If no, could you explain why?PS: Sorry for stupid question

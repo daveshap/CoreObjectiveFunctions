@@ -1,0 +1,7 @@
+GESTAPO: Your friend Amon Goeth has been arrested.
+SCHINDLER: I'm sorry to hear that.
+GESTAPO: There are some things that are unclear. We need to talk.
+SCHINDLER: I'd love to, it'll have to wait until I get back. I have to leave.
+SCHINDLER: All right, okay, let's talk.
+GESTAPO: In Breslau.
+SCHINDLER: Breslau? I can't go to Breslau. Not now.

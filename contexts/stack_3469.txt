@@ -1,0 +1,1 @@
+How to continue your Aircrack-ng Bruteforce where you left off? I am performing a WPA/WPA2-PSK Attack using Aircrack-ng. The Wordlist i am using is 100 GB but i have to Shutdown my PC after a certain time so how am i supposed to continue the Attack where i left off?

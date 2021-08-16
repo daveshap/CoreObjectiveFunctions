@@ -1,0 +1,9 @@
+Analytics and Institutional Research
+I wanted to ask if anyone in this community is using predictive analytics (sometimes referred to as 'big data' or 'data science/machine learning') in their day to day or strategic planning. I've seen department websites for Institutional Research, and it looks like most universities perform basic data analysis for reporting misc trends (student retention, graduation, gpa trends, etc). Can anyone speak to these:
+
+* What sort of data you collect, or would like to collect
+* How this data is/would be collected, or stored
+* What sort of tools you use (excel, tableau, spss)
+* If you do any predictive analytics, not just trend reporting/visualization
+
+Thanks so much!

@@ -1,0 +1,18 @@
+SUPERVISOR: 'You Duff Anderson?
+DUFF: That's right.
+SUPERVISOR: Want to talk to you.
+DUFF: Okay.
+SUPERVISOR: I hear you're tryin' to organize this place!
+DUFF: I don't know what you're talkin' about.
+SUPERVISOR: That's no way to talk, boy. Now we had one of them union men 'round here coupla years ago. Stirred up a lot of trouble. They're always after you colored boys.
+DUFF: I still don't know what you're talkin' about.
+SUPERVISOR: You a union man?
+DUFF: Used to be. On the railroad.
+SUPERVISOR: Uh-huh. Well, this ain't the railroad. Now what's all this talk about stickin' together?
+DUFF: Well, what d'you know?!
+SUPERVISOR: Look, boy, we got a smooth operation here, and I aim to keep it that way. Now I got an idea you're plannin' trouble.
+DUFF: No. You got the wrong idea.
+SUPERVISOR: All right, then. All I want you to do is tell these boys here you didn't mean what you said about stickin' together an' all.
+SUPERVISOR: Want to keep your job, boy?
+DUFF: What d'you think?
+SUPERVISOR: Then do like I said. Men - this boy here's got something to tell you-all. Well, how about it?

@@ -1,0 +1,28 @@
+PINK DOT GIRL: Pink Dot.
+PHIL: Hi. I'd like to get an order for delivery.
+PINK DOT GIRL: Phone number.
+PHIL: 818-753-0088.
+PINK DOT GIRL: Partridge?
+PHIL: Yeah.
+PINK DOT GIRL: What would you like?
+PHIL: I'd like to get an order of...um...peanut butter.
+PINK DOT GIRL: Mmm.Hmmm.
+PHIL: Cigarettes. Camel Lights.
+PINK DOT GIRL: mmm.hmm.
+PHIL: Water.
+PINK DOT GIRL: Bottled Water?
+PHIL: Um, no, y'know what? Forget the water, just give me a loaf of bread...white bread.
+PINK DOT GIRL: Ok.
+PHIL: And um....do you have Swank magazine?
+PINK DOT GIRL: Yeah.
+PHIL: Ok. One of those. Do you have Ram Rod? The magazine, Ram Rod?
+PINK DOT GIRL: Yeah.
+PHIL: Ok. One of those. And...um...Barely Legal?
+PINK DOT GIRL: yeah.
+PHIL: Do you have that?
+PINK DOT GIRL: yeah, I said. Is that it?
+PHIL: That's it.
+PINK DOT GIRL: Do you still want the peanut butter, bread and cigarettes ?
+PHIL: Yes. What? Yes.
+PINK DOT GIRL: Total is $15.29. Thirty minutes or less.
+PHIL: Thank you.

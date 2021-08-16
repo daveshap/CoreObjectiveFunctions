@@ -1,0 +1,68 @@
+[Need Advice] Studying Full Time (CS / Stats) While Working Full Time
+I am currently looking for my first job and planning for my future. I am 25, have a Bachelor's in Mathematics, and am considering eventually starting a PhD program. However, I really  want to experience industry life first. Also, I want a job in Machine  Learning; however, I don't have any  credentials toward that career and need to self study / get a Master's. I've built the following saturated schedule:
+
+&#x200B;
+
+Every Week:
+
+1. 30 minutes daily reading published academic papers in Machine Learning and Statistics
+2. Seven 30 minute increments over Saturday and Sunday programming (implementing) the research I read
+3. 8.5 hours daily minimum of work at my job (including lunch) Monday through Friday
+4. 1.5 hours total commute to work Monday through Friday
+5. 1 hour of morning prep for job + breakfast Monday through Friday
+6. 1.5 hours daily of gym exercise and daily hygiene
+7. 8.5 hours of sleep Sunday through Thursday
+8. 7.5 hours of sleep Friday and Saturday
+9. 0 to 2.5 hours daily of reading textbooks depending on work/breaks
+10. 6.5 hours split over Saturday and Sunday for Laundry, Shopping and Cooking
+11. Fourteen 30 minute increments over Saturday, Sunday and Work lunch to program personal projects
+12. 0 to 1 hours daily of free time + Food Snack depending on work.
+
+Total: 168 hours.
+
+&#x200B;
+
+Here are the personal projects I want to do:
+
+1. Finish and Improve my undergraduate research project in Bioinformatics using Machine Learning / Stats
+2. Create an AI Library that can be used to perfectly play the game Snake to maximum score
+3. Complete a Kaggle project to high accuracy
+4. Solve a few Data Science problems at my job to increase profits
+5. Greatly reduce/minimize the training data set size needed for a ML algorithm of my interest
+6. Work on a big real life problem
+
+&#x200B;
+
+Here are the subjects/books I want to study:
+
+1. Matrix Computations (780 Pages)
+2. Intro to Statistical Learning (440 Pages)
+3. Applied Predictive Modeling (615 Pages)
+4. Statistical Inference (686 Pages)
+5. Generalized Linear Models (411 Pages)
+6. Bayesian Data Analysis (656 Pages)
+7. Markov Chain Monte Carlo Theory (323 Pages)
+8. Elements of Statistical Learning (764 Pages) + Skim Pattern Recognition & Machine Learning
+
+&#x200B;
+
+Timeline:
+
+1. Over 5 years: complete as many personal projects, textbooks (full comprehension), and research papers as possible. Get experience with Tensorflow, PyTorch, R, Python w/ Scikit-learn, SQL and noSQL. Apply for a Master's degree in Machine Learning Fall 2023.
+2. Over 1 year: study the Deep Learning Book and take a free online course (i.e., Andrew Ng's course using the Python/sklearn GitHub repo). Continue work on personal projects.
+3. Over 2 years: Start my Master's degree at a great out of state university using my savings and learn everything I can on Measure Theory, Deep Learning, Reinforcement Learning, Statistics, Transfer Learning and a Specialization like Computer Vision. Work a part time job at night, spend 30 to 40 hours a week on studying/homework and spend 20 to 30 hours a week on research with a PI. Do an internship over the summer.
+4. Over 1 year: Continue working a part time night job and experiment with freelance/consulting to pay loans. Take six graduate math courses non-degree (Complex  Analysis, Partial Differential Equations, Stochastic Calculus, Information Theory, Measure Theoretic Probability Theory), and focus on more research with a new PI.
+5. Consider Applying for PhD programs in growing, marketable, technologically focused fields with sparse available talent while seriously looking at my value to industry with just a Master's degree in Machine Learning. Get at most 3 years work experience before I make the decision.
+
+&#x200B;
+
+Concerns and Questions 1:
+
+1. First, this idea works on paper (I really like it) and matches the time that I currently use for things like chores, cooking and sleep. However, this is a 70 hour work week for 9 years, and I don't know if I can handle that. The best thing that I can do is try.
+
+Concerns and Questions 2:
+
+1. Second, the 8 books comprise about 4000 readable pages. I have a maximum of 5215 hours to study over five years if I only work 40 hours a week, don't take breaks, study during 14 days PTO, and don't study during my commute. However, I will realistically only have 40 minutes average per page to fully comprehend the material and solve a significant amount of problems. I do not know if that is enough time. 
+2. I can probably partially alleviate (1) by creatively using my academic paper time, and by skipping all or parts of a book(s).
+
+What do you think about this schedule and my two concerns? Am I over planning my goals? How do you think I should approach my goals? Is this realistic?

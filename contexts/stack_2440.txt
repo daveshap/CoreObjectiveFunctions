@@ -1,0 +1,1 @@
+Are licensed file geodatabase restrictions/permissions inherited when converting in ArcMap? If I create a licensed file geodatabase and I convert a feature class within in it as KMZ/KML file through the conversion tool, will it inherit the restrictions that I created within the licensed filegeodatabase?

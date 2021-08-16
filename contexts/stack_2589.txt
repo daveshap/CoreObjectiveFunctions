@@ -1,0 +1,1 @@
+Static Tables and/or Tabs in ArcGIS Pro Layout Is it possible to create a non-dynamic/static table in a layout in ArcGIS Pro? I would like to create a table to act as a revision box. If not a table, can text be entered with tabs and tab stops instead?The only help I can find about tables relates to dynamic tables that populate automatically based upon the map.

@@ -1,0 +1,13 @@
+STEW: Smythe, I'll get this. I'm expecting some friends.
+SMYTHE: Very good, sir.
+STEW: Well, Gallagher! Glad to see you.
+GALLAGHER: Hello, Stew.
+STEW: Hello, Hank. How are you?
+HANK: Fine, but kinda thirsty.
+STEW: Come right in - I'll get you a drink.
+HANK: Okay - you remember Joe—
+STEW: Sure.
+HANK: I sort of invited him along to bend an elbow. You don't mind, do you?
+STEW: It's all right. Bring him in.
+HANK: Come in, Joe. It's all right.
+STEW: Hello, Joe.

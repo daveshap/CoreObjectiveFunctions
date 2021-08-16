@@ -1,0 +1,1 @@
+Clipped raster not retained when saved I have clipped a raster to exact polygon outline using image analysis (ArcMap 10). The resulting temporary clip layer is exactly how I want it to be. However, when I export/save the temporary clip layer it is no longer clipped exactly to the clipping polygon. Can anyone suggest why this might be and how to work around?

@@ -1,0 +1,1 @@
+direct ac mains to MCU pin for zero crossing detection to detect Zero Crossing of ac mains, can i connect an EFM8 pin configured as input directly to 220V ac via a resistor?

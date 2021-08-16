@@ -1,0 +1,18 @@
+Megathread: Net Neutrality
+##**Due to the attention this topic has been getting, the moderators of NeutralPolitics have decided to consolidate discussion of Net Neutrality into one place. Enjoy!**
+
+---
+
+As of yesterday, 21 November 2017, Ajit Pai, the current head of the Federal Communications Commission, [announced](https://twitter.com/AjitPaiFCC/status/933009189991079936?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) plans to roll back Net Neutrality regulations on internet service providers (ISPs). The proposal, which an FCC press release [has described](http://transition.fcc.gov/Daily_Releases/Daily_Business/2017/db1121/DOC-347868A1.pdf) as a return to a "light touch regulatory approach", will be voted on next month.
+
+The FCC memo claims that [the current Net Neutrality rules](https://www.cnet.com/news/13-things-you-need-to-know-about-the-fccs-net-neutrality-regulation/), brought into place in 2015, have "depressed investment in building and expanding broadband networks and deterred innovation". Supporters of Net Neutrality [argue](https://www.savetheinternet.com/net-neutrality-what-you-need-know-now) that the repeal of the rules would allow for ISPs to control what consumers can view online and price discriminate to the detriment of both individuals and businesses, and that investment [may not actually have declined](https://arstechnica.com/tech-policy/2017/09/in-anti-net-neutrality-push-fcc-downplays-data-that-contradicts-narrative/) as a result of the rules change.
+
+Critics of the current Net Neutrality regulatory scheme argue that the current rules, which treat ISPs as a utility subject to special rules, is [bad for consumers](https://www.washingtonpost.com/news/innovations/wp/2016/07/07/why-treating-the-internet-as-a-public-utility-is-bad-for-consumers/) and other problems, like the lack of competition, [are more important](https://arstechnica.com/tech-policy/2014/06/we-dont-need-net-neutrality-we-need-competition/). 
+
+---
+
+**Some questions to consider:**
+
+* How important is Net Neutrality? How has its implementation affected consumers, businesses and ISPs? How would the proposed rule changes affect these groups?
+* What alternative solutions besides "keep/remove Net Neutrality" may be worth discussing?
+* Are there any major factors that haven't received sufficient attention in this debate? Any factors that have been overblown?

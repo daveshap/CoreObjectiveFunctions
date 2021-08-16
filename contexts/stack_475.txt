@@ -1,0 +1,1 @@
+Is there any way to set up pin or password for a directory and file in ubuntu? I wanted to lock any directory with a password, is it possible to set up pin or password for any directory or file without using third party tools like cryptkeeper.

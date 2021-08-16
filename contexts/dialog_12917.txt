@@ -1,0 +1,4 @@
+TALLEY: I should've called. This thing broke right after we spoke, then everything happened so fast --
+JANE: Don't worry about it. How are you doing?
+TALLEY: The Sheriffs will take over when they get here.
+JANE: But they're not here yet. Tell me about <u>you</u>.

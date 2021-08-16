@@ -1,0 +1,15 @@
+LOTHER: Anya, I think you're crazy.
+ANYA: Any woman's crazy to feel about a man the way I do about you.
+LOTHER: I wasn't running out on you. When I got over there-- made my plans--I'd have sent for you.
+ANYA: Then why the sudden exit without even telling me?
+LOTHER: Do you want the truth, Anya?
+ANYA: It would be a nice change from you.
+LOTHER: I had an idea your husband was getting suspicious.
+ANYA: You're a charming liar. You <U>know</U>, Herbert's too dull to be suspicious about anything--even when I suddenly decided to come to Europe at a few hours' notice--
+LOTHER: How'd you ever get away with it?
+ANYA: When I found out you were going I just had an attack of nerves--a few tears--and Herbert was on his way downtown to get my passport ... so who cares ... I'm here with you ... and that's all that matters to me.
+LOTHER: Sure!
+ANYA: I never want to go back....
+ANYA: Here's to Europe! Couldn't try to look a little less glum, could you?
+LOTHER: Don't be crazy--I'm tickled to death to see you.
+ANYA: That's fine--because you're going to see a lot of me ... for the rest of your life.

@@ -1,0 +1,11 @@
+BONES: You're really going to try this time travel in this rust bucket?
+KIRK: We've done it before.
+BONES: Sure, slingshot around the Sun. If you pick up enough speed you're in time warp. If you don't, you fry..
+KIRK: Would you prefer to do nothing?
+BONES: I prefer a dose of common sense. you are proposing to head backwards in time, find Humpback Whales, then bring them forward in time, drop them off - and hope they tell this Probe what to do with itself!
+KIRK: -- That's the general idea.
+BONES: That's crazy!
+KIRK: If you have a better idea - now's the time.
+KIRK: Mr. Spock, your computations?
+SPOCK: In progress, Admiral.
+KIRK: Uhura. Get me through to Starfleet Command.

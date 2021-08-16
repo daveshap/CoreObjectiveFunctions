@@ -1,0 +1,10 @@
+The 2nd Circuit has ruled that Trump cannot block critics on Twitter. Does this set a new precedent or is it within the confines of existing law?
+This is going to be a difficult one to discuss here because of the source requirements, but I'm hoping the mods can be a bit flexible with this. So here goes:
+
+[The 2nd Circuit ruled that Trump cannot block critics on Twitter.](https://reason.com/2019/07/09/2nd-circuit-agrees-that-trump-cannot-constitutionally-block-critics-on-twitter) The sub headline reads:
+
+>The court says the "interactive space" created by his account is a public forum, meaning that the president's viewpoint discrimination violates the First Amendment.
+
+Now, the question I have is this: It's long been understood that Twitter (and Facebook, and such) are free to police the content on their site however they'd like, [such as banning Alex Jones.](https://www.cnbc.com/2018/09/06/twitter-permanently-bans-alex-jones-and-infowars-accounts.html) This is because they're "private" companies, because despite being publicly traded, they're not government-run entities. 
+
+Based on [*Marsh v. Alabama,*](https://supreme.justia.com/cases/federal/us/326/501/) it seems that this ruling by the 2nd circuit may help [Josh Hawley](https://reason.com/2019/06/19/josh-hawley-introduces-bill-to-put-washington-in-charge-of-internet-speech/) in his efforts to force major tech companies to abide by the first amendment, despite being private companies. Aside from the fact that this is involving a technical service rather than a physical location, what are the major differences in argument between *Marsh* and this ruling?

@@ -1,0 +1,1 @@
+Will the stuff on my bootable drive save on the drive? I am new to linux, and ubuntu was the first thing I downloaded. I want to know that if I download something, i.e. Google Chrome, will it save if I restart my laptop or if I put my flash drive into another computer?I use Ubuntu 16.04 64 bit on a bootable flash drive.

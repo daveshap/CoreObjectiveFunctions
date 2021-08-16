@@ -1,0 +1,6 @@
+KIRK: Bones!...
+SAREK: One alive, one not. Yet both in pain.
+KIRK: What must I do?
+SAREK: You must bring them to Mount Selaya -- on Vulcan. Only there is the passage possible. Only there can both find peace...
+KIRK: What you ask is difficult.
+SAREK: You will find a way, Kirk. If you honor them both, you <U>must</U>.

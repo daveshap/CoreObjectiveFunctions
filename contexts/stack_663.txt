@@ -1,0 +1,1 @@
+I just installed ubuntu 16.04 to my laptop containing windows 7, deselected erase drive and selected use lvm i did not attempt to erase windows seven but now all i'm seeing is ubuntu. Tell me how to access my windows 7 os please

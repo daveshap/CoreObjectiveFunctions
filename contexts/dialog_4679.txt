@@ -1,0 +1,27 @@
+BOURNE: ...yes -- oui -- uh...
+OPERATOR/PHONE: 
+BOURNE: Paris?
+OPERATOR/PHONE: Yes, sir... How can I help you?
+BOURNE: Yes, I'm...I'm looking for Mr. Jason Bourne.
+OPERATOR/PHONE: One moment, please... I'm afraid, I have no one by that name registered, sir.
+BOURNE: D'accord... Merci. Un moment -- un moment --
+OPERATOR/PHONE: -- sir? --
+BOURNE: -- hang on -- I need you to check another name for me -- hang on -- un moment, s'il vous plait --
+BOURNE: Kane. Do you have Mr. John Michael Kane?
+OPERATOR/PHONE: One moment, sir.
+MANAGER/PHONE: Bonjour? Monsieur? Allo...
+BOURNE: Yes, I'm here...
+MANAGER/PHONE: You call about Monsieur Kane? John Michael Kane?
+BOURNE: Yes. Is he there?
+MANAGER/PHONE: You are a friend of his?
+BOURNE: Yes.
+MANAGER/PHONE: I have some very bad news for you, sir. I'm terrible sorry to have to tell you this, but Monsieur Kane has passed away almost two weeks ago...
+MANAGER/PHONE: There was an accident. On the motorway. Apparently, he was killed instantly. Really, I'm terrible sorry to be the one to tell you this...
+BOURNE: ...I understand...
+MANAGER/PHONE: ...we actually, we were unaware for several days that this had happened. When they came for his things, it was made known for us, you see?
+BOURNE: Who? Who came?
+MANAGER/PHONE: His brother. You know his brother?
+BOURNE: Right. Yes. Of course.
+MANAGER/PHONE: It's very bad this. Terrible sad. Such a young man.
+BOURNE: Do you -- his brother -- do you have a phone number?
+MANAGER/PHONE: I think not... No, I'm sorry. It was very sudden. He was here very briefly.

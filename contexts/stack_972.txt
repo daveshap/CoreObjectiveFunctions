@@ -1,0 +1,1 @@
+How do i install LinSSID in Ubuntu 18.04? I can't install LinSSID on Ubuntu 18.04. It looks like it has been installed, but it doesn't launch.

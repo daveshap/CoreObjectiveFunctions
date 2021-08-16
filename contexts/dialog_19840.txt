@@ -1,0 +1,4 @@
+BELL: ...This month's checks.
+MOLLY: That DEA agent called again. You don't want to talk to him?
+BELL: I'm goin' to try and keep from it as much as I can.
+MOLLY: He's goin' back out there and he wanted to know if you wanted to go with him.

@@ -1,0 +1,20 @@
+SERGEANT: Call the Homicide Squad!
+FLORENCE: How's every little thing?
+SERGEANT: Fine. You're the first reporter in here for two hours. You people seeing the old year out?
+FLORENCE: I'm people which the old year saw out. I'm canned, fired!
+SERGEANT: No kiddin'.
+FLORENCE: I've got to make news, if I have to bite a dog. Hey, Kelly! Oh, mi gosh, even he walked out on me.
+SERGEANT: I've got a story for you. You know the Joan Gale girl?
+FLORENCE: Yes, she committed suicide yesterday. That's not news. I heard about it last year.
+SERGEANT: Oh, yeah? Maybe she didn't commit suicide. She may have been murdered!
+FLORENCE: No foolin' -- any suspect?
+SERGEANT: Do you know George Winton?
+FLORENCE: Old Howard Winton's cub?
+SERGEANT: That's the one.
+FLORENCE: They don't suspect <I>him</I>?
+SERGEANT: Don't they? He's down at The Tombs right now.
+FLORENCE: Say, if you're stringin' me, Old-Timer ...
+SERGEANT: Why would I string y'? They were sweeties until a month ago.
+FLORENCE: What does that prove?
+SERGEANT: Nothing. Only she may have tried to blackmail him. You know such things have happened. Anyway, he was at her apartment a few hours before she was found dead.
+FLORENCE: Hotcha! Saved, one job!

@@ -1,0 +1,1 @@
+Change of entropy in irreversible process When calculating entropy change for a irreversible process,do I assume a reversible path and then integrated it?

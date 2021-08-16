@@ -1,0 +1,6 @@
+FAUST: Martin, this is Jay. The intakes are clogged with dust. We overheated and burned out a whole cell.
+STANDARD: Damn it! How long to fix?
+ROBY: How long to fix?
+FAUST: Hard to say.
+ROBY: Well, get started.
+FAUST: Right. Talk to you.

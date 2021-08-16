@@ -1,0 +1,1 @@
+hashcat - is there a way to set minimum password length? Let's say I have a couple of hashes that I need to bruteforce as dictionary attack didn't work. Is there a way I can tell hashcat to start from a specific password length so it won't waste resources on looking for results that won't work?

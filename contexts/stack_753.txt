@@ -1,0 +1,1 @@
+Backup packages from 12.04 and install it on 14.04 hope that everyone is doing okay ,I have a question , i want to know if it possible to install packages from 12.04 to 14.04 not all of them just a few (for exemple i want to transfer the packages that i installed on 12.04 two days ago on the 14.04 version) it is possible ? thank you for your help

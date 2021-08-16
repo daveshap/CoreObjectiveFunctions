@@ -1,0 +1,26 @@
+CHANCE: The Old Man gave me nice television sets, this one has remote control. He has one just like it.
+FRANKLIN: Mr. Chance, the fact remains that we have no information of your having any connection with the deceased.
+CHANCE: Yes, I understand.
+CHANCE: I am allowed to go to the attic and select any of the Old Man's suits. They all fit me very well. I can also take his shirts, shoes and coats.
+HAYES: It is quite amazing how those clothes have come back into style.
+CHANCE: Yes. I have seen styles on television.
+FRANKLIN: What are your plans now, Mr. Chance?
+CHANCE: I would like to stay and work in my garden.
+FRANKLIN: ... What do you make of all this?
+HAYES: I really don't know, Tom - he seems so honest and simple... In a way, he's quite charming...
+FRANKLIN: ... Yeah...
+HAYES: ... It's very bizarre - I don't know what to think...
+FRANKLIN: Well... He's either very, very bright or very, very dense - he's hard to figure... ... Let's just keep everything legal.
+FRANKLIN: Mr. Chance, assuming what you say is the truth, I would like to know what sort of claim you are planning to make against the deceased's estate.
+CHANCE: I'm fine, Thomas. The garden is a healthy one. There is no need for a claim.
+FRANKLIN: Good. That's good. Then if you would please sign a paper to that effect.
+CHANCE: No, Thomas. I don't know how to sign.
+FRANKLIN: Come now, Mr. Chance.
+CHANCE: I have no claim, Thomas.
+FRANKLIN: But you won't sign, correct?
+CHANCE: Correct.
+FRANKLIN: Very well, Mr. Chance - if you insist on dragging this matter on... But I must inform you this house will be closed tomorrow at noon. If indeed, you do reside here, you will have to move out.
+CHANCE: Move out? I don't understand, Thomas.
+FRANKLIN: I think you do, Mr. Chance. However, I will reiterate, this house is closed and you must leave... Call me if you change your mind about signing. C'mon, Sally - let's grab a bite...
+HAYES: Good day, Mr. Chance.
+CHANCE: Good day, Sally.

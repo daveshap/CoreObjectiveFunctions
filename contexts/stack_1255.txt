@@ -1,0 +1,1 @@
+How to clear temp database content in SQL Server? As the title implies, I am going to clear the content of my temp database in SQL Server.  SolarWinds is generating a critical alert and I want to clear the tempdb workfiles and worktables.How can I do this? Can I restart the MSSQLSERVER service to clear the content?

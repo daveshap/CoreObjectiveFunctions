@@ -1,0 +1,14 @@
+How do I get another job if I am blacklisted?
+Sorry this is going to be a fairly long post.
+
+After graduating from college I wasn’t getting anywhere due to lack of experience.  I somehow lucked into my current job at an early stage startup where I got given a chance. My boss (CEO) seemed nice and friendly, and first few weeks seemed fine enough that I thought this could be a place I could grow into. We had lunches together and talked about the kind of work to be done and expectations of support I will need.
+
+But then suddenly, my boss’s attitude changed and he started swearing a lot and becoming abusive. I think this coincided with the CTO resigning. So because we became short staffed, my boss started throwing work at me which I was completely unqualified for. He also casually blackmails me saying “he’ll destroy my career if I don’t deliver on my work” or “ruin my life in ways I haven’t even thought of”. After I barely manage to scrape through a deliverable, he suddenly becomes friendly again. 
+
+For my next deliverable, I’ve already been sent work to do over the weekend and honestly I am completely out of my depth... I would normally do as I am told, but the fact is, I am too slow. I am just a novice programmer and I’m expected to produce the work of someone with 10 experience with no support.
+
+I’ve started to get nightmares and woke up this morning in a pretty terrible state. 
+
+I don’t really know what to do next because it’s obvious my boss will blacklist me in this industry if I try and get another job...
+
+TLDR: Lucked into a software dev job. Expected to deliver at the level of someone with 10 years experience. Could get blacklisted if I try to leave or don’t deliver on my work. How do I find a way around this?

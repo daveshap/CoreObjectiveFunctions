@@ -1,0 +1,18 @@
+Denaturalization in the United States
+**TLDR: How have we gotten from Justice Black's rejection of "fleeting citizenship" to the current set of laws being enforced by the USCIS?** 
+
+[The USCIS has started a denaturalization task force](https://www.wnycstudios.org/story/uscis-starting-denaturalization-task-force/) with the intent of finding "U.S. citizens they say should not have been naturalized, to revoke their citizenship, and then eventually deport them."
+
+As I understand it, and please correct me if I'm wrong, but [*Trop v. Dulles,* 356 U.S. 86 (1958)](https://www.oyez.org/cases/1956/70), has yet to be overturned. Within the case, section 401(g) of the amended 1940 Nationality Act (which authorized the expatriation of Albert L. Trop after he was convicted for desertion during wartime) was found unconstitutional on 8th Amendment grounds, thus implying that a person can't have their citizenship revoked from them as punishment for a crime.
+
+Earlier in that year though [*Perez v. Brownell*, 356 US 44 (1958)](https://www.oyez.org/cases/1957/44) affirmed that Congress did have the right to revoke a native-born American of their citizenship, especially given the circumstances of the case (as Clemente Perez didn't abide by the Selective Service laws in place during WWII, and also spent much of his life in his ancestral home of Mexico, even voting in Mexican elections).
+
+However, 9 years later in [*Afroyim v. Rusk*, 387 U.S. 253 (1967)](https://www.oyez.org/cases/1966/456), which has yet to be overturned, the Court reversed *Perez* in a 6-4 opinion, where Justice Hugo Black, writing for the majority, said the following: 
+
+>All persons born or naturalized in the United States ... are citizens of the United States...." There is no indication in these words of a fleeting citizenship, good at the moment it is acquired but subject to destruction by the Government at any time. Rather the Amendment can most reasonably be read as defining a citizenship which a citizen keeps unless he voluntarily relinquishes it. Once acquired, this Fourteenth Amendment citizenship was not to be shifted, canceled, or diluted at the will of the Federal Government, the States, or any other governmental unit.
+
+HOWEVER, despite all of this, the USCIS states on [their official website](https://www.uscis.gov/policymanual/HTML/PolicyManual-Volume12-PartL-Chapter2.html), that a person can be stripped of their citizenship if a person either "Procures Naturalization Illegally", during the naturalization process "misrepresents or conceals some fact ... willfully", "becomes a member of, or affiliated with, the Communist party, other totalitarian party, or terrorist organization within five years of his or her naturalization", or dissociates from the US Military for any reason "other than Honorable Discharge before Five Years of Honorable Service after Naturalization" (if that person had naturalized on the basis of honorable service to the US armed forces).
+
+There are a few links on the website, but it's 2 AM and I won't lie, I'm really struggling to understand the disconnect between the law and these court cases. If anybody could please tell me what's going on here I'd really appreciate it. Were any of these court cases overturned? Was no case overturned fully, but was Justice Black's interpretation of the 14th Amendment severely diminished by another legal rule put forward by a future case? Are lower court judges refusing to uphold these cases?
+
+Thanks for your time.

@@ -1,0 +1,20 @@
+US Presidential candidate Andrew Yang is giving $1,000 monthly payments to 13 US families. Is this a violation of campaign finance law?
+Presidential candidate Andrew Yang has proposed a [Universal Basic Income of $1,000 a month](https://www.politifact.com/truth-o-meter/article/2019/aug/12/andrew-yangs-universal-basic-income-proposal-expla/).
+
+> Under Yang’s proposal, every American over 18 would receive a payment from the government for $1,000 a month, or $12,000 a year.
+
+---
+
+To prove that this is an effective policy, [Andrew Yang's campaign has been paying $1,000 a month to three US families](https://abcnews.go.com/Politics/andrew-yang-give-1000-month-10-families-part/story?id=65580772), and [recently announced](https://www.cnbc.com/2019/09/12/andrew-yang-says-he-will-give-1000-a-month-ubi-to-10-more-families.html) he will select 10 more. All 13 recipients will receive the payments for a full year, or a direct transfer of $12,000 to each.
+
+These [may or may not](https://www.nytimes.com/2019/09/12/us/politics/andrew-yang-debate-payments.html) be campaign finance violations, but with the [potential that they are](https://time.com/5675823/andrew-yang-freedom-dividend-election-law/), I'm curious about a few things:
+
+---
+
+1. What are the arguments being made that these payments constitue a campaign finance violation?
+
+2. How does the FEC determine if such payments constitute a campaign finance violation? What are the legal questions to be answered?
+
+3. If determined to be a violation, what would the FEC's next step in the process be?
+
+4. As I've mentioned in [another post,](https://www.reddit.com/r/NeutralPolitics/comments/d4b9kd/as_of_august_30th_the_federal_election_commission/) the FEC is [unable to quorum] (https://www.npr.org/2019/08/30/755523088/as-fec-nears-shutdown-priorities-such-as-stopping-election-interference-on-hold) right now, so if this issue falls to another body and they determine a violation took place, will they have any kind of enforcement mechanism?

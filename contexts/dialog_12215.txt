@@ -1,0 +1,15 @@
+MAUDE: It's a question of emphasis, you might say. Accentuate the positive, so to speak.
+HAROLD: Eh, could I have my pen back now, please?
+MAUDE: Oh, of course. What is your name?
+HAROLD: Harold Chasen.
+MAUDE: How do you do? I am Dame Marjorie Chardin, but you may call me Maude.
+HAROLD: Nice to meet you.
+MAUDE: Oh, thank you. I think we shall be great friends, don't you?
+MAUDE: Can I drop you anywhere, Harold?
+HAROLD: No, thank you. I have my car.
+MAUDE: Well then, I must be off. We shall have to meet again.
+MAUDE: Do you dance?
+HAROLD: What?
+MAUDE: Do you sing and dance?
+HAROLD: Eh, no.
+MAUDE: No. I thought not.

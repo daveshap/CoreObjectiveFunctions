@@ -1,0 +1,1 @@
+How to get list of folders in sidebar? How to get the list of folders in the sidebar using AppleScript?It is okay to get the list of all items too since I will be able to search for them

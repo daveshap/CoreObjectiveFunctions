@@ -1,0 +1,28 @@
+Does the House of Representatives have legal standing to sue over President Trump's emergency order to build a border wall? Are there any persons/groups that certainly do have legal standing?
+[President Trump will declare a National Emergency today](https://www.nytimes.com/2019/02/14/us/politics/trump-national-emergency-border.html?action=click&module=Top%20Stories&pgtype=Homepage) over immigration at the Southern border ([The order has now been announced](https://www.apnews.com/5b22a4a54ba046c4815c31bca2c92ae7)).
+
+The order is likely to meet outside legal challenges (From 1st source):
+
+> A parade of liberal advocacy organizations sent out pre-written statements promising to challenge any such declaration in court as “an outrageous abuse of power” by an “unstable and increasingly autocratic” president, as one of the groups, Public Citizen, put it.
+
+In Congress, there is potential for [a joint resolution to block the emergency order](https://www.nytimes.com/2019/02/14/us/politics/trump-congress-national-emergency.html?action=click&module=Top%20Stories&pgtype=Homepage), however without two-thirds majorities in both the House and Senate, the president could easily veto it:
+
+> Under the National Emergencies Act, the House and the Senate can take up what is called a joint resolution of termination to end the emergency status if they believe the president is acting irresponsibly or the threat has dissipated.  
+
+...
+
+> To keep a president’s party from bottling such a measure up, the law says that if one chamber passes such a resolution, the other one must bring it up for a vote within 18 days. Though Democrats are in the minority in the Senate, they would need only a handful of Republicans to join them to pass the resolution there and send it to Mr. Trump’s desk. 
+
+Aside from a joint resolution, The New York times describes the House as having two legal options: Democrats could either sue or they could join a third party lawsuit. There is a caveat in that if the House itself sues, they might not have legal 'standing' (From 3rd source):
+
+> There are questions about the House’s legal standing if it were to try to sue on its own, and House leaders and their lawyers will have to decide if it is worth risking filing suit themselves only to be dismissed by a judge for lack of standing. 
+
+----
+
+I have a few questions about lawsuits involving Trump's emergency order:
+
+1: Do Democrats have legal standing to sue over Trump's emergency declaration? Specifically, how could they gain standing?
+
+2: Democrats might also join a third party suit. Are there any third party groups or individuals that would certainly have standing against Trump's order?
+
+Bonus side thing: What is legal 'standing'?

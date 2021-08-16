@@ -1,0 +1,1 @@
+Horizon line of a vector point from terrain raster - global mapper Is there a possibility to calculate the horizon line of a point with global mapper, not the viewshed, but just a line (or polygon) joining all the furthermost points from A and are at the same time seen from it.

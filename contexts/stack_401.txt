@@ -1,0 +1,1 @@
+Command or script to get user login details of last 6 months I need to get the details of the users logged in from last 6 months to analyze and to increase the cpu of my server. I'm tried the command last -a but it is not giving the complete results. Anyone please help me to get the details of users logged in from last 6 months.Thanks in advance!

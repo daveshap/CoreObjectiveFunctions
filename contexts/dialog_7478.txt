@@ -1,0 +1,5 @@
+MCCLANE: I'm John McClane.
+ARGYLE: Argyle. I'm your limo driver. Hey, nice bag.
+MCCLANE: Argyle. Don't you take this stuff?
+ARGYLE: Do I? I'm sorry. You're gonna have to help me, man. This is my first time driving a limo.
+MCCLANE: That's okay. This is my first time riding in one.

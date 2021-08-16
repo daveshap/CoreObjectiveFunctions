@@ -1,0 +1,7 @@
+SYNTHETIC VOICE: Access granted. Male or female?
+TANNER: Male.
+SYNTHETIC VOICE: Waiter, busboy, Maitre-De --
+TANNER: -- Waiter.
+SYNTHETIC VOICE: Standard, modern, upscale --
+TANNER: -- Standard.
+SYNTHETIC VOICE: Scanning body type.

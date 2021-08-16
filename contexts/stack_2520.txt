@@ -1,0 +1,1 @@
+Saving NDVI TIFF file as txt file in ArcGIS Desktop? I have to use elevation data (dem.tif) and NDVI data (ndvi.tif) as covariates for regression kriging and I want both these files as txt files.How do I do this?

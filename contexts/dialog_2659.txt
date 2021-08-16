@@ -1,0 +1,10 @@
+JUNEBUG: What do you want?
+DELACROIX: I want to speak with you.
+JUNEBUG: Go away, unless you got my money.
+DELACROIX: It's me, Peerless.
+JUNEBUG: Son. Good to seeya. Good to seeya.
+DELACROIX: It's been a long time.
+JUNEBUG: Pull up a chair. Oh, excuse me, this is my lady DOT.
+DELACROIX: Pleased to meet you.
+DOT: Glad to meet you, too. You are all your father talks about.
+DELACROIX: Is that so?

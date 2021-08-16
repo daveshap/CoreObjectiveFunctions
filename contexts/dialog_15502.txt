@@ -1,0 +1,17 @@
+LYSSA: I don't trust you to wash behind your ears.
+COLWYN: Never mind my ears! Go away!
+TUROLD: A girl of some spirit, your daughter.
+QUEEN: A match for your son, I think.
+TUROLD: A fine match.
+QUEEN: They will have the life that you and I might have had.
+LYSSA: There. Now you look like someone I might want to marry.
+COLWYN: Maybe you'd better look around for another candidate. I don't think my skin is tough enough to survive a lifetime of you and your brush.
+LYSSA: I don't have to look around. I've found the husband I want. You can kiss me now.
+COLWYN: Thank you, but I can wait.
+LYSSA: I can't.
+COLWYN: I lied.
+LYSSA: About what?
+COLWYN: I can't wait either.
+TUROLD: You'll both wait. At least for five hours. The wedding is at three.
+COLWYN: It was a platonic kiss, Father.
+TUROLD: Of course it was.

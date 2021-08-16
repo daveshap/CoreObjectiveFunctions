@@ -1,0 +1,1 @@
+Is it possible to get a system microphone control icon next to the system volume control icon in the Gnome top bar Is there a way to natively add a system microphone control icon next to the system volume control icon in the Gnome top bar?Also, why is this control not there by default as system volume is?

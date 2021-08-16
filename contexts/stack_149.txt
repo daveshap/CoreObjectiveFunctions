@@ -1,0 +1,1 @@
+Connect two monitors using DVI and/or VGA to USB-C I have a new MacBook Pro 15'' and want to connect two older 1080p monitors. Each monitor has a VGA and a DVI port. Is it possible to connect both to a single USB-C port of the MacBook? If so, how do people do this?

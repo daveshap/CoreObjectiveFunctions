@@ -1,0 +1,5 @@
+KIRK: Well, Mr. Decker, it seems my bluff is being called.
+DECKER: I'm afraid our hand is pretty weak, Captain. But it's the only game in town.
+KIRK: Mr. Chekov, when do those devices activate?
+CHEKOV: They reach final position in... Twenty-seven minutes -- mark.
+KIRK: Engineering...

@@ -1,0 +1,1 @@
+Malayalam font not working properly; letters don't combine Unicode Malayalam fonts are not working properly after the version 10.04 LTS. Characters that should combine do not join each other.Examples: \u0d35\u0d4d\u0d31, \u0d36\u0d4d\u0d30\u0d40, \u0d17\u0d4d\u0d30I am using Ubuntu 14.04 LTS now

@@ -1,0 +1,6 @@
+HAL: Five by five, Frank.
+POOLE: Hal, I'm going out now to replace the A.O. unit.
+HAL: I understand.
+POOLE: Hal, maintain normal E.V.A. condition.
+HAL: Roger.
+POOLE: Hal, check all airlock doors secure.

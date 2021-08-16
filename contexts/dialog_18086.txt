@@ -1,0 +1,20 @@
+MCCLOY: You have Bellerophon.
+NEKHORVICH: Do I?
+MCCLOY: You took it! All of it! And what if I need it?
+NEKHORVICH: 'If?' My, my, my...the five hundred people on Bruny Island that you deliberately infected with <i>Chimera</i> needed it as well.
+MCCLOY: Oh, please! How was I to know they had to be treated with Bellerophon within twenty hours?
+NEKHORVICH: By asking me.
+MCCLOY: You still don't get it, do you? You want to make an omelet, you break a few eggs - <i>I needed to know just how bad the disease was</i> - in the real world, not the lab. And you never know til you try. You thought you were genetically splicing together strains of influenza to create a cure for all influenzas. But I saw you creating a disease so terrible in <i>Chimera</i> that the cure would be priceless.
+NEKHORVICH: You wanted the disease in order to peddle the cure.
+MCCLOY: Well, the thought had occurred to me. I needed Chimera in order to peddle Bellerophon. For hero to be appreciated, you need a monster. Now that's not so difficult to understand, is it? Look, time was a shot of penicillin could knock off every bloody bug in the zoo! Not anymore!..have you any idea the R&D money it takes to float one little pissy boutique antibiotic that's barely effective against one strain of one bacterium? If I couldn't makes money killing the microscopic little shits that are out there, you'd help me put one out there I can make on!..there it is. I've confessed. I, John C. McCloy, am in business to make money. Lilly's making billions feeding Prozac to depressed dogs. Pfizer doesn't even know where to put the money they're making on Viagra, and let me tell you that shit didn't do a thing for me even at twice the recommended dose, Jesus, who do I have to screw to get a a break!..now get me out of here, get me treated and let's go back to work!..
+NEKHORVICH: You know, I think it's a little late for that. Do give my regards to Gradski if you see him.
+NYAH: Ethan, you know what frightens me most when I'm with him?..the thought of never seeing you..how are we getting out of here?
+ETHAN: Nyah, it's very important not do anything to alarm Ambrose..
+NYAH: What? You told me to get out of here. I thought you were here to collect me. I was so relieved.
+ETHAN: No time to explain. You've done well, and we're so close. So close. It's critical that you do whatever Ambrose asks. Don't worry - it'll be over soon.. That's a promise.. Come on, now off you go!
+LUTHER: So Ambrose has Bellerophon and McCloy's got Chimera.
+BILLY: There guys are walking around with different halves of the same dollar bill?
+ETHAN: Ambrose got Bellerophon from Nekhorvich on the plane, but he didn't get the Chimera virus.
+LUTHER: Yeah. Why else would he come back to Australia? If he had them both, he could sell them anywhere.
+ETHAN: I kill Chimera at Biocyte and he's sitting on a cure without a disease.
+LUTHER: You've got the voice print, I'll get us in..

@@ -1,0 +1,8 @@
+ADMIRAL HAYES: The new quantum torpedoes are doing the trick, Jean-Luc. We've destroyed forty-seven Borg ships so far... and only lost fifteen of our own. But one of the Borg ships has broken through our defenses, and it's heading directly for Earth. Can you handle it?
+PICARD: Absolutely.
+ADMIRAL HAYES: Good hunting. Hayes out.
+PICARD: Mister Data, set a pursuit course. Maximum warp.
+DATA: We are approaching the Terran System, Captain.
+PICARD: Go to impulse. Where's the Borg ship?
+DATA: It has entered Earth orbit. Correction -- it is not in orbit. It is heading directly toward the surface.
+PICARD: What?

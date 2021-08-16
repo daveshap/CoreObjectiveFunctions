@@ -1,0 +1,4 @@
+ESCORT: Is that all you want?
+RATH: Yes.
+RATH: Thank you.
+ESCORT: Anytime.

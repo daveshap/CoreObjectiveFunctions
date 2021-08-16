@@ -1,0 +1,1 @@
+Can't change desktop environment from login screen in 17.10 I have been used to using that to change it, I've installed LXDE in the terminal because base Ubuntu 17.10 DE is making it a bit laggy for HP Stream 11. I need to change the DE but I can't see anything at the login screen to change desktop environment.

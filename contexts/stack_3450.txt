@@ -1,0 +1,1 @@
+Do we need to set the X-Frame-Options header for JS files too? I have added the X-Frame-Options header for my HTML files from web server itself. Do I still need to add it for other static files like CSS and JS( which I serve from cloudfront/s3) ?

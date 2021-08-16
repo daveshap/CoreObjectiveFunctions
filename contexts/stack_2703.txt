@@ -1,0 +1,1 @@
+LS Factor in SAGA (slope units) In which units do I have to calculate Slope to use as an input for the LS Factor tool in SAGA (degrees, %, radians)?  I couldn't find anything in the documentation.

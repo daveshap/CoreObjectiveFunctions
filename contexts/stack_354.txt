@@ -1,0 +1,1 @@
+iPhone backup takes too much space I have my iCloud backups stripped down to only CONTACTS and NOTES and about 150MB of apps, yet the backup is 5.22 GB.  How do I make my iPhone backup smaller?!

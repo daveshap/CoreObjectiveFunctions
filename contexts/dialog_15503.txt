@@ -1,0 +1,5 @@
+TUROLD: You will go alone.
+COLWYN: I won't leave you here.
+TUROLD: You will do as I tell you. You will try to reach Ynyr, the old one.
+COLWYN: I must follow the Slayers. They've taken Lyssa.
+TUROLD: You will not follow the Slayers, you will obey my command! You have no chance alone, boy. You must try to break through to Ynyr. He has great knowledge. Only with his help can you save Lyssa.

@@ -1,0 +1,1 @@
+How to write \"sudo\" commands and save it as terminal file? Is possible to write some \"sudo\" commands with text app and save it as terminal file ?It should allows me to run the saved commands directly batter than line by line and I can run it at any time ?

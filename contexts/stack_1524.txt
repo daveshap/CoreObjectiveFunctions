@@ -1,0 +1,1 @@
+What is the typical value for thickness of via plating? I use PCB tools and sometimes they ask for via plating thickness, what is a value that I can approximate most via plating thickness? What value would you use and why? If I wanted to bound the thickness (min,max) what values could I use?

@@ -1,0 +1,1 @@
+Points that fall outside a polygon in QGIS I need to figure out how many points, and which ones (with labels) fall outside the boundary of a particular polygon in QGIS.

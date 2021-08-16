@@ -1,0 +1,1 @@
+why auto correlation exists I am wondering what is auto correlation? From the definition of Markov Chain, the  current state should only depend on previous state, why there exist auto correlation?

@@ -1,0 +1,1 @@
+How to check for independence of errors? How to check for independence of errors in OLS regression?Let's say I have 10 observations for each hour. If I plot residuals ordered by time, I have the problem that adjacent residuals refer to the same day.

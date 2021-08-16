@@ -1,0 +1,6 @@
+Is it important that America decreases its debt? What is the target zone for debt to GDP?
+Right now America is around [100% of GDP](https://en.wikipedia.org/wiki/List_of_countries_by_external_debt), 97% to be exact. With Ireland (780%), Netherlands (533%), UK (314%), and other countries having higher debt-to-GDP ratios is America even in trouble? [This](https://www.imf.org/external/pubs/ft/wp/2014/wp1434.pdf) study looks at how debt affects medium-term growth and they found that debt ratios don't really affect the growth.  [This](https://www.ecb.europa.eu/pub/pdf/other/mb201303_focus06.en.pdf?80f98f0d6a4b412590e0822931900561) says that public debt, at some point, has a negative effect on long term growth. In summary:
+  
+**1) Is it important for America to reduce its debt-to-GDP ratio?**  
+
+**2) What is a good target debt-to-GDP ratio?**

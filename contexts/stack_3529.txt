@@ -1,0 +1,1 @@
+What kind of access on the guest is required to break out of a virtual machine? Is it enough to exploit the vulnerability in a program? Is root or kernel access required? Are there maybe even possibilities to directly exploit the host without any vulnerabilities in the guest? To what extend does it depend on the hypervisor?

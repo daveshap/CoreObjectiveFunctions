@@ -1,0 +1,20 @@
+COLWYN: I don't think you'll grow careless.
+TORQUIL: Smart as well as quick. Now what do you have to give us?
+COLWYN: Fame.
+TORQUIL: Fame? Thank you, no. Fame is the burial ground of contentment. Eat it and go hungry; count it and go broke; seek it and grow mad. Fame is what fools yearn for and wise men shun.
+COLWYN: Fame is what you leave to your sons.
+TORQUIL: How did you know I had sons?
+COLWYN: Because you would not rob if you had no children to provide for.
+TORQUIL: Hah! You don't know me, boy.
+COLWYN: I know you.
+YNYR: You choose these?
+COLWYN: Yes. They will be more help than high-born barons.
+TORQUIL: They stand at the edge of the grave and make jokes. Do you know who I am, sprout? I am Torquil, Lord of the forest. My men follow no man but me, and I follow no man at all.
+COLWYN: You will follow me.
+TORQUIL: And in the few seconds before I dice you to crow-food, tell me why I am going to follow you.
+COLWYN: So your sons will speak of you to your grandsons, and your grandsons to their grandsons.
+TORQUIL: And where do you lead, boy?
+COLWYN: To the place where Death lives.
+TORQUIL: It should be an interesting journey, then.
+COLWYN: That I promise you.
+TORQUIL: I compel no man to follow me on this journey.

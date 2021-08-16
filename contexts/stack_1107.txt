@@ -1,0 +1,1 @@
+CPU,Memory and disk I/O utilization for each query in mysql How can we identify the exact CPU,Memory and disk I/O, when a query is executed. I am using mysql 5.7.20 community version. I am able to get only cpu details for session level by setting SET profiling=1. How can we identify all these details in global level for all the sessions.

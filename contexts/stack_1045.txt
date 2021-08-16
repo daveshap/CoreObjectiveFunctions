@@ -1,0 +1,1 @@
+Ubuntu 18 Server with 2FA for SSH I want to set up 2FA on SSH on my Ubuntu 18.04 LTS Server. I don't want to use Google Authenticator but Open Source solution.Are there any guides for just using something free and other than Google Authenticator?Thank you in advance.Regards,

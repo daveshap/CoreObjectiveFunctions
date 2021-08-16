@@ -1,0 +1,18 @@
+SOCIAL WORKER: ...How old are you?
+CAROLINE: Sixteen
+SOCIAL WORKER: Live with your parents?
+CAROLINE: Yes.
+SOCIAL WORKER: Parents still together?
+CAROLINE: Yes.
+SOCIAL WORKER: Do you work?
+CAROLINE: I volunteer. I read to blind people. One day a week for two hours.
+SOCIAL WORKER: In school?
+CAROLINE: Cincinnati Country Day.
+SOCIAL WORKER: Private?
+CAROLINE: Yeah.
+SOCIAL WORKER: How are your grades?
+CAROLINE: I'm third in my class.
+SOCIAL WORKER: What's that mean?
+CAROLINE: I get A's. All A's.
+SOCIAL WORKER: You do? What else you do?
+CAROLINE: I'm a National Merit Finalist. I'm on the Hi-Q team and the Math team. I'm in the Spanish Club. I'm a Thespian. I'm Vice-President of my class. I'm on the volleyball team.

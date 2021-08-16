@@ -1,0 +1,36 @@
+Which IT job has the highest earning and job prospect out of the three ahead of me?
+I’m looking for guidance from seasoned IT professionals about the career paths ahead of me. 
+
+I got laid off due to COVID and I’m wondering how to best prepare for the post COVID opportunities. I have time now to sharpen some skills.
+
+Background:
+Bachelors in Economics
+Masters in International Relations 
+
+I got dragged into the tech world a few years ago (after several years of completely unrelated experience).
+
+During the period of employment, I started working more and more in tech related roles. It was a start up and so I wore several different hats. 
+
+Here is a rough breakdown of responsibilities:
+
+- 5% QA (writing test cases, assigning tickets, creating QA timelines)
+
+- 15% Product management (wireframe, get client requirements, talk and design with engineers)
+
+- 30% operations (writing SQL queries - Oracle/SQL server, building tableau dashboards) 
+
+- 30% data analytics (creating segments, data cleaning, regressions - mostly in Excel, R)
+
+- 20% random stuff 
+
+Questions:
+
+1)Out of these, which do you believe has a higher earning potential over time?
+
+Data Analyst 
+
+Product management/BA
+
+Operations Analyst 
+
+2)How important is it to get IT qualifications / certificates to be employed by larger companies? Since my formal education is unrelated to IT, I feel like my resume may be over looked.

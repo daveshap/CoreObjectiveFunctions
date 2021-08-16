@@ -1,0 +1,6 @@
+BOWMAN: Not now, Hal, I'd like to talk to you about something.
+HAL: Sure, Dave, what's up?
+BOWMAN: You know that we checked the two AO-units that you reported in imminent failure condition?
+HAL: Yes, I know.
+BOWMAN: You probably also know that we found them okay.
+HAL: Yes, I know that. But I can assure you that they were about to fail.

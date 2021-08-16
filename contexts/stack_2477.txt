@@ -1,0 +1,1 @@
+Using ArcGIS definition query for dates? My attribute table contains a Start date in m/dd/yyyy format.  I would like to build a query that only shows data from current month forward.Does anyone know how to build a query or expression for this problem?

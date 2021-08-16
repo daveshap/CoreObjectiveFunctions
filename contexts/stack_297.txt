@@ -1,0 +1,1 @@
+How can I abort Mojave installation? I am on Sierra now, and the appstore has downloaded the Mojave Installer, however I quit it without going though any of the steps, the installer is just sitting in my apps folder.I would like to cancel the Mojave installation and remove the downloaded files, is there anything I can do?

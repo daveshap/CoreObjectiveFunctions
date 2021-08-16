@@ -1,0 +1,8 @@
+DANIEL: Turn on the flashlight.
+JULIEN: I'm trying. It doesn't work.
+JULIEN: Do they come with batteries?
+DANIEL: You didn't buy batteries?
+JULIEN: I thought they came with batteries.
+DANIEL: I can't believe you didn't check.
+JULIEN: I bought everything you put on the list. Gloves. Pen knives. Flashlight. Batteries were not on the list.
+DANIEL: Why should I have to put it on the list? It's like saying to buy a car with tires.

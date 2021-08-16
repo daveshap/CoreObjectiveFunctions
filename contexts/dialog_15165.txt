@@ -1,0 +1,11 @@
+BURGEL: Are you looking for Gabriela Rossmann?
+KAFKA: Yes.
+GABRIELA: I'm collecting Eduard's things. If there's anything you want, take it or I'll give it to charity.
+KAFKA: Burgel gave me this -- what does it mean?
+GABRIELA: Burgel! -- I didn't leave it with him.
+KAFKA: Why were you given notice?
+GABRIELA: They're not obliged to tell.
+KAFKA: It couldn't be for that incident with Burgel the other day.
+GABRIELA: Of course it could -- Burgel's been trying to get me thrown out as long as I can remember. <u>He</u> could've killed Eduard.
+KAFKA: You don't believe that.
+GABRIELA: I wouldn't put it past him.

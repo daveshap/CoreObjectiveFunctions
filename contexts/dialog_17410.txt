@@ -1,0 +1,4 @@
+JOHN: Who?
+ANN: John Doe, the one in the speech.
+JOHN: Oh. Yeah.
+ANN: You know something? I've actually fallen in love with him.

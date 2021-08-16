@@ -1,0 +1,6 @@
+ELAINE: Intermitant failure in scan mode R". Analyze."
+ROK: Negative.
+ELAINE: That doesn't make sense. Repeat analysis.
+ROK: Negative.
+ELAINE: That's not possible.
+ROK: Cut the Doubting Thomas shit, Elaine. I know where I'm coming from on this.

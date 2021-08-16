@@ -1,0 +1,56 @@
+PROPRIETOR: ...Will there be somethin' else?
+CHIGURH: I don't know. Will there?
+PROPRIETOR: Is somethin' wrong?
+CHIGURH: With what?
+PROPRIETOR: With anything?
+CHIGURH: Is that what you're asking me? Is there something wrong with anything?
+PROPRIETOR: Will there be anything else?
+CHIGURH: You already asked me that.
+PROPRIETOR: Well... I need to see about closin'.
+CHIGURH: See about closing.
+PROPRIETOR: Yessir.
+CHIGURH: What time do you close?
+PROPRIETOR: Now. We close now.
+CHIGURH: Now is not a time. What time do you close.
+PROPRIETOR: Generally around dark. At dark.
+CHIGURH: You don't know what you're talking about, do you?
+PROPRIETOR: Sir?
+CHIGURH: I said you don't know what you're talking about.
+CHIGURH: ...What time do you go to bed.
+PROPRIETOR: Sir?
+CHIGURH: You're a bit deaf, aren't you? I said what time do you go to bed.
+PROPRIETOR: Well...
+PROPRIETOR: ...I'd say around nine-thirty. Somewhere around nine-thirty.
+CHIGURH: I could come back then.
+PROPRIETOR: Why would you be comin' back? We'll be closed.
+CHIGURH: You said that.
+PROPRIETOR: Well... I need to close now --
+CHIGURH: You live in that house behind the store?
+PROPRIETOR: Yes I do.
+CHIGURH: You've lived here all your life?
+PROPRIETOR: This was my wife's father's place. Originally.
+CHIGURH: You married into it.
+PROPRIETOR: We lived in Temple Texas for many years. Raised a family there. In Temple. We come out here about four years ago.
+CHIGURH: You married into it.
+PROPRIETOR: ...If that's the way you wanna put it.
+CHIGURH: I don't have some way to put it. That's the way it is.
+CHIGURH: ...What's the most you've ever lost on a coin toss?
+PROPRIETOR: Sir?
+CHIGURH: The most. You ever lost. On a coin toss.
+PROPRIETOR: I don't know. I couldn't say.
+CHIGURH: Call it.
+PROPRIETOR: Call it?
+CHIGURH: Yes.
+PROPRIETOR: For what?
+CHIGURH: Just call it.
+PROPRIETOR: Well -- we need to know what it is we're callin' for here.
+CHIGURH: You need to call it. I can't call it for you. It wouldn't be fair. It wouldn't even be right.
+PROPRIETOR: I didn't put nothin' up.
+CHIGURH: Yes you did. You been putting it up your whole life. You just didn't know it. You know what date is on this coin?
+PROPRIETOR: No.
+CHIGURH: Nineteen fifty-eight. It's been traveling twenty-two years to get here. And now it's here. And it's either heads or tails, and you have to say. Call it.
+PROPRIETOR: Look... I got to know what I stand to win.
+CHIGURH: Everything.
+PROPRIETOR: How's that?
+CHIGURH: You stand to win everything. Call it.
+PROPRIETOR: All right. Heads then.

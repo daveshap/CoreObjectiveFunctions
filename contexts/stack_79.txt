@@ -1,0 +1,1 @@
+Screen Capture on MacOS Its been a while I am looking for mechanism of screen capture in MacOS. Even with extensive googling I found no luck with its actual mechanism. Can somebody guide me through some good resources or even better the actual mechanism and implementation of screen capture (with api calls and functioning)?Thanks

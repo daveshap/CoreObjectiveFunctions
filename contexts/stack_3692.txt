@@ -1,0 +1,1 @@
+k-fold cross validation after training the neural network on full database? I have trained my neural networks on full dataset and found out that the best architecture contains 27 hidden neurons. Is it appropriate for me to perform k-fold validation solely for the network with 27 hidden neurons? Or i must apply k-fold validation during my training process?

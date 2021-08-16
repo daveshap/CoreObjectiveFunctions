@@ -1,0 +1,20 @@
+Dissertation Writing Tips! + Please add to this, since I wrote this mainly for my self-reference. Hopefully we can help each other this way.
+1. Keep a note of the mark scheme. This is so you're actually working towards what you are expected to achieve. 
+
+2. Plan out the sections you plan to have in the dissertation at the beginning. 
+
+3. I had to choose my dissertation topic from a list so I don't have tips on actually choosing a topic. But to narrow down the topic you have decided on, look for specific keywords in websites such as sciencedirect or google scholar. Look for "Review Articles" instead of "Research Articles" at first since review articles basically 'review' everything already known about the topic you were looking for. It's more efficient to read through those initially rather than go through 800 research article search results. Once you finish reading through those, look at primary articles linked to those review articles that you are interested in. Then you'll get ideas of a niche in the topic of your interest since they usually mention future scope and developments for the topic at the end of those articles.
+
+4.Take notes! When taking notes, keep a word document where you note down the article and reference of where you're taking notes from. Keep it concise and try your best to write in your own words so you wont get plagiarism when you write the info for your own literature review in the disseration. Colourcode them so they're organized!
+
+5 . Make use of apps that make your workflow more efficient. 
+My suggestions at the moment:
+
+>Referencing software such as Mendeley, Endnote, Zotero. Many people suggested Zotero to me, and I'm loving it so far. Especially the browser extension.
+
+>Note taking software: Notion is an amazing app for it! So many benefits. This video got me into it. It's free for personal use so definitely take advantage of this and use it guys. 
+https://youtu.be/ONG26-2mIHU
+
+>LaTeX. Many people suggested me to use this instead of Microsoft Word to make my dissertation look much better but honestly I'm struggling to figure out how to use it. There's definitely a learning curve with this that I intend to tackle. 
+
+6 . Most important of all, when you take your own notes- make sure to write your own ideas and thoughts about each thing you take down. This is key to write a good dissertation.

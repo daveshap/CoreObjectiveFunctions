@@ -1,0 +1,21 @@
+Does the new "third country" rule put forward by the Trump administration comply with US law and US treaty obligations?
+This morning the Trump administration [published a regulation](https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-15246.pdf) they plan to start implementing tomorrow which would require that:
+
+>with limited exceptions, an alien who enters or attempts to enter the United States
+across the southern border after failing to apply for protection in a third country outside the
+alien’s country of citizenship, nationality, or last lawful habitual residence through which the
+alien transited en route to the United States is ineligible for asylum. 
+
+In effect, this would mean that persons who claim asylum at ports of entry along the US/Mexico border and who are not Mexican citizens or residents will automatically be rejected.  
+
+The ACLU has said that [they believe the rule to be "patently unlawful" and they plan to sue.](https://www.aclu.org/press-releases/aclu-comment-new-trump-asylum-restrictions)
+
+This action is unilateral, and without an agreement from any other countries.  President Jimmy Morales of Guatemala [pulled out of a meeting planned for today with President Trump](https://www.npr.org/2019/07/15/741769333/u-s-sets-new-asylum-rule-telling-potential-refugees-to-apply-elsewhere) where a safe third country agreement was to be discussed.
+
+Currently the US has a "safe third country agreement" only with [Canada.](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/safe-third-country-agreement/final-text.html)
+
+Relevant documents:
+
+* [8 USC sec. 1158 establishing a right to apply for asylum](https://www.law.cornell.edu/uscode/text/8/1158)
+
+* [Protocol Relating to the Status of Refugees (1968)](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=V-5&chapter=5)

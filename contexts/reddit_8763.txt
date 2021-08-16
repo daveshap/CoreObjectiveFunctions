@@ -1,0 +1,21 @@
+Does the Minimum Wage Hurt Low-Income Workers?
+A [study](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) released 6/26/17 from the University of Washington revealed the following about the results of the Seattle minimum wage increase:
+
+> Using a variety of methods to analyze employment in
+all sectors paying below a specified real hourly rate, we conclude that the second wage increase
+to $13 reduced hours worked in low-wage jobs by around 9 percent, while hourly wages in such
+jobs increased by around 3 percent. Consequently, total payroll fell for such jobs, implying that the minimum wage ordinance lowered low-wage employees’ earnings by an average of $125 per month in 2016
+
+A $1500 annual reduction (or 6.6%) in pay for someone making ~~minimum wage~~ less than $19/hour seems like a big hit. Did this policy end up hurting a demographic of society that it was intended to help?
+
+Here are additional commentaries on the study.
+
+[538](https://fivethirtyeight.com/features/seattles-minimum-wage-hike-may-have-gone-too-far/) commented on the advantage of the level of detail the data they used had:
+
+>The Washington study has one big advantage over most past research: The authors had access to detailed data on the hours and earnings of nearly all employees in Washington state, allowing them to measure the effects of the minimum wage much more directly than is possible with less complete datasets.
+
+[Seattle Times](http://www.seattletimes.com/business/uw-study-finds-seattles-minimum-wage-is-costing-jobs/) mentioned a quote from one of the researchers who conducted the study:
+
+>“If you’re a low-skilled worker with one of those jobs, $125 a month is a sizable amount of money,” said Mark Long, a UW public-policy professor and one of the authors of the report. “It can be the difference between being able to pay your rent and not being able to pay your rent.”
+
+>The report also estimated that there are about 5,000 fewer low-wage jobs in the city than there would have been without the law.

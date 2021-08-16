@@ -1,0 +1,39 @@
+STANDARD: We've got six hours left.
+HUNTER: Oh my God.
+STANDARD: Does anybody know what happened?
+ROBY: I saw it. Faust got himself jammed in the air lock door. His body held it open.
+STANDARD: Can we get to him?
+ROBY: No, I had to seal off a whole section. We'd lose too much of our remaining air if we opened the connecting door.
+ROBY: Poor kitty; puss puss puss.
+STANDARD: At least we're rid of the damn monster. It must have been the first thing sucked out of the ship.
+ROBY: No such luck. I saw it running down one of the corridors.
+HUNTER: Oh no! We can't fight this thing! There's only six hours of air left -- we're dead men!
+STANDARD: I don't buy that. There's still time to destroy it and get ourselves in the freezers.
+HUNTER: <u>How</u>?
+STANDARD: It's time for drastic remedies.
+ROBY: It was time for that a couple days ago.
+STANDARD: That kind of remark is pointless. Now come on -- I want to hear every suggestion you can come up with, no matter how wild.
+HUNTER: We can't kill it on board. It's huge now and must have tremendous amounts of that acid in its body.
+ROBY: I've got an idea, but you're not going to like it.
+STANDARD: Let's hear it.
+ROBY: Okay. First we shut down all the cooling systems on the stardrive engines.
+STANDARD: That'll blow the ship up.
+ROBY: Right... but it'll take a few minutes for the engines to overheat and melt down the core. In the meantime, we get in the lifeboat and leave the ship.
+HUNTER: Blow the ship up?
+ROBY: And the creature with it. We can make it back to Irth in the lifeboat.
+STANDARD: But the lifeboat can't accelerate to light speed.
+ROBY: Doesn't matter -- we're already at light speed. And when we get back to the Colonies, they'll pick us up in the network.
+HUNTER: What about all the minerals and elements in the cargo hold? That's the only reason we came out here. We'd have to abandon them all. We'd be broke.
+ROBY: Our lives are more important. Anyway, we can take a small amount of the most valuable stuff with us on the lifeboat.
+STANDARD: No, it won't work and I just realized why. There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
+ROBY: Yeah... I forgot.
+STANDARD: But the idea's good, if we could just turn it around somehow.
+STANDARD: If we could just get the <u>creature</u> into the lifeboat, we could launch it into space and blow it up.
+HUNTER: Good! That's good!
+STANDARD: We can load the lifeboat up with explosives and trigger them remotely, once the lifeboat is in space.
+ROBY: I think it's going to be almost impossible to drive it up into the lifeboat.
+HUNTER: We can use the flamethrower.
+ROBY: It's not going to work.
+STANDARD: You can't say that; I think it's a good plan.
+HUNTER: The flamethrower needs more fuel.
+STANDARD: Right. We've got a lot to accomplish. Let's get moving.

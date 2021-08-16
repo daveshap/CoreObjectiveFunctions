@@ -1,0 +1,22 @@
+RECORDS NURSE: Are you all right, Doctor?
+FLETCH: Where am I?
+RECORDS NURSE: You're in the Records Room.
+FLETCH: I'm fine.
+RECORDS NURSE: Can I get you something?
+FLETCH: Have you got a make-shift plywood pillory? Heh Heh, just kidding.
+RECORDS NURSE: Doctor Holmes went to get you some smelling salts. He was quite surprised that you fainted.
+FLETCH: Well, I didn't want to say anything, but I thought the dead man was my brother.
+RECORDS NURSE: Oh my God!
+FLETCH: It's all right. It wasn't him but that spleen was a splitting image.
+FLETCH: Oh, God, I think I'm about to hyperventilate. Have you got a paper bag, or something.
+RECORDS NURSE: Yes, right away.
+RECORDS NURSE: Here you are, Doctor.
+FLETCH: Thank you.
+RECORDS NURSE: Is there anything particular you're looking for?
+FLETCH: My associates did a biopsy on this man recently. He's supposed to have a melanoma, or a carcinoma, some kind of noma. Hmmm. I can't seem to find any record of it.
+RECORDS NURSE: Well, if he had one, it would certainly be in here. Wait. Here it is. Yep. Surgical removal of two moles. Tissue was benign.
+FLETCH: That's it?
+RECORDS NURSE: That's it.
+FLETCH: This was last month. So Alan Stanwyk does not have cancer.
+RECORDS NURSE: I guess not.
+FLETCH: He'll be so relieved.

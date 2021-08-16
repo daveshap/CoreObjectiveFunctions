@@ -1,0 +1,1 @@
+Use of \" and ' in multi-paragraph quotes I was taught that I should use \" at the start of a quote and if it carries on in subsequent paragraphs, I should put ' at the end of the first paragraph, then start the second paragraph with ' and close again with ' and so on, until the final paragraph which I close with ' \".  I cannot see any reference to this style.

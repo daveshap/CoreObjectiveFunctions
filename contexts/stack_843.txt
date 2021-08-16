@@ -1,0 +1,1 @@
+Database connection error I never used Ubuntu, and now I installed Ubuntu 18.04, and I have a problem with connection to Database.I'm not so familiar with the working with servers and things like that, so can anyone tell me what the problem is and how to fix it?

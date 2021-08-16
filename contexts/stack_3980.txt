@@ -1,0 +1,1 @@
+Meaningful Sample Size I have a set of 100 people each assigned to one of the four groups (very short, short, tall, and very tall). How many people's height do I have to measure to know the general distribution of people among these groups with, let's say, p=90% confidence. How about if we disregard the very short and very tall groups since few people are in those two?Thanks!

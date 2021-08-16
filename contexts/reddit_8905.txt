@@ -1,0 +1,28 @@
+What are the arguments for/against the regulation of service-animals?
+[Service animals](https://en.wikipedia.org/wiki/Service_animal) have long been used by persons to assist with disabilities, both physical and mental. In the United States, there is no official registry of service animals. Per [ADA rules](https://www.ada.gov/service_animals_2010.htm), companies are limited to questions they may ask regarding service animals:
+
+> When it is not obvious what service an animal provides, only limited inquiries are allowed. Staff may ask two questions: (1) is the dog a service animal required because of a disability, and (2) what work or task has the dog been trained to perform. Staff cannot ask about the person’s disability, require medical documentation, require a special identification card or training documentation for the dog, or ask that the dog demonstrate its ability to perform the work or task.
+
+A recent situation is when emotional support animals are being claimed as being applicable under the ADA. These emotional support animals are not required to be trained, which has led to several incidents, most notably with regards to air travel where emotional support animals are exempted from pet travel fees and storage restrictions.
+
+
+[Emotional support dog attacks man on plane.](https://www.washingtonpost.com/transportation/2019/05/29/an-emotional-support-dog-attacked-him-flight-hes-suing-delta-owner/?utm_term=.fd19627a59ee)
+
+
+[Emotional support animal bites child](https://www.usatoday.com/story/travel/flights/todayinthesky/2018/02/22/emotional-support-dog-bites-child-southwest-flight-debate-animals-airlines/362759002/)
+
+These laws have even been used to bring non-traditional ADA animals on air travel, such as a [live turkey](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/15/someone-just-used-a-federal-law-to-bring-a-live-turkey-on-a-delta-flight/?noredirect=on&utm_term=.ba78f0665b09).
+
+
+[Accommodating service animals is also an issue for landlords](https://archives.hud.gov/news/2013/servanimals_ntcfheo2013-01.pdf), who are required by the ADA to accommodate service animals despite the landlord having an otherwise no-pet policy, which can include emotional support animals. However, it is [incredibly easy to get an animal certified as an emotional support animal](https://www.psychologytoday.com/us/blog/animals-and-us/201406/service-animal-scams-growing-problem), to the extent that you can get a certificate over the internet for less than a hundred dollars.
+
+
+Those opposed to increased regulations of service-animals present the argument that creating such a system [would be detrimental to the disabled](https://blog.easterseals.com/illinois-service-dog-law-hb-3162/).
+
+> Not all individuals with a disability have easy access to a medical doctor, and some cannot afford a visit to a medical doctor. A person with a diagnosed seizure disorder, for example, might not see a doctor regularly and making a doctor’s appointment just to get an official letter could be expensive.
+
+> The requirement to get this license and equipment to identify an animal as a service dog. What costs fall upon the individual with the disability (a fee to apply, the cost of a vest or harness that is specially made)? What costs are required of the taxpayer to fund someone to test dogs and hand out licenses? Cost and confidentiality for the person with the disability is a huge concern – and one the ADA intended to avoid as it does not require medical documentation or vests for dogs.
+
+> The obedience and skills required are too subjective
+
+[The costs of owning a service animal are significant](https://www.nytimes.com/2009/08/22/health/22patient.html), and roughly seventy percent percent of disabled persons are unemployed, so even small increases in cost can put a service animal out of reach of many disabled persons who could benefit from them. There are also [many different roles and types of service animals](https://en.wikipedia.org/wiki/Assistance_dog), and it would be hard to encapsulate all the useful benefits of service animals in a standardized certification process.

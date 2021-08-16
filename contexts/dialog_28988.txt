@@ -1,0 +1,16 @@
+SALLY: All right--but what is there to face? It's finished.
+LOTHER: You ran away because you were afraid. I don't want it to end like that.
+SALLY: I didn't want to see you again--that's my privilege.
+LOTHER: It wasn't smart. Even if you'd gotten away without me --I'd have found you--no matter where you were.
+SALLY: Why don't you leave me alone?
+LOTHER: Because I want you--will always want you--no other woman'll ever take your place. I want you more now than I did that first night-- You've forgotten all that, I suppose?
+SALLY: I wish I could.
+LOTHER: Get wise to yourself, Sally--you're no sob story.
+SALLY: You get wise to <U>yourself</U>! If you know what's good for you, you'll leave me alone. Everybody's entitled to one mistake--Well--you're mine. When the going got too rough, I pulled up stakes and quit. We stay quit!--Get that!--And what're you going to do about it?
+LOTHER: That's more like the old Sally--a little bit of fire. How about Ned?
+SALLY: He's all right.
+LOTHER: Thanks to me.
+SALLY: You leave the kid alone.
+LOTHER: A tipoff in the right quarter to take his fingerprints and--
+SALLY: --you'd go with him!
+LOTHER: Don't kid yourself--you know how I stand back there.

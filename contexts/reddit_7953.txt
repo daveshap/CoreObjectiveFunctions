@@ -1,0 +1,16 @@
+Will the research activity during my Master's program seriously impact my PhD or career path?
+## TL;DR
+The lab that I'm at now has recently been heavily focused on one specific field of research, and I'm also expected to conduct research activity in that field and squeeze in time to work on things that I personally want to pursue later as a more serious PhD student and possible career. Will my research being heavily focused in an irrelevant area impact my future prospects of applying to PhD programs?
+
+## Long version
+I'm currently enrolled in a Master's/PhD integrated program at a Korean University. The lab that I'm at does AI/deep learning research. My personal interests lie in computational linguistics, and I made it clear to my advisor that it's what I want to pursue and I wanted to work with those in the field at his lab, which he was happy to hear. I also told him that I have plans to complete my Master's here and go for a PhD to the US. He recommended that I finish my PhD here and go for a postdoc abroad, but that he's also "more than happy to let me go if it's what you want."
+
+Recently, he's really taken a "passion" into this thing called "AI-driven drug discovery," where you're basically using deep learning techniques to find which chemical compounds may potentially become new drug components. It's interesting and important for sure, but it's not really what I had in mind when I first came to the lab or what I imagined to be doing later in life.
+
+The fact that 1) I'm fluent in English, and 2) I'm "technically enrolled in a PhD program" and so will be at the lab longer than regular Master's program students has caused my professor to take a liking to me and him and other senior lab mates have really urged me to at least take a look into the field of bioinformatics. I thought "what the hell, I'll give it a try and if it's not for me then I'll talk to my advisor and back out." It is a bit naive of me to think that backing out of research I've been engaged in will be easy.
+
+I've talked to other seniors at the lab about my concerns, and they all understand where I'm coming from and advise me to "do the bare minimum to keep me out of trouble" while spending all my time and resources doing research in things I want to and prepare for applying to PhD programs abroad (publishing papers, attending seminars and conferences, etc.)
+
+I'm still a bit concerned though, as bioinformatics is a little distant from computational linguistics. My undergraduate degree wasn't even from a STEM field or linguistics either (international relations major and computer science double major). Has anyone either been down this road, or seen anyone go down it? From a professor who's seeing my application as a potential PhD candidate, how would it look if much of my prior research is in bioinformatics when it says I want to do PhD-level research in computational linguistics?
+
+Any tips or advice are greatly appreciated. Thanks.

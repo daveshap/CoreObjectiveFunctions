@@ -1,0 +1,1 @@
+Cannot Find Vertices Counter in Plugin QGIS 3 I have recently installed the new version of QGIS and can't seem to find the vertices counter in the plugin menu to install. Does anyone know where I can find it?

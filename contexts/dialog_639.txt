@@ -1,0 +1,26 @@
+MILLIE: Hello.
+JOHN: Hello.
+MILLIE: Oh, wait a minute, don't tell me you're ...
+JOHN: No, not me.
+MILLIE: Oh you are, I know you are.
+JOHN: No, I'm not.
+MILLIE: You are.
+JOHN: I'm not, no.
+MILLIE: Well, you look like him.
+JOHN: Oh do I? You're the first one who ever said that.
+MILLIE: Oh you do, look.
+JOHN: My eyes are lighter.
+MILLIE: Oh yes.
+JOHN: And my nose...
+MILLIE: Well, yes your nose is. Very.
+JOHN: Is it?
+MILLIE: I would have said so.
+JOHN: Aye, but you know him well.
+MILLIE: No I don't, he's only a casual acquaintance.
+JOHN: That's what you tell me.
+MILLIE: What have you heard?
+JOHN: It's all over the place, everyone knows.
+MILLIE: Is it? Is it really?
+JOHN: Mind you, I stood up for you, I mean I wouldn't have it.
+MILLIE: I knew I could rely on you.
+JOHN: Thanks.

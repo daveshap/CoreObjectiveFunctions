@@ -1,0 +1,1 @@
+Coax cable shielding understanding at AC I know that AC changes its polarity once a cycle. We use coaxial cable for protecting the signal from magnetic interference. But if the cycle is negative then it it will flow in the shielding, won't it? So unprotected.

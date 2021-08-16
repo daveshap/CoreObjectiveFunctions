@@ -1,0 +1,1 @@
+How close button in ubuntu works on clicking? Can any one tell when I click X button of any application how it works?

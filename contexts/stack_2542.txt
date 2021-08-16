@@ -1,0 +1,1 @@
+Direction of two lines (turn right or left) There are two connected lines (EPSG:4326 line1, line2). When the direction of the two lines is from line1 to line2, I want to do a calculation to determine whether the direction is left or right.

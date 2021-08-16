@@ -1,0 +1,1 @@
+checking the equality of variances when we have very small data sets I have two groups with very small sample sizes. Each group has around 6 observations. I was wondering which test I can use in order to check the quality of variances? Is there any cutoff value in order to compare the variances?

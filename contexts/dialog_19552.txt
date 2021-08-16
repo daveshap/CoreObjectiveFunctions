@@ -1,0 +1,3 @@
+GLEN: Hello?
+NANCY: Hi.
+GLEN: Oh. Hi, how y'doing?

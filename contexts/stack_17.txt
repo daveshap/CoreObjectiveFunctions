@@ -1,0 +1,1 @@
+How do I prevent AppleScript from using short numbers? So AppleScript by default uses the exponential notation of numbers - for example, 2.99E+68.How do I prevent that from happening? I want the number written out as it is.

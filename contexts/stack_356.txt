@@ -1,0 +1,1 @@
+Airplaying: consumption of mobile data? If I create a Personal Hot Spot Wi-Fi (on an iPhone 8 with iOS 12.1.3), connect an Apple TV 4k to that Wi-Fi, will I incure mobile data usage if I airplay to the Apple TV using previously downloaded iTunes movies on the iPhone?

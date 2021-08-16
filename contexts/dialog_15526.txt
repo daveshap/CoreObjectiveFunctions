@@ -1,0 +1,11 @@
+COLWYN: Forgive me, my friends. I saw terrible things.
+TORQUIL: They do not exist, except in the waters of the Swamp, where they will remain.
+YNYR: From here, I must go alone.
+COLWYN: You will tell me her name and we will go together.
+YNYR: You must never know her name. If more than one approaches, she will certainly kill them. Alone I may have a chance.
+TORQUIL: Each to his fate, lad.
+YNYR: Each to his fate. Wait for me at the inn. If I am not back by dawn, you will know my fate, and you must go on without me.
+ERGO: Where are you going?
+CYCLOPS: We'll meet you at the inn.
+ERGO: Can't I come, too?
+CYCLOPS: No.

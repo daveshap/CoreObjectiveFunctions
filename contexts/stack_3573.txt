@@ -1,0 +1,1 @@
+Can malware migrate between OSes on the same machine? Someone here at work just made an interesting claim; they stated that it's possible for malware, launched in e.g. Windows, to remain in RAM through a reboot and continue working in Linux on the machine when it boots.Are they right? I'm almost certain that's impossible, but am happy to be corrected.

@@ -1,0 +1,10 @@
+I'm making an app which finds which foods you should buy from which grocery stores to maximize your nutrition and minimize cost. Would you use it?
+This app is designed to save you money by choosing a combination of foods available at your local grocery store which minimize cost and maximize your nutrition. I ran it on my local grocery store and now I spend half as much on groceries and my nutrition macros are very close to my goals.
+
+It gathers all of the grocery store's products (including prices and nutritional content) then runs it through an algorithm which finds which products you should buy and how much of them in a fraction of a second. Edit: it can also be configured to find the cheapest grocery store to go to instead of choosing multiple ones.
+
+I am extending it to search flyers for products (e.g. for stores which do not have an online search) to add those to the price comparisons. Additionally, it could be set up for price alerts (e.g. orange juice went on sale), which product is cheapest per gram/mL, and what products have similar nutrition value to a chosen product. It could also be used to find which recipe is cheapest on a certain day as the prices refresh everyday.
+
+Would you use this app? Edit: removed pay to use as ads are possible
+
+Note: I am affiliated to this app and it was originally posted to r/frugal

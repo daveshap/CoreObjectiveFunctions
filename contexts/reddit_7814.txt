@@ -1,0 +1,10 @@
+A helpful SciHub browser extension
+I've been using this extension for about a month now (my University does have institutional subscriptions to some of the more obscure journals I need access to), I highly recommend it.
+
+If you find yourself at a paywall, you just click the icon, and if the paper is on SciHub it downloads the PDF: simple, fast, effective.
+
+[Mozilla Add-on](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/)
+
+[Chrome Add-on](https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl)
+
+[Source Code](https://github.com/0x01h/sci-hub-now)

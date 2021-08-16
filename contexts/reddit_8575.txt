@@ -1,0 +1,10 @@
+How are election winners called when the votes have not all been counted? How is this vote data verified and how are the counters held accountable?
+With articles like this, where 4.5 million votes haven’t been counted, how have election results already been called? I understand John Cox has no chance of winning California, but how would networks know Gavin Newsom really won? If you point to exit polls, can’t those be wrong? Wouldn’t they have to count the actual votes?
+
+https://www.sacbee.com/news/politics-government/capitol-alert/article221392480.html
+
+I looked up how CNN projects election winners here: 
+
+http://www.cnn.com/2008/POLITICS/10/13/projection.explainer/
+
+Would this vote data they talk about be open to the public analysis? If not, why?

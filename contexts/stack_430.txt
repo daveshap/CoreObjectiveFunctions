@@ -1,0 +1,1 @@
+Remove duplicate mails from mailing list If I write to a mailing list, some people reply to the list and additional put me into CC.This way I receive the reply twice:once via mailing listonce via CCIn thunderbird I would like to see the mail only once, not twice.Is there a way to achieve this goal?

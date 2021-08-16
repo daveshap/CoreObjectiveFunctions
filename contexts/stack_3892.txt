@@ -1,0 +1,1 @@
+Dominating Positive Part James-Stein Is dominating Positive Part James Stein estimator when estimating the mean of a multivariate normal of dimension 3 with known variance(all equal) an open problem?If not, what is this estimator called? Can you point out some references?

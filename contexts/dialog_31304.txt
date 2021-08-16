@@ -1,0 +1,9 @@
+GLINDA: Pooh -- what a smell of sulphur! I'm afraid you've made rather a bad enemy of the Wicked Witch of the West. The sooner you get out of Oz altogether, the safer you'll sleep, my dear.
+DOROTHY: Oh, I'd give anything to get out of Oz altogether -- but which is the way back to Kansas? I can't go the way I came.
+GLINDA: No -- that's true. The only person who might know would be the great and wonderful Wizard of Oz himself!
+DOROTHY: The Wizard of Oz? Is he good or is he wicked?
+GLINDA: Oh, very good, but very mysterious. He lives in the Emerald City, and that's a long journey from here. Did you bring your broomstick with you?
+DOROTHY: No, I'm afraid I didn't.
+GLINDA: Well, then, you'll have to walk. The Munchkins will see you safely to the border of Munchkinland. And remember, never let those ruby slippers off your feet for a moment, or you will be at the mercy of the Wicked Witch of the West.
+DOROTHY: But, how do I start for Emerald City?
+GLINDA: It's always best to start at the beginning -- and all you do is follow the Yellow Brick Road.

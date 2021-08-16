@@ -1,0 +1,1 @@
+Browsers Power Consumption Why do the Browsers like Firefox and Chrome on OSX consume more and more power over time.If reset and reopen same pages they power consumption is way less, but again it will grow over time.My question is why the power consumption goes up over time, and it is back down after restarting browser while opening same pages ?

@@ -1,0 +1,1 @@
+ALT and CTRL behave like SHIFT I installed Ubuntu a few days ago and I noticed that both of my CTRL and both of my ALT keys behave exactly the same as the Shift key.I have tried changing input method, but it didn't help.What could be the problem and how can I fix it?I am using ubuntu on dekstop pcKeyboard is Tracer hellway

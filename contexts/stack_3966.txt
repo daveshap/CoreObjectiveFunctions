@@ -1,0 +1,1 @@
+Confidence interval in R lm function with factors values Does lm R function handle factors value 'correctly' when computing confidence interval ?I read that confidence interval formula are different in case of discrete or continuous variable.Thanks.Philippe

@@ -1,0 +1,4 @@
+PICARD: Geordi, put 211 power to the engines. Take it from life support if you have to -- everything you can give me.
+GEORDI: Aye, sir.
+PICARD: Deanna, on my mark.
+GEORDI: Ready, sir!

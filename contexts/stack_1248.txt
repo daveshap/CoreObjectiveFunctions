@@ -1,0 +1,1 @@
+Why does an index rebuild requires a Sch-M lock? I don't see why an index rebuild would require a Sch-M lock on the given index.

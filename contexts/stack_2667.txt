@@ -1,0 +1,1 @@
+Finding areas which are inside maximum of 2 buffer zones using ArcMap? I have a territory with supermarkets. I'd like to find the areas in this territory which has less than 3 supermarket in its vicinity. For that, I created a 1 mile buffer for each POI. Is there a way to choose the areas in ArcGIS, which are overlayed by maximum 2 buffer zone?

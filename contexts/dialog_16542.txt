@@ -1,0 +1,5 @@
+CHARLOTTE: You're leaving right now?
+BOB: Yes.
+CHARLOTTE: Well... have a good flight.
+BOB: Thanks.
+CHARLOTTE: Ok, bye.

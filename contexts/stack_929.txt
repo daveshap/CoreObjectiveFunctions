@@ -1,0 +1,1 @@
+Not able to resize hard disk partition While installing ubuntu 18.04 I didn't partition my hard disk. Now my hard disk is a single partition /dev/sda2. I have tried to resize this partition but i'm getting the error saying system busy.Is there any way I can partition my hard disk without losing data?

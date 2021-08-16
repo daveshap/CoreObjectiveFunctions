@@ -1,0 +1,12 @@
+LEADER: Can I help you?
+JACOB: I'm looking for Dr. Carlson. Isn't this his office?
+LEADER: I'm so sorry. Obviously you haven't ... Dr. Carlson died.
+JACOB: Died?
+LEADER: A car accident.
+JACOB: Jesus, Jesus! ... When?
+LEADER: Last month, before Thanksgiving.
+JACOB: How did it happen?
+LEADER: No one knows. They say it blew up.
+JACOB: Blew up? What do you mean it blew up?
+LEADER: Do you want me to get someone?
+JACOB: No. No. It's okay. I'm okay.

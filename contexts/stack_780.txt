@@ -1,0 +1,1 @@
+Is it still bad to use swap on a modern SSD? I have a Samsung 960 Pro SSD with Ubuntu 18.04is it safe to put the swap file on there or would it hurt it in the long run,I heard some people saying that new SSDs don't suffer from that issue anymore, is this true?

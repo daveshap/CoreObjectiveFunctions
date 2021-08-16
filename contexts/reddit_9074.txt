@@ -1,0 +1,20 @@
+Is there historical precedent to "Breaking up Big Banks"?
+The whole of the Sanders process appears to be summed up into:
+
+* Break them up via [Dodd-Frank](http://www.msnbc.com/all-in/watch/can-sanders-plan-to-break-up-the-banks-work-660514883919) which appears to be focused on when when the bank accrues too much debt
+* Break them up via legislation via proposal [S. 1206](https://www.govtrack.us/congress/bills/114/s1206) This appears to be a "preemptive strike" of sorts in that the Secretary of Treasury will start the process.
+
+> Notwithstanding any other provision of law, but not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury shall break up entities included on the Too Big To Fail List [Sec 3]
+
+Is there any precedent in history where the Secretary of Treasury exercised their power in a way that would be similar to a "bank break up"?
+
+Are there any existing proposals to how the Secretary of Treasury might act? Namely answers to questions like:
+
+* What is the appropriate "too big to fail" criteria and how do we go below that line? (The Barney Frank question)
+* Sanders on [Morning Joe](http://talkingpointsmemo.com/livewire/sanders-breaking-up-big-banks-redo) seems to imply that it's in terms of total assets, is there evidence that this is a better metric for "too big to fail" than debt (Dodd-Frank)?
+* Is there a candidate for Secretary of Treasury who would be able to take point on this?
+
+Previous Discussons:
+
+* https://www.reddit.com/r/PoliticalDiscussion/comments/3zl2tx/what_will_breaking_up_the_big_banks_accomplish/? 
+* https://www.reddit.com/r/NeutralPolitics/comments/45drer/is_there_an_argument_against_breaking_up_the_big/?

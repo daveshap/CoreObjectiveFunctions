@@ -1,0 +1,27 @@
+Does Building "The Wall" Require a Supermajority in Congress?
+The question is whether building the remainder of [Mexico-US Border Wall](https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_barrier) requires a supermajority of votes in Congress?
+
+As an initial matter, a [supermajority](https://en.wikipedia.org/wiki/Supermajority#United_States) is the requirement that more than a simple over 50% majority of Congress vote in favor of legislation for it to pass.  Depending on what's attempting to be enacted this number can vary from [60% to 80%](https://en.wikipedia.org/wiki/Supermajority#United_States).
+
+Generally, [spending bills require a supermajority](https://www.washingtonpost.com/powerpost/congress-set-to-delay-shutdown-setting-up-bigger-spending-fight-later/2017/12/07/6b6712fa-db51-11e7-b1a8-62589434a581_story.html?noredirect=on&utm_term=.7895a94a9e16):
+
+>In the Senate, a 60-vote supermajority is required to pass most major legislation
+
+However, its not that simple.  Apparently there is something referred to as budget reconciliation which [allows the Senate to bypass the supermajority requirement](https://qz.com/1110552/federal-budget-resolution-what-it-means-for-the-republican-tax-plan/) in some situations:
+
+>Reconciliation is a procedural mechanism originally intended to quickly clean up minor differences in the spending plans proposed by the Senate and the House by setting aside rules [such as the supermajority requirement] that slow the process. 
+
+Beyond reconciliation there is the possibility of building the wall through executive order. 
+ An order to build the wall was made on [January 25, 2017](https://en.wikipedia.org/wiki/Executive_Order_13767) by President Trump.  However, the funding for the order still apparently [must still come through Congress](https://en.wikipedia.org/wiki/Executive_Order_13767#Funding).
+
+Since the signing of that order, Congress has yet to pass adequate funding such that now there is discussion of [whether the executive branch can use existing funds for the border wall](https://www.usatoday.com/story/opinion/2018/12/24/donald-trump-shutdown-congress-approval-build-border-wall-spending-column/2402442002/):
+
+>[T]he White House put out a call to federal agencies to look for “pots of money” in their existing budgets that could be cobbled together to pay for border wall construction. 
+
+This opens a whole host of other questions:
+
+1.  Are there existing funds that are appropriated to something that can legally be argued to be used on a border wall?  I suspect part of the executive branch calling the need for the border wall a national emergency might have something to do with opening the door for existing funds that are earmarked for "emergencies" to be made available for the wall;
+
+2.  Is there some type of slush fund the executive branch can use to build the wall?
+
+3.  Harkening back to the initial question, can Congress pass funding without a supermajority?

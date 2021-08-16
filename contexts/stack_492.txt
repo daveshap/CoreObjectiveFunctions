@@ -1,0 +1,1 @@
+Read .mp3 files from an USB stick, is it possible? Is it possible to configure an USB stick (or a external disk) to access/use the hardware of my computer, which I know works, but can't be accessed/used by Ubuntu, to obtain an audio output up from the computer's jack to my ears? To read mp3 files and flac files.

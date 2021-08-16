@@ -1,0 +1,1 @@
+Does the OWASP Zed Attack Proxy project have a list of all the vulnerabilities it tries to find/exploit? I'm trying to compile a list of vulnerabilities that ZAP tries to find when you run the \"Active Scan\" in ATTACK mode on a webapp. Does this list exist in the documentation anywhere? If it also has a list of all the inputs that it tries that would be very helpful.

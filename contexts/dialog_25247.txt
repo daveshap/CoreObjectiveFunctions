@@ -1,0 +1,11 @@
+SPOCK: Ready to engage computer, Admiral.
+KIRK: What is our target in time?
+SPOCK: The late 20th Century.
+KIRK: Surely you can be more specific...
+SPOCK: Not with this equipment. I have had to program some of the variables from memory.
+KIRK: What are the variables...?
+SPOCK: Availability of fuel components; Mass of the vessel through a time continuum, and the probable location of Humpbacks, in this case, the Pacific basin.
+KIRK: You've programmed that from memory...?
+SPOCK: I have.
+BONES: Angels and ministers of grace, defend us.
+SPOCK: Hamlet, Act I scene 4.

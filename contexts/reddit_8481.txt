@@ -1,0 +1,30 @@
+Why hasn't the mainstream media been more sceptical of claims of Russian meddling with our election?
+A lot of the larger media outlets now implicitly refer to "Russian hacking" and report it near absolute with very little skeptism. See: 
+
+- [WaPo - What you need to know about Russia's election hacking](https://www.washingtonpost.com/news/post-nation/wp/2016/12/14/heres-what-you-need-to-know-about-the-cias-assessment-into-russia-hacking-so-far/)
+- [NYT - Putin Led a Complex Cyberattack Scheme to Aid Trump, Report Finds](http://www.nytimes.com/2017/01/06/us/politics/donald-trump-wall-hack-russia.html) 
+- [NYT - Obama strikes back for Russia election hacking](http://www.nytimes.com/2016/12/29/us/politics/russia-election-hacking-sanctions.html?action=click&contentCollection=Politics&module=RelatedCoverage&region=Marginalia&pgtype=article)
+
+They have also quickly and incorrectly asserted that Russia hacked a power grid - 
+
+- [WaPo - Original article and retraction at the top](https://www.washingtonpost.com/world/national-security/russian-hackers-penetrated-us-electricity-grid-through-a-utility-in-vermont/2016/12/30/8fc90cc4-ceec-11e6-b8a2-8c2a61b0436f_story.html)
+
+However, many security experts who are highly respected in their fields have read the reports released and are expressing a great deal of scepticism. This has been fairly well covered in the technology industry:
+
+- [ArsTechnica - White House fails to make case that Russian hackers tampered with election](http://arstechnica.com/security/2016/12/did-russia-tamper-with-the-2016-election-bitter-debate-likely-to-rage-on/)
+- [Robert M Lee - Critiques of the report (from a highly respected security expert)](http://www.robertmlee.org/critiques-of-the-dhsfbis-grizzly-steppe-report/) 
+- [Brian Krebs - His overall view (also very highly respected)](https://krebsonsecurity.com/2017/01/the-download-on-the-dnc-hack/)
+- [ZNet - No smoking gun for Russian DNC hacks](http://www.zdnet.com/article/no-smoking-gun-for-russian-dnc-hacks/)
+- [The Intercept - Underwhelming Intel Report Shows Need for Congressional Investigation of DNC Hack](https://theintercept.com/2017/01/06/underwhelming-intel-report-shows-need-for-congressional-investigation-of-dnc-hack/)
+
+
+The only scepticism I've seen in mainstream media have been from highly partisan sources which hardly will encourage people not sceptical to listen and not the best reporting.
+
+- [NYT -‘What’s the Big Deal?’ Ask Trump Voters on Russia Hacking Report
+](http://www.nytimes.com/2017/01/07/us/russia-hacking-election-trump-voters.html)
+
+My question: Why hasn't the mainstream media been more sceptical of claims of Russian meddling with our election? 
+
+Edit - Adding another source with a security expert's take on the evidence: 
+
+- [Jeffrey Carr - Joint Analysis Report a Fatally Flawed Effort](https://medium.com/@jeffreycarr/fbi-dhs-joint-analysis-report-a-fatally-flawed-effort-b6a98fafe2fa#.jyf6txaxj)

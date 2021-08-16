@@ -1,0 +1,1 @@
+Does Apple Watch Cellular clone the SIM card? I have read, that Apple Watch will have the same phone number as iPhone and if iPhone is far away, it can connect to cellular network itself.Doesn't this mean that Apple Watch clones the SIM and how this corresponds with the statement, that modern GSM network SIMs can't be cloned?

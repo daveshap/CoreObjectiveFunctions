@@ -1,0 +1,21 @@
+Do citizens from countries with universal health care systems (i.e. Canada) often come to the US for medical procedures to avoid long lines and rationing of services?
+When debating about the implementation of a universal health care system in the US, Canadians coming to the US for medical procedures is often a point made by those opposed to the idea. Are there any recent studies to back up either side of this argument?
+
+
+Health Affairs study on [Canadians crossing the border for health care](http://content.healthaffairs.org/content/21/3/19.full):
+
+
+
+Between 1994-1998, this study collected data from ambulatory care services in Michigan, New York State, and Washington State. The study found that “almost 40 percent of the facilities we surveyed reported treating no Canadians, while an additional 40 percent had seen fewer than ten patients.”
+
+Health Affairs study on [access to care and cost of services](http://content.healthaffairs.org/content/early/2010/11/18/hlthaff.2010.0862.full.html):
+
+
+
+This study from 2010 surveyed 11 countries with widely varying health care systems. This study has a very interesting chart displaying [Adults’ Confidence In And Cost-Related Experiences With Health Care In Eleven High-Income Countries, 2010.](http://content.healthaffairs.org/content/early/2010/11/18/hlthaff.2010.0862/T2.expansion.html) 
+
+“Switzerland stands out for rapid access: 93 percent of the Swiss respondents had received a same- or next-day appointment the last time they were sick. Swiss adults, along with German and US adults, were more likely than adults in the other countries to report quick access to specialists.”
+
+“In contrast, one-fourth or more of Canadian, Swedish, and Norwegian adults reported having to wait six days or more to see a doctor or nurse when sick.”
+
+I could not find a study that was conclusive on the rationing of services in different countries.

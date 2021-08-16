@@ -1,0 +1,9 @@
+REYNOLDS: How many aces are left?
+JACK: Five.
+REYNOLDS: I make it six.
+JACK: Five.
+REYNOLDS: What makes you so sure?
+JACK: It's a rule. Always stand by your first count. The odds are you're right.
+REYNOLDS: Good call.
+JACK: You want me to check?
+REYNOLDS: I said good call.

@@ -1,0 +1,1 @@
+Convert easting and northing to degrees north and west I need to convert:Easting 2451890.770 Northing 7438891.286The location is in Dumfries, New Brunswick. I\u2019m assuming it\u2019s UTM from other search results I\u2019ve seen. I have NO idea what to doTo degrees north and degrees west. How? Am I missing some piece of info?

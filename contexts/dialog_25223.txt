@@ -1,0 +1,8 @@
+KRUGE: There are two more prisoners, Admiral. Do you want them killed too? Surrender your vessel!
+KIRK: All right, damn you! All right! Give me a minute to inform my crew.
+KRUGE: I give two minutes. For you, and your gallant crew. Take every last man: form a boarding party, armed heavily!
+TORG: They outnumber us, my Lord --
+KRUGE: <U>We are Klingons</U>! Once you control the ship, I will transfer my flag there. And we will take Genesis from their own memory banks!
+KIRK: Mr. Sulu, what is the crew complement of a Bird of Prey?
+SULU: About a dozen officers and men.
+KIRK: With some on the planet...

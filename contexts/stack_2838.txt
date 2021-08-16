@@ -1,0 +1,1 @@
+How to know the direction of rotation of a body? I have a doubt that does the net torque on a body gives the sense of rotation of the body,i.e, clockwise rotation or anticlockwise rotation,or does it only give the sense of angular acceleration of the body.

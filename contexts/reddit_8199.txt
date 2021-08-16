@@ -1,0 +1,8 @@
+The Trump Administration is investigating automakers for agreeing with California on emissions standards. Is this a legitimate antitrust issue?
+Today [The Wall Street Journal reported](https://www.wsj.com/articles/justice-department-launches-antitrust-probe-into-four-auto-makers-11567778958) that the US Department of Justice is investigating Ford, Honda, BMW, and Volkswagen on antitrust grounds, alleging that their jointly announced agreement with California state officials to comply with stricter California emissions requirements.  
+
+[Second article descrbing the DoJ move because WSJ is paywalled](https://www.cnbc.com/2019/09/06/doj-launches-antitrust-probe-over-auto-emissions-deal-with-california-wsj-reports.html)
+
+The [framework was announced this past July](https://www.gov.ca.gov/2019/07/25/california-and-major-automakers-reach-groundbreaking-framework-agreement-on-clean-emission-standards/) and [binds the four automakers to 3.7% annual emissions reductions (or 2.7% with certain technology credits.)](https://ww2.arb.ca.gov/sites/default/files/2019-07/Auto%20Terms%20Signed.pdf)
+
+Is there any precedent for an agreement between multiple firms and a government agency being an antitrust violation?

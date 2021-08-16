@@ -1,0 +1,10 @@
+Is knowing how to use Exago worth anything? Or am I wasting my time?
+I'm working my first "real job"(worked sales at a retail store and as a cashier during college beforehand) at a pest control company, and a large part of my job is using a version of Exago BI (Report Writer embedded into PestPac, their management software) to create reports. While I do use basic SQL concepts while writing the reports (I need to know what table columns are, what primary keys are, I use inner/outer joins, etc.), the interface is similar to excel/sheets. I do use formulas and have come up with some pretty neat solutions, but they're pretty small potatos.
+
+ [HERE is a link](https://imgur.com/a/ssIId3u) to what a basic report would look like *on my end*(edit). I'm wondering if I've trapped myself in a low paying position where this experience won't be worth much to other companies.
+
+
+I guess my question is mostly in the subject, but I'm also curious what you all would do in a position like this (low paying, not sure how to use experience to your benefit). 
+
+
+I apologize if this is in the wrong sub; Please point me in the right direction if you can. Appreciate any help or advice you can offer.

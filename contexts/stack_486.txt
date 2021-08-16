@@ -1,0 +1,1 @@
+ssh remote access ubuntu I need to find other computer specification such as ram speed and processor speed like that using ssh remote access in Ubuntu terminal through the same network! How can I do this? Please help me to solve this problem

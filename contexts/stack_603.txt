@@ -1,0 +1,1 @@
+curl version on Ubuntu 17.10 I'm going to invoke curl request with php5.6.At the moment, curl_init() function gives me \"call undefined function\" error.I think curl is not installed for php5.6.Am I wrong? If not, how can I install php5-curl with Ubuntu17.10?

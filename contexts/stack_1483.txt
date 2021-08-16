@@ -1,0 +1,1 @@
+Can I use a 3.3V linear regulator to level shift a 5V square wave down to a 3.3V square wave? I have an output of a comparator that is a 5V square wave. Can I feed that square wave into a 3.3V regulator to get a 3.3V square wave? The 3.3V regulator I have is the LP2950.

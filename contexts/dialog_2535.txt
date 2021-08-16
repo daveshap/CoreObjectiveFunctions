@@ -1,0 +1,12 @@
+OPERATOR: Operator...
+MARTY: Operator! Listen, this is an emergency! I have to make this call, but I don't have a dime -- all I got is a nickel -- but you gotta connect me --
+OPERATOR: Sir, it only costs a nickel.
+MARTY: What?
+OPERATOR: Local calls cost five cents. What number do you want?
+MARTY: Oh -- right! Uh, Madison 3489.
+OPERATOR: Five cents, please.
+OPERATOR: I'm sorry, there's no answer.
+MARTY: Operator, what's today's date?
+OPERATOR: March 11th.
+MARTY: What year?
+OPERATOR: Nineteen fifty --

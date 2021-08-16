@@ -1,0 +1,1 @@
+Are nvidea-cuda SDK binaries in ubuntu repositories up to date? I wonder how can I check those binaries in repo and compare to download from nvidia's site before installing.

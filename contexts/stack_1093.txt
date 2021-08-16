@@ -1,0 +1,1 @@
+How to flash RasPlex to SD from Ubuntu Hi im trying to install RasPlex for my Raspi 3 when I downloaded the file to flash it came in a .bin file and the instructions are very weak. So I now have a .bin file and not a clue on how to flash it to my SD card. Im extremely green when it comes to anything linux so please be gentle.

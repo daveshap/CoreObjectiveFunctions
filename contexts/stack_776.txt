@@ -1,0 +1,1 @@
+Can i update ubuntu while i currently have themes I have some themes installed on ubuntu 16.04 right now and im running plank as well, i wanted to know if i could safely just update to 18 right now or would i have to restore defaults and uninstall any extra features

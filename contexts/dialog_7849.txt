@@ -1,0 +1,7 @@
+DUKE LETO: My thanks.
+KYNES: With your permission...
+KYNES: You've worn a stillsuit before?
+PAUL: No.
+KYNES: Your suit is fitted desert fashion. Who told you how to do that?
+PAUL: No one. It... seemed the proper way.
+KYNES: That it is. He shall know your ways as if born to them.

@@ -1,0 +1,1 @@
+remove 'System' menu from top panel I have Mate desktop installed on Ubuntu and I'm trying to hide the complete 'System' menu on the top panel using commandline but couldn't figure out how to do that.Please could anyone provide some help?Thanks

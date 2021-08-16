@@ -1,0 +1,27 @@
+TAYLOR: Got your sensors?
+DODGE: Yo!
+TAYLOR: Geiger counter?
+DODGE: Yo!
+TAYLOR: One pistol... twenty-four rounds of ammo. two medical kits.. one camera... one TX9. We've enough food and water for three days.
+DODGE: But how long is a day?
+TAYLOR: Good question. Landon -- check your communications kit.
+TAYLOR: Landon! Join the expedition.
+LANDON: Sorry... I was thinking of Stewart. What d'you suppose happened?
+TAYLOR: Air leak. Died in her sleep.
+LANDON: You don't seem very cut up about it.
+TAYLOR: It's a little late for a wake. She's been dead nearly a year.
+LANDON: Then we've been away from Earth for eighteen months.
+TAYLOR: By our time. You've turned gray.
+TAYLOR: Apart from that, you look pretty chipper for a man who's two thousand and thirty one years old. I read the clocks. They bear out Hasslein's hypothesis. We've been away from Earth for two thousand years, give or take a decade. Still can't accept it, huh?
+LANDON: long pause) You know it.
+TAYLOR: Because time has wiped out everyone and everything you cared for -- they're dust.
+LANDON: Prove it. If we can't get back, it's still just a theory.
+TAYLOR: It's a fact, Landon. Buy it. You'll sleep better.
+DODGE: Nothing will grow here .... there's just a trace of hydrocarbons, and most of the nitrogen is locked into nitrates.
+TAYLOR: Any sign of dangerous ionization?
+DODGE: No.
+TAYLOR: Okay. If there's no life here, we've got just seventy-two hours to find it. That's when the groceries run out.
+DODGE: Which direction?
+TAYLOR: That way.
+DODGE: Any particular reason?
+TAYLOR: None at all.

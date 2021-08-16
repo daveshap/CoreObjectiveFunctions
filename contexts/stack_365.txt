@@ -1,0 +1,1 @@
+Sync tiny calendar I have two iPhones running iOS 12.1.2, each with different Apple IDs. One phone (an iPhone 5S) has complete data for tiny calendar but incomplete contacts. The iPhone 5SE has complete contacts but incomplete calendar data.  I would like them to sync. Any ideas?

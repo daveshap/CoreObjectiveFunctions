@@ -1,0 +1,1 @@
+Where are hash functions in the code of online forms? I know hardly anything about this stuff but I am interested in cryptography and online security. I'm just wondering when a hacker tries to brute force their way into a system they need to find the hashed password, the salt and the hash function. Where and how do they actually find these in an online form?

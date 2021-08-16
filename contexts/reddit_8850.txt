@@ -1,0 +1,12 @@
+Was Senate Rule 19 properly invoked by McConnell against Warren to prevent her from criticizing Sessions' character?
+Yesterday evening during Senate debate over the confirmation of Jeff Sessions to US Attorney General, Mitch McConnell [invoked Rule 19](https://www.washingtonpost.com/news/morning-mix/wp/2017/02/08/the-silencing-of-elizabeth-warren-and-an-old-senate-rule-prompted-by-a-fistfight/?utm_term=.4bd79a74f598) to prevent Elizabeth Warren from reading a [letter](http://www.npr.org/sections/thetwo-way/2017/02/08/514085145/read-coretta-scott-kings-letter-that-got-sen-elizabeth-warren-silenced) written by Coretta King which accused Sessions of abusing the power of his office while AG of Alabama to intimidate elderly black voters.
+
+The relevant piece of the text of [Rule 19](http://www.rules.senate.gov/public/index.cfm?p=RuleXIX) reads:
+
+>No Senator in debate shall, directly or indirectly, by any form of words impute to another Senator or to other Senators any conduct or motive unworthy or unbecoming a Senator.
+
+The (very brief) [history](https://www.senate.gov/artandhistory/history/common/censure_cases/090Tillman_Laurin.htm) of Rule 19 is essentially this: during a debate on a bill one Senator accused another of taking a particular position on that bill due to "improper influences." The accused Senator, after being informed of what was said, rushed into the Senate chambers, had a short, heated argument, then began having a fistfight with the Senator who made the accusation. After the incident, the Senate created Rule 19.
+
+It's not super clear what "conduct or motive unworthy or unbecoming a Senator" means, but I think saying a Senator once abused his office as a state Attorney General to carry out a program of racist voter suppression probably qualifies. So, McConnell's argument is pretty straightforward; that accusation falls within the bounds of Rule 19, Warren made that accusation, so she violated Rule 19.
+
+Is that a proper application of Rule 19, or was McConnell's move unjustified?

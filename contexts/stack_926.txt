@@ -1,0 +1,1 @@
+Problem booting Ubuntu with wubi on windows 10 I downloaded and installed Ubuntu with wubi it installed successfully but when I restarted my PC it started as windows 10 and no option to start Ubuntu what to do now?

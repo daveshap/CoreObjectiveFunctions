@@ -1,0 +1,1 @@
+Alternative to downthemall i used to download updates via synaptic mark all upgrades then save script because the internet is too slow here then open the generated file by firefox then i used downthemall manager to download all deb packages. Now downthemall no more availabe. Is there another way to download updates in the same way?

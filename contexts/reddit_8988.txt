@@ -1,0 +1,14 @@
+How does the UK Fixed Term Parliaments Act (2011) impact a finding of contempt against a government minister?
+**Background**
+
+There is presently [a controversy over alterations of reports given to the House of Commons related to Brexit by Brexit minister David Davis.](https://www.theguardian.com/politics/2017/nov/27/mps-attack-david-davis-for-handing-over-redacted-brexit-reports)  That controversy has included suggestions, including contempt of Parliament.  Such allegations [would be made to the Speaker, Mr. Bercow, who would then possibly refer it to a committee for adjudication if he found evidence of contempt.](http://www.bbc.com/news/uk-politics-42149793)
+
+Under other Westminster systems, a finding of contempt has been the basis of a no-confidence measure against the government.  Notable recently was the 2011 [fall of the Harper government in Canada on issues of contempt similar to those alleged in the UK.](https://www.theglobeandmail.com/news/politics/harper-government-falls-in-historic-commons-showdown/article4181393/)
+
+Davis is not Prime Minister, but under principles of [collective responsibility of the Government to the Commons](http://researchbriefings.parliament.uk/ResearchBriefing/Summary/CBP-7755) his position could be attributed to the government as a whole.  It has been argued by Ian Brodie in the Canadian context that [individual impeachment has become depricated by collective responsibility and that if a single minister were found to have lost confidence, it would fell the entire government.](https://parliamentum.org/2017/01/04/on-collective-ministerial-responsibility-and-impeachment/)
+
+However, in 2011 the UK changed electoral laws with the [Fixed Term Parliaments Act (2011).](https://en.wikipedia.org/wiki/Fixed-term_Parliaments_Act_2011)  This law requires that early dissolution requires either a two-thirds vote for a measure that there should be an early election, or else a simple majority must adopt a resolution "That this House has no confidence in Her Majesty's Government."
+
+**Question**
+
+How would a finding of contempt of Parliament against a government minister fit into that framework, if not accompanied by the requisite finding of no confidence in Her Majesty's Government to trigger the FTPA?

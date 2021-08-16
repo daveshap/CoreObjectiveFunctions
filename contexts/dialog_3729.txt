@@ -1,0 +1,3 @@
+RACHAEL: It seems your department doesn't believe out new unit is to the public benefit.
+DECKARD: A humanoid robot is like any other machine, it can be a benefit or a hazard. If it's a benefit, it's not our problem.
+RACHAEL: But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem. Correct, Mr. Deckard?

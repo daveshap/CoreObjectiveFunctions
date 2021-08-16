@@ -1,0 +1,1 @@
+Use sleep with minutes and seconds I know how to use sleep 5m for 5 minutes.How would I use it for say 7 mins 30 seconds?

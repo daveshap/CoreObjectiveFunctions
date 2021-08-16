@@ -1,0 +1,1 @@
+Is the ground level cross section of a normalised lidar dataset flat? If I normalise a lidar dataset I am (according to my thinking) simply subtracting the first return heights from the ground heights. Thus the resulting dataset will only contains the height above ground and a mountainous region would then appear flat when visualised as a cross section profile. Is this correct?

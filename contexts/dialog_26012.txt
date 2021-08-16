@@ -1,0 +1,5 @@
+CONAN: Hey, Scooby! How's it going?
+SCOOBY: Conan O'Brien? Whoa! What are you doing here?
+CONAN: I'm looking for a last-minute guest for my show. Any suggestions?
+SCOOBY: I'll be your guest!
+CONAN: Really? Well, all right! Let's take a look at the television and see how we look.

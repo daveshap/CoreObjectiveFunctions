@@ -1,0 +1,22 @@
+LI: Sir Te believes it's a ploy cast suspicion on Governor Yu.
+YU: But something is going on at the Yu household.
+LI: What have you discovered?
+LI: Jade Fox? Impossible.
+YU: You always suspected she'd fled to the West.
+LI: I didn't think she'd dare come back to Peking!
+YU: Is there any place safer than under the nose of Governor Yu?
+LI: So I shall avenge my master's death after all.
+YU: Be careful. Sir Te requires discretion. Official business is difficult enough. Don't let personal feelings make it worse. And I don't know... even this poster... could be some sort of trap.
+LI: Did you see who posted it?
+YU: No.
+LI: It says Jade Fox is hiding at Yu's. On the night of the theft there was a brawl near Yu's. Were you involved?
+YU: It was Bo, Sir Te's man. I hear he followed the thief to the Yus'.
+LI: Have you questioned him yet?
+YU: No, not yet...
+LI: But your men are watching over Yu's compund?
+YU: No, I'd already sent them home. You can blame me for losing the sword, but please trust that I'll get it back soon using my own methods.
+LI: That's not what I meant. I don't care about the sword.
+YU: What do you mean? Didn't you come back here for it?
+LI: I don't know it was stolen until I got here.
+YU: Then, why did you come?
+LI: Well, we had talked...

@@ -1,0 +1,1 @@
+How to open Ubuntu without a user name and password I am running Oracle VMware and installed Ubuntu 17.10 Artful. When I start Ubuntu it asks for a user name and password. I did not set up a user name or password. How do I open Ubuntu without a password? I am  beginner and do not have a clue. Thanks for any help at all.

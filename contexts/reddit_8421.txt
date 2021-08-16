@@ -1,0 +1,38 @@
+Who is making money off the Mexico–United States barrier ("the wall")? What is it, anyway? And how much (additional) "wall" has been built under the current administration?
+[On January 25, 2017, the Trump administration signed Executive Order 13767, which formally directed the US government to begin attempting to construct a border wall using existing federal funding, although actual construction of a wall did not begin at this time due to the large expense and lack of clarity on how it would be paid for.](https://en.wikipedia.org/wiki/Trump_wall#Executive_Order_(2017\))
+
+And there was money dedicated to the project:
+
+> [The Pentagon announced Monday night that it has authorized the transfer of up to $1 billion to the Army Corps of Engineers to build additional barriers along the U.S.-Mexico border](https://www.latimes.com/nation/politics/la-na-pol-pentagon-border-spending-20190326-story.html))
+
+
+&nbsp;
+
+And recently there are a variety of claims as to how much "wall" has been built:
+
+It could be 39.8 miles using [FY17 funding](https://www.washingtonexaminer.com/news/trump-has-put-up-39-miles-of-wall-on-2-000-mile-border-despite-claims-of-more)?
+
+> "The Corps has told our office that they have completed construction on 39.8 miles **using FY17 appropriations funding**, and that additional projects using FY18 funding are underway," a representative for Hoeven's office wrote in an email to *Washington Examiner*.
+
+Or [maybe 82](https://www.washingtonexaminer.com/news/trump-has-put-up-39-miles-of-wall-on-2-000-mile-border-despite-claims-of-more)?
+
+> However, earlier this month, the Defense Department agency overseeing construction told Trump 82 miles had been completed by his administration.
+
+[Hard to say, really](https://www.washingtonexaminer.com/news/trump-has-put-up-39-miles-of-wall-on-2-000-mile-border-despite-claims-of-more):
+
+> The *Washington Examiner* asked the Army Corps to clarify how many miles of wall it has put up over the past 23 months, but the corps said only Customs and Border Protection could provide the figure.
+
+And then a month later U.S. Customs and Border Protection, the agency that "[could provide the figure](https://www.washingtonexaminer.com/news/trump-has-put-up-39-miles-of-wall-on-2-000-mile-border-despite-claims-of-more)," [suggests](https://www.bloomberg.com/news/articles/2019-05-21/federal-wall-funding-of-1-57-billion-yields-1-7-miles-of-fence):
+
+> "The administration recently provided updated information to Congress on the status of its efforts as of April 30, 2019," the attorney, Douglas Letter, said in a court filing. "Based on that updated information, it appears that **CBP has now constructed 1.7 miles of fencing with its fiscal year 2018 funding**." 
+
+
+&nbsp;
+
+All this makes me wonder, is there any sort of process here? Specifically, 
+
+* What companies have the contracts to construct "the wall"? Who are they subcontracting to? [What previous work have they done that makes them qualified for this project](https://www.theguardian.com/politics/2019/feb/09/government-cancels-brexit-ferry-contract-with-no-ship-firm)? 
+* How was the bidding conducted, and how were the winners selected?
+* What are the specs for the wall? How high/wide/deep? What materials? What properties?
+* How much has been spent since 25 January 2017 on new wall construction?
+* How much new wall has been built since 25 January 2017?

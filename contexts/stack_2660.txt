@@ -1,0 +1,1 @@
+Inputting CSV in QGIS graphical modeler and defining its geometry Is it possible to have a model in QGIS graphical modeller which accepts a CSV with geometry fields and then allows you to use them for the rest of the model as if it was a vector file?This is required so I can bypass having to import the CSV into QGIS and defining it there before adding it to a model.

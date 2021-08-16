@@ -1,0 +1,18 @@
+What are the legal differences between the Pennsylvania lockdown that SCOTUS supported and the Wisconsin lockdown that their state Supreme Court struck down?
+Here's the situation I'm curious about:
+
+On May 8, 2020, Governor Tom Wolf was sued by several businesses that essentially argued the following:
+
+> The Pennsylvania businesses argued Wolf's lockdown order was unconstitutional and filed an emergency request with the Pennsylvania Supreme Court arguing it went beyond Wolf's authority.
+
+The Supreme Court [unanimously declined to lift the order](https://www.cbsnews.com/news/supreme-court-pennsylvania-stay-at-home-order-businesses/)
+
+[Copy of the Supreme Court opinion](https://www.supremecourt.gov/DocketPDF/19/19A1032/142444/20200427121304104_APPLICATION%20FOR%20STAY.pdf)
+
+Fast forward to today, [Wisconsin's Supreme Court just ruled that Governor Tony Evers' stay-at-home extension was unconstitutional.](https://www.nbc15.com/content/news/Wisconsin-Supreme-Court-blocks-Evers-stay-home-extension-570448161.html)
+
+In light of the recent Supreme Court decision, I have a lot of questions about these cases because I'm admittedly not an expert on the legal surroundings of either, but I'm curious how the results can be different.
+
+1. Are these cases arguing two different things, which is why the courts came to different conclusions?
+
+2. What *are* the differences between these cases, or is this something that will be appealed up to the Supreme Court and ultimately the same ruling will apply?

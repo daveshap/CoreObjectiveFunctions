@@ -1,0 +1,7 @@
+GREEN: You going today?
+BARBARA JEAN: Thank you-- Yes, I am.
+GREEN: I'll tell Ester, she'll be thrilled I saw you again.
+BARBARA JEAN: You get her those Vitamin E right away.
+GREEN: I got them right here.
+BARBARA JEAN: Well, Bye, Bye now. We have to go.
+GREEN: Bye, Bye.

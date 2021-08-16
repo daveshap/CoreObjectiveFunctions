@@ -1,0 +1,1 @@
+Shell scipt array output I wanted to know how to echo the last value of an array in shell script.for example I have the following array\" <blockquote>  $i=(\"1\",\"2\",\"3\")</blockquote>and I wanted to set a condition at the last position, meaning that when it gets on position 3 it stops or it says \"hello world\".How can I do that?EDITthe shell is shell script as in #!/bin/sh

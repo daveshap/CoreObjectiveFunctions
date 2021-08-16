@@ -1,0 +1,1 @@
+GNOME 3 merge top bar and Ubuntu dock (side/bottom bar) Is there a way to merge to two bars in GNOME 3? Best case scenario would be to have one single bottom or top bar that has all the symbols on the left side and the rest like the time indicator, connections, on/off button, etc. on the right side.Is that possible in any way?

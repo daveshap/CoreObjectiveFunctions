@@ -1,0 +1,1 @@
+Test statistic for follow up procedure (stepwise step down) of Kruskal Wallis When conducting a Kruskall Wallis test, it is possible to follow up the procedure with a post hoc test, looking for homogeneous subsets. My question is which statistic is used to perform this procedure (e.g., is it Chi-Square, z, or the original H)?

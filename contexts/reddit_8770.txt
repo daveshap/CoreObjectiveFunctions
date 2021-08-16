@@ -1,0 +1,16 @@
+GOP Tax Bill and Tuition Waivers
+One thing that's been cropping up in the news quite a bit recently is the impact that the new GOP Tax Bill ([the one passed by the House](https://waysandmeansforms.house.gov/uploadedfiles/bill_text.pdf)) would have on tuition waivers. I've seen quite a bit of reporting (see [here](https://www.npr.org/2017/11/14/563879136/house-gop-tax-plan-would-hit-grad-students-with-massive-tax-hike) and [here](https://mobile.nytimes.com/2017/11/16/opinion/house-tax-bill-graduate-students.html?_r=0&referer=https%3A%2F%2Fwww.google.com%2F), for instance) that the new tax plan turns tuition waivers into taxable income, drastically increasing the tax burden for graduate students based on money that they don't even get.
+
+I'm a graduate student myself (in a STEM field), so this topic is of some personal importance to me. However, I have yet to find a news article that details exactly how this is supposed to work. The NYT opinion piece quoted above references that the bill repeals Section 117(d)(5) of the tax code, but that's as specific as I've seen journalists get. It's rare (read: nonexistant) for such pieces to quote directly from the bill or the tax code and no attempt at real legal analysis is ever made.
+
+I call attention to this fact because there was some good discussion on /r/gradschool recently about this bill and there was one (heavily downvoted) user who was unsure that the tax bill would actually have this result. I found [this analysis](https://surlysubgroup.com/2017/11/06/gop-raises-taxes-on-graduate-students-or-does-it/) by a professor at Notre Dame Law School who goes into some detail as to how the bill and tax code interact and he seems similarly unsure. To quote:
+
+> According to Dr. Wilke, the GOP tax bill now requires those tuition waivers to be included in income. After studying the bill and the current statute, this appeared to be true. So, I ran the numbers for a typical graduate student at my institution. You can read my in-depth calculation in the Twitter thread. But essentially, of the $23,000 stipend that a single Notre Dame student receives, he or she would need to pay approximately $13,350 in federal and state income tax, compared with about $2,500 under current law. That makes a graduate education effectively unaffordable.
+
+> Perhaps I’m naïve, but I have trouble believing that the GOP really intends to take away such a large, important benefit from a huge number of students, whose work is critically important to the betterment of this country. Could the GOP have meant only to target the other provisions in section 117(d), which exclude undergraduate tuition waivers from taxation for employees of a university? Are there remaining provisions in the Code that could save the tuition waiver’s tax-free nature? Let’s take a closer look at the proposal.
+
+He goes into some detail in his analysis, but ... it's complicated. I'm not sure I have understood him well enough to summarize accurately, and so I encourage you to simply read his article.
+
+Does anyone here have any insight as to what exactly is going on with Section 1204(a)(3) and how exactly tuition waivers are handled under Section 117 of the [tax code](https://www.law.cornell.edu/uscode/text/26/117)? I have found mainstream journalism to be incredibly unhelpful in this regard.
+
+Thank you for reading!

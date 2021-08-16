@@ -1,0 +1,13 @@
+RECEPTIONIST: How are you, Miss?
+MATHILDA: Fine...
+MATHILDA: I'm sick with practicing, that's it...
+RECEPTIONIST: I see. You're good, because I didn't hear anything.
+MATHILDA: Yeah. I put a rag on the strings, to lessen noise.
+RECEPTIONIST: Huh? That's smart!
+MATHILDA: I'm used to it. Not everyone likes music.
+RECEPTIONIST: Yeah, true. But what does your father exactly do for living?
+MATHILDA: ...Composer.
+RECEPTIONIST: Huh, that's good!
+MATHILDA: Yeah, but he's not exactly my father...
+RECEPTIONIST: Huh?
+MATHILDA: ...No... he's my lover...

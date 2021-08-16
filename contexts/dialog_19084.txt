@@ -1,0 +1,17 @@
+NAPOLEON: Ah, my dear Francis, what a genuine pleasure it is to meet you at last.
+FRANCIS: I fear our meeting is long overdue... Napoleon.
+NAPOLEON: I'm sorry that I am unable to offer you better hospitality, but this is the only place I have inhabited for the past month.
+FRANCIS: You have made such excellent use of it; I should think you will hate to leave it.
+NAPOLEON: Shall we move closer to the fire?
+FRANCIS: Yes -- an excellent idea.
+NAPOLEON: Will Alexander be joining us soon?
+FRANCIS: I very much doubt that he will.
+NAPOLEON: Oh...?
+FRANCIS: I'm afraid he has been rather upset by the outcome of the battle.
+NAPOLEON: I see.
+FRANCIS: But he asked me to say... on his behalf... that your achievements have increased his... admiration for you, and that he believes... your success is predestined by heaven... and that his army...
+NAPOLEON: My dear Francis, you do seem extremely uncomfortable.
+FRANCIS: I'm afraid I am, just a bit.
+NAPOLEON: Would you like some brandy?
+FRANCIS: Thank you.
+NAPOLEON: I'll have the fire built up.

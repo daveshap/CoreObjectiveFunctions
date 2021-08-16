@@ -1,0 +1,1 @@
+Why xbox one backwards compatibility downloads the game instead of copying disc data to HDD? Emulators like epsxe and pcsx2 use the original disc data. How come X1 can't do the same? Why does it need to download an \"emulator compatible version\"?

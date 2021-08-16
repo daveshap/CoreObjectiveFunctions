@@ -1,0 +1,12 @@
+PSA from the mod team: Please don't report posts just because they seem high-risk to you, thanks.
+We've had a sudden uptick of anonymous people (or possibly one energetic person) clicking "report" and specifying something like "viable threat of self-harm" as the report reason.  We have no idea what the motivation is for these reports, but this is a dangerous and ill-advised practice for the following reasons:
+
+1. Reporting a post increases the probability that it will be snagged by the reddit spam filter.  This is entirely outside the moderators' control.
+
+2. The criteria for these reports seem to be pretty random, and [do not correspond to established, evidence-based risk assessment criteria](http://redd.it/1c7nqf).
+
+3.  Most of the reported posts have had some good, supportive responses, so there doesn't appear to be any special action warranted on the part of the moderators.  
+
+4.  What it says in the sidebar is true - we don't have the resources to trace the source of any post, but we fear that this is what our anonymous reporter is expecting.  So we'd like to point out that "outing" someone can actually increase the inherent risk in a situation rather than decreasing it, especially in the long term, by discouraging them from opening up about their feelings.  Involuntary interventions are almost never necessary, and almost always traumatic.  It's important to remember that anonymity is a safety device in suicide intervention.  It saves far more lives than it costs.  The times when outing someone is the safer choice are the rare exceptions, as when someone gets entangled in a safety harness and needs to be cut out of it.  
+
+If you think an OP needs any kind of special help or intervention from the SW mod team, please [send us a modmail](http://www.reddit.com/message/compose?to=%2Fr%2FSuicideWatch), thanks.

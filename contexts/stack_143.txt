@@ -1,0 +1,1 @@
+What's the maximum power delivery in Macbook Pro 2016, 2017 Thunderbolt 3 ports? I now this interface is capable of 100 watt, but I couldn't find what's the voltage/current capability for these machines through the USB-C ports (neither for the Macbook 12-inch 2015/16/17).

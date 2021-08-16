@@ -1,0 +1,1 @@
+Getting features from a multi-spectral image What are the features that are present in a multi-spectral image which can be used for classification? Also, how do we get these values from the multi-spectral image?I am using Python environment.

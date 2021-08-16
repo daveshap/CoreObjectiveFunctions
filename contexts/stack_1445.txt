@@ -1,0 +1,1 @@
+Making a resistive load using Resistor I am trying to make a load using resistor that can bear 12V 4A rated values.I have calculated a resistance but that has a low resistance and high power rated resistor i.e. 3 ohms 48 Watt resistor. It is impossible to find this so please help me regarding the load resistance.Thankyou

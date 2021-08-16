@@ -1,0 +1,9 @@
+BABY SITTER: This is Doyle's house.
+JEFF: This is L. B. Jefferies, a friend of Tom's. Who am I talking with?
+BABY SITTER: This is the baby sitter.
+JEFF: Oh. When are they expected home?
+BABY SITTER: I'm hired 'til one. They went to dinner and maybe night-clubbing.
+JEFF: Well, if he calls in, tell him to get in touch with L. B. Jefferies right away. I might have quite a surprise for him.
+BABY SITTER: Does he have your number, Mr. Jefferies?
+JEFF: He has it. Thank you.
+BABY SITTER: Goodnight.

@@ -1,0 +1,23 @@
+JESSE: You almost ended my career before it began.
+PINKERTON: Pity.
+PINKERTON: How did you spot the ambush in Torrell?
+JESSE: Last February?
+PINKERTON: Mmm.
+JESSE: You had all those cattle there, so I'd think the extra men were in town from the cattle drive?
+PINKERTON: Yes?
+JESSE: The cows had a brand from a farm just five miles out of town.
+PINKERTON: Damn.
+JESSE: Almost got me in Billings. I saw you there, shooting at me.
+PINKERTON: I went myself to oversee the operation. Didn't help much.
+JESSE: No, that one was close. A couple fellas quit after that one.
+PINKERTON: Oh. That's nice to know. We're going to hang you, you know.
+JESSE: I figured.
+PINKERTON: Was it worth it?
+JESSE: Should have just killed Thaddeus Rains and been done with it.
+PINKERTON: That's what I would have done.
+JESSE: I'm not hanged yet.
+PINKERTON: You cocky little bastard.
+JESSE: Ahh, you'll miss me.
+PINKERTON: No, I'll hang you. But I may miss you just a bit.
+RAINS: This is him.
+PARKER: I remember you.

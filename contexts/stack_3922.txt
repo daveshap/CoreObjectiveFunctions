@@ -1,0 +1,1 @@
+Selecting ARIMA p,d,q paramerters for hourly data with 24 hour cycle I am working with an ARIMA model using data with hourly resolution and a 24 hour cyclical pattern. When I run an ACF on the data I can see a peak at a lag of 24. Does this mean I set p to 24 or am I missing something. I have found this slow to run.

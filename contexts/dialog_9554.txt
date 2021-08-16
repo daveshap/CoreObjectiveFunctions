@@ -1,0 +1,3 @@
+ALEX: You know what to do.
+CLEAR: No! No! Don't!
+ALEX: When I do this.. it'll have skipped you... and it'll all be over.

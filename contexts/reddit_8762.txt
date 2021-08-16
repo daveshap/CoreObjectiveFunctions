@@ -1,0 +1,24 @@
+Is Quebec Bill 62 constitutional?
+Quebec's National Assembly voted [today](http://www.cbc.ca/news/canada/montreal/quebec-niqab-burka-bill-62-1.4360121) to pass [Bill 62](http://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-62-41-1.html) which requires that persons receiving services from Quebec government personnel must have their face uncovered.  The law allows accommodations only on the following grounds.
+
+>A personnel member of a body who deals with a request for an
+accommodation on religious grounds must make sure that
+
+>(1) the accommodation request results from the application of section 10
+of the Charter of human rights and freedoms (chapter C-12);
+
+>(2) the accommodation requested is consistent with the right for equality
+between women and men; and
+
+>(3) the accommodation requested does not compromise the principle of
+State religious neutrality.
+
+>The accommodation must be reasonable in that it must not impose undue
+hardship with regard to, among other considerations, the rights of others, public
+health and safety, the effects on the proper operation of the body, and the costs
+involved.
+
+>An accommodation may be granted only if the person making the request
+has cooperated in seeking a solution that meets the criterion of reasonableness.
+
+News reports have indicated that [constitutional challenges are likely.](http://www.cbc.ca/news/canada/montreal/burqa-niqab-national-assembly-quebec-liberal-government-stephanie-vallee-1.4357463)  In particular at issue would be s. 2a of the [Canadian Charter of Rights and Freedoms](https://en.wikisource.org/wiki/Constitution_Act,_1982/Part_I) and whether or not Bill 62 would satisfy the [*Oakes* test](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/117/index.do) if it is found to be incompatible with s. 2a of the Charter.

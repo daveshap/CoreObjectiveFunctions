@@ -1,0 +1,1 @@
+Need help with dual booting I tried dual booting Ubuntu and windows but when I finish the installation it just brings me back to windows. No option for ubuntu or anything. Any replies are greatly appreciated

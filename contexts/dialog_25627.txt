@@ -1,0 +1,15 @@
+STAR MAN: I am not a good singer.
+JENNY: That was beautiful.
+STAR MAN: You liked my singing?
+JENNY: Yes. Sing some more.
+CLERK: What can I do for you folks?
+JENNY: How much are your rooms?
+CLERK: Thirty-seven fifty for one person, forty-nine fifty for two.
+JENNY: You have one with two beds?
+CLERK: Sure.
+JENNY: I'll take that.
+CLERK: Fill this out. Will this be cash or credit card?
+JENNY: Credit card.
+CLERK: I'll have to run your card off now.
+JENNY: We're only going to be here a few hours...
+CLERK: It's still the full price.

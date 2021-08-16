@@ -1,0 +1,14 @@
+BOBBY: I need a ticket.
+CLERK: Where to?
+BOBBY: Out of here.
+CLERK: But, in particular?
+BOBBY: I ... Mexico. You got a bus that goes to Mexico? That's where I have to go.
+CLERK: Mexico is a large country. Where in Mexico would you like--
+BOBBY: I don't care, just get me there.
+CLERK: How about Ciudad Juarez? You could take a local, arrives in two hours, and transfer in Albuquerque. It'll get you across the border.
+BOBBY: How much?
+CLERK: One way, or round trip?
+BOBBY: One way.
+CLERK: 30.55. Twenty more will get you back.
+BOBBY: Twenty-seven, fifty. That's all I got.
+CLERK: The ticket is 30.55.

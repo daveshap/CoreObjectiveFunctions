@@ -1,0 +1,8 @@
+KIRK: I say again: Grissom, this is Enterprise. Admiral Kirk calling Captain Esteban or Lieutenant Saavik. Come in!
+KRUGE: Report status!
+TORG: We are cloaked. Enemy closing on impulse power. Range, 5,000 Kellicams.
+KRUGE: Good. This is the turn of luck I have been waiting for.
+CHEKOV: Nothing on my scanner, sir.
+KIRK: Short range scan, Mr. Chekov... On screen, Mr. Sulu.
+MALTZ: Range: 3000 Kellicams.
+KRUGE: Steady. Continue on impulse power.

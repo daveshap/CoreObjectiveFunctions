@@ -1,0 +1,8 @@
+Question: How do you go about understanding complex models/math you've never seen before?
+Essentially what the title says. I'm in an ecology/evolution background with a fair deal of coding and understanding of math concepts. However recently I've been trying to better understand some models seem perfect for my project based on its use but feel so road blocked everytime I open a paper.
+
+Most of the trouble comes from either not knowing what a symbol is/means (found out an uppercase pi means product of by googling what does daddy pi do). Naturally this means I am stuck trying to figure out what each step means and how to utilize it properly.
+
+Aside from taking classes, how did you start to understanding complicated models or math? Did you have to spend a few days going through every step, or did you just plug and play with the model and hope for the best?
+
+Btw, the modeling I'm stuck on at the moment is for Joint Species Distribution Models from Tikhonov et al 2019

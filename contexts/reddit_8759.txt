@@ -1,0 +1,4 @@
+will the repeal of net neutrality actually help with "latency-sensitive telemedicine" as Ajit Pai claims, and if so, to what degree?
+http://www.washingtonexaminer.com/why-ajit-pais-decision-killing-obamas-net-neutrality-fcc-regulation-is-good/article/2641528
+
+the above article contains FCC chairman Ajit Pai's claim that internet fast-lanes will help hospitals. Is this claim true? do hospitals currently have an issue with this, and if so, how bad is it? is it projected to become an issue in the future? Thanks for your time.

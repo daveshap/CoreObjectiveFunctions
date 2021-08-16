@@ -1,0 +1,1 @@
+How to restore Mac OS after installing Linux I'm going to install Linux on a Macbook Air (from ~2013), and I plan on replacing the entire contents of the hard disk (OS, recovery partition, etc).If I want to restore Mac OS, will Internet Recovery work? Do I really just need to hit Command+Option+R during boot? Should I back up something to make restoring easier?

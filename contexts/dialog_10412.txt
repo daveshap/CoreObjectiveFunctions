@@ -1,0 +1,5 @@
+INVESTIGATOR: Hugo! I've found him!
+HUGO: I've found him too.
+INVESTIGATOR: A fingerprint. There's something to be said for nostalgia. What did you find?
+DETECTIVE HUGO: It's not <i>exactly</i> him.
+INVESTIGATOR: Where did you get this?

@@ -1,0 +1,6 @@
+OFFICIAL: You wish to close this account today?
+RATH: That's correct.
+OFFICIAL: How would you like the funds?
+RATH: American currency.
+OFFICIAL: This will take some time.
+RATH: I have all day.

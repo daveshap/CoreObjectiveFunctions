@@ -1,0 +1,1 @@
+Python2.7 not working in 18.04, python3 is installed I have installed ubuntu 18.04 in virtual box and when trying python -v, it says you have python3 installed, I want to remove python 3 or disable so that can use python2.7 and run some scripts i have.

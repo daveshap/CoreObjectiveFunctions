@@ -1,0 +1,1 @@
+VMware Workstation 12 does not run after ubuntu upgrade to 17.10 I have upgraded to Ubuntu 17.10 (from 17.04). Everything seems to work, however, VMware Workstation 12 does not startup anymore. No messages generated. Please help.

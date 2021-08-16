@@ -1,0 +1,15 @@
+SPIVEY: How are you feeling?
+MCMURPHY: Just fine, Doc... In fact, I think I might've put on a couple of pounds since I got here.
+SPIVEY: Good, good, and how are you getting along on the ward?
+MCMURPHY: Come on, Doc, you know as well as I do what's been comin' down in that loony bin.
+SPIVEY: Yes, well, Miss Ratched feels that you're a disturbing influence on the other patients.
+MCMURPHY: Shoot, Doc, the only one I'm disturbing is that old nurse and her fixed ways. That's all.
+SPIVEY: Yes, that may be so, but in making a careful study of your past record, along with your behavior since you arrived here, my feeling is that you are not mentally ill and it is going to be my recommendation that you be returned to Pendleton where they are better equipped to handle your case.
+MCMURPHY: Come on, Doc, you must be kiddin'.
+SPIVEY: I'm afraid not.
+MCMURPHY: Jesus, that old nurse sure wants my ass in a sling, don't she!
+SPIVEY: No, Mister McMurphy, it's just that we cannot offer you the guidance and assistance that you would receive at Pendleton.
+MCMURPHY: Guidance and assistance! That's insane! Doc, ya gotta help me.
+SPIVEY: I'm sorry, but I can't keep you here.
+MCMURPHY: When?
+SPIVEY: We'll let you know.

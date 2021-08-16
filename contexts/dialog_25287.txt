@@ -1,0 +1,9 @@
+BONES: You, ah... You present the appearance of a man with a problem.
+SPOCK: Your perception is correct, Doctor... In order to return us to the exact moment at which we left the 23rd Century, I have used our journey back through time as a referent, calculating the coefficient of elapsed time in relation to the acceleration curve.
+BONES: Naturally. So what is your problem?
+SPOCK: Acceleration is no longer a constant.
+BONES: Well, you're gonna have to take your best shot.
+SPOCK: ... Best shot...?
+BONES: Guess, Spock. Your best guess.
+SPOCK: Guessing" is not in my nature..."
+BONES: Well nobody's perfect...

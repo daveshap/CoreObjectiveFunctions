@@ -1,0 +1,35 @@
+If States representing 270 electoral votes pass the Popular Vote Compact, the Electoral College is effectively dead. The compact currently has 172 electoral votes in 11 states, and more states will hold votes to join. Is this constitutional? What power do states have over their chosen electors?
+Several states have banded together to effectively overturn the [Electoral College](https://en.wikipedia.org/wiki/United_States_Electoral_College) through passage of the [National Popular Vote Interstate Compact](https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact).
+
+Currently representing [172 electoral votes in 11 states and the District of Columbia](https://www.washingtonpost.com/politics/2019/02/26/popular-vote-could-decide-presidential-election-if-these-states-get-their-way/?noredirect=on&utm_term=.13ea77579088), the Popular Vote Compact would de-facto turn national Presidential elections into a popular vote should states representing 270 electoral votes join.
+
+---
+
+In practice, the way this would work is your state electors would go to the winner of the national popular vote instead of your state vote.
+
+**For example, if you live in California and a Democrat won the state popular vote 57%-43%, the Democrat would typically be given the whole 55 electoral votes California has.**
+
+**In this new system, California would look to the winner of the national popular vote. If California still voted 57%-43% for a Democrat and the national vote was 51%-49% in favor of a Republican, the state would give their 55 votes to the Republican.**
+
+---
+
+On the mechanism (from 2nd source):
+
+> The compact would modify the way participating states implement Article II, Section 1, Clause 2 of the U.S. Constitution, which requires each state legislature to define a method to appoint its electors to vote in the Electoral College. The Constitution does not mandate any particular legislative scheme for selecting electors, and instead vests state legislatures with the exclusive power to choose how to allocate their states' electors (although systems that violate the 14th Amendment, which mandates equal protection of law and prohibits racial discrimination, would be prohibited). States have chosen various methods of allocation over the years, with regular changes in the nation's early decades. Today, all but two states (Maine and Nebraska) award all their electoral votes to the candidate with the most votes statewide (the "winner-take-all" system).
+
+On enactment (from the 3rd source):
+
+> “When we hit 270, all these bills take effect simultaneously. Then there’s a pool of 270 electoral votes that’s going to go to whomever gets the most votes in all 50 states,” Koza added.
+
+
+---
+
+Somewhat relevant, [the United States has been willing to move towards direct elections in the past](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution), at least in the case of Senators.
+
+---
+
+I have a couple of questions:
+
+1: Is this constitutional? When and where will this be determined if it's not?
+
+2: States aren't exactly getting rid of their electoral votes - they're just writing legislation that changes the prerogative of their electors. What power do states have over their electors?

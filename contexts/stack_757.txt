@@ -1,0 +1,1 @@
+Why does Ubuntu enable TRIM for certain brands only? So I've been reading that for SSDs, weekly TRIM is enabled by default only for some brands like Samsung and Intel,but not others like Hynix. What's the rationale for this? Should I not enable TRIM on SSDs by other brands because performance/lifespan may be negatively affected?

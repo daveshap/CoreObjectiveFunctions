@@ -1,0 +1,1 @@
+How protected mode in CPU is really implemented? I know what is real and protected mode of cpu execution. But how CPU implements protected mode ? AFAIK cpu does everything what the program says it to do. Where is the protected mode behaviour implemented ? Does OS plays any role in this ?

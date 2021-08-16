@@ -1,0 +1,4 @@
+FAITH: Excuse me?
+CONCIERGE: Mr. Bradley left about a half hour ago. He said his plans had changed unexpectedly. Would you prefer an interior or exterior room?
+FAITH: He couldn't have checked out-- I was supposed to meet him here.
+CONCIERGE: I'm very sorry. Perhaps you misunderstood?

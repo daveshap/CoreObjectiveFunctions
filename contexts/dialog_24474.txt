@@ -1,0 +1,18 @@
+NELS: Now, Mister Gi...
+GILLANDERS: Unwritten rule of the sea. We don't bother each other, stick to ourselves. Ask anybody.
+NELS: Now if you wanted to kill a man. Think you'd try boarding against his will, and hitting him with a fishing gaff?
+GILLANDERS: It's a joke. Maneuver up to Carl's boat? Tie your lines fast? Come aboard? All against Carl's will? It's the stupidest suggestion I ever heard of.
+NELS: I'm sorry about that. It wasn't mine in the first place.
+NELS: So the fishing gaff method wouldn't make sense?
+GILLANDERS: Couldn't get on the boat. I'd just <u>shoot</u> the feller. <u>Then</u> tie up, throw him inta th' drink. And skip bein' the first gill-netter in history to make a successful forced boarding.
+NELS: Now the sheriff believed that the D-6 battery in Carl's well was Carl's own spare. Even though it was too large f...
+GILLANDERS: No sense to have <u>any</u> at all., even the right size. It's like having an extra battery in the trunk of your car. Nobody does.
+GILLANDERS: Boat has two batteries. Lose one you run off the other til morning. Carl musta lost both, so Miyamoto there gave him one a his.
+NELS: Course, if Carl lost both batteries, dead in the water, his radio wouldn't work. So how would he signal for help?
+GILLANDERS: Compressed air horn, most likely. Hope to God some man hears you in that fog.
+NELS: All right, what if the defendant <u>heard</u>? So Carl <u>let</u> him aboard, to help. And <u>then</u> the fishing gaff?
+GILLANDERS: You mean Miyamoto followed him out there, and sucker-punched him?
+NELS: Well, what if?
+GILLANDERS: Now, how is Miyamoto gonna know in <u>advance</u>? That Carl loses two batteries. Must happen once ever' 20 years or so.
+NELS: Thank you, Mr. Gillanders. Thank you for coming down, in this cold weather.
+GILLANDERS: Well, it does seem mighty warm in here. Specially for Mr. Hooks.

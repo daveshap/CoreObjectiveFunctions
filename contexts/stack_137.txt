@@ -1,0 +1,1 @@
+Open Browser on Login How would I configure mac's to open a browser to a certain website on login for all users? I work in a lab we need to distribute a survey. I'm looking for a possible terminal command to configure this.

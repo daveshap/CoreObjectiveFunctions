@@ -1,0 +1,8 @@
+Writing in Word vs. LaTeX.
+Hi all,
+
+I am battling between Word and LaTeX. I prefer LaTeX, my advisor prefers Word. I'm sure a lot of people have been in a similar situation.
+
+What would be the best system/method to balance both? Or should I just stick to Word as my boss requires? I have been using latex for over two years now, I tried word several times and every time it seemed way less convenient in general formatting and math formulas.
+
+What helped those of you in a similar situation?

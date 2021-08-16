@@ -1,0 +1,14 @@
+GABRIELA: Only two steps back? Even the man they left to guard me retreated further than that.
+KAFKA: I -- I found your jailer.
+GABRIELA: This is the result of their elixir of youth. They were to come and check on it during the night. I contrived to miss the appointment.
+KAFKA: They're dead now. We can get help.
+GABRIELA: I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon -- with all the others.
+KAFKA: There's a new potion -- he said it was perfected.
+GABRIELA: I know there is. And you're what I have to bargain with. For now you're the last one in their way.
+KAFKA: I told you, they're <u>dead</u>. It's finished.
+GABRIELA: Why should I believe a man who never believed me? They're absolutely right, you know -- guilt should never be doubted. It's easier that way.
+GABRIELA: I think you've just escaped for the moment. Just as I did. As Eduard did. As they let us do. But only for the moment.
+KAFKA: No -- not this time.
+GABRIELA: I know better than you what people will say when they have to. When they brought me in for questioning I informed on my friends the very first day.
+KAFKA: -- Listen to me --
+GABRIELA: I do. Always. You understand the world better than any of us, Kafka. And what it's becoming. I've always held you in the highest regard.

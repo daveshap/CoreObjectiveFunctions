@@ -1,0 +1,32 @@
+MELKONIS: We can't go into hypersleep with that thing running around loose.
+HUNTER: We'd be sitting ducks in the freezers.
+ROBY: But we can't kill it. If we kill it, it will spill all its body acids right through our hull and out into space.
+FAUST: Shit...
+STANDARD: We'll have to catch it and eject it from the ship.
+MELKONIS: Well, I kind of hate to point it out, but all our supplies are based on us spending a strictly limited amount of time out of suspended animation... and as you know, we used up most of that time in harvesting.
+STANDARD: We've got about a week left, right?
+HUNTER: And then we run out of food and oxygen.
+FAUST: The water will still recycle.
+ROBY: We won't need it then.
+STANDARD: All right, so that's what we've got. A week. It's plenty of time.
+ROBY: But if we <u>haven't</u> caught it in a week, then we have to go into the freezers anyway.
+STANDARD: So does anybody have any suggestions?
+FAUST: We could put on our pressure suits and blow all the air out of the ship. That would kill it.
+STANDARD: No, we can't afford to lose that much oxygen. We're going to have to flush it out.
+MELKONIS: How?
+STANDARD: Room by room, corridor by corridor.
+MELKONIS: And what do we do when we find it?
+STANDARD: We'll have to trap it somehow. If we had a really strong piece of net, we could bag it.
+FAUST: We could cut a section out of that metallite netting. It won't hold up to that acid, but aside from that it's pretty strong.
+ROBY: We have to avoid injuring it. What we really need is some electric animal prods.
+HUNTER: I think I could cobble something together. A long metal rod with a battery in it. Give it a hell of a shock.
+STANDARD: Good. Get on it. But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets. Let's get down to the locker and change.
+STANDARD: I thought I'd find you here.
+MELKONIS: I was thinking of a line from an old poem: Water
+STANDARD: That's the one about the albatross, right?
+MELKONIS: We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust. We are utterly, absolutely alone. Can anybody really visualize such a scale of distances? Halfway across Creation...
+STANDARD: We came out there, we'll go back. A long time by the clock, but a short time to us.
+MELKONIS: Time and space have no meaning out here. We're living in Einsteinian equation.
+STANDARD: I can see you're putting your spare time to good use. Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall. I've seen it happen.
+MELKONIS: We're the new pioneers, Chaz. We even have our own special diseases.
+STANDARD: Come on -- let's go above and see how they're coming with the gear.

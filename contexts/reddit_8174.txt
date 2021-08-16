@@ -1,0 +1,6 @@
+Is it legal for Trump to appoint a new acting director of the CFPB without Senate confirmation?
+Richard Cordray, director of the Consumer Financial Protection Bureau, resigned.  According to the law that created and defined the CFPB, if the director position is vacant, the acting director takes over until a new permanent director is confirmed by the Senate.  Cordray's deputy thus took over as acting director ... but Trump just named a new acting director.  He claims he has authority to do this under the vacancies act, which lets the president fill vacancies with temporary people until permanent ones are nominated and confirmed.  This doesn't seem to make sense to me, because the law says who the acting director is and thus there's no vacancy there, and the permanent director is a position he can only fill either with Senate confirmation or a recess appointment.  But Trump's office of legal counsel signed off on it and says it's legal.
+
+What's the precedent here?  What's the law?  Is what Trump is trying to do, actually legal?
+
+http://www.cnn.com/2017/11/25/politics/white-house-cfpb-mulvaney/index.html

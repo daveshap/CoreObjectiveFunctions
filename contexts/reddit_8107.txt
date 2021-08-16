@@ -1,0 +1,8 @@
+Net Neutrality: John Oliver vs Reason.com - Who's right?
+John Oliver recently put out another Net Neutrality segment [Source: USAToday Article](https://www.usatoday.com/story/life/entertainthis/2017/05/08/john-oliver-net-neutrality-last-week-tonight-ajit-pai/101422806/) in support of the rule.  But in the piece, it seems that he actually makes the counterpoint better than the point he's actually trying to make. [John Oliver on Youtube](https://www.youtube.com/watch?v=92vuuZt7wak&t=4s)
+
+Reason.com also posted about Net Neutrality and directly rebutted Oliver's piece.  [Source: Reason.com](https://reason.com/reasontv/2017/05/19/net-neutrality-nixed-why-john-oliver-is). [ReasonTV Video on Youtube](https://www.youtube.com/watch?v=6txA3pI0xJI)
+
+It seems to me the core argument against net neutrality is that we don't have a broken system that net neutrality was needed to fix and that all the issues people are afraid of are hypothetical.  John counters that argument saying there are multiple examples in the past where ISPs performed "fuckery" (his word).  He then used the T-Mobile payment service where T-Mobile blocked Google Wallet.  Yet, even without Title II or Title I, competition and market forces worked to remove that example.  
+
+Are there better examples where Title II regulation would have protected consumers?

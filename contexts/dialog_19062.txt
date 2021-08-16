@@ -1,0 +1,32 @@
+NARRATOR: His moods at this time were complex and varied.
+NAPOLEON: Life is a burden for me. Nothing gives me any pleasure; I find only sadness in everything around me. It is very difficult because the ways of those with whom I live, and probably always shall live, are as different from mine as moonlight is from sunlight.
+NARRATOR: He made friends with a family called Columbier, and would later write of his first flirtation with their daughter, Caroline.
+NAPOLEON: It will scarcely be considered credible, perhaps, but our whole business consisted in eating cherries together.
+GIRL: Good evening, sir.
+NAPOLEON: Good evening, Mademoiselle.
+GIRL: The weather is terrible, isn't it, sir?
+NAPOLEON: Yes, it is. It must be one of the worst nights we have had this winter.
+GIRL: Yes, it must be.
+NAPOLEON: You must be chilled to the bone, standing out of doors like this.
+GIRL: Yes, I am, sir.
+NAPOLEON: Then what brings you out on such a night?
+GIRL: Well, one must do something to live, you know -- and I have an elderly mother who depends on me.
+NAPOLEON: Oh, I see... That must be a great burden.
+GIRL: One must take life as it comes -- do you live in Lyon, sir?
+NAPOLEON: No, I'm only here on leave. My regiment is at Valence.
+GIRL: Are you staying with a friend, sir?
+NAPOLEON: No... I have a... room... at the Hotel de Perrin.
+GIRL: Is it a nice warm room, sir?
+NAPOLEON: Well, it must be a good deal warmer than it is here on the street.
+GIRL: Would you like to take me there, so that we can get warm, sir?
+NAPOLEON: Uh-hh... yes, of course -- if you would like to go... there... but... I have very little money.
+GIRL: Do you have three francs, sir?
+GIRL: Br-rrr, these sheets are like ice.
+NAPOLEON: Oh, I'm sorry about that.
+NAPOLEON: What's your name?
+GIRL: Lisette.
+NAPOLEON: Only Lisette?
+GIRL: Lisette La Croix.
+NAPOLEON: That's a very nice name. Where are you from?
+GIRL: Please, sir, come into bed or I shall die of a chill.
+NAPOLEON: Oh, yes... of course.

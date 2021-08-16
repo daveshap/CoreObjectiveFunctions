@@ -1,0 +1,8 @@
+MAJOR: Your bag?
+MARIETTE: Yes, my bag!
+MAJOR: Didn't you take it with you?
+MARIETTE: Apparently not. Don't you know where it is?
+MAJOR: No--I'm sorry.
+MARIETTE: But you saw it here.
+MAJOR: Yes, I saw it--but--
+MARIETTE: Well, where is it?

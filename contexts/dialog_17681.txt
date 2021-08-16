@@ -1,0 +1,6 @@
+TANNER: Program name?
+SYNTHETIC VOICE: Resurrection.
+TANNER: Connect to public access.
+SYNTHETIC VOICE: Access established.
+TANNER: Select uplink for Federal Communications Office. Department of Enforcement.
+SYNTHETIC VOICE: Uplink selected.

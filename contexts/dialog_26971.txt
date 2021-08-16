@@ -1,0 +1,10 @@
+NICHOLAS: Who are they?""
+CHRISTINE: I don't know, nobody does. I'm an employee.
+NICHOLAS: Then, what good are you?
+CHRISTINE: I know things... like who you can trust. Like that your brother was in on it from the beginning.
+NICHOLAS: That's a lie...
+CHRISTINE: Yeah? I was your waitress on your birthday. Connie told you about C.R.S. that day, remember? I was already playing my part, <u>before</u> you started the game.
+CHRISTINE: It wasn't his fault. He thought it was his only way back. They fleeced him real good.
+NICHOLAS: How? How could they have gotten anything?
+CHRISTINE: They did the same to him as they did to you.
+NICHOLAS: What are you talking about... ?

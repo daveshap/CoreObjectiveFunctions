@@ -1,0 +1,6 @@
+CLERK: You ever held another job before?
+KIT: I used to throw trash for the City.
+CLERK: You lost that one?
+KIT: Wouldn't be here if I hadn't.
+CLERK: What kind of work do you think you would be qualified for?
+KIT: I can't think of anything at the moment... I'd like you to write me out a slip, though, proving I came down here.

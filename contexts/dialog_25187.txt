@@ -1,0 +1,4 @@
+KIRK: Mr. Chekov -- ?
+CHEKOV: An energy reading from 'C deck -- from inside Mr. Spock's quarters..."
+KIRK: Mr. Chekov, I ordered Spock's quarters sealed!
+CHEKOV: Yes, sir, I sealed the room myself. Nevertheless -- I am reading a life form there.

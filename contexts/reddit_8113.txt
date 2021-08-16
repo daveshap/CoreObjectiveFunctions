@@ -1,0 +1,18 @@
+What, if any, gun control measures have been shown to be effective in reducing violent crime and/or suicide?
+**Mod note:** We have been getting a large number of submissions on gun control related subjects due to [the recent shooting in Florida.](https://www.nytimes.com/2018/02/14/us/parkland-school-shooting.html)  This post is made on behalf of the mod team so that we can have a rules-compliant submission on the subject.
+
+---
+
+The United States has [the highest rate of guns per capita in the world](https://en.wikipedia.org/wiki/Estimated_number_of_guns_per_capita_by_country) at about 1 gun per resident, nearly twice as high as the next highest country, Serbia, which has about 0.58 guns per resident.
+
+That number however masks a fairly uneven distribution of firearms.  [Roughly 32-42% of Americans report that they live in a household with guns,](https://www.cnn.com/2018/02/15/politics/guns-dont-know-how-many-america/index.html) though the only data we have come from surveys, and therefore there is a margin of error.
+
+Both of the principal surveys showed that rates of gun ownership declined from the 1970s-1990s and have been about steady since.
+
+Surveys also estimate that among gun owners, the number of firearms owned is highly skewed, with a very small portion of the population (about 3%) [owning half of all firearms in the US.](https://qz.com/1095899/gun-ownership-in-america-in-three-charts/)
+
+The US also has a very high rate of homicide compared to peer countries, and an about average suicide rate compared to peer countries.  [Firearm homicides in the US are much more common than all homicides in any peer country](https://www.cbsnews.com/news/how-u-s-gun-deaths-compare-to-other-countries/) however even US non-firearm homicides would put the US above any western country except the Czech Republic.  The total homicide rate of 5.3 per 100,000 is more than twice as high as the next highest (Czech) homicide rate of 2.6 per 100,000.
+
+The US has a much higher firearm suicide rate than peer countries (6.3 per 100,000) but a fairly low non-firearm suicide rate, which puts the US about middle of the pack on suicides. (same source as above paragraph)
+
+Given these differences, is there any good evidence on different measures relating to guns which have been effective in reducing violent crime, especially homicide, and suicide?  Are there any notable failures or cases where such policies backfired?

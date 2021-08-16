@@ -1,0 +1,1 @@
+Vbox and IP, bridged addapter I have a few computrers connected to one network, they are running Oracle Virtual box with linux and host is windows, will they have a IP conflict or someting like that, (they are using bridged addapter function)

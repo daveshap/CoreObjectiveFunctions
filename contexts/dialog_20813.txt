@@ -1,0 +1,5 @@
+MURTOGG: This dock is off-limits to civilians.
+JACK: Sorry, I didn't know.
+JACK: Some sort of to-do up at the fort, eh? You two weren't invited?
+MURTOGG: No ... somone has to make sure this dock stays off-limits to civilians.
+JACK: This must be some important boat.

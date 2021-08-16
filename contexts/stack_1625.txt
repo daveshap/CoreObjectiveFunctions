@@ -1,0 +1,1 @@
+What is the idle current draw of a charge indicator? What is the most energy efficient charge indicator for a 12v battery? how many mW does it use for every state of charge?

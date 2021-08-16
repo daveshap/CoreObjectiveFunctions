@@ -1,0 +1,1 @@
+How can you show diffeomorphism invariance of closed string field theory? String Field theory if it predicts General Relativity should have 26D space-time diffeomorphism invariance (presumably). How can one show that Closed String Field Theory has this symmetry?(Besides just saying it contains a spin-2 field as one of the components).

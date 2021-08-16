@@ -1,0 +1,1 @@
+Is there a way to define a box around an equation in Pages using Latex? I want to draw a box around formulae I am inserting into a page in Pages using latex. Pages will not accept formulae inside text boxes and this would be a lame method anyway.

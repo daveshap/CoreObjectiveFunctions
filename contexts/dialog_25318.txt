@@ -1,0 +1,3 @@
+PICARD: A ship,
+DATA: It is clearly Federation in origin, Captain.
+PICARD: 'Just a few loose ends to tie up.'

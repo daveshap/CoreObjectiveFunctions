@@ -1,0 +1,6 @@
+Software/app for interviews?
+Hey! I am interviewing a few individuals for a project I'm working on, and was wondering what programs you have used in the past to record audio from Skype calls and phone calls?
+
+ Must be in MP3 file format so I can use a transcript service. Must also be very reliable and good quality audio.
+
+ TIA!

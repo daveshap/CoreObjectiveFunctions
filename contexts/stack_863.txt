@@ -1,0 +1,1 @@
+Streaming pulseaudio to Internet I want to transmit my PC pulseaudio (music) through Internet, from a WineHQ audio app.The app is sounding in my speakers and all looks so fine!!!Which Ubuntu software I have to use to take that audio and put it into the Internet Audio Streaming Service???

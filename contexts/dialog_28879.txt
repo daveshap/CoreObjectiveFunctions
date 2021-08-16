@@ -1,0 +1,20 @@
+FRANÇOIS: I wanted to say goodbye to you.
+GASTON: Goodbye, M'sieu Filiba.
+FRANÇOIS: But before I say goodbye I want to ask you one question: Have you ever been in Venice?
+GASTON: No.
+FRANÇOIS: You've <u>never</u> been in Venice?
+GASTON: No ... Have <u>you</u> ever been in Vienna?
+FRANÇOIS: No.
+GASTON: Amsterdam?
+FRANÇOIS: No.
+GASTON: Constantinople?
+FRANÇOIS: No.
+GASTON: You've never been in Constantinople?
+FRANÇOIS: No!
+GASTON: But you <u>have</u> been in Venice?
+FRANÇOIS: Yes!
+GASTON: Let me tell you, Venice <u>can't</u> <u>compare</u> with Constantinople.
+FRANÇOIS: But--
+GASTON: I don't care <u>what</u> you say! In Constantinople at least you have streets, sultans, pashas--
+FRANÇOIS: And harems ... ?
+GASTON: <u>All</u> <u>kinds</u>.

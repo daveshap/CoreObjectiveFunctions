@@ -1,0 +1,5 @@
+JOE: A lab and equipment.
+AL: Is it familiar? Have you been here before.
+JOE: I was thirsty. He told me to get a drink.
+AL: Who did?
+JOE: The man.

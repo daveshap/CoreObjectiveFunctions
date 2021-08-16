@@ -1,0 +1,1 @@
+Allow X Packets per second with same data length - IPTables I need help, I need a rule to do this:If more then X packets received in second with same data length so drop them all.How can i achieve this using IPTables in Ubuntu?Thanks.

@@ -1,0 +1,8 @@
+Creativity is ellugind me, any wizards to help?
+Hello everyone,
+
+I'm writing a paper that has a lot of abundance/biomass (% of whole) data from >100 species. However, I would like to use some graphs  that  go away a bit from the regular bar/pie/waffle plots. Any ideas about other options of visualization? I've tried different things, but it's always "too much information/color". 
+
+&#x200B;
+
+Any tips are appreciated!

@@ -1,0 +1,1 @@
+Knn Decision boundary I am new to machine learning and trying to draw decision boundary for k nearest neighbor where k=3. I know that the decision boundary for k=1 would be the perpendicular bisector between two different classes. But how do I draw the decision boundary for k>=3.

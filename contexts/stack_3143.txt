@@ -1,0 +1,1 @@
+free electron gas newtonian fluid? Is it appropriate to model a metal's free electrons of as a newtonian fluid?I've seen many approaches doing this but I'm wondering how to justify it.Any ideas?

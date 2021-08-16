@@ -1,0 +1,8 @@
+KIRK: There's got to be a way out of this place.
+SPOCK: This is a new brig, Captain. It is escape-proof.
+KIRK: How do you know?
+SPOCK: The designers tested it using the most intelligent and resourceful person they could find. He failed to escape.
+KIRK: This, er, person... didn't by any chance have pointed ears and an unerring capacity for getting his shipmates into trouble, did he?
+SPOCK: He did have pointed ears.
+CHEKOV: Following new course. Warp seven.
+SULU: Estimating destination in 6.7 hours, present speed.

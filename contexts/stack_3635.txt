@@ -1,0 +1,1 @@
+If my private key is password protected, then how is it used without asking me for it? Relating to TLS and SSH. If my private key is password / passphrase protected, how is this then used automatically during TLS or SSH communication without asking me for the password?

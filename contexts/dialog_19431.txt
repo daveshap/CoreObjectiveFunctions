@@ -1,0 +1,20 @@
+CABBIE: Where to, sir?
+GENE: The Bonaventure. The Bonaventure Hotel. Do you know where that is?
+CABBIE: Amtrack?
+GENE: What?
+CABBIE: You just come in on Amtrack?
+GENE: Uh, yes..
+CABBIE: Business or pleasure?
+GENE: Business.
+CABBIE: Where'd you come from?
+GENE: San Diego.
+CABBIE: Oh, San Diego? I've thought about moving to San Diego. It's hard to make a living in this town. These short hops. Can't make a dime on 'em. To LAX, Pasadena, then I can make a buck. These little hops cost me money.
+GENE: Sorry.
+CABBIE: 'S okay. What do you think?
+GENE: Huh?
+CABBIE: Better in San Diego? More opportunity there? What?
+GENE: I really don't know. I don't live there. I was just visiting...a grave.
+CABBIE: Aw, too bad.
+CABBIE: Somebody close?
+GENE: What?
+CABBIE: The grave. Somebody close?

@@ -1,0 +1,1 @@
+Disable touchpad while typing in LXQt Runing LXQt on Kubuntu 18.04.In the configuration, there is no option to disable touchpad while typing.How do I get this done? Touchpad should be re-enabled after a small delay after the last keystroke?

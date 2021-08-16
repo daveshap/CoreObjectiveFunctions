@@ -1,0 +1,1 @@
+Stop inotifywait instance I made a script to invoke inotifywait.It works fine, but I sometimes want to stop it.How do I stop the last inotifywait instance?I can not understand how to use inotify_rm_watch which I understand is used to close it.7341 ?        S      0:00 inotifywait -m /home/andy/Downloads/ --format %w

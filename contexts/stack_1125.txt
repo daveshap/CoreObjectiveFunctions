@@ -1,0 +1,1 @@
+SQL Agent and DTSX SSIS package: How to get it to email or ftp the output file? (SQL Server 2016) I have a dtsx, and can get SQL Agent to run it as a package on the file system.So that drops the resulting xlsx to disk.How can I get that xlsx emailed or sftp'd somewhere?

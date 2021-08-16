@@ -1,0 +1,1 @@
+Why are higher magic numbers not accurately predicted if nuclear potential is assumed to be a central potential? Nuclei with magic numbers have a higher stability that those without. If we think of the nuclear potential as a central potential though these magic numbers aren't predicted accurately. Why is this so?

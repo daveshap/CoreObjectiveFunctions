@@ -1,0 +1,1 @@
+I'm running Ubuntu 16.04 I'm having issues with this Wi-Fi adapter usb drive worked before now doesn't run or show up on usb. I'm trying to connect wireless to my internet modem and doesn't give me any options. Only works if I plug in Ethernet cable.  Using netgear a6210 wifi adapter usb drive

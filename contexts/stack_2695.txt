@@ -1,0 +1,1 @@
+Structural geology SVG symbol library Is there a public source with an SVG library of symbols for structural geology mapping in QGIS ?

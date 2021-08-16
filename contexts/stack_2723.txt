@@ -1,0 +1,1 @@
+R-matrix for spin chains In algebraic Bethe ansatz procedure, one of the central objects is the R-matrix satisfying the Yang-Baxter equation, but all the papers/books give directly its expression without deriving it, so my question is How can i derive the R-matrix for XYZ/XXZ Heisenberg model?

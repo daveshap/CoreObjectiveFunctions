@@ -1,0 +1,1 @@
+Can exogenous variables in ARIMAX be time series variables? I am trying to do a multivariate forecasting with ARIMAX. And I am not sure if ARIMAX can handle time series features as exogenous variables or it can only handle none time series features or both.

@@ -1,0 +1,16 @@
+ROBY: Yeah, okay.
+STANDARD: Sandy... how far are we from the source of the transmission?
+MELKONIS: Source of transmission is to the northeast... about 300 meters.
+ROBY: Close...
+BROUSSARD: Close enough to walk to!
+STANDARD: Martin, would you run me an atmospheric?
+ROBY: 10% argon, 85% nitrogen, 5% neon... and some trace elements.
+STANDARD: Nontoxic... but unbreathable. Pressure?
+ROBY: Ten to the fourth dynes per square centimeter.
+STANDARD: Good! Moisture content?
+ROBY: Zero. Dry as a bone.
+STANDARD: Any microorganisms?
+ROBY: Not a one. It's dead.
+STANDARD: Anything else?
+ROBY: Yeah, rock particles. Dust.
+STANDARD: Well, we won't need pressure suits, but breathing masks are called for. Sandy -- can you rig up some kind of portable unit that we can use to follow that transmission to its source?

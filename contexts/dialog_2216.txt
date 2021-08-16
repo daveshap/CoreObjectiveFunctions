@@ -1,0 +1,6 @@
+GRIFF: Skipper - could you take a look here...?
+WENDOVER: Something wrong?
+GRIFF: The inertial navigation system. Must have been knocked out in the crash.
+WENDOVER: Why do you say that?
+GRIFF: We're dead in the water. But it indicates we're moving!
+WENDOVER: What????

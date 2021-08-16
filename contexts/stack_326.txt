@@ -1,0 +1,1 @@
+mark mail as read without opening When I get a mail notification I can hover it and I see options to \"delete\" and \"reply\" but I almost never want to do either of those.Normally I want to ignore it, and mark it as read, or I want to open it and read it.Opening it is currently possible.But how can I mark it as read in Notification?

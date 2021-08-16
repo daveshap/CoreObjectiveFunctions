@@ -1,0 +1,12 @@
+New project feels off, how to address this?
+Im a software consultant, which basically means that I work at client's office for a certain period, then change to a new client. I started with my second client ever about a month ago, and it's been rather painful.
+
+The people here are generally nice, but I haven't really gotten any onboarding here. The first three weeks I had nothing to do, despite telling the project leads every day. I have been receiving a vibe that nobody really makes decisions here, no one really knows why I was hired here or what I should be doing.
+
+Whenever I have scraped up something to do, I've either immediately been approached by the project lead letting me know that the task isn't ready for implementation. Other times, the tasks are really obscure and I basically have to go digging the information piece by piece from people all around the place.
+
+The actual coding seems to be really opinionated, but at the same time lacks processes and common quality control. Nothing is documented, and I always have to work on my best guesses. Asking the other developers usually leads to tangential chats and despite multiple effort, I never get any real answers.
+
+This is... Weird. All the other people here seem they're really happy about this place and the project, but I don't. Socially, I've been accepted to the group and people ask how I'm doing, but that's it. No one's on charge, no one is pedantic, nobody documents things, there's no processes. It's a huge hurdle to work on anything here if you haven't already worked here for years.
+
+I've been thinking of discussing this with my own company's people, but I don't want to be a nagger who just wants to have the perfect project. It's just that I want to work here, but it has been made really difficult.

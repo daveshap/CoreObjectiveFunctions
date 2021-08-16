@@ -1,0 +1,3 @@
+DATA: There is a perimeter alert. A ship has entered sensor range.
+BORG QUEEN: Vulcan?
+DATA: No.

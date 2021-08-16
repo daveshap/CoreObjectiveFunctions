@@ -1,0 +1,12 @@
+CLERK: Evening. Welcome to Phoenix.
+LILLY: Good evening. I'd like a single for tonight.
+CLERK: Oh, everything's the same size, same price.
+LILLY: I'm a very light sleeper, traffic noise keeps me wide awake all night.
+CLERK: Those trucks. I know exactly what you mean.
+LILLY: Do you have something around back, facing away from the road?
+CLERK: I'll put you in one thirty-one. Very quiet. Faces the desert.
+LILLY: Sounds perfect. I can park my car back there?
+CLERK: Right in front of the room.
+LILLY: Fine.
+LILLY: And I'll want to leave an early wake-up call.
+CLERK: No problem. My husband gets up the crack of dawn. It's his kidneys.

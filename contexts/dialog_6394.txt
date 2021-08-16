@@ -1,0 +1,10 @@
+JONAS: We've arranged for you to take the blame. Everyone knows how you've been harassing the poor girl.
+JERRY: <u>Liza</u>!
+JONAS: You shouldn't watch, Jerry. It's a moment without hope.
+JERRY: You've never seen her run.
+OPERATOR: Federal Bureau of Investigation.
+LIZA: I need to speak with an Agent Lowry.
+OPERATOR: The office is closed for the evening. Is this an emergency?
+LIZA: Do you <u>have</u> an Agent Lowry in your New York office?
+OPERATOR: Yes.
+LIZA: Then this is a goddamn emergency.

@@ -1,0 +1,1 @@
+Erasing a point in QField Maybe it is a very simple question but i couldn't find it anywhere.I'd like to erase a point feature using QField. If I draw any feature the garbage icon appears but this is not possible by selecting a point (or any other feature) Is it possible? How?

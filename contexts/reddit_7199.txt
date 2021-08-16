@@ -1,0 +1,14 @@
+Nothing to do at work after 8 months
+ Cross post from r/AskEngineers
+
+**Context:** I work for this smallish tech company that has about 300 employees. The company culture is still start-up like because of their size. I am a communication systems engineer. I have pretty much been working on the same assignment with slightly different variations for the past 8 months.
+
+The first 3 or 4 months went by extremely quickly as I was learning new things non-stop like how to interface with the product, learning Python and all of the company's internal codebases, figuring out how to set up instruments properly to capture data, fixing problems as I uncovered them, etc.
+
+The next 2 months slowed down but I used it as an opportunity to go back and really iron out all the stuff that I had worked on previously. I prettied up my testing scripts, made them easier to debug and extend, and spent a lot of effort figuring out how to best display my testing results so that others would understand.
+
+For the last 3 months, I have been doing nothing useful at work. I had enough free time that I was able to fully automate my tests which ... means I have even less to do. I have been coming in late and only leaving slightly later than normal to offset that, but I really feel like the weeks go by without me having done any actual productive work. I keep asking my boss for more assignments to work on, but most of what he assigns are a slight variations of stuff that I am already doing.
+
+He tells me that he wants me to get trained on other parts of the systems we're working on but hasn't made any time to do so. What has been happening is he runs through a quick explanation and points me to an out-of-date resource to read on my own time. I quickly realize that the resource doesn't apply to the project's current status and I explain it to him. He's a bit surprised and tells me that he's a little busy but that we should have a conversation about how to proceed later. I flag him down at a later time and the cycle repeats itself.
+
+I'm getting really anxious because of the lack of work and direction. Is this normal? I've tried offering to help other people around the company too but they usually don't have stuff for me to do. I've been picking up other, non-coding, skills that could help me out at work but I don't have any chance to apply them because of the lack of assignments / training.

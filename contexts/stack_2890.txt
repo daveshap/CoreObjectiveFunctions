@@ -1,0 +1,1 @@
+Are the curvature Frank elastic constants of the liquid crystal the no-zero elements of the 6x6 elastic (stiffness) matrix? I was reading Landau's book on elasticity theory, and it raised this doubt.Can anyone help me?

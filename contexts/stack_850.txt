@@ -1,0 +1,1 @@
+Can I install PHP 5.3.5 on Ubuntu Server 18.04 LTS? I want to know how to install PHP 5.3 on Ubuntu Server 18.04 LTS, because I have a system that requires PHP 5.3 only.Is this possible?

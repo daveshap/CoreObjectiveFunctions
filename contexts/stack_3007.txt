@@ -1,0 +1,1 @@
+Why is the emf induced in a closed spiral in a time-changing magnetic field less than that induced in a closed loop of the same radius? I don't get it. Is the area linked different?  Or is it something less?This is the kind of closed spiral I'm thinking of:

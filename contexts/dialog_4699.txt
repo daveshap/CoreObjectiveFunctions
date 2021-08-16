@@ -1,0 +1,6 @@
+MARIE: Can I help you?
+BOURNE: This your store?
+MARIE: Yes.
+BOURNE: Think I could rent a scooter?
+MARIE: You have ID?
+BOURNE: Not really.

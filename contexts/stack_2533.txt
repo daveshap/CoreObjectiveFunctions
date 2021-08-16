@@ -1,0 +1,1 @@
+Calculating NDVI of ONLY desired region using ArcGIS Desktop? I want to Calculate NDVI of my Surrounding Area using Landsat 8.I have Calculated NDVI but it is rather a very big region.Can NDVI be calculated for a small specified region or can I extract my desired region from calculated NDVI?

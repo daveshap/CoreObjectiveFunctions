@@ -1,0 +1,1 @@
+How to upgrade lighttpd 1.4.33 to 1.4.47 on Ubuntu 14.04 I have installed lighttpd using:sudo apt-get install lighttpdHowever, the version installed is 1.4.33.How can i upgrade to the latest stable release which is 1.4.47?Edit: Looks like i can only upgrade to 1.4.45. How can i do that?

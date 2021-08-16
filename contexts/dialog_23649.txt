@@ -1,0 +1,6 @@
+JACK: Mr. Ullman?
+ULLMAN: Yes?
+JACK: I'm Jack Torrance.
+ULLMAN: Oh, well - come on in Jack.
+ULLMAN: Very nice to meet you.
+JACK: Nice to meet you, Mr. Ullman.

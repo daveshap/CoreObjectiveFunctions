@@ -1,0 +1,1 @@
+Charge decay (leakage) of a charged metallic sphere I have a spherical ball (charged to a specific charge) and the charge on the ball leaks to the surrounding. I observe that the charge on the ball reduces exponentially. Can anyone give a theoretical model (a simple one) explaining the phenomenon?

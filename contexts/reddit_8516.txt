@@ -1,0 +1,10 @@
+[META] Seeking feedback on how to handle submissions from OP with an agenda that are otherwise compliant with the rules
+Dear users,
+
+Recently we have approved several posts of a generally rules-compliant question where it was later revealed by OP's interactions with users in the comments that the purpose was to promote and defend a particular narrative. Many users complained that OP was acting in bad faith and that the framing of the post was not neutral, even if a literal reading of it seemed to be.
+
+The mods are looking for feedback on what to do about such submissions. As it stands now, we're obligated to approve them, since otherwise we could rightly be accused of not complying with the rules and standards we have set.
+
+But changing the rules to account specifically for this phenomenon would add an element of discretion. We would go from just looking at compliance with the language and source rules to also determining whether we believed the OP was posting in good faith to get answers to the questions they were posing. This would introduce an avenue for bias, or at least open us up to accusations of bias.
+
+So, we'd first like to know if the users think this is a big problem on NP? And if so, do you have suggestions on how we should address it?

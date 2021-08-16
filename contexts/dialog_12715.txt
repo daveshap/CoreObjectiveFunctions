@@ -1,0 +1,37 @@
+TAUPIN: Run!
+KNIGHT: MACLEOD!
+BRENNA: Jesus Christ.
+TAUPIN: You'll be safe here. He won't kill in a church.
+BRENNA: Why not?
+TAUPIN: Tradition.
+BRENNA: What the hell is going on?
+CONOR: Afternoon.
+ROMIREZ: Your name is Conor?
+CONOR: Aye.
+ROMIREZ: Juan Cid Romirez. Chief surveyor and alchemist.
+CONOR: You're not from these parts.
+ROMIREZ: I am from Spain. And I would like a moment of your time.
+CONOR: I haven't much to offer, Mr. Romirez from Spain, but you're welcome to what's here.
+ROMIREZ: Please go to no trouble.
+ROMIREZ: Your back, it would seem perhaps you were injured in battle?
+CONOR: Five years past me clan fought another over some- thing I cannot even re- member.
+ROMIREZ: Your marks would suggest great injury.
+CONOR: I was nearly killed.
+ROMIREZ: But you lived.
+CONOR: I did at that.
+ROMIREZ: And but for a mark you are well as any man, no?
+CONOR: Aye.
+ROMIREZ: I should imagine that your recovery must have alarmed your fellow villagers, perhaps giving them reason to invent an explanation. And a solution.
+CONOR: I was driven out.
+ROMIREZ: And now you live in a small village miles away from all you knew.
+CONOR: How can you know this?
+ROMIREZ: First food, no? A good meal makes conversation so much easier.
+ROMIREZ: Hmm, que rico. What is it you call this?
+CONOR: Pheasant.
+ROMIREZ: You Scots have a way with game. It still has life in it. Spirit. Back home the food is so...domestic.
+CONOR: Why are you here?
+ROMIREZ: I was sent by his majesty of Spain to Inverness as a con- sultant on matters of metal.
+CONOR: You're a long way from Inverness.
+ROMIREZ: In my travels I heard the story of the MacLeod boy struck down and brought from the hand of death by powers not of this Earth.
+CONOR: You know me home. Me name.
+ROMIREZ: It was time for our paths to cross.

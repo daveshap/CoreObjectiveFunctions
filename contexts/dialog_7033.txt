@@ -1,0 +1,4 @@
+WHITE: Sell maps?
+BARBER: What of?
+WHITE: The city. I need to get to the ocean.
+BARBER: Nope. No maps. Ocean, huh? On vacation?

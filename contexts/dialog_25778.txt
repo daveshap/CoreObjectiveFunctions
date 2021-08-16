@@ -1,0 +1,4 @@
+LA FORGE: Well?
+DATA: I believe the beverage has provoked an emotional response.
+LA FORGE: Really? What do you feel?
+DATA: I am uncertain. I have had little experience with emotions. I am unable to articulate the sensation.

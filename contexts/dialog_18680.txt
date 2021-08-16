@@ -1,0 +1,10 @@
+MUMFORD: Dr. Delbanco. It's nice to see you again.
+DELBANCO: I don't think you know Dr. Sheeler. She's the other therapist here in town.
+MUMFORD: Of course... I've heard great things about you.
+SHEELER: Thank you.
+DELBANCO: You never got back to me. ...I called to say we'd like to take you out for a meal?... Kind of a professional welcome.
+MUMFORD: Forgive me, please. What a gracious thought. We must do that.
+SHEELER: When?
+MUMFORD: Why don't I call you when I've got my calendar in front of me?
+DELBANCO: What are you doing for lunch?
+MUMFORD: Right now?

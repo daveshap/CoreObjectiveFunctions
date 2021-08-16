@@ -1,0 +1,50 @@
+How to know your about to be fired in the IT world.
+## NOTE## Don't think of this as a bible here, more or less this is from my perspective and experience. ####
+
+One thing that is great about IT is it's fairly easy to know when you're about to be shown the door, this often gives you weeks in advance to prepare for it and get as many resumes out into the internet as possible before the axe comes down.
+
+One of the primary reasons for firing is the company owner is more often than not clueless about tech, and often will think of IT as a utility (sort of like an expensive electric bill) combine ignorance with bottom-line level thinking your job in IT is always hanging on by a thread; so the owner might not care you spent all weekend rolling out a dozen VM's or installing VPN's all throughout the state, and this is fine as it's also your job to educate them on that necessity, but still never be shocked when your time is up and more often than not it can be up fairly quickly. With this in mind I'll offer you some very common scenarios that foreshadow your tech demise:
+
+1. You get a PIP
+
+Generally this has nothing to do with your ability, more often than not this occurs due to the hours you work, how tidy your desk is, how often you travel between locations and inter-department communication; you might think these are minor things but since the owner probably doesn't understand everything you do on a day-to-day basis they tend to gauge your performance on triviality and something as simple as leaving too many Linux books on your desk can warrant a negative review. 
+
+The first sign of trouble is the owner now wants you to consult with them on everything you do, be it how you send out emails, to where you are at all times, you begin to feel the sting of micromanagement as everything you say and every location you visit is now logged (and yes that office manager in that remote office WILL report that you got there at 11:15 as opposed to 11:00 when you said you would be there because your owner asked them to) so expect a litany of these issues on your outboarding papers.
+
+2. Your suggestions are more easily dismissed
+
+Remember when you first got there and the owner listened to your suggestion about purchasing a NSA2600 and a couple TZ400's to get the locations standardized and it was a done deal? But now the owner puts simple things on the backburner or you can't push much needed updates as easily and or they require excessive documentation (we'll get to this later) and approval? 
+
+The sign here is that the owner while they still have confidence in your ability to do your job, they don't want to make costly purchases if they know you'll be out the door in two-weeks, and if this device arrives and your no longer there then it just sits in a storage closet and wastes money... No one wants to spend money on equipment if there are no operators for that equipment. 
+
+If you notice the owner seemingly giving you the slight on recommendations that would've been a no-brainer three months ago, it's probably time to start looking on job boards.
+
+3. Documentation Frenzy
+
+Documentation is key to order for any organization, any good IT Manager knows this and should be updating all documentation pretty regularly; however if the owner out of the blue starts requesting a bunch of documentation such as tutorials on how you encrypt laptops or step-by-step processes on how to backup the systems then it's safe to assume that there is doom on your horizon.
+
+Look owners hire you to do this stuff for them, documentation serves them ZERO purpose as it would serve you and your subordinates, the goal of getting all this documentation upfront and right now is so when you are shown the door the next guy to sit in your seat doesn't have to metaphorically re-invent the wheel that would slow business processes down.
+
+If your owner asks for this, you're probably in trouble.
+
+4. The Consultants
+
+Every now and then the owner might bring in a consultant to help with certain IT functions that might overwhelm you such as setting up SQL databases and or some programming that is time-intensive, there is no problem with this but do understand a consultant is a double edged sword.
+
+Consultants can't make any money unless there is a "problem" that needs to be solved, and often times that problem becomes you, the consultant will often tell the owner about how cheap his services are in comparison to your salary, he might bring up words like "best practices" and begin to cast doubt on your ability to do your job. 
+
+Something as simple as "the passwords aren't strong enough" or "The VM's aren't best practice" is enough to cause reasonable doubt, even if under your watch there has been ZERO security risks and 99.99% up-time the consultant doesn't NEED to prove he or she is better, they just need to plant the idea in your superior's heads that A) you're expensive and B) your becoming a liability
+
+If a consultant is hanging around longer than what would be expected for project completion, rest assured that he is whispering sweet nothings into the owners ears about how his company can do SLA's at a 30% discount; since businesses are bottom-line this is poisonous to your career.
+
+5. The passwords, and the end of you.
+
+Every now and then the owner might want a password or two for a few systems, this is pretty normal as a owner might want to see all the folders on your shared drive and a domain admin account makes sense for that. 
+
+But if you come in one Monday morning and suddenly the owner wants the passwords for everything, the Wi-Fi, the anti-virus, the VSphere, the help-desk and anything and everything in between, then rest assure that you'll be boxing everything up by the end of the day.
+
+The moment you start handing over passwords is the moment a hired consultant is on the other end changing them as fast as they get them, and within the hour you can count on your administrator credentials being nuked from the system and you can't login to anything... Feel free to take extra-long on that lunchbreak because the moment you return you'll be greeted by a powered off computer and a HR rep asking for your keys.
+
+So what now?
+
+The good news if you see the signs you can better prepare, and don't dwell on it too much. IT is a large field with a lot of demand and supply it isn't uncommon at all for entire IT departments to be swapped in and out year-to-year, you have a blessing of working in a high-availability career.

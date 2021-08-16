@@ -1,0 +1,3 @@
+Upgrade data analyst skills?
+I graduated with a BS in statistics. I used R and SAS, but it was 2 years ago, so I forgot everything because there is no use for me nowadays. I now work as a tax research analyst. I don’t use any software except for SQL, where I have codes already written for me. I want to transition into data analysis, and it requires knowledge of R, SQL, Python, etc. Is it OK to say that I know R even though I used it in college? How can I qualify to work as a data analyst? 
+My problem is that I don’t have motivation to learn/re-learn these languages now, because I don’t currently use any. Are there assistant jobs where you get a chance to learn these languages, or should I learn/re-learn something before applying?

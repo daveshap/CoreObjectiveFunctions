@@ -1,0 +1,10 @@
+GRANT: Any reserve air?
+OWENS: Enough to breathe, but that's all.
+DUVAL: Just a few cells away from a vast air chamber -- one of the countless Alvioli of the Lung -- and we can't get enough to fill a microscopic tank.
+GRANT: Maybe we can... Skipper, is there a snorkel on this sub?
+OWENS' VOICE: Yes, there is.
+GRANT: Could I run a tube through that Wall, without harming Benes?
+MICHAELS: At this size, I would certainly think so.
+GRANT: If those Corpuscles can take on air, no reason why we can't. All we have to do is hook up the snorkel to that air chamber you were talk1ng about, and when Benes inhales, there should be plenty of pressure to force the oxygen into the tank. How's that sound to you, Skipper?
+OWENS: It's a dangerous procedure. If I miss the timing, we could explode the tanks... But I'm willing to try it.
+MICHAELS: Yes, by all means. We must try it.

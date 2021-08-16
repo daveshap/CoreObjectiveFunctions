@@ -1,0 +1,14 @@
+CLAIRE: Did we get it?
+ETHAN: We got it. On your feet.
+CLAIRE: I want to sleep. Can I sleep here.
+ETHAN: Walk, just walk. Start walking.
+CLAIRE: I'm walking.
+ETHAN: Talking's good, walking's better.
+CLAIRE: Sleeping's better.
+CLAIRE: Are <u>you</u> all right Ethan. What's wrong with you?
+ETHAN: If you're gonna do this again Claire, It's not gonna be on my watch.
+CLAIRE: Oh yeah?
+JACK: Claire.
+ETHAN: Jack.
+ETHAN: IS THERE ANY PARTICULAR REASON WE'RE NOT OUT OF HERE YET?!
+JACK: Just waiting for you, tubs.

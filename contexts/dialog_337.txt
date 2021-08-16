@@ -1,0 +1,8 @@
+SHADOW: Am I disturbing you?
+ZORG: No... not at all. Where are you?
+SHADOW: ...Not far, now.
+ZORG: Really? Maybe I can get you on my screen and see you at last!
+SHADOW: Do you have the picture now Mr. Zorg?
+ZORG: Got it.
+SHADOW: How's our deal coming along?
+ZORG: Fine, just fine! I'll have the 4 pieces you asked for any time now. But it wasn't easy. My costs have tripled.

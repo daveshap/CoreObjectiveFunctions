@@ -1,0 +1,1 @@
+sinewave input input induction motor If we put for standart 3 phase induction motor sinewave voltage input,will we get sinewave current if we measure motor current with osciloscope.At least sinewave like current ?

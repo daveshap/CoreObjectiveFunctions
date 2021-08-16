@@ -1,0 +1,29 @@
+RACHAEL: Have you ever known anybody a long time?
+DECKARD: You mean a woman?
+RACHAEL: Uh-huh.
+DECKARD: What's a long time?
+RACHAEL: Ten years.
+DECKARD: Nope. Nobody could stand me that long.
+DECKARD: Yeah.
+BRYANT: This is Bryant. Are you alone?
+DECKARD: Yeah.
+BRYANT: She's not with you?
+DECKARD: Who.
+BRYANT: Take a number. Canapt 1700, tenth floor, Villa Vita District, Olympia South.
+DECKARD: Got it.
+BRYANT: Okay, here it is. Eldon Tyrell, his family and half his staff were just massacred. The cat is about to get out of the bag. Pressure is definitely on. The Nexus program is terminated. When you finish there, locate Nexus designated Rachael and retire.
+BRYANT: If you don't, we will. It has to be total, Deckard. That's an order from as high as it comes. Got it?
+DECKARD: Yeah. I got it.
+BRYANT: Go.
+RACHAEL: Why do you call it retire, why don't you call it murder?
+DECKARD: Because it's not.
+RACHAEL: Don't you think anything that can suffer deserves to be considered?
+DECKARD: Andies only simulate suffering -- if they're programmed for it.
+RACHAEL: Do you think I simulated what happened between us?
+DECKARD: No, I don't.
+DECKARD: Don't leave here. Don't open the door, don't answer the phone.
+RACHAEL: What difference will it make?
+DECKARD: Just wait here.
+RACHAEL: You know what I think?
+DECKARD: What?
+RACHAEL: That some of the folks around here are more programmed then me.

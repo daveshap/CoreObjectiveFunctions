@@ -1,0 +1,1 @@
+Convert geohash to shape/kml I have a requirement where I need to convert a set of Geohash to KML files such that they can be used as areas to plot data by overlaying on map. Is anyone aware of an open resource which can help me with this conversion.

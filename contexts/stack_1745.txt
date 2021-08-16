@@ -1,0 +1,1 @@
+How can you change grid voltage in a vaccuum valve? I understand in a valve the level of amplification is determined by changes in the voltage of the grid or in the anode, but how can you change the voltage of the grid? And can this be done dynamically, so that you have different voltages over time?

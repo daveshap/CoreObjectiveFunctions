@@ -1,0 +1,4 @@
+RATH/SCREEN: What?
+CONTRACTOR/SCREEN: The contract was stolen.
+RATH/SCREEN: Who?
+CONTRACTOR/SCREEN: A new player. He's using the name Nicholai.

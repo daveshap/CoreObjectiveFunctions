@@ -1,0 +1,1 @@
+How do security experts benefit from reverse-engineering? How can reverse engineering (RE) help a security expert?<br>I've participated in CTF challenges and I have seen RE as an important part of CTFs. Can anyone explain or show me a real scenario that shows how RE or cracking can help hackers break security?

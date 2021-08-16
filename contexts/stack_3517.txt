@@ -1,0 +1,1 @@
+Is it as safe to use a programming language as a browser? To browse the internet on sensitive websites (government websites, banks, etc...), is it as safe to use a modern web browser as a programming language? Specifically, python + requests + beautifulSoup for example?

@@ -1,0 +1,1 @@
+Adding text to label expression in QGIS? Using QGIS 2.18I have line feature and want to add a foot tick mark and a deg symbol to labelthe label as of now  shows \"dis\"   ||  \"Azimuth\" 339045I would like it to show3391' 45 degThe expression is simple and i know the answer is simple as well.

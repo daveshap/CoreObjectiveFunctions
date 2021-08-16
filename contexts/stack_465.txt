@@ -1,0 +1,1 @@
+I'm looking for materials or links about cross-compiling, like eabi, etc I'm looking for materials or links about cross-compiling, like eabi, etc. I'm new to Linux-based cross-compiling, and I want to develop my knowledge.

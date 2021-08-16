@@ -1,0 +1,1 @@
+Monitor SQL Server stored procedure latency What is the best way to capture SQL Server stored procedure latency in SQL Server 2016?Plan is to create a SSRS report and send it to management. We also enabled query store.Thanks much

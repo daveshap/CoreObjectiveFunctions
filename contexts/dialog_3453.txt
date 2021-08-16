@@ -1,0 +1,7 @@
+BEAMEN: Welcome to ya. What's your name?
+EDWARD: Edward Bloom.
+BEAMEN: Bloom like a flower?
+EDWARD: Yes.
+BEAMEN: Oh. Here! Right here. Edward Bloom. We weren't expecting you yet.
+EDWARD: You were expecting me?
+BEAMEN: Not yet.

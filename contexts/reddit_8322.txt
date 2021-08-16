@@ -1,0 +1,8 @@
+The US Supreme Court heard oral arguments today in the Masterpiece Cakeshop vs. Colorado Civil Rights Commission case. What are the legal arguments for each side?
+For those unfamiliar with the case, basically a gay couple (Charlie Craig and David Mullins) came to Masterpiece Cakeshop in Colorado and asked the owner, Jack Phillips, to make a cake for them for their wedding. Phillips told them that although they're welcome to purchase a pre-made cake or other varieties of dessert, he will not create a cake specifically for same-sex weddings.
+
+Craig and Mullins filed a lawsuit against Phillips for discrimination under the Colorado Anti-Discrimination Act ("[CADA](https://law.justia.com/codes/colorado/2016/title-24/principal-departments/article-34/part-6/section-24-34-601)"), which they won in district court. The Colorado Appellate court upheld the ruling saying that Phillips must provide custom cakes for **any** wedding, so long as he offers custom wedding cakes as a service (he has actually stopped making wedding cakes at all since this ruling, a move which he reports cost him 40% of his business and forced him to lay off half of his staff [(Source)](http://www.cnn.com/2017/12/05/politics/supreme-court-masterpiece-cakeshop/index.html). 
+
+Now, Phillips is arguing that CADA violates the [First Amendment](https://www.law.cornell.edu/constitution/first_amendment) by compelling him to create something in conflict with his religious beliefs. 
+
+This will surely be an important First Amendment case for the Court. What are the legal arguments in support of both sides?

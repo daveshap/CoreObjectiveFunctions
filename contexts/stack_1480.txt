@@ -1,0 +1,1 @@
+How much input voltage is required to get 12v from LM2596? I am trying to run WiFi router from a 12v lead acid ups battery. To get a stable 12v output from the battery I used LM2596. Problem is output is always 8.28v-8.50v. No matter how many times I spin the potentiometer out put is 8.28v. Is this a wrong approach to get stable 12v dc from a 12v lead acid battery?

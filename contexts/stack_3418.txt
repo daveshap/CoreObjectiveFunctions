@@ -1,0 +1,1 @@
+Secure forwarding of 2FA SMS codes Do solutions exist for forwarding SMS messages whereby:the service provider stores no logs of messageslogin protection with google authenticator or comparable

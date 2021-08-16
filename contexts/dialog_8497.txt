@@ -1,0 +1,12 @@
+ERIN: Hey -- those are my files --
+THERESA: Yeah, we had them couriered over. And listen, good work. They're a great start. We're just going to have to spend a little time filling in the holes in your research.
+ERIN: Excuse me -- Theresa, was it? There are no holes in my research.
+THERESA: No offense. There are just some things we need that you probably didn't know to ask.
+ERIN: Don't talk to me like I'm an idiot, okay? I may not have a law degree, but I've spent 18 months on this case, and I know more about those plaintiffs than you ever will.
+THERESA: Erin. You don't even have phone numbers for some of them.
+ERIN: Whose number do you need?
+THERESA: Everyone's. This is a lawsuit. We need to be able to contact the plaintiffs.
+ERIN: I said, <u>whose number do you need</u>?
+THERESA: You don't know six hundreds plaintiffs' numbers by heart.
+THERESA: Annabelle Daniels.
+ERIN: Annabelle Daniels. 714-454-9346.

@@ -1,0 +1,15 @@
+DORIE: 'Scuse me, 'Mam. All the ship's doctors is golfing, and I couldn't find nobody to look at this.
+EVELYN: Our doctor's gone too.
+DORIE: Sorry to trouble you.
+EVELYN: Wait, let me look at that... You better come in here.
+EVELYN: How'd you get this?
+DORIE: Boxin'.
+EVELYN: Win?
+DORIE: Yes'm.
+EVELYN: What's your name?
+DORIE: Dorie Miller, 'Mam.
+EVELYN: I'm Evelyn. And I'm just a nurse. But I'm not playing golf, and that cut needs sewing, or else it's gonna make a big lumpy scar. Whatta ya say?
+EVELYN: How often you fight like this?
+DORIE: Every other Sunday. I'm heavyweight champion of the West Virginia.
+EVELYN: What do you get for winning?
+DORIE: Respect.

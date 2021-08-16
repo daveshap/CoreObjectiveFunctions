@@ -1,0 +1,1 @@
+Does CodeWarrior IDE support software debugging of MCF51JM128? IDE -CodeWarriorMicrocontroller-MCF51JM128

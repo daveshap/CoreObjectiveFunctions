@@ -1,0 +1,6 @@
+GEORDI: Ready to deploy the warp nacelles.
+PICARD: As they used to say... all systems are go.
+GEORDI: The Vulcans should be out there right now. We need to break the warp barrier in the next five minutes if we're going to get their attention.
+PICARD: Bring the warp core on-line. I'll lay in a heading.
+GEORDI: The nacelles are charged... nuclear warhead standing by. We're ready to ignite the warp drive.
+PICARD: <U>Engage.</U>

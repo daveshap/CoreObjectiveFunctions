@@ -1,0 +1,1 @@
+Recovering AppleID using my rescue email address My iPhone got stolen and I don't have my AppleID. It was previously set by the vendor who sold me the iPhone. AFAIK, I only have my Gmail set as my rescue email address for the AppleID. Is there anyway to recover the ID so that I can recover my backups?

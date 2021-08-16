@@ -1,0 +1,7 @@
+LAMBEAU: This rectangle is subdivided into rectangles. One edge of an inner rectangle is an integer. Can you prove that one edge of the larger rectangle is an integer?
+WILL: Of course.
+LAMBEAU: Okay. How?
+WILL: It's an integer proof.
+LAMBEAU: That would be a monumental waste of time, wouldn't it, Will?
+WILL: I think so.
+LAMBEAU: I happen to know so.

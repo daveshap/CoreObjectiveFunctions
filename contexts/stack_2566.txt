@@ -1,0 +1,1 @@
+QGIS projected coords vs lat/longs in coordinate capture My project CRS is 23031 (ED50,UTM 31N).Lat long coords displayed in Coordinate Capture are WGS84. How can I get ED50 lat longs when using coordinate capture? Is there a GUI coordinate transform utility that will go back and forwards between projected coords and lat longs in my choice of datum or spheroid?

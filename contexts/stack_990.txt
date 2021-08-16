@@ -1,0 +1,1 @@
+How to install php 5.2 in Ubuntu 18.04 All the answers that I found are already outdated. I can not fix all dependencies by myself. Maybe someone has a guide on what to do to run php5.2?

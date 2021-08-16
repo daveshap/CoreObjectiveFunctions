@@ -1,0 +1,14 @@
+Data Collection and Analysis Within ResLife to Improve Processes
+I work in the ResLife (Occupancy Management) Department of a large US university. I'm looking for ideas about what kind of data I can/should gather to improve processes and support research for higher ed professionals. My predecessor relied heavily on excel spreadsheets and repetitive manual processes. I would like to automate as much as I can.
+
+I work with LLCs, RAs, Honors Students, Athletes, and other special groups. I also do room assignments, room changes, and building setup (new building) across multiple properties.
+
+Most of my work is done in StarRez, though I have access to other tools. Here are a few examples of projects I started recently:
+
+* Compared the GPAs of students on LLC floors vs non-LLC floors
+* Sent targeted messaging to non-traditional aged students to encourage them to apply to our university apartments
+* Compiled data on international students and students looking for gender neutral housing to improve messaging and support research 
+* Your suggestion goes here  
+
+
+I'm looking forward to your suggestions and questions.

@@ -1,0 +1,1 @@
+CANopen CANmessage blocking Is there a trick to block CAN messages from a specific device?I have to block some of CAN messages of my remote controller so that I can send my CAN messages via my Laptop. Otherwise my messages gets overwritten all the time.Not all the messages should be blocked since the emergency button on the remote controller should be kept.

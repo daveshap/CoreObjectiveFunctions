@@ -1,0 +1,7 @@
+LUKE: See Threepio... do you copy?
+THREEPIO: I read you sir.
+LUKE: You're back. What happened? Never mind. What's going on?
+THREEPIO: I'm afraid we're not plugged in at the moment, sir. We've had some problems.
+LUKE: Are you safe?
+THREEPIO: For the moment. We're in the main hangar. Artoo is trying to plug into the system now.
+LUKE: Good. We're right above you. Stand by.

@@ -1,0 +1,8 @@
+How problematic is the national deficit, and does the AHCA take meaningful steps to reduce it?
+This is largely motivated by the [CBO's report on the American Health Care Act,](https://www.cbo.gov/publication/52486) in which the CBO states
+
+> [The] CBO and JCT estimate that enacting the legislation would reduce federal deficits by $337 billion over the 2017-2026 period.
+
+From [what I can find online](http://www.usgovernmentspending.com/federal_deficit_chart.html), the national deficit for 2016 was $587 billion, so a $337 billion reduction seems huge. With only a layman's understanding of the implications of the national deficit for the economy, a reduction of that size seems like a huge positive result of the AHCA. Yet when I look at new sites, for example [CNN](http://www.cnn.com/2017/03/13/politics/cbo-report-health-care/index.html) or [Fox News](http://www.foxnews.com/politics/2017/03/13/obamacare-repeal-analysis-millions-would-drop-coverage-costs-would-fall-under-bill.html), they only include one sentence about the legislation's affect on the national deficit. 
+
+I appreciate that there are many factors at play when it comes to health care, such as the number of people insured and the premiums, which are of course important, but it surprises me that there is almost no discussion about the effect on the deficit. Is reducing the deficit over 10 years an important benefit of this legislation? Are the CBO's claims that it will be substantially reduced accurate?

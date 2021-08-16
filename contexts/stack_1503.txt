@@ -1,0 +1,1 @@
+How to show a long sentence on character LCD by using bascom? I want to show a long message that going to differ every time and it's 3 lines or less. This message comes from Sim900. I cant show the whole sentence on my 4x20 lcd. how can I print it in several lines?

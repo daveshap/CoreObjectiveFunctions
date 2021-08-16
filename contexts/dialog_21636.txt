@@ -1,0 +1,10 @@
+MAXWELL: You here again?
+JONES: Yes. Mr. Buckley thinks you treated him a little rough. He's in the hospital. How about it?
+MAXWELL: Oh, nothing. He is crazy, that's all. I had a little trouble with him.
+JONES: What's that?
+MAXWELL: Oh, nothing. A cou- ple of my patients having a little argument.
+JONES: Take me down there.
+MAXWELL: It won't do any good. They are a pair of would-be mur- deresses fighting it out.
+JONES: Man, you're crazy. What kind of a place is this?
+MAXWELL: Oh, <U>I'm</U> crazy, am I? Let me tell you something. Those women have--the gleam--
+JONES: Come on, we're wasting time.

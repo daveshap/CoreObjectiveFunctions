@@ -1,0 +1,11 @@
+Can the Vice President force legislation from the U.S. House of Representatives before the U.S. Senate for a vote?
+Article I, Clause 4 of the U.S. Constitution provides that "The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided." That's pretty much it for the defined roles of the Vice President. When acting as the President of the Senate, the VP's role is subject to the Senate's rules.
+
+Per Senate Rule VII "MORNING BUSINESS" Part 3 [Rules of the Senate](https://www.rules.senate.gov/rules-of-the-senate),
+>The Presiding Officer may at any time lay, and it shall be in order at any time for a Senator to move to lay, before the Senate, any bill or other matter sent to the Senate by the President or the House of Representatives for appropriate action allowed under the rules and any question pending at that time shall be suspended for this purpose. Any motion so made shall be determined without debate.
+
+(When acting as President of the Senate, the Vice President is by definition the Presiding Officer.)
+
+Specifically for the Presiding Officer, the text says, "The Presiding Officer may at any time lay ... before the Senate, any bill or other matter sent to the Senate by ... the House of Representatives for appropriate action allowed under the rules..." As near as I can tell, this means the bill goes directly before the Senate (instead of coming up for a motion to be considered like when legislation is submitted by a Senator).
+
+The Senate Majority Leader can apparently refuse to allow bills before the Senate for a vote through the various ways the role of Presiding Officer is delegated by the Rules of the Senate, but it seems to me that the rules also imply that if he or she is presiding the Vice President can place a bill from the House on the calendar for a vote. I'm sure I'm missing something, since keyword searches will only get me so far through the parlimentary mess that is the Senate rules. Thoughts?

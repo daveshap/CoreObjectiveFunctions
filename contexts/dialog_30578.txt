@@ -1,0 +1,4 @@
+BREAN: Captain... You wanna Take'er up...?
+PILOT: Heavy weather East of here.
+BREAN: Whaddaya think?
+PILOT: Six to five and pick'em...you wanna <u>chance</u> it...

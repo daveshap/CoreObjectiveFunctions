@@ -1,0 +1,1 @@
+Compatible Hardware for Ubuntu Budgie I am wondering if Ubuntu is compatible on my computer, here is the list of hardware on it:Brand: HPModel: Pavilion HPE h8-1214Motherboard:Gigabyte M3970AM-HP (Angelica)RAM: 10gb DDR3Chipset: AMD 970CPU: AMD FX-6100 6 Core 3.3GHzAudio: Integrated IDT 92HD89E Beats AudioVideo: EVGA GeForce GTX 550 Ti 2gbThis well be very helpful!

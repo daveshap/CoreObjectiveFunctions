@@ -1,0 +1,19 @@
+FAITH: Hello? Is anybody there?
+PHONE: Dwayne Pinsley? I'm trying to reach Dwayne Pinsley.
+FAITH: He's not in at the moment. Can I take a message?
+PHONE: Who's this?
+FAITH: This is his fiancee. Who's this?
+PHONE: Oh, hi. I'm an old high school buddy of Dwayne's. I was in town this weekend, was hoping to stop by and surprise him. But I've gotta catch a plane so I'm afraid I'm not gonna be able to make it.
+FAITH: I'm sure he'll be sorry to hear that. Who should I tell him called?
+PHONE: My name's
+FAITH: I can hardly hear you. Could you spell that?
+FAITH: Damon Bradley...
+PHONE: Right. Thanks a lot. And congratulations. It's not easy finding love these days.
+FAITH: WAIT!! Where are you?
+PHONE: I'm at the airport. Why?
+FAITH: Uh-- in case Dwayne wants to try to reach you.
+PHONE: Well, he'd have to hurry. My flight leaves at four o'clock.
+FAITH: Where are you going?
+PHONE: I'm on my way to Venice. Why?
+FAITH: Venice? I love Venice. With the boats, right?...
+PHONE: Huh? Uh, yeah-- I've gotta run. Tell Dwayne hi. Maybe someday we can all get together.

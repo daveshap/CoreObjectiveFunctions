@@ -1,0 +1,1 @@
+Close Port 587 - Ramifications? Our recent PCI scan failed because \"Plaintext authentication is allowed over unencrypted channel on SMTP.\" As such, our tech support suggested to close port 587.What are the effects of closing port 587, and will it negatively affect sending/receiving emails?

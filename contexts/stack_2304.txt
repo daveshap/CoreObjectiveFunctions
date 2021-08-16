@@ -1,0 +1,1 @@
+Portal 2 re-downloads deleted community maps When I try delete the files directly from the workshop folder on my computer, they are downloaded again when I start up Portal 2? How do I delete them permanently? They are taking up 5GB of space!

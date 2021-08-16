@@ -1,0 +1,1 @@
+Xcode 10 Not Always Jumps to Location of Warning/Error After upgrading to Xcode 10, I have noticed that for some issues (not all) the source code editor no longer jumps to the location of a compiler error or warning when I click said issue on the issue navigator.Any known fix to this? (other than \"delete derived data\etc.)

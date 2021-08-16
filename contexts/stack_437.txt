@@ -1,0 +1,1 @@
+how to simulate any command to see what would happen before actually executing it? I would like to know how to simulate a command before running it, to see what the output would look like.

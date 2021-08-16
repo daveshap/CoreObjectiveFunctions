@@ -1,0 +1,201 @@
+A brief analysis of 2374 college emails
+I had way too much time this weekend, so I decided to go into one of my email inboxes and do a sort of analysis on every email sent to me by colleges. 
+
+A few disclaimers:
+
+- I have two email addresses and have, in the past, used both as my CollegeBoard/ACT email. I decided to use the one that is currently associated with my CB/ACT accounts.
+- I believe I have never deleted a college email or unsubscribed from a college's emails, though I'm not completely sure about this.
+- Some of the numbers may be slightly inflated due to the way I counted them (described below)
+- Certain colleges, like Xavier, sent me a fuckton of emails to my other email address and sent none at all to the one I counted, so this likely will not fully reflect your experience with certain colleges. If you guys want, I could do the same thing with my other email address if I have the time.
+
+Before we start, here's how I counted:
+
+- First, I would pull up all emails with that college's name in either the subject line or the sender name.
+- Then, I counted every email I found that was actually from that college (so I wouldn't count emails I sent to them or emails from my school about them)
+- Then, I subtracted every email that I requested, so things like questions that I asked, visit reminders, application updates, etc. wouldn't be counted. 
+- Finally I put that number under "unsolicited emails" in a spreadsheet.
+
+Because of the way this worked (and also the fact that sometimes my email client didn't respond when I clicked the down arrow) there may be a bit of deviation from the actual number, but that deviation should be relatively small.
+
+Additionally, it's not possible in my email client to filter emails by whether or not they came from a .edu address, so the way I ended up with my final list of what was or wasn't a college email was simply from me looking up "college" or "university" in the search bar and writing down every name I came across. However this excluded a few colleges (notably Yale, MIT, Caltech, Notre Dame, and Rice) which I had to look for after the fact.  Additionally, some colleges sent me emails under different names (like "Princeton University" vs. "Princeton Office of Admissions") and so I may have not fully counted every single email from every single college on the list, but again, it would have been difficult for me to determine when that happened. As a result, the total number of emails I received is probably higher than 2374.
+
+Just one last note: who the fuck named Pennsylvania's university systems? There are two public university systems in Pennsylvania, the Commonwealth System of Higher Education and the Pennsylvania State System of Higher Education. But for some reason, Penn State is in the Commonwealth System and not the *Pennsylvania State* System. To make matters worse, the Pennsylvania State system had the brilliant idea of naming each of their campuses "[city] University of Pennsylvania", and even worse, some genius decided to put two of the campuses in cities named "California" and "Indiana". So now you have universities with names like "California University of Pennsylvania" and "Indiana University of Pennsylvania" which just makes it hard to search for "University of California", "Indiana University", and "University of Pennsylvania". /rant
+
+Anyway, with all that out of the way, here's what I found:
+
+***
+
+# General stats:
+
+**Overview:**
+
+- **115** colleges sent me emails overall
+- The total number of emails I received was **2374**.
+ - The number of unsolicited* emails I received was **2175**.
+- Out of all of these colleges, the average number of unsolicited emails sent was **18.9**.
+- **17** colleges either sent me a custom application or a deadline extension. I didn't apply to any of them.
+
+^(*Note: For the rest of this post, I'll only be referring to unsolicited emails unless I specifically state otherwise.)
+
+**Top 10 spammers**
+
+The top 10 schools that sent the most emails were:
+
+- 1: [Louisiana State University was *by far* the highest, at **102**](https://i.imgur.com/Sta48zt.png)
+- 2: Loyola Marymount University at **68**
+- 3: The University of Iowa at **57**
+- 4: Case Western Reserve University at **55**
+- 5: Rensselaer Polytechnic Institute and Tulane University at **44**
+- 7: Harvard College at **43**
+- 8: Ohio University at **41**
+- 9: Columbia University\*, Duquesne University, and Hofstra University at **40**
+
+^(*For Columbia, I included all the special programs that they sent out, including their dual degree programs with Trinity College Dublin and Sciences Po. If you exclude those, the number of emails they sent goes down to 25. Also note that there was a three-way tie for ninth so I included 11 colleges.)
+
+**T20s**
+
+The number of emails that each top-20 university sent was:
+
+- Princeton: **10**
+- Harvard: **43**
+- Columbia\*: **40** or **25**
+- MIT: **13**
+- UChicago: **25**
+- Yale: **7**
+- Stanford: **3**
+- Duke: **28**
+- UPenn: **11**
+- JHU: **8**
+- Northwestern: **13**
+- Caltech: **17**
+- Dartmouth: **8**
+- Brown: **18**
+- Vanderbilt: 9
+- Cornell: **0**
+- Rice: **22**
+- Notre Dame: **32**
+- UCLA: **0**
+- WUSTL: **25**
+
+^(*As was the case in the previous list, Columbia sent me 40 or 25, depending on whether or not you count their dual degree programs.)
+
+Interestingly, Harvard sent the most out of all the top-20s and all the Ivies, despite being the most well-known. However a large proportion of the emails they sent were specifically about financial aid and student life, so I would guess that this is less of an effort to get their name out there and more to try and make it look more accessible.
+
+**My applications**
+
+The average number of emails for colleges I applied to was only **9.7**, though that includes colleges that didn't send me any emails at all. If you exclude colleges that didn't send any emails to me, then it goes up to **14.5**, still lower than the average of all the colleges that sent me emails. (As a reminder, the average number of emails sent for all colleges that sent me mail was **18.9**.)
+
+***
+
+#Extra things colleges sent me
+
+**Custom applications**
+
+**15** colleges/universities sent me custom applications (I limited these to those schools that send custom applications and then pretend they're something special like "oh you've been selected to apply with our \*special\* application", not the ones that have custom applications open to everyone like MIT or ASU.) They were:
+
+- Bridgewater College: **"Bridgewater Choice Application"**
+- Hampden-Sydney College: **"Gold Crest Application"**
+- Hofstra University: **"Select Candidate Application"**
+- IE University: **"Apex Candidate Application"**
+- Indiana University of Pennsylvania: **"IUP Profile"**
+- Knox College: **"Knox College Application"**
+- Lawrence University: **"Lawrence Application"**
+- Mary Baldwin University: **"Leader's Choice Application"**
+- Montana State University: **"Leader's Edge Application"**
+- Mount St. Mary's University: **"Pinnacle Application"**
+- Radford University: **"Radford Choice Application"**
+- Rensselaer Polytechnic Institute: **"Candidate's Choice Application"**
+- Stevens Institute of Technology: **"Custom Application"**
+- University of Denver: **"Pioneer Application"**
+- University of Kentucky: **"Wildcat Application"**
+
+Not surprisingly, many of these colleges sent more than the rest. The average number of emails for colleges that sent me a custom application was **31.5**. Again, the average out of all the colleges that sent me emails was **18.9** for comparison.
+
+**Deadline extensions**
+
+**12** colleges sent me application deadline extensions. They were:
+
+- Bridgewater College
+- Hampden-Sydney College
+- Lawrence University
+- Mary Baldwin University
+- Montana State University
+- Mount St. Mary's University
+- Rensselaer Polytechnic Institute
+- Stevens Institute of Technology
+- University of Denver
+- University of Kentucky
+- Babson College
+- Olin College
+
+Again unsurprisingly, with the exceptions of Babson and Olin, all of the colleges on this list were also in the "custom application" list. As you may have expected, these colleges had a high average number of emails sent, at **33.8**.
+
+***
+
+#Subject Lines:
+
+**"Is this you?"**
+
+Nine colleges sent me emails with subjects along the lines of "Is this you?" or "Am I reaching [my name]" or "Is this your email address?". They were:
+
+- Bridgewater College: **"Is this your email address?"**
+- Case Western Reserve University: **"Am I reaching [my name]?"**
+- Embry-Riddle Aeronautical University: **"[my name], is this your preferred email address?"**
+- IE University: **"Is this your current email, [my name]?"**
+- Mary Baldwin University: **"Is this [my name]?"**
+- Montana State University: **"Is this [my name]?"**
+- Mount St. Mary's University: **"Is this still your e-mail address, [my name]?"**
+- Radford University: **"Am I reaching [my name]?"**
+- Stevens Institute of Technology: **"Is this priority candidate [my name]?"**
+- University of Denver: **"Is this your email?"**
+
+Given all the familiar faces here, you won't be surprised to learn that these colleges again sent far more emails (**38.0**) than most of the rest of the schools.
+
+**"URGENT! APPLY ASAP!"**
+
+**6** colleges also sent me emails with the word "urgent" in the subject line, and again we see the same group:
+
+- Bridgewater College
+- IE University
+- Hofstra University
+- Rensselaer Polytechnic Institute
+- West Virginia Wesleyan College
+- Mount St. Mary's University. 
+
+With the exception of West Virginia Wesleyan College, each of these universities also sent me a custom application.
+
+**"yOu'Re ThE cHOseN oNe!"**
+
+**4** colleges sent me emails with the phrase "You've been selected" or "You've been chosen", and for a third time we see the same culprits:
+
+- IE University
+- Montana State University
+- University of Denver
+- University of Kentucky
+
+Again, each of these universities sent me a custom application.
+
+***
+
+#Extras:
+
+Some extra little things I found while looking through all these emails:
+
+- The University of Iowa sent me the exact same email three times in the same day, twice. I emailed them to let them know. I haven't received a response, but it hasn't happened since.
+- Butler University used **21** emojis total in their subject lines.
+- Lafayette College used the phrase "Cur Non" in **45%** of their subject lines and **75%** of their message bodies.
+- The University of Mary Washington sent me "Black Friday" and "Cyber Week" deals. They were fee waivers.
+- LSU was actually originally at **101**, but in the time that it took to write this post they sent me another email, bringing them up to **102**.
+
+
+***
+
+So yeah, I spent WAY too long on this post but here it is, I thought you guys would like it given how much we all hate college emails. 
+
+It was pretty fun doing all this though, and I could probably extend this sometime in the future now that second senior semester is about to roll around. I can already think of a few possibilities:
+
+- Include my second email address (which will include emails from colleges like Xavier, Swarthmore, and Bard's College at Simon's Rock who sent me a lot of stuff, just to a different address
+- Do some kind of statistical analysis to see if there's a correlation between acceptance rate and number of emails, or college rank and number of emails
+- Maybe (if I get REALLY bored) write a basic AI to mimic/imitate the language used in college emails
+
+So yeah, thanks if you actually read the whole thing. If there's any specific information you want, like how many emails a specific college sent me or something, just let me know in the comments. Bye lol

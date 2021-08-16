@@ -1,0 +1,1 @@
+Is it critical to enable DNSSEC if I am using TLS/SSL certificate on a website? I have TLS installed for a website, does it matter if DNSSEC is enabled for this domain or there is no real need for that then?

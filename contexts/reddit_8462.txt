@@ -1,0 +1,20 @@
+Citizens assemblies are randomly sampled groups of citizens that deliberate on issues and are thought of as an alternative to representative democracy. What does the research say about their efficacy?
+[Citizen assemblies](https://en.wikipedia.org/wiki/Citizens%27_assembly) are deliberative bodies formed using [sortition](https://en.wikipedia.org/wiki/Sortition) or random selection. The typical assembly focuses on a single topic where:
+
+1. There is a "Learning Phase" where academics educate the assembly on the topic at hand.
+2. There is an "Open Forum Phase" where members of the public, interest groups, and politicians submit comments on the topic at hand.
+3. There is a "Discussion Phase" where the assembly deliberates with each other over the merits and demerits of proposals
+4. There is a "Decision Phase" where members vote in favor or against the proposals. 
+
+There has been a lot written about citizens assemblies over the years. 
+
+
+* They were used to [recommend Single Transferable Voting for British columbia](https://journals.sagepub.com/doi/abs/10.1177/0032329206297147). The recommendation was however ignored in the referendum.
+
+* A number of [political scientists have had plenty to write about citizen assemblies](https://cdd.stanford.edu/2019/symposium-james-s-fishkin-democracy-when-the-people-are-thinking/). 
+
+* Citizens assemblies have been used in Ireland to build support in [legalizing gay marriage and legalizing abortion](https://www.theguardian.com/commentisfree/2019/jan/16/citizens-assembly-ireland-abortion-referendum). Irish citizen assemblies have also recommended[ carbon taxes on petrochemicals and livestock and dairy production](https://www.citizensassembly.ie/en/how-the-state-can-make-ireland-a-leader-in-tackling-climate-change/recommendations/). 
+
+As well as in Ireland and Canada, activists and politicians have called for the use of Citizens Assemblies to tackle issues like Brexit in the UK and climate change in France and Australia. 
+
+What arguments and research is there for or against Citizens Assemblies?

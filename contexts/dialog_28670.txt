@@ -1,0 +1,4 @@
+EPPS: You didn't step on any mine.
+JAEGER: I heard it click.
+EPPS: If you stepped on a mine you'd be dead by now. Nobody uses delayed-fuse mines anymore.
+JAEGER: I heard it.

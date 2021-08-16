@@ -1,0 +1,1 @@
+Can I manually turn a servo by hand and then record the rotation for a response with arduino? Looking to try and use a servo to increase resistance as it is turned.

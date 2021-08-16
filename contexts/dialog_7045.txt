@@ -1,0 +1,4 @@
+WHITE: You've been working too hard.
+SCHREBER: Please! Don't be foolish! Time is short. Let me show you something. Look at this syringe.
+WHITE: Why?
+SCHREBER: Don't ask stupid questions. Look at it.

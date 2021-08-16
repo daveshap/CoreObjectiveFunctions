@@ -1,0 +1,5 @@
+ANN: Maude, this <u>man</u> wrote this <u>play</u>!
+MAUDE: That a fact. Now, is it a good play?
+ANN: Yes, Maude, it is. It is a <u>very</u> good play.
+MAUDE: Well, then, what's he doing here?
+ANN: What're you doing here...?

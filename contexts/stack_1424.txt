@@ -1,0 +1,1 @@
+Induction Motor Torque Slip Characteristics This question was asked in a interview for Scientist position.For a given T-slip characteristics of an induction motor, I want the same maximum torque but at a lower slip value?Is it even possible? If possible, then what will be its advantages and disadvantages?

@@ -1,0 +1,24 @@
+FLETCH: The door was unlocked.
+MAN: Lock's busted.
+FLETCH: No wonder.
+MAN: I work for the landlord. He told me to watch out for the place.
+FLETCH: I commend him on his choice.
+MAN: What?
+FLETCH: I commend him on his choice
+FLETCH: I was supposed to meet Mrs. Cavanaugh.
+MAN: Who are you?
+FLETCH: Don Corleone. I'm a cousin of Mrs. Cavanaugh's.
+FLETCH: Where is she?
+MAN: Moved out.
+FLETCH: She moved out?
+FLETCH: I spoke to her last week. She didn't say anything.
+MAN: She moved out.
+FLETCH: So you're saying she moved out.
+MAN: This morning.
+FLETCH: This morning? Christ. We had so much to talk about. Moe Green is out of the Tropicana, and my sons, Michael and Fredo, are taking over.
+MAN: What did you want under the bed?
+FLETCH: Mattress police. There are no tags on the mattress. I'm going to have to take you downtown. Please give me your weapon.
+MAN: I'm calling the cops. This is for the cops.
+FLETCH: I'm her cousin.
+MAN: Tell the cops.
+FLETCH: Go ahead. Call them. Better tie your shoelaces first.

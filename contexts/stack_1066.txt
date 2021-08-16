@@ -1,0 +1,1 @@
+Ubuntu 18.04: How do I prevent automatic suspend? My laptop (Lenovo L520) suspends whenever I close the lid even if it's plugged in. How can I prevent this? There's no such setting in the power settings (why?). I can find settings for suspend timeouts, but nothing about the lid behavior.

@@ -1,0 +1,1 @@
+Installing Ubuntu alongside with Windows I'm trying to install Ubuntu without deleting windows from my computer,  how can I partition free space without deleting anything

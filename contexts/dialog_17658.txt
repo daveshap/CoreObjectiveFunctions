@@ -1,0 +1,11 @@
+TANNER: What is it?
+HALDEN: The Terrace. First building Christoph ever programmed for us.
+TANNER: A hotel?
+HALDEN: It's not used for anything.
+HALDEN: Christoph was a brilliant programmer, but very eccentric. He insisted it be kept vacant.
+TANNER: Why?
+HALDEN: He wouldn't say.
+TANNER: Christoph was in charge of designing building modules.
+HALDEN: That's right.
+TANNER: Then what's with all the staffing programs in his account?
+HALDEN: Good question.

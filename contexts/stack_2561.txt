@@ -1,0 +1,1 @@
+ArcGIS Online: How to export layer data? I have created an application using ArcGIS Online. I have some layers in it. Now I want a complete report of all layers means I want to export/download layer data in any format.So Is there any solution or APIs, through which we can query the layers and download the data?

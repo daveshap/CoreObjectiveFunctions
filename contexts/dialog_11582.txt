@@ -1,0 +1,19 @@
+JEWELER: Mrs. Langtry, I'm sorry.
+MYRA: Why? What's wrong?
+JEWELER: You are a valued customer, as you know.
+MYRA: But what's wrong?
+JEWELER: I can't understand a thing like this. It's something you almost never see.
+MYRA: What is?
+JEWELER: This is some of the finest filigreed platinum I've ever seen. But the stones, no. They're not diamonds, Mrs. Langtry.
+MYRA: But they must be! They cut glass!
+JEWELER: Glass will cut glass, Mrs. Langtry. Do you know where it was purchased?
+MYRA: It was a gift. It isn't worth anything at all?
+JEWELER: Why, of course it is. I can offer you -- well, five hundred dollars.
+MYRA: All right.
+JEWELER: I'll get you a check.
+JEWELER: I hope you're not too badly disappointed with us, Mrs. Langtry.
+MYRA: It's not your fault.
+JEWELER: You'll give us an opportunity to serve you again, I hope. If there's anything you think we might be interested in...
+MYRA: I have only one thing now. Are you interested?
+JEWELER: Well, I'd have to see it, of course.
+MYRA: You are seeing it. You're looking right at it.

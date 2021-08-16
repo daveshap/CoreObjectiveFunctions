@@ -1,0 +1,1 @@
+NVIDIA 1060ti + Ubuntu 16.04 = Black screen I installed an Nvdia driver in Ubuntu 16.04. I have Nvdia 1060ti. I don't know how to enter through recovery mode. I tried every solution in this forum but I ended up with a black screen or screen freeze. Can you help me with this issue?I came to this because Blender was not functioning properly.

@@ -1,0 +1,30 @@
+MARION: Shall we proceed?
+CORNWALLIS: Let us. Unless you object, I would like to deem this meeting a formal negotiation and, as such, there are certain customary practices. Perhaps I could explain them to you...
+MARION: I'm familiar with how a formal negotiation is handled.
+CORNWALLIS: Oh?
+MARION: I served in His Majesty's army in the French and Indian War.
+CORNWALLIS: Oh. Very well, then. Would you, as the initiating party, like to begin?
+MARION: Unless you would like to claim aggrieved status.
+CORNWALLIS: You are familiar with how these things are done. In fact, I would like to claim aggrieved status.
+MARION: Very well, proceed, sir.
+CORNWALLIS: First, you have in your possession certain belongings of mine, including clothing, private papers, furniture and personal effects of a non-military nature which I would like to have returned to me.
+MARION: I will do so as soon as possible.
+CORNWALLIS: Thank you.
+MARION: Please accept my apology for not having done so sooner.
+CORNWALLIS: Apology accepted. Now, on the matter of the specific targeting of officers during engagements, this is absolutely unacceptable.
+MARION: That one is a bit more difficult.
+CORNWALLIS: Certainly you must know that in civilized warfare, officers in the field must not be accorded inappropriate levels of hostile attention.
+MARION: And what are inappropriate levels of hostile attention?
+CORNWALLIS: Colonel, imagine the utter chaos that would result from un-led armies having at each other. There must be gentlemen in command to lead and, when appropriate, restrain their men.
+MARION: Restrain them from the targeting of civilians, including women and children?
+CORNWALLIS: That is a separate issue.
+MARION: I consider them linked.
+CORNWALLIS: I beg to differ. One is a command decision on your part. The other represents nothing more than the occasional over-exuberance of field officers attempting to carry out their duty in difficult circumstances.
+MARION: As long as your soldiers attack civilians, I will order the shooting of your officers at the outset of every engagement. And my men are excellent marksmen.
+CORNWALLIS: Very well, let us move on to...
+MARION: Prisoner exchange.
+CORNWALLIS: Sir?
+MARION: You have eighteen of my men. I want them back.
+CORNWALLIS: I do have eighteen criminals under sentence of death, but I hold no prisoners-of-war.
+MARION: If that's your position, then eighteen of your officers will die. Nineteen, if you hang me with my men.
+CORNWALLIS: What officers?

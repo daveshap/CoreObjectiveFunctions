@@ -1,0 +1,1 @@
+Changing the size of the mouse pointer in Ubuntu MATE 18.04 does not work I have Ubuntu 18.04 with the gnome-desktop  and parallel the Ubuntu MATE desktop installed.While I can easily change the size of the mouse pointer (DMZ-White) in the Gnome3 desktop , this does not work on the MATE desktop.I use for this the dconf-editor.Maybe someone knows a solution?Thanks a lot.

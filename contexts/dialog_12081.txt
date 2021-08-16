@@ -1,0 +1,17 @@
+PSYCHIATRIST: Yes, but no one is in control of their emotions. that's all we have time for today...
+STARLING: I don't understand.
+PSYCHIATRIST: You said: that you have decided." That your... your feelings of persecution
+STARLING: That's right.
+PSYCHIATRIST: And you have decided to accept... to accept this emotion
+STARLING: Yes.
+PSYCHIATRIST: And you've decided to get <u>married</u>. You've decided a <u>lot</u> of things. But, in spite of your decisions--you are still nagged" by feelings of: <u>despair</u>
+STARLING: What is your point?
+PSYCHIATRIST: That if <u>decision</u> were a useful tool, you wouldn't <u>be</u> here. Why are you here...?
+STARLING: I..
+PSYCHIATRIST: ...yes...?
+STARLING: I want to do something <u>positive</u>...
+PSYCHIATRIST: You want some <u>advice</u>.
+STARLING: Yes.
+PSYCHIATRIST: Your life has been defined by institutions. The Orphanage where you were raised, the FBI Academy, the Bureau. If the Institution is your life, <u>accept</u> it. Ask to be reinstated on the Drumgo" task force. Play their game."
+STARLING: ...why?
+PSYCHIATRIST: Because it's the game you've chosen. That's really all we have time for.

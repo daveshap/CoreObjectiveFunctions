@@ -1,0 +1,1 @@
+Weak learners for XGBoost with Tweedie distribution Could you please explain what are the standard weak learners for XGBoost when the objective parameter equals reg:tweedie? Are they  GLMs (with Tweedie distribution of dependent variable) on all possible subsets of the set of my predictors? Are GLMs with interactions of the form x_i*x_j also included?

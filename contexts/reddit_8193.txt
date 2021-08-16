@@ -1,0 +1,42 @@
+NYC is the only large area in the United States where by default, you're not allowed to make a right turn at a red traffic light. Why is this unique to NYC? What are the advantages and disadvantages of this policy? How does NYC avoid §6322(c), which forces the adoption of 'right on red' in the US?
+The [Energy Policy and Conservation Act of 1975](https://en.wikipedia.org/wiki/Energy_Policy_and_Conservation_Act) included a 
+ provision for allowing cars to make right turns at red traffic lights because (1) it's more fuel efficient, (2) results in lower vehicle emissions, and (3) reduces the overall commute time for drivers. 
+
+This is specifically outlined in [§362(c)(5)](https://www.govtrack.us/congress/bills/94/s622/text):
+
+> (c) Each proposed State energy conservation plan to be eligible for
+Federal assistance under this part shall include—
+
+> > ...
+
+> > (5) a traffic law or regulation which, to the maximum extent
+     practicable consistent with safety, permits the operator of a motor
+     vehicle to turn such vehicle right at a red stop light after stopping.
+
+---
+
+By the early 1980s, the '75 bill with the provision on 'right turn on red' was being [enforced pretty much nationwide](https://en.wikipedia.org/wiki/Turn_on_red#North_America):
+
+> All 50 states, the District of Columbia, Guam, and Puerto Rico have allowed right turns on red since 1980, except where prohibited by a sign or where right turns are controlled by dedicated traffic lights. (The last state with a right-on-red ban, Massachusetts, ended its ban on 1 January 1980) 
+
+This was later codified slightly differently in 1992 under [42 U.S.C. § 6322(c)](https://www.law.cornell.edu/uscode/text/42/6322):
+
+> (c) Mandatory features of plansEach proposed State energy conservation plan to be eligible for Federal assistance under this part shall include—
+
+> > ...
+
+> > (5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
+
+---
+
+While many cities have 'no right turn on red light' signs at busy intersections, New York City is unique in that the default for all five boroughs is you can't make a right turn at a red traffic light (source 3).
+
+---
+
+I have a few questions on this topic:
+
+1: Why is NYC unique in having this 'no right turn on red traffic light' rule?
+
+2: What are the advantages and disadvantages of by default not allowing right turns at red traffic lights throughout the five boroughs?
+
+3: 42 U.S.C. § 6322(c) seems to codify the requirement for right turn on red traffic lights. Why does NYC get an exception?

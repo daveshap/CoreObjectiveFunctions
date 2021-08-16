@@ -1,0 +1,4 @@
+CALLER: Hello, Peter.
+PETER: Who is this?
+CALLER: Someone who's going to become an important part of your life. I want to play a game with you.
+PETER: I haven't got time for this.

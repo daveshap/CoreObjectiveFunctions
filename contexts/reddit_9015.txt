@@ -1,0 +1,14 @@
+What are the pros and cons of basing eligibility for social security on life expectancy?
+Current SS benefits eligibility starts at 62, with greater amounts if you don't take until later. In it's current form, many individuals may be getting the short end of the stick in social security by never reaping benefits or reaping it for much fewer years than average. Conversely, some people may get benefits for 40+ years. These discrepancies can be seen not just individually but also in demographics when broken down by race and gender:
+
+https://www.cdc.gov/nchs/data/nvsr/nvsr63/nvsr63_03.pdf - White and hispanic women live about a decade longer than black men
+
+http://www.urban.org/sites/default/files/alfresco/publication-pdfs/412943-Has-Social-Security-Redistributed-to-Whites-from-People-of-Color-.PDF - Money is being distributed from PoC to whites
+
+https://www.ssa.gov/policy/docs/ssb/v62n2/v62n2p59.pdf - "Minorities and Social Security: An Analysis of Racial and Ethnic Differences in the Current Program"
+
+These individual and demographic discrepancies could be mitigated by attributing life expectancy (as in years left to live, not as in expected age of death) as triggers for social security benefits, or taken into consideration along with age for social security eligibility. Here is a table of life expectancy for Americans based on age and sex, for an example of what I mean (much more than age and sex could be taken into consideration): https://www.ssa.gov/oact/STATS/table4c6.html
+
+Disregarding how life expectancy would be calculated, what are the pros and cons of basing eligibility for social security on life expectancy rather than age?
+
+How could such a plan be implemented given existing political mechanisms? What constitutional and legislative barriers are there?

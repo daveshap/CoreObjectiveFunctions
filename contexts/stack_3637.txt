@@ -1,0 +1,1 @@
+Is self signed certificate secure for personal use if verified before access? I made a simple streaming server with self signed certificate. Is it secured enough if I manually check my certificate? My server also has password.

@@ -1,0 +1,1 @@
+Initial velocity of a projectile on different elevations Given the landing distance, angle, time of flight and ignoring air resistance, finding the initial velocity of a projectile, which is launched and lands on the same height of elevation, is quite easy. But what if the landing spot is on a higher elevation or the opposite? How will I add the \"height\" to the equation?

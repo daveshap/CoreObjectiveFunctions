@@ -1,0 +1,35 @@
+JENNY: Robert--
+DEAN: Where's Stacy?
+JENNY: She doesn't want to talk to you.
+DEAN: What are you talking--
+JENNY: She can't talk to you right now.
+DEAN: Why?
+JENNY: Because she's reading the newspaper, you asshole.
+DEAN: Stacy?
+STACY: How could you let me find out like this?
+DEAN: Stacy, I found out like this. This is the first I'm <u>hearing</u> of--
+STACY: Robert--
+DEAN: It's not true.
+STACY: Sources revealed an FBI investigation into a possible money laundering scheme that may have sent millions of dollars--"
+DEAN: I've seen it.
+STACY: At the center of the investigation are well-known Washington-area attorneys Robert Dean and Rachel Banks.""
+DEAN: Yeah...look--
+STACY: You <u>swore</u>!
+DEAN: I have lunch with Rachel once a month. She's my connection to an investigator.
+STACY: I told you I didn't want you seeing her.
+DEAN: I know.
+STACY: You had an affair with this woman, Robert, we went to a fucking <u>counselor</u> for a year.
+DEAN: I see her for business.
+STACY: You told me you weren't seeing her at <u>all</u>.
+DEAN: I didn't want you to be upset. I shouldn't have lied. Stacy, there's nothing between me and Rachel Banks.
+STACY: The date stamp on the picture is last <u>month</u>. Is that where you and Rachel conduct business.
+DEAN: It's not real... That's not me.
+STACY: Oh, please--
+DEAN: It's not a real picture, Stacy, it's been doctored-up.
+STACY: I think you should leave now, Robert.
+DEAN: Stacy--
+STACY: Leave this house.
+DESK CLERK: I'm sorry, sir, this card's been declined.
+DEAN: It's a brand new card.
+DESK CLERK: Maybe it's not connected yet.
+DEAN: Here, you can use this.

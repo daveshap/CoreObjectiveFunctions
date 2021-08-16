@@ -1,0 +1,1 @@
+Paint replacement for MacOS I need an app that does the following:Allow me to paste multiple snapshots from clipboard. Also resize and move them.Draw arrows, write texts...Just what paint on windows does.I've tried Gimp but is terrible slow and full of bugs.

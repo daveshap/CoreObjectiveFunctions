@@ -1,0 +1,1 @@
+correlation matrix and p-value in grass I'd like to know if there is a way to obtain statistical significance and p-value for correlation coefficients calculated for different raster in grass with the command r.covarAll that I obtain is the correlation matrix, but no information on statistical significance of these values.

@@ -1,0 +1,1 @@
+KiCad create and understand netlist I made a schematic in KiCad with hierarchical layout. I'd like to check if the busses are connected the way I want. In this context I often read something about the netlist. So my question is, how do I generate a netlist and what does it tell me about the connections?

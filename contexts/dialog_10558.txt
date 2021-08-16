@@ -1,0 +1,13 @@
+CAROL: Hello, Doc.
+DOC: Hi.
+CAROL: You okay?
+DOC: I'm a lot better off than I was an hour ago.
+CAROL: You want to drive?
+DOC: My license expired, let's get out of here.
+CAROL: Sure...
+CAROL: I'm sorry I was late... I got my hair done... the girl was slow.
+DOC: It looks fine.
+CAROL: Feel good?
+DOC: Yeah.
+CAROL: Where do you want to go?
+DOC: I want to take a walk.

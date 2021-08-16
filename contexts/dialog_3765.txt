@@ -1,0 +1,20 @@
+PRIS: I think, therefore I am.
+BATTY: Very good, Pris. Now show him why.
+BATTY: We have a lot in common.
+SEBASTIAN: You mean that you can't come here and I can't go there?
+BATTY: Not only that, but we have smiliar problems. Accelerated decrepitude. But we don't want to die quite yet.
+SEBASTIAN: Of course not.
+BATTY: You could help us.
+SEBASTIAN: I don't know much about biomechanics, Roy. I wish I did, but you're out of my league.
+BATTY: If we don't find help soon, Pris hasn't got long to live.
+BATTY: What about your friend, the man who owns this building?
+SEBASTIAN: Dr. Tyrell?
+SEBASTIAN: He's not really my friend. I just do a job for him now and then.
+BATTY: Tyrell could help us, Sebastian.
+SEBASTIAN: He could?
+BATTY: His company made us.
+SEBASTIAN: I'd be happy to mention it to him.
+BATTY: Be better if I could talk to him in person. But he's not an easy man to get to.
+SEBASTIAN: No.
+BATTY: When do you deliver your project?
+SEBASTIAN: This afternoon.

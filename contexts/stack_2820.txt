@@ -1,0 +1,1 @@
+How to calculate the force of attraction experienced by free electrons in metals? The electrons must experience a net force due to the atoms and other electrons in the system even if its free,that is why it is still in the system and is moving randomly(i think).How to calculate it?

@@ -1,0 +1,1 @@
+Need help getting ASUS USB-AC53 Nano (USB wifi adapter) working on Ubuntu 16.04 Very much a noob but I am trying to get this wireless wi-fi adapter to work on an old computer my sister uses.  Old wireless wifi adapter was an ASUS but it died.  Any step by step help would be appreciated.  I have computer on a wired connection currently.  Thanks.

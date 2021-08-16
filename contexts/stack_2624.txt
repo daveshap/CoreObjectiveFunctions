@@ -1,0 +1,1 @@
+Point Cluster in QGIS and Legend I am using the point cluster symbology in QGIS and have defined the size of each point based on the cluster size using @cluster_size in the size assistant. It looks great on my map, but I cannot figure out how to add the size symbology for the variable to my legend in the map composer to create a map for a presentation/publication.

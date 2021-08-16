@@ -1,0 +1,5 @@
+What are the costs and benefits of nuclear power (as opposed to other green sources of energy such as wind and solar) as it stands now?
+United States Presidential Candidate Bernie Sanders recently released his plan to move away from carbon emissions with the Green New Deal. The plan omits any plans for investment in nuclear energy, and instead opts mostly for ways such as solar or wind energy https://berniesanders.com/issues/the-green-new-deal/ 
+Is there any reason that nuclear should or shouldn't be a part of any plans as ambitious as this one? Also, how does nuclear stack up against wind in solar in terms of efficiency, safety and viability?
+
+Just to elaborate on why nuclear energy could be considered green energy in the same vein as solar and wind; nuclear energy is zero-emission, meaning that there is no carbon dioxide by-product when nuclear energy creates electricity https://www.energy.gov/ne/articles/3-reasons-why-nuclear-clean-and-sustainable

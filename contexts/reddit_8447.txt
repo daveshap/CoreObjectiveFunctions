@@ -1,0 +1,8 @@
+What is the point of the US debt ceiling?
+The US debt ceiling is in the news again, and a failure to extend the debt ceiling could result in the [US government defaulting on its debt](http://dailycaller.com/2017/07/12/the-federal-gov-is-facing-this-serious-fiscal-crisis/), which could have huge consequences for the global economy.
+
+My reading of [Wikipedia](https://en.wikipedia.org/wiki/United_States_debt_ceiling) is that the debt ceiling seems like an artifact resulting from the fact that Congress used to authorize every single debt individually; as the US economy and debt grew, this was just shifted to an aggregate authorization:
+
+>Under Article I Section 8 of the United States Constitution, only Congress can authorize the borrowing of money on the credit of the United States. From the founding of the United States until 1917, Congress directly authorized each individual debt issued. To provide more flexibility to finance the United States' involvement in World War I, Congress modified the method by which it authorized debt in the Second Liberty Bond Act of 1917.[3] Under this Act, Congress established an aggregate limit, or "ceiling," on the total amount of new bonds that could be issued.
+
+What substantive change would a non-existent (i.e., infinitely large) debt ceiling be from the status quo? Is the debt ceiling the best way for Congress to handle its authority for borrowing money? If not, what would be better ways?

@@ -1,0 +1,1 @@
+Case where potential difference causes no current why current will not flow from battery if I connect positive terminal of battery to ground even when there is potential difference

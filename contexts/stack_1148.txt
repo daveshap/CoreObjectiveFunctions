@@ -1,0 +1,1 @@
+mongodb disable write access (while db migration) I want to migrate from one cluster to another. So I'm goint go make a backup with mongodump and mongorestore. Db is not so big, so I would like to disable writes on source db before the start to exclude accidental writes from apps.What would be the best way to do this?

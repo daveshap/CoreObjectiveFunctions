@@ -1,0 +1,7 @@
+COLWYN: There is nothing.
+YNYR: Reach out farther. Call to her.
+COLWYN: Lyssa ... Lyssa ...
+COLWYN: Lyssa ... Lyssa ...
+LYSSA: Colwyn.
+COLWYN: Have they harmed you?
+LYSSA: No. They watch me closely, but they haven't harmed me.

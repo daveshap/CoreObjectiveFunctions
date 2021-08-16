@@ -1,0 +1,4 @@
+Research is getting restricted into just simulations with not much mathematical analysis being done.
+As the title says, my work has lots to do with simulating wireless networks and then coming up with better schemes for wireless communication among them. Most of the people in our area publish journals (IEEE Transactions) where a fair amount of mathematical treatment is desirable. 
+
+How do I convey this to my adviser. Also I don't see the area as very promising as the simulation involves a somewhat outdated technology.

@@ -1,0 +1,4 @@
+CARTER: This is Dr. Duval, our Head Surgeon.
+GRANT: Oh yes, I've heard of you, Doctor.
+MICHAELS: Miss Peterson, his Technical Assistant.
+GRANT: How are you, Miss Peterson?

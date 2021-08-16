@@ -1,0 +1,5 @@
+BUTLER: Good afternoon. De Moraes’s residence.
+LOMBARD: Could I speak to Carlos or Deborah?
+BUTLER: I’m afraid they are out at the moment, sir.
+LOMBARD: When will they be back?
+BUTLER: Mr De Moraes is due back from Brazil late this evening. Mrs De Moraes is out and not expected before eight. Do you wish...

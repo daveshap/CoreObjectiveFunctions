@@ -1,0 +1,5 @@
+OVEUR: A couple eggs and juice would be nice, Mary. Over.
+MARY: How would you like your eggs, Captain? Over.
+OVEUR: No. Poached. Over.
+MARY: Poached <u>and</u> over, Captain Oveur? Over.
+OVEUR: Just poached on toast. Over.

@@ -1,0 +1,1 @@
+What is the difference between linear and non-linear time series? What do they look like? Is the definition of linearity in time series the same as the linearity in linear regression?

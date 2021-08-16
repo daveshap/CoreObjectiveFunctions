@@ -1,0 +1,6 @@
+MILLER: Well, thank you very much for being so understanding.
+FLOYD: Please, it really doesn't matter.
+MILLER: Well.. Did you have a pleaant flight?
+FLOYD: Yes, very pleasant.
+MILLER: Well, shall we go through Documentation?
+FLOYD: Fine.

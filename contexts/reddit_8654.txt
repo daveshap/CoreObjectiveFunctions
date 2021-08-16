@@ -1,0 +1,18 @@
+To what extent is the Trump administration's exclusion of LGBTQ protections from its interpretation of Title IX motivated by a strict and literal interpretation of the law, and has the Trump administrated exhibited a pattern of policies detrimental to LGBTQ people?
+The New York Times published an article titled ["Trump Administration Eyes Defining Transgender Out of Existence"](https://www.nytimes.com/2018/10/21/us/politics/transgender-trump-administration-sex-definition.html) whose first paragraph asserts:
+
+> The Trump administration is considering narrowly defining gender as a biological, immutable condition determined by genitalia at birth, the most drastic move yet in a governmentwide effort to roll back recognition and protections of transgender people under federal civil rights law.
+
+However, the article later refers to the word "sex" instead of "gender" as the term that the Trump Administration is interpreting. Gender and sex are two distinct concepts; gender refers to psychological, behavioral, and cultural aspects of one's identity and is determined by brain structure whereas sex describes one's physical traits, such chromosomes, gonads, and genitalia. (https://www.apa.org/pi/lgbt/resources/sexuality-definitions.pdf, https://www.scientificamerican.com/article/is-there-something-unique-about-the-transgender-brain/)
+
+According to the article, the Trump administration may interpret Title IX in a way that excludes protections for LGBTQ people, breaking the Obama administration's precedent. According to the article, people disagreed with the Obama administration's interpretation of the law:
+
+> For the last year, health and human services has privately argued that the term “sex” was never meant to include gender identity or even homosexuality, and that the lack of clarity allowed the Obama administration to wrongfully extend civil rights protections to people who should not have them.
+
+[Title IX does not mention gender (or sexual orientation), only sex.](https://www.dol.gov/oasam/regs/statutes/titleix.htm)
+
+- How does the Obama administration's interpretation of Title IX compare with other interpretations of the law, both Title IX and in general?
+
+- Based both on its interpretation of Title IX and its other actions, to what extent is the Trump administration motivated by an earnest stricter or literal interpretation of the law, and has it shown a pattern of policies that harm LGBTQ people?
+
+- What specific judgements has the Trump administration made regarding the definition of gender? Of sex? How are these definitions similar to or different from the medical consensus?

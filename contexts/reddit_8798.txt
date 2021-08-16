@@ -1,0 +1,16 @@
+Under a "no deal" Brexit, what specific UK and EU policies govern the treatment of the Irish border?
+On March 27, 2017, the government of the UK [formally](https://www.gov.uk/government/publications/prime-ministers-letter-to-donald-tusk-triggering-article-50) invoked [Article 50 of the Lisbon Treaty,](http://www.lisbon-treaty.org/wcm/the-lisbon-treaty/treaty-on-european-union-and-comments/title-6-final-provisions/137-article-50.html) which provides that the treaties forming the European Union cease to apply as of 2 years from the invocation of the Article by a member state.
+
+Accordingly, unless there is unanimous agreement of the European Council and the United Kingdom, those treaties will cease to be in force as of March 28, 2019.  This is being called a ["no deal" Brexit.](https://metro.co.uk/2018/02/05/no-deal-brexit-7288751/)
+
+The May government has [proposed a white paper on what they would like to agree to with the EU,](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/589191/The_United_Kingdoms_exit_from_and_partnership_with_the_EU_Web.pdf) however that is only one side of the negotiation, and [it may not be agreed to by the EU.](https://www.bbc.com/news/world-europe-44816048)
+
+In particular, I am curious about the Republic of Ireland / Norther Ireland Border.
+
+The UK shares [a land border](https://en.wikipedia.org/wiki/Republic_of_Ireland%E2%80%93United_Kingdom_border) with the Republic of Ireland, which is an EU member.  
+
+Under the Good Friday Agreement, the border has remained open with no checkpoints.  However, [parties including Ireland's Prime Minister](https://www.theguardian.com/world/2018/mar/14/brexit-threatens-good-friday-agreement-irish-pm-warns) have said that Brexit could result in a hard border being enforced and violation of the agreement.
+
+The UK government has apparently indicated [that they would not enforce a hard border in Ireland even in the event of no deal](https://www.independent.co.uk/news/uk/politics/uk-northern-ireland-border-brexit-eu-hard-no-deal-cabinet-irish-a8235096.html) but this has not been stated officially.
+
+What relevant laws govern the UK, Republic of Ireland, and EU behavior regarding the  border in the event of a 'no deal'?

@@ -1,0 +1,1 @@
+Forecasting - Performance measures, BIAS and Mean Percentage Errors I have calculated BIAs and MPE for a forecasted decompositional model, BIAS comes out as underpredicting and MPE comes out as overpredicting. Is this possible seen as they both measure how biased a forecast is?

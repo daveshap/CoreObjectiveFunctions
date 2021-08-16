@@ -1,0 +1,1 @@
+Having trouble running Steam I'm new to Ubuntu and have no idea how the terminal works. My main issue is Steam not loading and it keeps telling me to upgrade my system from 32-bit to 64-bit, but how?

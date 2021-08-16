@@ -1,0 +1,1 @@
+How to back up iPhone with iOS 11.3 via iTunes on a Mac? When I plug my iPhone 7 (iOS 11.3) into my Mac (macOS 10.13.4), I see the following categories in iTunes (12.7.4):I don't see any way to do backups.  How do I do local backups with the latest iOS / MacOS?

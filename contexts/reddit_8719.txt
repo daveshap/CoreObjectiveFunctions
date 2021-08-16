@@ -1,0 +1,22 @@
+United States Healthcare as a Superior Good
+I recently was linked to [the following article](https://randomcriticalanalysis.wordpress.com/2016/09/25/high-us-health-care-spending-is-quite-well-explained-by-its-high-material-standard-of-living/) which, although about a year old, makes the argument that the United States is actually not an outlier in Healthcare Expenditure per capita (HCE). The article seems pretty well backed up by data; the argument as best I understand it can be summarized as follows:
+
+1. Healthcare is a superior good, namely a good where as wealth increases the proportion of that wealth spent on that good also increases. To whit; if wealth increases 10%, HCE tends to increase around 12 or 13%.
+2. Many analyses of HCE involve comparisons to GDP, but this is misleading because GDP involves exports and government spending, which are not direct reflections of a populations' material wealth.
+3. There are other, better measures of a populations' wealth and standards of living including Actual Individual Consumption (AIC).
+4. When you plot HCE vs GDP and include more countries, especially those with more diverse economies, there are more outliers than just the United States. Plotting HCE vs AIC handles these countries much better.
+5. If you look at HCE vs AIC plots over time, all countries gradually trend to spending more of their wealth in healthcare because (as in point 1) healthcare is a superior good.
+
+The conclusion is essentially that, when you look at how materially wealthy the United States actually is, our spending is not an outlier. We spend a lot more because healthcare is a superior good and the the United States is a lot more wealthy and consumes a much greater volume of healthcare than other countries.
+
+In addition, since healthcare is a labor-intensive good, it does not benefit from some of the same efficiencies of technology that other industries (such as manufacturing) might.
+
+My first thought upon reading this article was to point out that even if it was true that our spending is roughly in line with what a sufficiently wealthy nation might expect, aren't our outcomes [much worse](http://www.commonwealthfund.org/publications/press-releases/2015/oct/us-spends-more-on-health-care-than-other-nations)?
+
+The same author has [another post](https://randomcriticalanalysis.wordpress.com/2016/11/06/us-life-expectancy-is-below-naive-expectations-mostly-because-it-economically-outperforms/) that I haven't read as thoroughly, but I believe he argues that our poor outcomes can be explained largely in part through [poor lifestyle choices](http://www.mtda.com/bu/tr00077E.pdf) and, paradoxically, the adverse effects material wealth can have on a populations' health. He makes the salient point that if our institutions were largely to blame for poor outcomes we might expect to see poor healthcare outcomes throughout the country (since our institutions don't differ all that much), but we don't see anything of the kind; our outcomes are highly regional; ultimately he centers the blame on smoking, obesity, low activity, and accident rates. I will note that he has some discussion of race that may make some readers uncomfortable; I am not familiar enough with the topic to know if he is making correct claims or if that part of the analysis is discriminatory and bogus.
+
+All of the above seems at least plausible to me. 
+
+But is it correct? How might this be reconciled with stories about how [hospital prices are in some sense made up](http://www.huffingtonpost.com/2013/05/08/hospital-prices-cost-differences_n_3232678.html) and the actual price per procedure in the United States is often [hilariously different from other countries](http://www.investopedia.com/articles/personal-finance/072116/us-healthcare-costs-compared-other-countries.asp)? I haven't heard this sort of argument before and it is so at odds with conventional wisdom that I am very interested in discussion of whether or not it's actually accurate. 
+
+Thank you for reading.

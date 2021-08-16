@@ -1,0 +1,8 @@
+DAVID: There's good news and bad news.
+MARTY: What's the bad news?
+DAVID: You're in meal penalty for disturbing my lunch.
+MARTY: And the good news is you won't charge me.
+DAVID: No. The good news is I found the problem and it's not our equipment. There's some weird signal embedded within the satellite feed.
+MARTY: That's the good news?
+DAVID: Yes, because the analog signal has a definite sequential digital patterns embedded within it. When I find the exact binary sequence and I apply a phase reversed signal to that calculated spectra analyzer I built you last Christmas, we should be able to block out the overlay completely...
+MARTY: ...and we'll be the only guys in town with a clear picture? That's my man.

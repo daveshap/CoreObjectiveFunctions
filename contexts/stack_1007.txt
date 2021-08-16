@@ -1,0 +1,1 @@
+Adding a language missing from the supported languages list Is there any way (workaround) to add a language in Ubuntu 18.04, which is missing from the Install/Remove Languages list? I'm particularly interested in Armenian language.Thanks!

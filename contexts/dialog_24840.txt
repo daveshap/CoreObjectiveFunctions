@@ -1,0 +1,11 @@
+PILOT: Barnes?
+BARNES: That's me.
+PILOT: Break it down to me, what's going on?
+BARNES: Seems like they're cooperating. Hopefully I'll be out of here and on my way very soon.
+PILOT: Well don't drag your ass. There won't be much of a window for us to link up. We'll be in your orbit trajectory in less than two hours.
+BARNES: Yeah, I know Bill, I came up with the plan remember? Just have those hangar doors open and ready, I can take it from there.
+PILOT: Will do. What about the distress signal?
+BARNES: I don't know. I really haven't made up my mind yet. We'll see how nicely they behave.
+PILOT: Well that's your call. Doesn't make a damn bit of difference to me. Just as long as I get my cut.
+BARNES: Oh you'll get it, believe me. So I'll see you in a few.
+PILOT: 10-4 good buddy.

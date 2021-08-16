@@ -1,0 +1,1 @@
+panel data model Good Morning,I have a doubt.I am doing a panel data model to calculate the benchmarking of some companies in the sector.is there any test that I can apply to know if I use fixed or random effects?I'm using eviews.

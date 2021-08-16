@@ -1,0 +1,18 @@
+DOROTA: Wladyslaw Szpilman.
+SZPILMAN: Dorota.
+DOROTA: Come in! come in!
+DOROTA: Sit.
+SZPILMAN: I'm sorry - I was given this address. I'm looking for a Mr-- -- a Mr Dzikiewicz.
+DOROTA: Michal Dzikiewicz. He's my husband.
+SZPILMAN: I need help.
+DOROTA: He'll be back before curfew.
+SZPILMAN: I've been in hiding. I need somewhere to stay.
+DOROTA: He'll be here soon.
+SZPILMAN: How long have you been married?
+DOROTA: Just over a year.
+SZPILMAN: And how's Yurek?
+DOROTA: Dead.
+SZPILMAN: When's your baby due?
+DOROTA: Christmas. This is not a good time to have children. But then...
+DOROTA: This is my husband. Wladyslaw Szpilman. Marek Gebczynski sent him.
+MICHAL: Oh, yes. I remember.

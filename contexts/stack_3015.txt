@@ -1,0 +1,1 @@
+How to tie in black body radiation with quantum theory? I'm having trouble understanding the physical basis for the UV catastrophe in blackbody radiation graphs. Is the source of the drop off past UV because the electrons in a blackbody substance can't emit photons with frequencies much greater than those in the UV range?

@@ -1,0 +1,7 @@
+SARA: Professor Tripp.
+GRADY: Chancellor.
+SARA: I got the message you called.
+GRADY: I got the message you called too.
+CRABTREE: Tripp!
+GRADY: How are you, Crabtree?
+CRABTREE: Brimming. Say hello to my new friend, Miss Antonia... uh...

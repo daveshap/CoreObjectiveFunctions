@@ -1,0 +1,24 @@
+If I fail a job training and got fired, is it the end for me?
+Good day! I will take this opportunity to mention that this post will be a bit of a text wall. Also, I will be completely honest here. All opinions, insights, and advices will be welcome.
+
+QA - Software Quality Assurance
+
+So I am an IT person with 2.5 years of IT support work experience. I pursued a career shift to QA because I wanted that ever since before graduating from college. After six months of being jobless and countless interviews, I finally landed on a junior QA role. I was so happy about landing this job...
+
+...until the training session began.
+
+Basically, the purpose and goal of the training is to learn about three company-specific tools, and the endgame was to develop a working system using these tools. I was motivated at first, until the trainer began to inform us that if we fail the training, they'll have to "let us go" (it wasn't his intent to scare us in the first place though).
+
+When I heard that, my motivation...became fear. So I had to learn them all by a bit of "force." (I was able to learn the use of these tools properly though)
+
+Our training session only has two weeks overall, I am currently at the last week of my training, and we are now developing the system on our own hands. Most programming languages used in these tools aren't thoroughly discussed, and we had to use Google to even begin studying for it. In the first place, developing a system from scratch wasn't my forte, so I experienced so many difficulties coming from here and there, to the point that I am beginning to feel shy asking questions to my teammates.
+
+Not to mention, the training session is still in the process of being improved. There were many VAGUE requirements and data dictionaries. We had to figure out the rest, according to our trainer. The two-week pressure was too much, and we had to resort to overtime just to finish one module from another (this OT is not paid and is not approved as an offset). Heck, we even had to sacrifice our weekends just for this.
+
+The final day of my training will be next week, and I am already anticipating the results. I am particularly slow in developing a system, and I felt like I will fail the training.
+
+Fast forward if I fail the training: I was thinking that I will need to put that company in my resume because they had my government numbers for taxation purposes (in our country, almost all companies required our government numbers). I cannot lie in my resume because it will just make situations worse when applying for other companies. 
+
+So I was thinking: Am I complaining too much? I tried my very best, but everything becomes overwhelming for me. I would feel ashamed of myself if I only lasted in a company for less than a month and got fired because I failed in training.
+
+Again, I would appreciate any advice, suggestion, or insight. I will try my best to respond to your post. Thanks again and good day.

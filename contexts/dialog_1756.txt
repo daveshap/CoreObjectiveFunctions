@@ -1,0 +1,5 @@
+GARY: Help me change the Skywire settings. Add five degrees to each satellite coordinate.
+PHIL: Gary, don't worry, we --
+GARY: Just do what I'm asking!
+BRIAN: You're interfaced with our dish.
+MILO: Gimme the coordinates?

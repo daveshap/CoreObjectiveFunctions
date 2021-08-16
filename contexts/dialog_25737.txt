@@ -1,0 +1,15 @@
+ILIA: Thirty seconds to Cloud boundary...
+KIRK: Opinion, Mister. Spock?
+SPOCK: Recommend we proceede, Captain.
+KIRK: Mr. Decker... ?
+DECKER: I advise caution, Captain; we can't withstand another attack.
+KIRK: That thing is twenty hours from Earth. We know nothing about it yet.
+DECKER: That's precisely the point, Captain. We don't know it will do. Moving into the cloud -- at this time, is an unwarranted gamble.
+KIRK: How do you define <U>unwarranted</U>, <U>mister</U>?!
+DECKER: You asked my opinion, sir.
+ILIA: Fifteen seconds to Cloud Boundary.
+KIRK: Viewer, standard ahead.
+KIRK: Mr. Sulu, steady as she goes.
+SULU: Aye, sir.
+KIRK: No vessel could generate a powerfield of this magnitude...
+SPOCK: Instruments fluctuating, Captain. Patterns unrecognizable.

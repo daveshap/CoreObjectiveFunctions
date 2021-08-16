@@ -1,0 +1,8 @@
+SALIERI: Ah! Here she comes. Fraulein Lorl, good morning.
+LORL: Good morning, sir.
+SALIERI: What have you got for me today? Let me see.
+SALIERI: Ah-ha! Siena macaroons - my favourites. Give my best thanks to the baker.
+LORL: I will, sir.
+SALIERI: Thank you. Are you well today, Fraulein Lorl?
+LORL: Yes, thank you, sir.
+SALIERI: Bene! Bene!

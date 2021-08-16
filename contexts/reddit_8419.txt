@@ -1,0 +1,55 @@
+How do the claims of the Nunes Memo and the Democratic reply memo hold up after the release of the Inspector General’s report?
+**How do the claims of the Nunes Memo and the Democratic reply memo hold up after the release of the Inspector General’s report?**
+
+With the recent release of the Inspector General’s report the process in which FISA warrants were obtained against Carter Page, I feel that it’s worthwhile to re-examine the Nunes Memo and the Democrat’s reply memo (aka “Demo”). We have the benefit of two years of additional information, and the IG’s recent report gives both more and less information than we had before.
+
+This has been a topic that has been addressed before here in this subreddit, so long-time readers may recall some of the past threads over the years.
+
+Nunes made several claims in his Feb 2018 letter, and within a month it was [announced]( https://www.washingtonpost.com/world/national-security/inspector-general-announces-he-will-review-justice-departments-surveillance-of-former-trump-campaign-adviser/2018/03/28/23651efe-32bb-11e8-94fa-32d48460b955_story.html) that the Inspector General would be looking into the FISA warrants. 
+
+**Questions presented**
+
+* How do Nunes’ claims hold up now that we have more information? 
+* How does the Democratic memo hold up?
+* Does the IG’s report support claims made by Nunes and/or the Democrats rebuttal?
+
+
+Specifically, Nunes said that “material and relevant information was omitted,” from the FISA applications. I will try my best to summarize what Nunes claims below:
+
+1. The initial and renewal applications did not contain information that the DNC paid for Steele’s dossier as a means to obtain derogatory information on Trump’s ties to Russia, and it does not mention that Steele was authorized payment by the FBI. 
+2. Furthermore, Fusion GPS’s and Perkins Coie’s roles were not disclosed despite the ties being known by the DOJ.
+3. The applications cited a Yahoo News article as corroborating evidence for Steele’s work when in fact Steele leaked his information to Yahoo news. Steele should have been terminated in September but concealed his activities from the FBI.
+4. Steele maintained contacts with the FBI through Bruce Ohr, and through Ohr the FBI learned that Steele was biased and that this bias did not make it into the applications or the renewals. Also, Ohr’s wife worked for Fusion GPS and both persons’ ties to Steele and Fusion GPS were concealed from the FISC.
+5. Steele’s information wasn’t corroborated at the time of the initial FISA application. Deputy Director McCabe said that that without the Steele dossier, there would have not been a FISA warrant.
+6. The FISA warrant mentions Papadopoulos and how it triggered a counterintelligence investigation but does not link them together in a conspiracy.
+7. The Strozk/Page text messages are indications of bias.
+
+Meanwhile, then-minority House Democrats and also made a series of claims, which I will again try my best to summarize:
+
+1. FBI and DOJ officials did not “abuse the FISA process, omit material information, or subvert the [FISA process]" to spy on the Trump campaign
+2. The DOJ used a “multi-pronged rationale” that narrowly used Steele’s information along with independent sources
+3. The FBI was transparent with the FISC about Steele’s “background, credibility, and potential bias.” The Court was also informed that Steele was terminated as a source for making unauthorized disclosures.
+4. The planned DOJ payment against Steele was cancelled.
+5. The DOJ appropriately included Papadopoulos in the FISA application, and excluding it would have been negligent.
+6. Bruce Ohr’s role was mischaracterized by the Nunes Memo.
+7. Peter Strozk and Lisa Page’s text messages are irrelevant.
+
+Note: If I missed something in my summary, please advise and I will try to correct. It's challenging to distill down 15+ pages of accusations and counter-accusations into handful of neutrally-framed sentences, and any omission is unintentional.
+
+**Past threads:**
+
+* [Nunes Memo: What is true, what is misleading? What is new, what was previously known? And what are potential consequences for the investigations into Russian election meddling?](https://np.reddit.com/r/NeutralPolitics/comments/7utdei/nunes_memo_what_is_true_what_is_misleading_what/)
+
+* [The Democrat's rebuttal to the 'Nunes Memo' has been released: What have we learned and how does that affect the ongoing investigations into Russian election interference?]( https://np.reddit.com/r/NeutralPolitics/comments/802sls/the_democrats_rebuttal_to_the_nunes_memo_has_been/)
+
+* [This is a document released by the FISA court in May 2017. It describes abuses of FISA data. Does it reinforce or refute the Nunes memo?](https://np.reddit.com/r/NeutralPolitics/comments/7v3s9o/this_is_a_document_released_by_the_fisa_court_in/)
+
+* [Do the FISA documents on Carter Page released today the Department of Justice show evidence of improper surveillance?](https://np.reddit.com/r/NeutralPolitics/comments/90u1kh/do_the_fisa_documents_on_carter_page_released/)
+
+**Source Documents:**
+
+* [Nunes' Memo]( https://docs.house.gov/meetings/IG/IG00/20180129/106822/HMTG-115-IG00-20180129-SD001.pdf)
+
+* [Democratic Reply Memo]( https://docs.house.gov/meetings/ig/ig00/20180205/106838/hmtg-115-ig00-20180205-sd002.pdf) (aka the “Demo”)
+
+* [Review of Four FISA Applications and Other Aspects of the FBI's Crossfire Hurricane Investigation](https://www.justice.gov/storage/120919-examination.pdf)  (aka the IG’s report)

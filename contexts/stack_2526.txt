@@ -1,0 +1,1 @@
+ArcMap geoprocessing tools/field calculator for batch assignment of line segments What method works best to batch-assign line segment records falling on polygon boundaries, where one side of the street (line) is one city (polygon) value and the other side is a different value?

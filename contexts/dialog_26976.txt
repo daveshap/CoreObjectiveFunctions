@@ -1,0 +1,13 @@
+COUNSELOR: No money, no identification or passport. You are in a fix. What did happen to you?
+NICHOLAS: Well, where to begin. It's complicated...
+COUNSELOR: It always is.
+NICHOLAS: What happened was, I'm on vacation, alone... I was robbed, at gunpoint. They hit me and ran. Two men, a few blocks away. They took my wallet, money... all of it. So...
+COUNSELOR: Robbed?
+NICHOLAS: Yes.
+COUNSELOR: Have you gone to the police?
+NICHOLAS: I don't speak Spanish. All I need is to get back... just enough for that.
+COUNSELOR: We'll help with the police, if you want to bother. As far as money goes... can I make a suggestion? You say you were mugged?
+NICHOLAS: Yes.
+COUNSELOR: And, they didn't take that watch?
+COUNSELOR: How much is it? A few thousand, at least. A Rolex like that... lucky for you they missed it.
+NICHOLAS: Yes, very lucky.

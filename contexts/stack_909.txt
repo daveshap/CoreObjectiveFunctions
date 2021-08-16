@@ -1,0 +1,1 @@
+Installing Ubuntu 16.04 on RAID configure disk i was trying to install ubuntu 16.04 on a disk configured with RAID 1, but the GRUB fails to install. can somebody please help

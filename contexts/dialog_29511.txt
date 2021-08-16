@@ -1,0 +1,4 @@
+CHEKOV'S IMAGE: This is the Starship Enterprise.
+SYBOK: A Federation starship.
+CHEKOV'S IMAGE: This is Captain Pavel Chekov speaking. You are in violation of Neutral Zone Treaty. I advise you to release your hostages at once or suffer the consequences.
+SYBOK: Your threats amuse me, Captain Chekov. What consequences did you have in mind?

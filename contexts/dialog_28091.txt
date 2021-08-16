@@ -1,0 +1,6 @@
+LOMBARD: That’s right.
+BUTLER: Will you please come with me?
+LOMBARD: That might depend on where you’re going.
+BUTLER: I am Lawrence, sir. Mr and Mrs De Moraes’ majordomo. They are expecting you.
+LOMBARD: De Moraes? I was asked here by a Mrs Spitz.
+BUTLER: That would be Mrs De Moraes mother, Sir. Mr and Mrs Spitz are here with their daughter.

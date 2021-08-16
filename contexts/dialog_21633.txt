@@ -1,0 +1,25 @@
+ALICE: You mean he doesn't work for you?
+MAXWELL: No, not exactly. Why the great anxiety? It must be something important.
+ALICE: It is--you know what a struggle he's had.
+MAXWELL: Indeed, he has often told me.
+ALICE: He's inherited a fortune.
+MAXWELL: You say a fortune. He never spoke to me of any rich relatives.
+ALICE: He hardly knew of them him- self. I believe it was his uncle in Australia.
+MAXWELL: I am certainly glad to hear it. I know he'll be pleased.
+ALICE: Don't tell him. I want to be the first to bring him the news.
+MAXWELL: That's only natural. Maxwell will be here around eight tonight.
+ALICE: Okay--I'll be here at eight.
+JONES: How do you do.
+MAXWELL: Well, news of Buckley?
+JONES: Yeah, he was picked up-- also the body from the morgue. Say, what did you have to do with stealing that body?
+MAXWELL: Why, Buckley stole that body. That's what alarmed Mrs. Buckley so. I have been try- ing to get her to put Buckley in an institution but she wants to keep him.
+JONES: So--that's it. Buckley took the body.
+MAXWELL: Yes indeed. He has been a <U>difficult</U> case. Now that <U>you</U> have him in custody--you have him haven't you?
+JONES: Oh, yes, he's in good hands now.
+MAXWELL: Fine. Mrs. Buckley will be all right when she gets used to the idea.
+JONES: Do you have many patients, doctor?
+MAXWELL: Oh no. Mostly research in endocrinology.
+JONES: Mind if I look around? Seems to me you have car- ried on some interesting experiments. Sure of himself but taking no chances. MAXWELL Sure, I'll take you thru.
+JONES: What's down there?
+MAXWELL: Oh, just the basement. Some day I intend to build an experimental laboratory down there. It will save me from intrusion.
+JONES: I'd like to have a look.

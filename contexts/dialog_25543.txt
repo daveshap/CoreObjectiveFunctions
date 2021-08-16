@@ -1,0 +1,4 @@
+DATA: Captain, we have lost ventral shielding on deck twenty nine.
+PICARD: Divert power and compensate.
+WORF: Intruder alert!
+RIKER: Let's go.

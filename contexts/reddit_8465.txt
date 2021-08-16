@@ -1,0 +1,6 @@
+How does a 50-50 tie work in the Virginia House of Delegates?
+So last night's elections in Virginia produced a [surprising Democratic wave](https://www.washingtonpost.com/powerpost/republicans-seek-new-path-after-failure-of-gillespies-trumpism-without-trump/2017/11/07/3afb9144-c3e7-11e7-aae0-cb18a8c29c65_story.html?hpid=hp_hp-top-table-high_fallout-1125pm-1%3Ahomepage%2Fstory&utm_term=.b496f767538f) in the Virginia House of Delegates, where [as of this writing,](https://www.nytimes.com/elections/results/virginia-general-elections) at least 14 seats have changed from Republican to Democratic hands.  Currently 5 seats are still being reported as too close to call.  Of those, two Democrats hold a lead and three Republicans hold a lead.
+
+If that shakes out with the current leads holding, and no other seats changing in a recount, that would result in an exact 50-50 tie in the House of Delegates.  (There are 100 seats)
+
+Since the body has an even number of members, are there any tiebreaker mechanisms?  It seems like the vote on the speakership will be important, and under the [current House of Delegates rules](https://publications.virginiageneralassembly.gov/download_publication/87) I can't seem to find any indication of how it would be handled when there's an exact tie.

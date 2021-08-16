@@ -1,0 +1,33 @@
+A Warning About TurboTax
+I went to file my taxes yesterday the same way I have done for several years, with the TurboTax free file. I noticed a few things that I thought I'd share: 
+
+When I got to the section for the child and dependent care credit, the software kept telling me that I don't qualify. I knew that I still qualified for the credit so I googled it. Turns out, when you enter your W2 at the beginning for you and your spouse, it defaults both of them to one persons name (so it appeared that I made too much money for the credit, while my husband had no income). As soon as I went back and assigned one of the W2 to my husband I qualified for the credit, which boosted my refund by $600. 
+
+Because I filed for a specific credit, TT software said I needed to pay the $39.99 as the free software didn't cover one of the forms I'd need done to file. I was already finished by this point and was getting money back so I figured ok, I'll pay it, and that I will just file by hand next year. TT gave me the option to pay this fee out of my refund, saying something like "no need to reach for your wallet, we can just take this from your refund". Nowhere on this page did it indicate that there would be a fee to do so. When I was completely done and ready to file, TT asked me to consent to the charges and hit submit. I noticed that the fees suddenly went from $39.99 to 79.99 and I didn't understand why until I searched the internet and found dozens of complaints from last year. Apparently TT is charging an extra $39.99 in order for them to take the original fee from your return with very little explanation and quite deceptive language on their website. I paid the original fee with my credit card and filed without issue. 
+
+I know this is a bit strange and I am not trying to blast TT in general, but I do think it is fair that people be aware of these fees and quirks of the software. Hope this helps someone! 
+
+
+
+EDIT: WOW Silver! Thank you kind stranger! 
+
+This is by far my biggest post on Reddit! I've compiled some of the resources suggested but it appears that the most popular free tax filing this year is Credit Karma. 
+
+In USA: 
+The VITA Program: https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers
+Description of this program in the top comment, thanks u/meowmeowmeow_meow
+
+IRS Free File: https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free
+This is the place to start for free filings, particularly if you're going to stick with TurboTax (which I do not recommend). There are many other options on this site though and it is a valuable resource the IRS provides.
+
+Free Tax USA: https://www.freetaxusa.com/
+This was suggested by many commenters
+
+Credit Karma Tax: https://www.creditkarma.com/tax
+Also suggested by many commenters
+
+
+In Canada: 
+Simpletax: https://simpletax.ca/
+
+I really hope all you beautiful people get the most of YOUR MONEY back that you possibly can!!!

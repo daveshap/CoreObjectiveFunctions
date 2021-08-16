@@ -1,0 +1,1 @@
+How to measure duty-cycle with Input Capture from STM32F103C8T6? I'm trying to measure the duty-cycle of the 0-5V electrical PWM signal I have generated from the any source. How can I do this? Anyone can help me?IDE: KeilMicrocontroller: STM32F103C8T6

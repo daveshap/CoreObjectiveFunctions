@@ -1,0 +1,6 @@
+TERRELL: Don't tell me you've got something.
+CHEKOV: We've picked up a minor energy flux reading on one dyno scanner.
+TERRELL: Damn! Are you sure? Maybe the scanner's out of adjustment --
+CHEKOV: I suppose it <u>could</u> be a particle of preanimate matter caught in the matrix...
+TERRELL: All right, let's get on the Comm-pic to Doctor Marcus. Maybe it's something we can transplant.
+CHEKOV: You know what she'll say...

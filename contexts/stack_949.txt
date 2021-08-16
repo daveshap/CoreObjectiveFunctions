@@ -1,0 +1,1 @@
+Hard reset an iPhone 4s on iTunes on WINE I tried to hard reset an iPhone 4s by holding the home button and power button to make it go in DFU mode and reset it with iTunes on a Windows 7 system, it came to the reset page but nothing happened. Will iTunes with WINE work?

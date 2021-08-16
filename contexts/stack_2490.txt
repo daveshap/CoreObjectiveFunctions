@@ -1,0 +1,1 @@
+Adding system tools to custom toolbox in ArcGIS Pro? I am still getting over the quirks of ArcGIS Pro, right now I want to create my own toolbox that contains some tools useful for my current project: hillshade, contour and kernel density. But it seems to me that there is no way to add system tools to a custom toolbox. Can this be done?

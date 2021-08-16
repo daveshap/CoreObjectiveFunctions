@@ -1,0 +1,20 @@
+CAUCHON: Take the Holy Gospels in your hand and swear to tell the whole truth concerning everything you will be asked.
+JEANNE: I don't know what you're going to ask me questions about. You may ask things that I won't want to answer.
+CAUCHON: You will swear to tell the truth about whatever you are asked.
+JEANNE: I will willingly swear to tell the truth about earthly things, but as for my revelations, I've never told anyone except my king... Charles the Seventh... the one and only king of France.
+CAUCHON: You must take the oath! Not even a king, would refuse to take an oath to tell the truth in a matter of faith.
+JEANNE: I will willingly swear to tell you what I am allowed to tell you, but as to the rest, even if you threaten to cut off my head, I still won't tell you.
+CAUCHON: So... begin by telling us your name -- assuming you're allowed to tell us that much?
+JEANNE: My name is Jeanne. My little cross I had round my neck was taken away from me. I would like to have it back.
+CAUCHON: Show us a little more cooperation first. Where were you born?
+JEANNE: In a village called Domremy.
+CAUCHON: How old are you?
+CAUCHON: Nineteen... or thereabouts...
+CAUCHON: Were you baptized?
+JEANNE: Yes. In the church at Domremy.
+CAUCHON: Recite the Lord's Prayer.
+JEANNE: Not unless you hear my confession.
+CAUCHON: Jeanne, listen to me very carefully. We are all men of faith, and we shall earnestly strive for the salvation of both your soul and body as though it were our own. We do so in the name of our Holy Mother Church, who never closes her arms to those who would return to her. But we cannot help you unless you submit to our learned judgment and authority. Take heed of this charitable admonition, for if you persist in refusing our help, then we shall have no choice but to abandon you to the secular powers, and I think you know well enough the punishment that would await you. So now... will you please recite Our Lord's Prayer?
+JEANNE: Not unless you hear my confession.
+CAUCHON: Jeanne -- be careful -- you're not helping yourself by refusing to submit to our judgment...
+JEANNE: And you be careful, you who claim to be my judges, for you too will be judged one day...!

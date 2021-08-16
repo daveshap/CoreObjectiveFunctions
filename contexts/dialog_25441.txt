@@ -1,0 +1,19 @@
+SCRIMM: Where in the States?
+PICARD: Oh... here and there. You know how it is.
+SCRIMM: Not really. I was born and raised right here. Never had much use for travel.
+SCRIMM: Where are you from most recently?
+PICARD: California. San Francisco.
+SCRIMM: Beautiful city. Used to be, anyway. I didn't think anyone still lived there.
+PICARD: There's a few of us left.
+SCRIMM: That was a pretty clever trick you did with the hospital's batteries. How'd you do it?
+PICARD: It wasn't a trick. I used to be an electrical engineer.
+SCRIMM: Huh.
+SCRIMM: And what were you doing out at the missile silo?
+PICARD: I'm an old friend of Cochrane's... I wanted to see how he was doing.
+SCRIMM: Lucky for him you came by when you did. He might be dead now.
+PICARD: Yes.
+SCRIMM: Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this morning...
+PICARD: I think he was running a test on an old rocket engine... and one of the fuel cells burst.
+SCRIMM: You seem to have an answer for everything.
+PICARD: Something wrong with that?
+SCRIMM: Not yet.

@@ -1,0 +1,14 @@
+ICHABOD: Allow me some time. I have spent every hour in the company of others. I need to be alone.
+KATRINA: What troubles you?
+KATRINA: The things I said to you before... I was wrong to say them.
+ICHABOD: No, actually, you were not. Every word you spoke had truth in it.
+KATRINA: What has happened?
+ICHABOD: Lady Van Tassel... she is your stepmother, isn't she? She bears so little resemblance.
+KATRINA: What?
+ICHABOD: She is not your birth mother, is she?
+KATRINA: No, but... why do you ask that?
+ICHABOD: What happened to your mother? Is she still alive?
+KATRINA: She died. Her lungs were diseased... two years ago. What is this about?
+ICHABOD: Memories have come back. I had them forgotten, and wish I could forget them again... but they are here now. Lord, how I hate this place.
+KATRINA: If you want me to go, I will. Do you want me to leave?
+ICHABOD: I... I do not know. I no longer know what I think or what I feel.

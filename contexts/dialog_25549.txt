@@ -1,0 +1,8 @@
+GEORDI: Sir, we're being hailed.
+PICARD: On screen.
+PICARD: Open a channel.
+DONATRA: This is Commander Donatra of the Valdore. We're dispatching shuttles with medical personnel and supplies.
+PICARD: Thank you, Commander.
+PICARD: Geordi... prepare the shuttle- bay for arrivals. They don't know our procedures so just... open the doors.
+GEORDI: I'll take care of it, sir.
+PICARD: Number One. You have the bridge.

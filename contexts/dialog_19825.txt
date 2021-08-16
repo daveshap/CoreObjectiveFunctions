@@ -1,0 +1,29 @@
+WOMAN: Yessir?
+CHIGURH: I'm looking for Llewelyn Moss.
+WOMAN: Did you go up to his trailer?
+CHIGURH: Yes I did.
+WOMAN: Well I'd say he's at work. Do you want to leave a message?
+CHIGURH: Where does he work?
+WOMAN: I can't say.
+CHIGURH: Where does he work?
+WOMAN: Sir I ain't at liberty to give out no information about our residents.
+CHIGURH: Where does he work?
+WOMAN: Did you not hear me? We can't give out no information.
+CARLA JEAN: Why all the way to Del Rio?
+MOSS: I'm gonna borrow a car. From Eldon.
+CARLA JEAN: You can't afford one?
+MOSS: Don't wanna register it. I'll call you in a couple days.
+CARLA JEAN: Promise?
+MOSS: Yes I do.
+CARLA JEAN: I got a bad feelin', Llewelyn.
+MOSS: Well I got a good one. So they ought to even out. Quit worrying about everthing.
+CARLA JEAN: Mama's gonna raise hell.
+MOSS: Uh-huh.
+CARLA JEAN: She is just gonna cuss you up'n down.
+MOSS: You should be used to that.
+CARLA JEAN: I'm used to lots of things, I work at Wal-Mart.
+MOSS: Not any more, Carla Jean. You're retired.
+CARLA JEAN: Llewelyn?
+MOSS: Yes ma'am?
+CARLA JEAN: You are comin back, ain't ya?
+MOSS: I shall return.

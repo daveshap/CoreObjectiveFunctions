@@ -1,0 +1,9 @@
+DATA: We are losing dorsal shields.
+PICARD: Full axis rotation to port! Fire all ventral phasers!
+WORF: Minimal damage to the Scimitar.
+RIKER: Defensive pattern Kirk Epsilon. Geordi, get those shields online.
+PICARD: Counselor Troi, report to the bridge.
+RIKER: Unless we can disable his cloak we're just going to be firing in the dark.
+PICARD: Agreed.
+WORF: Sir, we're being hailed.
+PICARD: On screen.

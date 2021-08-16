@@ -1,0 +1,6 @@
+ALL: Burn her anyway.
+BEDEVERE: Quiet! Quiet! There are ways of telling whether she is a witch.
+ALL: There are? Tell up. What are they, wise Sir Bedevere?
+BEDEVERE: Tell me ... what do you do with witches?
+ALL: Burn them.
+BEDEVERE: And what do you burn, apart from witches?

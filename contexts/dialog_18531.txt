@@ -1,0 +1,22 @@
+BROWN: Awaiting my orders.
+PONSONBY: You do not report for duty unless the Queen requests it. You know that very well.
+BROWN: I didn't come all this way to sit on my arse.
+PONSONBY: You will await your orders like everyone else. Unless you prefer a repeat of yesterday's little excitement.
+BROWN: No.
+PONSONBY: I beg your pardon?
+PONSONBY: I thought I made myself perfectly clear. You do not leave your room until Her Majesty requests it.
+BROWN: Well, you tell Her Majesty from me, if her husband was here now, he'd have had her out of that house and getting some air in her. What the hell's the point in me being here otherwise?!
+PONSONBY: Go inside at once.
+BROWN: Is that the Queen's request?
+PONSONBY: Yes, it most certainly is!
+VICTORIA: Mr Brown.
+BROWN: Yes, ma'am.
+VICTORIA: You have been told repeatedly not to stand in the courtyard unless requested to do so.
+BROWN: Yes, ma'am.
+VICTORIA: Then why do you persist in doing it?
+BROWN: Because I think Her Majesty is wrong. If ever there was a poor soul who needed fresh air, it is her.
+VICTORIA: The Queen will ride out if and when she chooses.
+BROWN: And I intend to be there when she's ready.
+VICTORIA: Prince Albert was going to build a bench here. He thought it one of the best views in Osborne.
+BROWN: It's a fine spot, ma'am.
+VICTORIA: He thought so, yes.

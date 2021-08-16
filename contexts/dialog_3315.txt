@@ -1,0 +1,60 @@
+CHANCE: Hello, Thomas... I'm Chance, the gardener.
+FRANKLIN: ... The gardener? ... Yes, of course... Mr. Chance, this is Ms. Hayes.
+HAYES: Mr. Chance, I'm very pleased to meet you.
+CHANCE: Yes.
+FRANKLIN: ... We're with Franklin, Jennings and Roberts, the law firm handling the estate.
+CHANCE: Yes, Thomas - I understand.
+FRANKLIN: ... Are you waiting for someone? An appointment?
+CHANCE: Yes. I'm waiting for my lunch.
+FRANKLIN: Your lunch? You have a luncheon appointment here?
+CHANCE: Yes. Louise will bring me lunch.
+FRANKLIN: Louise?... The maid?... But she should have left earlier today...
+CHANCE: I see...
+FRANKLIN: ... You've quite a sense of humor, Mr. Chance - but all kidding aside, may I ask just what you are doing here?
+CHANCE: I live here.
+FRANKLIN: You live here? ... We don't have any record of that.
+CHANCE: Yes. It's very cold outside today, isn't it, Thomas?
+FRANKLIN: ... How long have you been living here?
+CHANCE: Ever since I can remember, since I was a child.
+FRANKLIN: Since you were a child?
+CHANCE: Yes, Thomas. I have always been here. I have always worked in the garden.
+HAYES: ... Then you really are a gardener?
+CHANCE: Yes.
+HAYES: Your appearance doesn't suggest that at all, Mr. Chance.
+CHANCE: Oh. Thank you.
+FRANKLIN: Do you have any proof of your employment, Mr. Chance - any checks from the deceased, any contracts or documents?
+CHANCE: No.
+FRANKLIN: How were you compensated for these duties you say you performed?
+CHANCE: Compensated...?
+FRANKLIN: How were you paid?
+CHANCE: I was given meals, and a home...
+HAYES: What about money?
+CHANCE: I never needed money.
+FRANKLIN: Mr. Chance, perhaps you could show us some identification with your address -- a Driver's License, a credit card, checkbook?
+CHANCE: No, I do not have any of those.
+FRANKLIN: Then how about medical records? Could you give us the name of your doctor, or your dentist?
+CHANCE: I have no need for a doctor or dentist. I have never been ill. I have never been allowed outside of this house, and, except for Joe, I have never had any visitors.
+FRANKLIN: ... Joe? Who's Joe?
+CHANCE: Joe Saracini. He was a mason that did some repairs on the brickwork at the rear of the house. That was in 1952.
+FRANKLIN: 1952...?
+CHANCE: Yes. I remember when he came. He was very fat and had short hair and showed me some pictures from a funny little book.
+HAYES: Some pictures...?
+CHANCE: Yes. Of men and women.
+HAYES: ... Oh.
+FRANKLIN: Mr. Chance, that was twenty-seven years ago.
+CHANCE: Yes and the Old Man used to come to my garden. He would read and rest there.
+FRANKLIN: Come now, Mr. Jennings had been bedridden for thirty-five years, since he fractured his spine.
+CHANCE: Yes, Thomas, that is correct. Then he stopped visiting my garden.
+FRANKLIN: ... We shall need some proof of your having resided here, Mr. Chance.
+CHANCE: You have me, I am here. What more proof do you need?
+FRANKLIN: Have you served in the Army?
+CHANCE: No, Thomas. But I have seen the Army on television.
+HAYES: How about taxes, Mr. Chance, surely you must have paid taxes?
+CHANCE: No.
+CHANCE: Those trees were very young when I first arrived.
+FRANKLIN: Are you related to the deceased, Mr. Chance?
+CHANCE: No, I don't think so. And I have planted and shaped all the hedges, and in the springtime you will be able to see my flowers.
+HAYES: Might you have a birth certificate, Mr. Chance?
+CHANCE: No. That's where Joe fixed the bricks.
+FRANKLIN: ... Do you drive this, Mr. Chance?
+CHANCE: No, Thomas. I have never been in an automobile.

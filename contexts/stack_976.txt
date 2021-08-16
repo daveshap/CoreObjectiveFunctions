@@ -1,0 +1,1 @@
+How to use chmod to give a single user from my group permission to my directory? so ubuntu noob here but I'm in a group with different people having different usernames. So I made a directory, and I want to share this with a single user from that group. How do I achieve this? I want to give rwx access. Thank you!!

@@ -1,0 +1,19 @@
+MCKECHNIE: Are you a policeman or a soft-headed nincompoop?
+KILLAINE: A little of both, sir, and perhaps not quiet enough of either.
+MCKECHNIE: It won't look pretty good on your record, Killaine. Where's the girl now?
+KILLAINE: I don't know, sir.
+MCKECHNIE: Well, find out. Who's covering her?
+KILLAINE: Nobody's covering her, I detached the officer assigned to that duty.
+MCKECHNIE: This girl is a murderess, Killaine.
+KILLAINE: I disagree, sir. As Inspector in charge of the case I have the right to form that opinion, the right to act on it.
+MCKECHNIE: Ye have, have ye?
+KILLAINE: We lifted seven fairly good prints from Miss Mayfield's toilet articles. Washington ought to teletype us within a few hours.
+MCKECHNIE: And in the meantime this girl goes where she pleases, does what she pleases?
+KILLAINE: Yes, sir.
+MCKECHNIE: Superintendent J. Mckechnie
+KILLAINE: Identification on possible, Sir. Not conclusive.
+MCKECHNIE: Superintendent J. McKechnie
+MCKECHNIE: Physical description: Age 26
+KILLAINE: I think you'd be entirely justified, sir.
+MCKECHNIE: But you still think she's innocent.
+KILLAINE: I do.

@@ -1,0 +1,1 @@
+Minecraft command block targeting How do I select multiple targets with one command block without using @e[type=!player]?For instance: /execute @e[type=creeper] ~ ~ ~ execute @e[type=spider] ~ ~ ~ execute....Does this make the command block only execute the next execute command if the previous entity is found?

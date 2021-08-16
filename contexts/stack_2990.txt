@@ -1,0 +1,1 @@
+How to calculate conductivity / electron mobility from theory? Is there a way to make quantitative statements about the conductivity of materials with band theory?If not I should still be able to get information about the conductivity from Green-Kubo relations of the electron wavefunctions in the material, right?

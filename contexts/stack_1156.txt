@@ -1,0 +1,1 @@
+Indexes: Normal tables vs memory optimized If two tables have the same schema but one is \"normal\" and the other is memory optimized, if I research on how indexes should be for the \"normal\can I do a direct extrapolation for the memory optimized table?Couldn't find anything conclusive so I really appreciate links, topics and so on.

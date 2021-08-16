@@ -1,0 +1,4 @@
+GEORDI: Captain, I'm starting to worry about the hull integrity. We've been running the support field at full power for three hours straight. I don't know how much longer it's going to hold up.
+PICARD: Understood. Keep me informed.
+TROI: Incoming transmission from the Borg.
+PICARD: On screen.

@@ -1,0 +1,7 @@
+SMITH: Captain Miller, you copy?
+MILLER: I'm here, Smith, how's the Clark?
+SMITH: I've found a six inch fracture in the outer hull. We should be able to repair it and re-pressurize, it's gonna take some time.
+MILLER: We don't have time, Smith. In twenty hours we run out of air.
+SMITH: Understood.
+MILLER: How is he?
+DJ: His vitals are stable, but he's unresponsive to stimuli. He might wake up in fifteen minutes. He might not wake up at all.

@@ -1,0 +1,6 @@
+TROOPER: This is a new car, then, sir?
+CARL: It certainly is, officer. Still got that smell!
+TROOPER: You're required to display temporary tags, either in the plate area or taped inside the back window.
+CARL: Certainly -
+TROOPER: Can I see your license and registration please?
+CARL: Certainly.

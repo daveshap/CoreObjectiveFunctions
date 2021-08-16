@@ -1,0 +1,15 @@
+CANDY: Wally thinks apples are boring.
+WALLY: I never said they were boring.
+CANDY: You said, Apples aren't exactly flying.""
+WALLY: Well, they aren't.
+HOMER: I think I'd probably like the apple business.
+WALLY: You're a little overqualified, aren't you?
+HOMER: No, I'm not. I need a job.
+WALLY: The only jobs are picking jobs. Picking apples is truly boring.
+CANDY: There! You said it was boring.
+WALLY: Well, *picking* them is! It's about as exciting as... walking!
+HOMER: Is your family in the apple business, too?
+CANDY: No, but I work there--I like it. My dad's a lobsterman.
+HOMER: I've never seen a lobster.
+CANDY: Really?
+HOMER: I've never seen the ocean, either.

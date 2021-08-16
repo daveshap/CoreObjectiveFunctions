@@ -1,0 +1,10 @@
+BUMSTEAD: You typed this report?
+MISS CRENSHAW: Yes, sir. Anything wrong?
+BUMSTEAD: Wrong? Look at this!
+MISS CRENSHAW: It seems fine.
+BUMSTEAD: <u>Fine</u>? Look here!
+BUMSTEAD: How can I submit this?
+MISS CRENSHAW: Iím sorry...
+BUMSTEAD: Do you wash your hands before you type things?
+MISS CRENSHAW: Why, yes.
+BUMSTEAD: Well be more careful, please.

@@ -1,0 +1,1 @@
+How do I get the stamina/speed switch working on my laptop? This Sony Vaio PCG-41217N has a toggle switch between 'stamina' and 'speed', but I do not notice any difference in Ubuntu 16.04. How do I get it working?There is a Windows 7 sticker on this device, so I wonder if it is somehow designed for Windows 7.

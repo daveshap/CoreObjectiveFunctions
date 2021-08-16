@@ -1,0 +1,8 @@
+DATA: What purpose does this serve?
+GEORDI: It seems to be a redundant memory port. Maybe it's for provisional memory storage in case his neural pathways overload?
+DATA: Dr. Soong must have found it unnecessary in later versions.
+GEORDI: It's possible the extra memory port is interfering with the engram processing. Mind if I keep him here and run some diagnostics?
+DATA: No, I do not mind.
+DATA: But I believe he will prove incapable of performing higher functions.
+GEORDI: Don't give up hope, Data. I know, I know, you're not capable of hope.
+DATA: I am not.

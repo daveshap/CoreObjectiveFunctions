@@ -1,0 +1,4 @@
+NORRIS: We should sleep in shifts.
+MACREADY: Right. Half of us awake at all times.
+SANCHEZ: How we going to try and find out who's... you know, who's who?
+MACREADY: Can you think of any other tests?

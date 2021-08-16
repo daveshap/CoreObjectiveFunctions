@@ -1,0 +1,1 @@
+How to change \"Activities\" text on Ubuntu 17.10 I want to know how can I change the \"Activities\" text to my own text for example \"Task Manager\or is it possible if I can change it to an image icon?

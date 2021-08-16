@@ -1,0 +1,1 @@
+Find if a coin toss sequence is random Suppose we are given a sequence of heads and tails for 1000 coin tosses. how do we check if it's actually random? I believe I need to do a hypothesis test, I tried to write some examples to get an idea and I think it has something to do with the number of consecutive heads or tails parts but I'm not sure how to proceed.

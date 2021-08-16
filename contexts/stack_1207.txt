@@ -1,0 +1,1 @@
+How do I upload an .mdf file to Azure Data Studio for Mac? How could I access multiple databases at once using Azure Data Studio and import an existing .mdf file as one of those database, with tables and data that had been stored in that .mdf file?

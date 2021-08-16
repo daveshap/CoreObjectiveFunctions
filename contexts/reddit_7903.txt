@@ -1,0 +1,4 @@
+Paper got rejected, and unsurprisingly I'm questioning my entire PhD
+A paper I've been trying to get accepted was rejected twice at different venues, and I already gave up on trying to get the work published. How do fellow PhD students deal with rejected papers? Do you take rejection as a marker for your research ability, or do you think it's luck? How do you cope with unreasonable or biased reviewers who simply didn't like the topic or task? It's so hard sometimes to not take their criticism personally and question your entire line of work going forward.
+
+EDIT: if of any relevance, the field is computer vision/machine learning, so three things stand out: 1) research moves at lightning speed; 2) conference submissions are annual; 3) field saturated with thousands of submissions from both industry and academia.

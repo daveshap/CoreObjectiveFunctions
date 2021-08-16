@@ -1,0 +1,7 @@
+CAROL: How was it?
+DOC: Better than I remembered.
+CAROL: I was going to fix you breakfast.
+DOC: You were asleep.
+CAROL: I bought you a lot of new things.
+DOC: Yeah, well, I think I'll stick with what I've got.
+CAROL: Suit yourself.

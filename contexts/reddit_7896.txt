@@ -1,0 +1,22 @@
+Is it too early to switch advisors if I just finished my first semester as a master's student?
+Hello. I'm aware that questions regarding changing advisors has been asked frequently on this community, and I've also asked a few of my own previously, but after doing some thinking on the answers that I've received and read I felt that I needed some opinions or feedback regarding my situation.
+
+I just finished my first semester as a computer science master's student but have been having doubts about staying in this lab for quite a while. The main reasons that I'm having feelings of doubt are:
+
+1. Different research interests. When I first interviewed with the professor the research that he said I'd be doing was different from what I'm doing now.
+
+2. Differences in approaches to research. My professor is more "business-oriented" (for lack of a better word) and only cares about the results (more specifically, I'm doing research in deep learning), while I want supervision on how to analyze those results in-depth.
+
+3. Differences in values and principles (I'm not sure if this is an accurate way to put it). This is somewhat related to #2, but I've noticed that most of the people in the lab share an attitude along the lines of results-first. This attitude is somewhat understandable, but again it's not exactly how I want to approach my research. I've been ridiculed when people saw I was taking classes in the mathematics department, saying that "you don't need those classes for deep learning."
+
+4. Lack of supervision in general. My advisor's always attending meetings and doesn't do any research of his own. The most advisory that students receive is either during our lab seminar or right before we're about to submit papers to conferences/journals.
+
+Some of the things that are holding me back from making up my mind are:
+
+1. Perhaps I'm just having feelings of frustration and don't know particularly well what I really want to do yet, and should give it some more time. My parents (who are both professors themselves) have said that it might not be a bad idea to take another semester to think on my doubts, and whether switching advisors would solve any of those problems.
+
+2. Money. The lab that I'm at now is the largest in our department (even school maybe), and the professor does do a good job of bringing in government or company-funded projects. The students including myself usually get paid on a monthly basis, and we use this money to pay for our tuition with a bit extra. I'm aware that this isn't typical for our school, and the lab I'm at is privileged in that sense.
+
+3. Fear of starting over. I'm not sure if there is any objective reason for me to feel this way, as it has only been one semester. I suppose the reason why I feel this way is because I want to get results out within the next two years so that I can apply for PhD programs elsewhere, and switching advisors gives me this massive feeling of anxiety that I'd be throwing away everything I've been involved in until now.
+
+What would your advise be to someone who's just started graduate school and is already having these feelings? Would they be justifiable or perhaps I'm just acting like a child? Switching advisors isn't a trivial issue either, so any second opinions that I may receive are greatly appreciated. Thanks in advance.

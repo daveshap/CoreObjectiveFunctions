@@ -1,0 +1,16 @@
+What are the arguments for and against requiring companies to modify their encryption to allow government access?
+Deputy Attorney General Rosenstein, in a [speech yesterday at the US Naval Academy](https://arstechnica.com/tech-policy/2017/10/trumps-doj-tries-to-rebrand-weakened-encryption-as-responsible-encryption/), argued in favor of requiring companies such as Apple to modify their encryption in order to allow law enforcement to access encrypted data.
+
+Rosentstein [commented on](https://www.justice.gov/opa/speech/deputy-attorney-general-rod-j-rosenstein-delivers-remarks-encryption-united-states-naval) both the practical and constitutional aspects of the issue:
+
+> Encrypted communications that cannot be intercepted and locked devices that cannot be opened are law-free zones that permit criminals and terrorists to operate without detection by police and without accountability by judges and juries.
+
+> [...] there has never been a right to absolute privacy. Courts weigh privacy against other values, including the need to solve and prevent crimes. [...] Warrant-proof encryption defeats the constitutional balance by elevating privacy above public safety. [...] There is no constitutional right to sell warrant-proof encryption.
+
+This seems to be a continuation of the previous administration's position on encryption, where the [FBI obtained a federal court](https://www.nytimes.com/2016/02/27/technology/a-brief-explanation-of-apples-showdown-with-the-us-government.html) order compelling Apple to assist in gaining access to the San Bernandino shooter's iPhone.
+
+A number of technology companies have [spoken out against the government's position](https://www.theverge.com/2016/3/3/11156704/apple-fbi-amicus-briefs-iphone-encryption-fight), such as in this [amicus brief](https://www.scribd.com/doc/302014025/Apple-Brief-Of-Twitter-And-Other-Web-Companies?irgwc=1&content=10079&campaign=Skimbit%2C%20Ltd.&ad_group=66960X1514734X5ff79d4452069ae5ad3fe358a8b51c1a&keyword=ft750noi&source=impactradius&medium=affiliate) from Twitter, Reddit, CloudFlare, and others:
+
+> If the government is able to compel companies to break their own security measures, the users of those companies will necessarily lose confidence that their data is being handled in a secure, open manner. [...] Technological backdoors, whether or not built for specific and supposedly limited purposes, create an opportunity for criminals and hackers to exploit.
+
+What are the merits of the arguments on both sides? Is there existing precedent to support the government's position? Have other countries implemented similar requirements, and if so how have those worked out?

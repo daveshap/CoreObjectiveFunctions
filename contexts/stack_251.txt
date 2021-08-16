@@ -1,0 +1,1 @@
+Can iOS apps read the location metadata when allowing access to Photos? I am just wondering if by allowing access to Photos, the application has access to read the EXIF metadata (including where the photo was taken and stuff like that).Is that possible?

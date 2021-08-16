@@ -1,0 +1,5 @@
+BARREL: <i> ... Let's draw straws.</i>
+SHOCK: <i> Jack said we should work together.</i>
+BARREL: <i> Three of a kind...</i>
+LOCK: <i> ... Birds of a feather.</i>
+SHOCK: <i> Now and forever...</i>

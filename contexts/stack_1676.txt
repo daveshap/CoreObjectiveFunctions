@@ -1,0 +1,1 @@
+Which UART is used on the Explorer 16 development board with PIC32? I am trying to use \"PIC32mz2048ech100\" on \"explorer16\" to get \"UART\" communication. Can anyone let me know which uart channel(from 1 to 6)of PIC32 microcontroller is connected to explorer 16.

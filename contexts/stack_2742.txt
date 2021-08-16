@@ -1,0 +1,1 @@
+Electron released between parallel plates An electron is released between fixed charged parallel plates. The seperation between the plates is small compared to the dimensions of each plate so that we consider the electric field to be uniform. Does it create electromagnetic wave because of acceleration? How does the energy conservation take place in this situation?

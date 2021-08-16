@@ -1,0 +1,1 @@
+Player's inventory look for item I am stuck looking for a way to test for an item in a player's inventory so far nothing has worked  any help would be nice

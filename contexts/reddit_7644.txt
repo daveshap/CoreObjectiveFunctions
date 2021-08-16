@@ -1,0 +1,6 @@
+How to keep track of contacts from conferences, etc.?
+Any tips on how you keep track of contacts from conferences or other academic gatherings? 
+
+I’m a first year grad student and would love to get a system going for myself before it will take a lot of work to backlog contacts. 
+
+Maybe it’s as simple as putting a tag on emails or literally saving the contact within google/outlook/etc., but I’ve also seen suggestions for using a full on database (Microsoft Access or similar, I’d imagine)

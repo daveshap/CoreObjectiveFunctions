@@ -1,0 +1,10 @@
+PORTER: May I help you, madam ...
+EMMA: Mr. John Steed, please.
+PORTER: I'm afraid that's impossible.
+EMMA: Impossible?
+PORTER: You are female?
+EMMA: As you see.
+PORTER: Then you can't come in.
+EMMA: I have an appointment.
+PORTER: No women. Not in Boodles. Not since 1922.
+EMMA: Really -- what happened in 1922?

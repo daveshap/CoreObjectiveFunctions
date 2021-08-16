@@ -1,0 +1,6 @@
+KIRK: Programming ready?
+DECKER: Program set for standard Warp entry, Captain...
+DECKER: ... but I still recommend further simulation study.
+KIRK: Mister Decker; every minute brings that object nearer Earth! Engineering! Stand by for Warp Drive.
+SCOTT'S INTERCOM VOICE: Captain, we need further Warp simulation on the flow sensors...
+KIRK: Engineer, we need Warp speed now!

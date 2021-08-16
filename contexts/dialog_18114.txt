@@ -1,0 +1,41 @@
+KITTRIDGE: This is Kittridge.
+ETHAN: Go secure.
+KITTRIDGE: Go ahead.
+ETHAN: Theyíre dead.
+KITTRIDGE: Whoís dead?
+ETHAN: My team. Claire, Jack, even Jim - - Hannah, maybe, I -- donít know
+KITTRIDGE: Are you damaged?
+ETHAN: They knew we were coming. Golitsynís dead too. The disk is gone.
+KITTRIDGE: <u>Are you intact</u>?
+ETHAN: Do you read me? <u>The list is in the open</u>!
+KITTRIDGE: Let's just bring you in safely, and then we'll worry about that, okay? Were you followed?
+ETHAN: I donít think so.
+KITTRIDGE: Donít <u>think</u>, be <u>sure</u>. Are you clean?
+ETHAN: Yes.
+KITTRIDGE: Location green. One hour. Iíll be there myself.
+ETHAN: Youíre in Prague?
+KITTRIDGE: Heard a lot about you, Hunt. Donít disappoint me.
+ETHAN: No sir.
+KITTRIDGE: One hour.
+KITTRIDGE: I can't tell you how sorry I am. I know how much Jim in particular meant to you, Ethan. Personally as well as professionally.
+ETHAN: Yeah.
+KITTRIDGE: Passport, visas - you know the drill. We'll work the exfiltration thru Canada, debrief you at Langley. Throw the Prague police a bone, you know toss them a few suspects. Follow me?
+ETHAN: Yeah. I follow you.
+KITTRIDGE: We've lost enough agents for one night.
+ETHAN: You mean <u>I've</u> lost enough agents for one night.
+KITTRIDGE: You seem hell bent on blaming yourself, Ethan.
+ETHAN: Who else is left?
+KITTRIDGE: Yes. I see your point.
+ETHAN: Why was there another team?
+KITTRIDGE: What?
+ETHAN: Of IMF agents. At the Embassy. Tonight.
+KITTRIDGE: I don't quite follow you.
+ETHAN: Let's see if you can follow me around this room. The drunk Russians on the embankment at 7 and 8 o'clock...The couple waltzing around me at the Embassy at 9 and 11. The waiter behind Hannah at the top of the staircase - Bowtie, 12 o'clock. The other IMF team. You're worried about me. <u>Why</u>?
+KITTRIDGE: You're right. Maybe this'll save some time.
+KITTRIDGE: For a little over two years now we've been spotting serious blowback in IMF operations. We have a penetration. The other day we decoded a message on the Internet from a Czech we know as Max.""
+ETHAN: The arms dealer.
+KITTRIDGE: That's right. Max, it seems, has two unique gifts -- a capacity for anonymity and for corrupting susceptible agents. This time he's gotten to someone on the inside - he's put himself in a position to buy our NOC list. An operation he referred to as Job 314". The job he thought Golitsyn was doing tonight."
+ETHAN: But the list Golitsyn stole was a decoy.
+KITTRIDGE: Correct the actual list is safe at Langley. Golitsyn" was a lightning rod
+ETHAN: This whole operation was a molehunt.
+KITTRIDGE: Yes, the mole's deep inside. And -- like you said. You survived.

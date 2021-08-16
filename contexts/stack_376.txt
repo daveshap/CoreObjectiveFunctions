@@ -1,0 +1,1 @@
+iOS Backup Size plus Next Backup Size? If I have a limit of free 5GB iCloud, and the Backup Info states: Backup Size: 4.28GBNext Backup Size: 1.10GBDoesn't this mean the next backup will be smaller? Therefore, shouldn't it overwrite/delete the existing backup and thus still be within the 5GB limit?My backups keep failing because of lack of space.

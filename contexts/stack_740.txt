@@ -1,0 +1,1 @@
+Do all that works for Ubuntu work for Lubuntu? How can I guess, when finding sw install instructions/suggestions for Ubuntu, if they are ok for the Lubuntu 16.04 version I've got on my pc? Thans!

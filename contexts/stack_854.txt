@@ -1,0 +1,1 @@
+Installing Bionic Beaver freezes in the first purple screen I want to fresh install ubuntu 18.04. When I boot it from USB Drive, and after selecting install ubuntu, it freezes in the first purple screen and after 1 hour waiting, nothing happens. I have currently ubuntu 16.04 installed.

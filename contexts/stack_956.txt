@@ -1,0 +1,1 @@
+Missing Armenian language pack in Ubuntu 18.04 Dear Ubuntu support teamWhile working with Ubuntu 18.04 i noticed that the 18.04 version doesn't have the Armenian language in the options We would like you to add Armenian language in the next updateAnd also what would you suggest us to do while waiting for your update??

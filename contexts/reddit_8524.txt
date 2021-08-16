@@ -1,0 +1,6 @@
+How was a federal judge able to rule the individual mandate of the Affordable Care Act unconstitutional when the Supreme Court originally said it was not unconstitutional? What does this mean moving forward?
+A federal judge in Texas rules that the individual mandate of the ACA is now unconstitutional because in the 2017 tax bill, the penalty for being uninsured was wiped to $0. (https://www.bloomberg.com/news/articles/2018-12-15/obamacare-core-provisions-ruled-unconstitutional-by-judge)
+
+The article says that the rationale beind it was that with no penalty for non-compliance, there can't be a mandate, which doesn't make sense to me because in Department of Health and Human Services v Florida (i.e. the SCOTUS case in 2011) they ruled the ACA as constitutional because the mandate penalty is considered a tax. (http://www.scotusblog.com/case-files/cases/u-s-department-of-health-and-human-services-v-florida/).
+
+Why would temporarily eliminating the mandate make the law Unconstitutional? What does this mean for Health Insurance in the next year? Are other parts of the act such as forbidding the denial of coverage based on pre-existing conditions no longer law?

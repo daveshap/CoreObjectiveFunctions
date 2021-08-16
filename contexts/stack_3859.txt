@@ -1,0 +1,1 @@
+causality testing with multiple variables I am interested in a method to test causality in the following setup: time series are measured from X1,...,Xn and I want to quantify with a single number the degree to wich this gives information about time series Y1,....,Ym.Do there exist methods to test causality with multiple variables in this sense?

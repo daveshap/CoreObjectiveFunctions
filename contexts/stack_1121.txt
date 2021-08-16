@@ -1,0 +1,1 @@
+Spatial query to get enclosing radius/polygon of result set Is it possible in SQL to run a query of spatial data, and then just return a single polygon, or a radius, that encloses, aggregates, all of the spatial data that was in that query into one feature?

@@ -1,0 +1,22 @@
+PRIEST: You know I'm always happy to see you, Jeanne, but to keep coming here twice, three times a day...
+JEANNE: I need to confess.
+PRIEST: But you already confessed this morning...
+JEANNE: I need to confess again.
+PRIEST: So... alright. What terrible sin have you committed since then that can't wait till tomorrow to be forgiven?
+JEANNE: I saw a poor monk without shoes so I gave him some.
+PRIEST: There's no sin in charity, Jeanne.
+JEANNE: They weren't my shoes. Mine were too small.
+PRIEST: Whose were they?
+JEANNE: My father's.
+PRIEST: I'm sure he'll forgive you.
+JEANNE: He already did, but I want God to forgive me too.
+PRIEST: Jeanne -- if we were to ask forgiveness all the time, we'd spend our whole life in church.
+JEANNE: Is that bad?
+PRIEST: Well no, but... Jeanne, are you happy at home?
+JEANNE: Oh yes... very.
+PRIEST: And your mother -- everything's fine with her?
+JEANNE: Oh yes, she's... wonderful.
+PRIEST: Good, good. And your sister... Catherine -- she's still your best friend?
+JEANNE: Oh yes, my sister's just... she's... wonderful.
+PRIEST: And what about your other friends... you don't like playing with them?
+JEANNE: Oh yes, I play with them... lots...

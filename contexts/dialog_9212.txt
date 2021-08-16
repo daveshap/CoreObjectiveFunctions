@@ -1,0 +1,20 @@
+MICHAELS: Yes, Alan.
+CARTER: Meet Grant. This is Dr. Michaels, Chief of the Medical Section.
+MICHAELS: Glad to have you with us, Mr. Grant.
+GRANT: Wish I knew why.
+CARTER: Tell him where he fits in, will you? I've got a few things to check out.
+MICHAELS: We need you for Security purposes, Mr. Grant.
+GRANT: At an operation?
+MICHAELS: They know they failed to kill Benes. Security thinks they'll try again, first chance they get. We're afraid of medical sabotage -- or surgical assassination.
+GRANT: Surgical assassination?! But that means you suspect --
+CARTER: [LINE OF DIALOGUE CUT OFF]
+MICHAELS: I don't agree. Just because he's often difficult --
+CARTER: Difficult? He's impossible!
+MICHAELS: That's no reason to suspect him of disloyalty.
+GRANT: But why take the chance, when there must be other doctors?
+CARTER: We have no choice. Duval's the most skillful brain surgeon in the country, and he's right here, at hand.
+GRANT: I wouldn't know if he's trying to save him or kill him.
+MICHAELS: I'll be standing by. <I'll> know.
+CARTER: And no matter what happens, you're to take orders <only> from Dr. Michaels, understand?
+GRANT: Right, sir.
+CARTER: Come along, they'll be operating shortly. See you later, Mike.

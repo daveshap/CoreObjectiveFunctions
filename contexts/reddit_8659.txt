@@ -1,0 +1,14 @@
+What are the merits of automatic voter registration?
+Today is National Voter Registration Day in the US.  Reddit's admins asked us to post about this and link to [their blog post](https://redditblog.com/2017/09/25/reddit-is-partnering-with-national-voter-registration-day/) on the subject.  
+
+---
+
+Now with the PSA part out of the way, I'd like to ask about the merits of automatic voter registration, whose goal is to make things like National Voter Registration Day unnecessary.
+
+[Ten states currently use some form of automatic voter registration.](https://www.brennancenter.org/analysis/automatic-voter-registration)
+
+In general, such policies automatically register voters when they interact with the DMV [unless they opt out.](http://www.ncsl.org/research/elections-and-campaigns/automatic-voter-registration.aspx) Though Alaska does it when people get [their permanent fund dividends.](https://pfd.alaska.gov/Automatic-Voter-Registration)
+
+In all states, there is an opt out, as opposed to the opt-in of the [motor-voter act.](https://en.wikipedia.org/wiki/National_Voter_Registration_Act_of_1993)
+
+What are the pros and cons of moving towards a system of automatic voter registration?  Should a federal automatic registration law be passed?

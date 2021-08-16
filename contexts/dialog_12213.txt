@@ -1,0 +1,32 @@
+PSYCHIATRIST: Tell me, Harold, how many of these, eh, suicides have you performed?
+HAROLD: An accurate number would be difficult to gauge.
+PSYCHIATRIST: And why is that?
+HAROLD: Well, some worked out better than others - some had to be abandoned in the planning stages - do you include the first time? - then there's the question of maiming...
+PSYCHIATRIST: Just give me a rough estimate.
+HAROLD: Well, a rough estimate... I'd say fifteen.
+PSYCHIATRIST: Fifteen.
+HAROLD: A rough estimate.
+PSYCHIATRIST: And were they all done for your mother's benefit?
+HAROLD: I wouldn't say benefit.""
+PSYCHIATRIST: No, I suppose not. How do you feel about your mother?
+HAROLD: I don't think I'm getting through to Mother like I used to.
+PSYCHIATRIST: Does that worry you?
+HAROLD: Yes. It does.
+PSYCHIATRIST: Why?
+HAROLD: I put a lot of effort into these things.
+PSYCHIATRIST: Ah, yes.
+HAROLD: And a lot of time.
+PSYCHIATRIST: I'm sure. But what else do you do with your time? Do you go to school?
+HAROLD: No.
+PSYCHIATRIST: What about the draft?
+HAROLD: My mother spoke to my Uncle Victor. He's in the Army and he fixed it up.
+PSYCHIATRIST: Oh. Well, how do you spend your day?
+HAROLD: You mean when I'm not working on a...
+PSYCHIATRIST: Yes. What kind of things do you do?
+PSYCHIATRIST: I see. Junkyards. What is the fascination there?
+HAROLD: I don't know.
+PSYCHIATRIST: Is it the machines? The noise? The people?
+HAROLD: No. It's the junk. I like to look at junk.
+PSYCHIATRIST: What else do you like?
+PSYCHIATRIST: That's very interesting, Harold, and I think very illuminative. There seems to be a definite pattern emerging. Your fondness for useless machines and demolitions seems indicative of your present emotional state, your self-destructive urges and your alienation from the regular social interaction. What do you think? And of course this pattern once isolated can be coped with. Recognize the problem and you are half way on the road to its solution. But tell me, what do you do for <u>fun</u>? What activity gives you a different sense of enjoyment than the others? What do you find fulfilling? What gives you that certain satisfaction?
+HAROLD: I go to funerals.

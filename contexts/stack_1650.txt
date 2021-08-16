@@ -1,0 +1,1 @@
+So why do SSD disks have a reputation for power efficiency? Why do SSD disks have a reputation for power efficiency? I've just looked at some the spec sheets for SSD and mechanical hard disks. In a lot of cases, the even during idle state, SSDs use slightly more watts than their mechanical counterparts? Can anyone explain this one?

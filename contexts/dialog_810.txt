@@ -1,0 +1,5 @@
+STANDARD: Appears to be a door hanging open, the entrance is clogged with debris.
+BROUSSARD: Looks like a derelict.
+STANDARD: Martin, we're going in. I'm going to hold the conversation to a minimum from here on.
+MELKONIS: Air lock?
+STANDARD: Who knows?

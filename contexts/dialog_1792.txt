@@ -1,0 +1,16 @@
+FORMICA: Notice the big one, holding hands with the female?
+CARPENTER: Well, uh, who notices workers, sir?
+FORMICA: No one should have to. Have him brought to me.
+FORMICA: So this Z...he fancies himself an individual?
+WEAVER: Yeah...I mean...well...I don't know, really, sir.
+FORMICA: Well now <u>you</u> haven't fallen for this silly idea of individuality, have you?
+WEAVER: Oh, no, sir!
+FORMICA: Good. You're a good soldier.
+WEAVER: Thank you, sir.
+FORMICA: So tell me. Where's Z?
+WEAVER: I...I have no idea, sir.
+FORMICA: Okay, son.
+FORMICA: We know what makes an ant colony strong, don't we? We know that no ant can be an individual. No <u>single</u> ant matters, right?
+WEAVER: That's correct, sir!
+FORMICA: Not that one. Or that one.
+WEAVER: No, sir!

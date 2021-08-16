@@ -1,0 +1,1 @@
+What is the checksum value for kubuntu-16.04.3-desktop-amd64.iso? Running WinMD5Free v1.20 said it's not matching current 8d8413fe8d7ca81bdab86180e8d5386eWhat is the checksum value for kubuntu-16.04.3-desktop-amd64.iso?

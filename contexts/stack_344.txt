@@ -1,0 +1,1 @@
+Can't see the User on the login screen My user name does not appear on the login screen. There are two users and only one is shown. Is there any way to see the other user or some user name input box instead of selection?

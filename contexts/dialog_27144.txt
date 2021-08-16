@@ -1,0 +1,40 @@
+PENDERGAST: Special Agent Pendergast. FBI. Forgive me. I guess I was snooping. What is this?
+MARGO: An invention of mine. It's a computer program designed to describe the characteristics of a given species from a reading of its DNA. I call it the Genetic Sequence Extrapolator.
+PENDERGAST: How does it work?
+MARGO: With a DNA analysis from a fossil you can use this program to tell the species and sex of the animal, whether it was nocturnal, what it ate, how it hunted, how big it was... You aren't here for a lesson in DNA.
+PENDERGAST: No. I came to talk about Dr. John Whittlesley.
+MARGO: Somehow, when all this happened... I knew it would come back to John. Is he really dead?
+PENDERGAST: Maybe not.
+MARGO: If he were alive he'd have contacted me.
+PENDERGAST: You have time to talk?
+PENDERGAST: Dr. Whittlesley was last seen in Belem, Venezuela a week after the rest of his expedition disappeared. A taxi driver drove him to the harbor where he boarded a cargo boat. That boat washed up in my district. Everyone on board was killed.
+MARGO: And John?
+PENDERGAST: Disappeared. His body wasn't among the victims.
+MARGO: I don't understand.
+PENDERGAST: The people killed were mauled and their brains were eaten. Just like Beauregard. One part of the brain was extracted with surgical precision. The hypothalamus and thalamus to be exact.
+MARGO: John couldn't have anything to do with a horrible thing like that. He was a fine man despite his problems --
+PENDERGAST: You loved him.
+MARGO: Yes. Once. We met at Columbia. John held the Cadwalader Chair in Statistical Paleontology when I was a grad student there.
+PENDERGAST: You were going to be married.
+MARGO: How did you know that?
+PENDERGAST: I ran an internet search on Dr. Whittlesley. Got a list of his scholarly articles and the engagement announcement in the Times. I also found a record of your restraining order.
+MARGO: That was two years ago. John was still in love with me. He wouldn't leave me alone.
+PENDERGAST: You were afraid of him, weren't you?
+MARGO: He was afraid of himself. He tried suicide once. He was ill. Manic depressive. He had wild emotional highs and lows. Not a happy affliction for a scientist. He'd been revered in our community. By the end he was a joke.
+PENDERGAST: Tell me about the last expedition. What was he looking for?
+MARGO: A legendary monster called Mbwun.
+PENDERGAST: A monster?
+MARGO: Yes. He developed his own theory that he called the Calisto Effect. It held that evolution wasn't always gradual or driven by natural selection. The environment would sometimes cause sudden and grotesque changes which could result in a monster species". It made no sense. But he felt he had evidence that Mbwun was such a monster
+PENDERGAST: What happened?
+MARGO: No one knows. The Kothoga who live on the tepui are cannibals.
+MARGO: No. I'm all right. I won't let this affect me anymore. John wouldn't get help. His ego endangered the lives of others. His theory came first.
+PENDERGAST: What if Whittlesley arrived on the tepui and no monster was there? Was he desperate enough to create one?
+MARGO: I don't understand.
+PENDERGAST: Something came up in autopsy tonight. Imbedded in Beauregard's body we found a claw.
+MARGO: My God. Then it was an animal.
+PENDERGAST: I don't think so. I think we were meant to think it was Mbwun. Did Whittlesley's monster have claws?
+MARGO: I don't know. He sent back a statue that's supposed to be an exact representation. But I've never seen it. It's in the exhibit.
+PENDERGAST: Would you mind showing it to me?
+PENDERGAST: Where would we find it?
+MARGO: I'm not sure. We should split up. You take that hall and I'll take this one.
+PENDERGAST: All right. I'm as macho as you are. Perhaps.

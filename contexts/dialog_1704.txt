@@ -1,0 +1,7 @@
+GARY: I've only shown this to three other people. I bought 200, we've launched 12 so far. I keep the coordinates in this room. It's left over from SDI. Reagan's Star Wars technology? They orbit 426 miles up.
+MILO: Low enough to relay internet traffic.
+GARY: Among other things... We know convergence is the real super-highway: all the PC's, TV's, phones, etc. linked together. Why cram it into a cable if you can use the whole sky?
+MILO: Skywire.
+GARY: The content filer has t'be written into the media files so bits coming off the satellite can be read by multiplatforms. Really, omniplatforms. Including whatever new hardware emerges.
+MILO: It needs a more object-oriented language. This doesn't scale, does it?
+GARY: You'd have to start practically from scratch. But this is all you'd be working on. No marketing meetings, no product seminars. We can't waste the time. Half the Valley's working on convergence. So're media conglomerates, cable companies, phone companies. 'Can't finish second, Milo. There is no second... Now what would you like to ask me?

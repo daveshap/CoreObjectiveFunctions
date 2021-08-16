@@ -1,0 +1,1 @@
+SQL TO SSIS derived column month name and 1ST of month I have the following as sql SQL TO SSIS derived column month name and 1ST of monthDATENAME(MM,DATEADD(mm, DATEDIFF(mm, 0, GETDATE()), 0)) --month nameDATEADD(mm, DATEDIFF(mm, 0, GETDATE()), 0) --date 1st of monthcant get these to work as derived columns in SSIS how do I convert please team

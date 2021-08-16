@@ -1,0 +1,4 @@
+Computer Science Degree vs Self taught
+Sorry if this is the wrong place to post this.
+
+Is doing a Computer Science Degree really worth doing nowadays? my dad and I have been talking about enrolling in a computer science degree or a pathway to get into uni in June, as I may not have a high up marks to get into uni and I'm having second thoughts about all this as there would be a lot of boring crap like calculus and assignments and the list goes on that I don't know crap about. he also told me it be a waste of 10 grand going to college and just to get my marks up to get into uni he does really wanna do that. What do you actually learn in a Computer Science degree? so far I have self-teach myself  javascript/python/C#/C++ and few frameworks like jquery and react. on other hand, I seen job advertises who don't even ask for a degrees anymore. should I just keep self-teaching my self and skip Uni and build up my portfolio?

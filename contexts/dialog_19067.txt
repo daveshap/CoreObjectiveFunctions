@@ -1,0 +1,33 @@
+BARRAS: Ah, my dear friend, come in, come in. Please sit down.
+NAPOLEON: I'm sorry, I was at the theater and I didn't receive your note until I returned to my hotel.
+BARRAS: Thank you for coming. Would you care for a drink?
+NAPOLEON: No, thank you.
+BARRAS: I don't have to tell you of our latest difficulties.
+NAPOLEON: Things are quite serious, I should say.
+BARRAS: We expect an attack on the Convention tomorrow morning, at daybreak, and I have been placed in charge of its defense.
+NAPOLEON: What do you have in mind?
+BARRAS: To be perfectly honest, I haven't the vaguest idea.
+NAPOLEON: Are you serious?
+BARRAS: I don't even know whether a defense is possible.
+NAPOLEON: What forces do you have at your disposal?
+BARRAS: About 5,000 troops.
+NAPOLEON: Cavalry?
+BARRAS: The 21st Dragoons, about two or three-hundred troopers.
+NAPOLEON: Any cannon?
+BARRAS: There are none here.
+NAPOLEON: Where are they?
+BARRAS: Well, I believe there are at least 30 guns at Sablons.
+NAPOLEON: You could have them here by daybreak.
+BARRAS: Is this enough to oppose 40,000 men?
+NAPOLEON: Properly arranged, yes.
+BARRAS: These are odds of 8 to 1.
+NAPOLEON: The numbers are not particularly relevant. You are not up against soldiers -- this is a mob, and they will run as soon as things become sufficiently unpleasant.
+BARRAS: Would you be prepared to handle this for me?
+NAPOLEON: Are you proposing to transfer command to me?
+BARRAS: In every practical sense, yes, but, officially, of course, I would have to retain command.
+NAPOLEON: Fair enough.
+BARRAS: I must be honest with you. I first approached three generals more senior than yourself, and they all very prudently sent excuses.
+NAPOLEON: I'm not insulted.
+BARRAS: You realize what is at stake?
+NAPOLEON: Our lives, the revolution, my career?
+BARRAS: Look, let me be completely open with you, I have a carriage and an escort waiting for me, and I have a great deal of money outside of France. Unless we stand a very good chance of carrying this off, I am prepared to call it quits right now.

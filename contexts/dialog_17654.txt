@@ -1,0 +1,6 @@
+TANNER: Transmit copy of program via satellite north uplink.
+SYNTHETIC VOICE: Destination?
+TANNER: Tanner-eighteen-six-two-nine.
+SYNTHETIC VOICE: Checking connection.
+SYNTHETIC VOICE: Connection approved. Ready to transmit --
+TANNER: -- Transmit now!

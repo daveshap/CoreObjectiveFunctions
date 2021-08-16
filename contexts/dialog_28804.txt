@@ -1,0 +1,10 @@
+BEV: May I help you?
+REILLY: I'm looking for the Bomb Squad.
+BEV: They're not here.
+REILLY: Where are they?
+BEV: And you are...?
+REILLY: Officer Reilly, vice.
+BEV: There out on a call, perhaps I can help you-
+REILLY: -Where?
+BEV: f 2600 block of Lakefront. A limousine. But, I-
+REILLY: Thanks.

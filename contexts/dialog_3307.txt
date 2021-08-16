@@ -1,0 +1,9 @@
+BETELGEUSE: So... You're ready for me now?
+LYDIA: You've got to help them.
+BETELGEUSE: Can you help <u>me</u>?
+LYDIA: ... I will.
+BETELGEUSE: Then <u>I'll</u> help them. For a price.
+LYDIA: W... What is it?
+BETELGEUSE: 
+LYDIA: Your qu...? But you're...
+BETELGEUSE: I'm beeyoo-teeful.

@@ -1,0 +1,1 @@
+Converting dv to mpeg2 I'm trying to transfer videos from an old tape recorder onto DVDs. I think that I need to use ffmpeg to convert the dv files to mpeg2 but can't find the right commands to use. Does anybody know what the right commands are or if their is an alternative method?

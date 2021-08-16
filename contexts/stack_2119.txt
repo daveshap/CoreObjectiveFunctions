@@ -1,0 +1,1 @@
+Uplay Shop Tab Missing I'm in a very strange situation. When I run Uplay and log in, there is no shop tab. Usually, I start all my PC games from Steam, which means I don't use Uplay very often.I tried to fix this bug by reinstalling the latest version of Uplay, but this didn't help. I always log in online; I never use offline mode. Did I miss a special setting to enable the shop?

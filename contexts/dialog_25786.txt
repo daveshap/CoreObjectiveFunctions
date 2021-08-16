@@ -1,0 +1,4 @@
+RIKER: Looks like you're stuck with emotions for a while. How do you feel?
+DATA: I am quite...preoccupied with concern about Geordi.
+RIKER: We all are, Data. But we're going to get him back.
+DATA: I hope so, sir.

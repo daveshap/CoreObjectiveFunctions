@@ -1,0 +1,1 @@
+DeAuth all AP's in range In a few days, we are going to be many friends that will gather together and play all night long using 6-7 APs.How can I DeAuth/Disconnect everyone's connection, without being connected to their network?

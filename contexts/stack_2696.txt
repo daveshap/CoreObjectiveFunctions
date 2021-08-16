@@ -1,0 +1,1 @@
+Draw a polygon with specified edge length in QGIS Madeira I am looking for a possibiliy to draw a polygon with specified edge length in QGIS Madeira. I already checked further Threads belonging to this question, but all answers refer to PlugIns which are not correspondig with the current GIS Version.

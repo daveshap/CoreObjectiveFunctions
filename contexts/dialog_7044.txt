@@ -1,0 +1,6 @@
+WHITE: You're a liar!
+SCHREBER: No, it's the truth.
+WHITE: So you're telling me the truth <u>this</u> time? Is that it!
+SCHREBER: If you would only take this, inject it in your brain, everything would be much clearer.
+WHITE: Not that again...
+SCHREBER: Everyone get's one - very much like this... But this one's special. It will help you understand, everything...

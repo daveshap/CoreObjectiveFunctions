@@ -1,0 +1,1 @@
+Exporting CartoDB dataset for create report? How could I export the Carto's dataset to then generate a report of that data?With the idea of giving that report to some architects.Please excuse my limited English.

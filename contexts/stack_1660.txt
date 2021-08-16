@@ -1,0 +1,1 @@
+How to write data to end of line of existing file (STM32CubeMX FATFS SDIO issue)? I have successfully coded write data into a CSV file is an SD card using STM32 CubeMS FATFS SDIO interface 1-bit mode.But I can't find the file append function in HAL FATFS driver to write data to existing file. Is there another way to do this using STM32CubeMX and HAL drivers?

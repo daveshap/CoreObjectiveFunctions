@@ -1,0 +1,1 @@
+Is there a relationship between number of covariates and sample size in logistic regression? Is there some definite relationship between number of covariates and the sample size in logistic regression? (e.g. larger the number of covariates, larger the sample size needed, etc.)Thank you,

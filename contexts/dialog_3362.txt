@@ -1,0 +1,11 @@
+DENNIS' VOICE: Can you see well?
+CHANCE: Yes, very well, thank you.
+DENNIS' VOICE: Do you like it?
+CHANCE: Yes. It's very tiny, but it's good.
+DENNIS' VOICE: ... Are you sure you like it?
+CHANCE: Yes, I do, it's very good.
+DENNIS' VOICE: Really? Really!!!
+CHANCE: Do you need a doctor? I could call Robert...
+DENNIS' VOICE: I don't want Robert.
+CHANCE: I see.
+DENNIS' VOICE: Your foot! Give me your foot!!

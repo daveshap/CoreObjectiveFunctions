@@ -1,0 +1,9 @@
+WELLES: Okay, I'll take it all.
+SALESPERSON: Excellent. we accept MasterCard and American Express.
+WELLES: Cash.
+SALESPERSON: Alright. May I have your phone number, area code first?
+WELLES: No, you may not.
+SALESPERSON: Okay. Fine.
+SALESPERSON: I'm required by state law to inform you that, while it's perfectly legal for you to purchase these items, it is illegal for you to use them for any sort of...
+WELLES: Yeah, I know the spiel. If you could bag it, I'll be on my way, thank you.
+SALESPERSON: Certainly, sir.

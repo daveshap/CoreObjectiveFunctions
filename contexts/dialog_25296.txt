@@ -1,0 +1,15 @@
+KIRK: Hey! -- Where you going?!
+GILLIAN: You're going to your ship, I'm going to mine. Science Vessel. I've got 300 years of catch-up learning to do.
+KIRK: You mean this is -- goodbye?
+GILLIAN: Why does it have to be goodbye?
+KIRK: Well, I... As they say in your century -- I don't even have your phone number. How will I find you?
+GILLIAN: Don't worry. I'll find <u>you</u>. See you around the galaxy...
+SPOCK: Father...?
+SAREK: I will be returning to Vulcan within the hour... I wanted to take my leave of you.
+SPOCK: It is kind of you to make this effort.
+SAREK: It is not an effort. You are my son. Besides; I am most impressed with your performance in this -- crises.
+SPOCK: Most kind, Father.
+SAREK: As I recall, I opposed your enlistment in Starfleet... It is possible that judgment was incorrect. Your associates are people of good character.
+SPOCK: They are my friends.
+SAREK: Yes, of course... Do you have any message for your mother?
+SPOCK: Tell her I feel fine...

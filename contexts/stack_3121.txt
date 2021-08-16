@@ -1,0 +1,1 @@
+Is there any Classical Mechanics system which needs to be described by a spinor? We need an ordinary number (scalar) to describe a harmonic oscillator, and a vector to describe, for example, a pendulum.Is there any similarly simple system which we need to describe using a (two-component Weyl) spinor?

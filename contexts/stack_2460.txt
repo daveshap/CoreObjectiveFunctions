@@ -1,0 +1,1 @@
+Merge layers that have different coordinate systems I need to merge two shapefiles and the issue is that one shapefile has WGS 84 coordinate system and the second OSGB 1936.When I try to do the trick with MMQGIS -> Combine -> Merge layers I get an output shapefile but the two layers do not match at all.

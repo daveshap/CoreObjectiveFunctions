@@ -1,0 +1,14 @@
+What happened to household income in minority American families in the late 90s?
+A friend and I were looking at some data recently about household income, wealth distribution and poverty between ethnic groups in the United States over time.
+
+The data seems to indicate something happened in the ~~mid-to-late 90s~~ early 2000s that caused a sharp dip in median household income among minority families, and an increase of minority families below the poverty line, but we were curious as to why that was the case.
+
+[This Census visualization from '76 to '12](http://www.businessinsider.com/heres-median-income-in-the-us-by-race-2013-9) shows a sudden drop in median household income among minorities around 2000. While white families experienced a very slight dip as well, all minority groups took a sudden and relatively deeper dive just ~~before~~ after the year 2000, and continued to drop through the next couple decades.
+
+[Figure 2 on this page](http://www.irp.wisc.edu/faqs/faq3.htm#Figure 2) shows that the decline of blacks and Hispanics in poverty suddenly stopped and poverty of those groups began increasing again around the same time. Figure 3 on the same page shows the poverty rates among children in those groups, which is even more prominent.
+
+Despite the amount of data, there's not a lot to go on for why the sudden shift. Typically when you see spikes/dives in large datasets like these, there's one or a small handful of factors that can be identified as causual.
+
+What happened in the ~~late 90s~~ early 00s that would have contributed to this?
+
+Edit: folks have pointed out the graph indicates a change in the early 2000s, not the late 90s. Should have put my glasses on!

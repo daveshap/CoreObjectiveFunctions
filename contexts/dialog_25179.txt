@@ -1,0 +1,5 @@
+KIRK: After you dismiss the company, you will take the watch. Set course for Ceti Alpha V and we'll pick up survivors.
+SAAVIK: Aye, sir.
+KIRK: I'll be in my quarters if needed, but I would prefer...
+SAAVIK: Understood, sir.
+KIRK: Dismiss the company.

@@ -1,0 +1,24 @@
+Is there a significant sentencing disparity between black people and white people in the US that isn't otherwise explained by the difference in crime rates?
+There seems to be a lot of contradictory evidence on this question.  In pursuit of objectivity I'd like to pose it to /r/neutralpolitics.
+
+On the side of "there is no sentencing disparity", I found an article [here](https://www.dailywire.com/news/4847/6-leftist-myths-about-criminal-justice-system-get-ben-shapiro) that makes the following claims:
+
+>**The Criminal Justice System Does Not Overprosecute Blacks.** For literally decades, studies have demonstrated that there is statistical parity between crime reports and arrests. Unless witnesses in the black community – predominantly the victims of black crime – are somehow racist against blacks, cops are arresting people who are guilty of crimes.
+
+>**The Criminal Justice System Does Not Sentence Blacks Disproportionately Longer.**...studies have actually shown a slightly lower chance of prosecution and slightly lower sentences for black convicts...“A 1994 Justice Department survey of felony cases from the country’s 75 largest urban areas discovered that blacks actually had a lower chance of prosecution following a felony than whites did and that they were less likely to be found guilty at trial. Following conviction, blacks were more likely to receive prison sentences, however – an outcome that reflected the gravity of their offenses as well as their criminal records.”
+
+I couldn't find a source for "there is parity between crime reports and crime rates", but if that is true it seems to lend itself to the conclusion being that the higher arrest rate of blacks is due to their higher crime rate, rather than due to prejudice on the part of police officers.  While a counterargument might be that the crime reports are disproportionately done by white members of majority black communities, or by white police officers, this also doesn't take into account the fact that black members of the community or black police officers may also have a bias against black people in that regard, and that this implicitly assumes from the start that white officers and community members have this bias.
+
+I did find [the source](https://www.bjs.gov/content/pub/pdf/fssc94.pdf) for the second claim, but I couldn't validate the "and outcome that reflected the gravity of their offenses as well as their criminal records" claim.  I couldn't find much information on this one reading the report, but a number of other sources mention this report so I'm inclined to believe it's true.  However I'd like more information.
+
+On the other side, I have [this slate article](http://www.slate.com/articles/news_and_politics/crime/2015/08/racial_disparities_in_the_criminal_justice_system_eight_charts_illustrating.html) which makes a few other claims.
+
+>**Black Americans are more likely to have their cars searched.**
+
+It gives [this source](https://www.washingtonpost.com/news/wonk/wp/2014/09/09/you-really-can-get-pulled-over-for-driving-while-black-federal-statistics-show/?utm_term=.783daadc09c6).  The counterargument is that black people simply speed more than white people.  I couldn't find evidence for this however, but I'm not sure this is certain evidence of racial bias among police officers.
+
+>**Black Americans are more likely to serve longer sentences than white Americans for the same offense.**
+
+[It uses this source](http://c-6rtwjumjzx7877x24jhtstrnhx78x2ezghx2ehf.g00.slate.com/g00/3_c-6bbb.x78qfyj.htr_/c-6RTWJUMJZX77x24myyux78x3ax2fx2fjhtstrnhx78.zgh.hfx2fknqjx78x2f7568x2f50x2fuik_ufujw_rfwny-wjmfan-wfhnfq-inx78ufwnyd-kjijwfq-hwnrnsfq.uik_$/$/$/$/$?i10c.ua=1).  It's quite long, and I'm not sure if it takes into account prior convictions, which is a potential counterargument.  Furthermore it seems to contradict the second piece of evidence on the other side.  This is the big piece of evidence that I'm confused about, and am not sure which side to believe.
+
+Both of these articles are biased in some way, but I think taking these 2 claims from each of them provides a good starting point for the conversation.  Is there a disparity in sentencing, incarceration, policing, arrests, etc between blacks and whites that can't otherwise be explained by the difference in crime rates?  Does racial prejudice factor into it?

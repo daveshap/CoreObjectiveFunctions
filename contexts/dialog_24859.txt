@@ -1,0 +1,3 @@
+TAYLOR: Take this flare.
+DAWN: A flare? A flare won't do it.
+TAYLOR: No...

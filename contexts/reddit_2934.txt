@@ -1,0 +1,18 @@
+Should I let go of work ethics ?
+Hello all,
+
+I have a bit of an awkward question. I have been working in software industry for the past 2 years.
+
+I personally love being an engineer since it is a knowledge based profession. You work hard, you study, you get results. You either know the stuff, or you don't. Very simple and clean dynamics.
+
+However I have always had these teammates who were more focused on marketing themselves and polishing their CV rather than actually learning a thing or two, and doing the job. They usually are very dominant and dramatic people as well, often not afraid to pick up a fight or lie.
+
+Now at my current job, except me and another coworker, rest of the team is focused on exploiting company resources to interview with other companies. I mean I can handle one rotten apple every now and then, but having an entire team that is lying to manager (they make up a story together) and manipulating him in order to get those resources so they can interview with FAANG or some start up is just insane.
+
+I mean yesterday I was ill, took a sick leave, and I asked my team if someone can switch with me regarding a task at 9 am. Only that colleague helped me and he only did that afternoon. They practically didn't even responded me for half a day. How on earth I am supposed to work like this ? This is not even limited to times I am on leave and need help. It is just everyday behavior.
+
+These people are like a cult. They have no shame, no ethics, nothing. Most of them are not doing anything for months but claiming they are just busy and get aggressive if you ask more about their work. When given a task they are doing extremely poorly yet still blame the client for being unhappy.
+
+It looks like this is what the market is all about. Anyone who can talk about some generic concepts or simple architecture and a BFS algorithm seems to get the job but cannot do the job itself, rinse and repeat.
+
+Am I being naive continuing to work hard to learn things ? Should I let go of work ethics ?

@@ -1,0 +1,5 @@
+ALICE: You in a hurry?
+SHEILA: I gotta get to the library before it closes. Killer physics test.
+ALICE: I know. I hardly have any time to study.
+SHEILA: Maybe you shouldn't be working here so much. You don't want to get stuck waiting tables for the rest of your life.
+ALICE: I know.

@@ -1,0 +1,7 @@
+WORF: It's you.
+DATA: The resemblance is... striking.
+HEAD: Why am I looking at me?
+DATA: You are not looking at your- self. You are looking at me.
+HEAD: You do not look like me.
+WORF: No.
+DATA: I would like to pick you up now. May I do that?

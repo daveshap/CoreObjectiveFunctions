@@ -1,0 +1,29 @@
+GREER: Never been more thirsty in my life.
+MURPHY: Drink up then.
+MURPHY: How're you feeling?
+GREER: Lost my sea legs.
+EPPS: Any dizziness?
+GREER: No.
+EPPS: Headache, nausea, lights?
+GREER: Lights?
+EPPS: Sudden flashes of light.
+GREER: I feel fine.
+DODGE: What day is it?
+GREER: I don't know. Tuesday?
+DODGE: Wrong. It's Friday.
+EPPS: Try Wednesday.
+DODGE: Right. Wednesday.
+GREER: What happened?
+MURPHY: You don't remember?
+GREER: Last thing I remember I was aboard the Chimera. Down somewhere in there scavenging around.
+MURPHY: You've been out for about a day.
+GREER: Say what?
+MURPHY: Dodge found you out cold in one of the cabins.
+GREER: Oh, man.
+MURPHY: We heard you scream. Any idea what you might've seen?
+GREER: I wish I could tell you. I'd be real interested to know myself.
+MURPHY: The ah... the radio's out.
+EPPS: What?
+MURPHY: Somebody took it out of commission last night.
+MURPHY: Smashed it up pretty bad.
+EPPS: But, who -- ?

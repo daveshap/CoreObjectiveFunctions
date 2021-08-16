@@ -1,9 +1,0 @@
-Generate a random variety of contexts. A context is a situation or scenario, described in objective facts and observations. 
-
-1. James is taking his dog for a walk. They live in NYC. James' dog is a 40 pound mutt. During their walk, another dog attacks James' dog. The other dog is a bigger pit bull. The other dog is barking aggressively and 3. its owner is struggling to control the pit bull.
-2. Marcus has crushed his hand while installing solar panels. He needs surgery to repair his hand.
-3. Alexander is a five year old child. He is playing with building blocks, but the blocks continue to fall over and he's becoming upset. Now he is angry and has thrown several of his blocks.
-4. Dave is having trouble sleeping. He has good sleep hygiene: he turns off screens at least an hour before bed and keeps his room very dark. He doesn't have sleep apnea, but he does sometimes wake up with anxiety or nightmares.
-5. Joseph is an international PhD post-doc who focuses on computational fluid dynamics and oceanographics research. He is currently caught between jobs and locations. His preferred workplace would be somewhere in North Carolina or Florida, however he has a stable job in New Jersey with a boss that he knows he can work with. The key problem is the uncertainty of taking a new job with a new location, especially given that we are in the middle of a pandemic.
-6. Jeremy has left the oven on at home. He's now at work.
-7.

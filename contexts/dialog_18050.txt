@@ -1,0 +1,10 @@
+ETHAN: You keep staring at that watch as if your life depended on it, Doctor..
+NEKHORVICH: Well, yes. I suppose I am a bit anxious.
+ETHAN: They're ready and waiting. You'll soon be with old friends.
+NEKHORVICH: I'm with an old friend now, Dmitri.
+ETHAN: Sorry it couldn't be under happier circumstances.
+NEKHORVICH: Yes, I'm sorry too.. 'You're sorry and I'm sorry..' - you do know Gradski thought the world of you.
+ETHAN: He was quite a man. Did he know before the end you two had succeeded?
+NEKHORVICH: Yes, he knew. Just..
+ETHAN: ..not in time to save him.
+NEKHORVICH: No. After you've lived with <i>Chimera</i> for twenty hours, nothing can save you. Not even...<i>Bellerophon.</i>

@@ -1,0 +1,1 @@
+How do I increase touch-pad senstivity using libinput? I am struggling to find optimal settings for a Thinkpad X1 Carbon (Gen 6) trackpad. I have tried synaptics, but the palm rejection didn't work well. Now I am trying to configure libinput. The problem I have is that I have to press down very hard to initiate a two-finger scroll. How can I increase the sensitivity?

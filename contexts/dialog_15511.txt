@@ -1,0 +1,6 @@
+ERGO: My spells always go wrong when I am observed. Be gone!
+YNYR: The forest is not safe these days. You'd best travel with us.
+ERGO: <u>Me</u>? Travel with <u>you</u>? I am Ergo the Magnificent ... ... short in stature ... ... tall in power ... ... narrow of purpose ... ... wide of vision. And I do not travel with peasants and beggars. Goodbye!
+ERGO: I just remembered I have urgent business in this direction.
+COLWYN: What business?
+ERGO: Staying alive.

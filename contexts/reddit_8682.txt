@@ -1,0 +1,36 @@
+Several laws have come into effect in France. They aim to limit food riots (most prominently remembered over Nutella), to pay farmers more, and to strengthen small producers overall. What evidence supports the pros and cons of this legislation?
+In the first three months of this year, several laws came into effect in France that aim to limit riots over discount foods, to distribute equity more fairly among stores and farmers, and to strengthen small producers by making big brand products more expensive.
+
+---
+
+Partially in response to discount food [riots in 2018 over steep Nutella discounts](https://www.bbc.com/news/world-europe-42866417), France [passed legislation](https://www.telegraph.co.uk/news/2018/01/31/france-slap-legal-limits-food-discounts-wake-nutella-riots/) to stymy the cause of rioting at big box stores.
+
+In January, France first put limits on how steep discounts can go:
+
+> ...limit discounts to 34 per cent – half the Nutella price cuts...
+
+In [March, they effectively killed](https://www.forbes.com/sites/alexledsom/2019/02/16/big-brand-food-shopping-just-got-more-expensive-in-france/#79676a32a165) 'buy one get one free' promotions:
+
+>  ...the amount of promotions which are allowed will be limited to just a quarter of the planned sales. So if a supermarket wants to sell 100 tubs of Nutella, from March, it can only run promotional offers on 25 of them.
+
+---
+
+In February, France effectively raised the cost of certain foods by 10%, but it's a little more complicated than that. According to French Minister of Agriculture and Food, Didier Guillaume, [the purpose is to spread more equity to farmers](https://www.20minutes.fr/economie/2439575-20190130-loi-alimentation-changements-panier-courses-vendredi) (Google translated from French, full interview [here](https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/loi-alimentation-il-faut-peut-etre-que-la-distribution-fasse-moins-de-profits-affirme-didier-guillaume_3146611.html)):
+
+> "What I'm asking big box stores is to find a way to spread the margins differently, to distribute things better, the objective is that agricultural products are sold at their fair value," argued the minister. The State hopes that, in return, the distribution will better pay producers from all sectors of agriculture and aquaculture, struggling because regularly paid below their cost.
+
+Some more specific info on this measure (from source 4, 20Minutes, and through Google Translate):
+
+> The recent Food Law raised the "resale loss threshold" or SRP to 10%. The government wants to force distributors to sell their calling products at prices 10% higher than those they have purchased. These products, which generate no profit but attract the barge, can no longer be sold at a loss. Specifically: a product bought 1 euro must be sold at least 1.10 euro.
+
+> From 1 February, in supermarkets, "500 products out of 13,000" should increase, while in hypermarkets "it is 800 products out of 20,000" are concerned, according to the minister, who confirmed by relativizing information published in Le Parisien. Rather, they are consumer goods manufactured mostly by food giants (Danette, Coca-Cola, Caprice des Dieux, Ricard, Nutella, etc.) used by distributors in their promotional communication to attract the public. According to the Paris daily newspaper, the 750g Nutella pot would thus go from 4.05 to 4.39 euros, ie an 8.4% increase.
+
+----
+
+Cumulatively the effect of these laws strengthens the position of smaller suppliers (source 3, Forbes):
+
+> The rationale is that supermarkets attract customers through promotional material of big brand products such as Coca-Cola, Danette, Ricard and Nutella, with whom smaller producers cannot compete. It’s an attempt to help farmers and smaller producers to become more competitive as they are now guaranteed a fair price.
+
+---
+
+*Is there any research or evidence that supports either pros or cons to any piece of this legislative package that rolled out over the last three months?*

@@ -1,0 +1,1 @@
+Steam - Remote download on free games? So, sometimes when you buy a game on a phone or tablet and not a computer, it gives you the option to \"remote download\" the game. If Steam is running in the background, it will download the game you bought. As far as I know, it only works on paid games, but is there a way to remote download a free game?

@@ -1,0 +1,1 @@
+Will a Dell U2419HC provide enough power to charge a MBP 15\" (Late 2016)? The monitor comes with a USB-C port that sends power as well as image. But it's unclear to me:What's the wattage it sends?Is that enough to charge an MBP that's in use?

@@ -1,0 +1,16 @@
+How can I carry out qualitative analysis on a close-ended survey?
+Hi everyone,
+
+&#x200B;
+
+I am currently undertaking a 10,000 word dissertation for my final year. My thesis gravitates around the major obstacles to small business success in the United Kingdom. I have found the appropriate data sets to answer my research questions, however I am not sure how to approach the analysis of this data. I was told that regression analysis would be a great way to dissect my data, however the nature of my research questions are not compatible with regression analysis. Furthermore, I've never been taught how to property do regression analysis (I only have a vague idea of what it is. The main issue I perceived is that I cannot find a value for my variables)
+
+I have heard that qualitative analysis is great for open-ended surveys, but the survey that I found is pretty close ended (again, I'm not sure... I really suck when it comes to research methods). The main question asked is, "What would you say are the major obstacles to success to your business?" and respondents are asked to choose from 10 options. So, I was wondering - how can I qualitatively analyse closed-ended surveys? Is it possible? Or better yet, do you have any suggestions on how I can approach this data? 
+
+I have provided a screenshot of one of the questions in the data set below. I hope you can help me overcome this obstacle! 
+
+ [https://gyazo.com/f5c213a6cd30a99946dc8c4335642aa4](https://gyazo.com/f5c213a6cd30a99946dc8c4335642aa4) 
+
+&#x200B;
+
+Thank you for reading.

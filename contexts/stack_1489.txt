@@ -1,0 +1,1 @@
+Connection to PCB from VNA I currently intend to measure the Plane Capacitance of a PCB I'm going to build. I do have the measuring equipment (an VNA from R&amp;S) but am unsure how to design the testpoints I am going to use (which connect to the relevant planes). Is there some kind of industry-standard connector type or how would you go about hooking up the equipment to the PCB?

@@ -1,0 +1,1 @@
+Hack's law for river basins The hacks law relates the longest stream length with the catchment area of the basin. How can one construct a hack's distribution for a basin and upto what scale the sub basins have to be taken as each stream will have it's own catchment area, using GIS?

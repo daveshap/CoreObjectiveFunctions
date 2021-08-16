@@ -1,0 +1,13 @@
+REILLY: Talk to me. Let's assess.
+GLASS: Right.
+REILLY: C'mon, talk to me! We can do it!
+GLASS: He has a timer going as back-up, in case we got a hold of the remote. Okay... first, run your fingers along the edges, feel for a sensor.
+GLASS: Good, now the other side.
+REILLY: Nothing.
+GLASS: Okay, let's go in.
+REILLY: Keep talking.
+GLASS: Close your eyes, feel your fingertips. Tell me everything you feel.
+REILLY: Wires... metal, cold... something soft...
+GLASS: Don't touch that.
+REILLY: More metal... sharp edge...
+GLASS: Stay to your left.

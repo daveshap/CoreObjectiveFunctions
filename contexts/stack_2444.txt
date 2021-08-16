@@ -1,0 +1,1 @@
+Keep geometries in different layers in sync while editing I need to keep several polygon layers in common. So if I move a vertices on one layer the one or two layers sitting under (or in common) would also change that vert. I hope that makes sense. I feel it should be some sort of linked group or commonality setting.

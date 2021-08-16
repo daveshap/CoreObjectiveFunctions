@@ -1,0 +1,1 @@
+In gvim setting font size to 12 is not permanent and it is reverting back to 10 when I open gvim again I am using Xubuntu 16.04In gvim, by going to Edit ---> Select font I am selecting the font size 12. But after I close gvim and open gvim again I see that the font size has gone back to 10.How can I set the font size to 12 permanently?

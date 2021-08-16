@@ -1,0 +1,21 @@
+WHALE: Does the yardman come today?
+HANNA: Of course. This afternoon.
+CLAY: Something I can do for you?
+HANNA: The Master wants to know if you are free for lunch. I tell him you will be having other plans, but he insists I ask.
+CLAY: Got a lawn this afternoon, but I'm free until then.
+HANNA: Expect nothing fancy.
+HANNA: The Master is dressing. I am to offer you a drink. There is whiskey and there is iced tea.
+CLAY: Tea is fine.
+HANNA: No. You are a guest now. You go in the living room.
+CLAY: That's okay, Hanna. I'm more comfortable in here. It is Hanna, isn't it?
+CLAY: How long you worked for Mr. Whale?
+HANNA: Long enough. Fifteen years.
+CLAY: I bet you've seen a lot of famous people come and go? Movie stars?
+HANNA: No. We live simply, Mr. Jimmy and I. People come to play bridge. And now and then, young men to swim. You have people, Boone?
+CLAY: You mean family? All in Joplin, Missouri.
+HANNA: Your wife?
+CLAY: I'm not married.
+HANNA: Why?
+CLAY: Oh, I don't know. Because no girl in her right mind will have me?
+HANNA: A man who is not married has nothing. He is a man of trouble. You need a woman.
+CLAY: You proposing what I think you're proposing? Don't you think I'm a little young for you?

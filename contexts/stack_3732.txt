@@ -1,0 +1,1 @@
+What is the meaning of \"The assumptions of the regression model are satisfied\"? I still can't get it. I think that if the assumptions are satisfied, the model is right. But what is the meaning of \"right model\"?

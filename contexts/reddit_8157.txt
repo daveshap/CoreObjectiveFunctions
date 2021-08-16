@@ -1,0 +1,12 @@
+Is it illegal for a president to propose a pardon to someone in advance of their potentially illegal activity?
+[Reporting](https://www.cnn.com/2019/04/12/politics/trump-cbp-commissioner-pardon/index.html) indicates that President Trump floated a pardon to CBP Head, Kevin McAleenan, in order to encourage him to ignore US law in pursuance of Trump's border policy preferences.
+
+>Two officials briefed on the exchange say the President told McAleenan, since named the acting secretary of the Department of Homeland Security, that he "would pardon him if he ever went to jail for denying US entry to migrants," as one of the officials paraphrased.
+
+Simply put, is this illegal? If the allegations turn out to be true, would it be a violation of any statutes, and if so, which ones?
+
+The only relevant jurisprudence I've found so far appears to be in [Ex Parte Garland (1886)](https://caselaw.findlaw.com/us-supreme-court/71/333.html), which states of the federal pardon power:
+
+>The power thus conferred is unlimited, with the exception stated. It extends to every offence known to the law, and may be exercised at any time after its commission, either before legal proceedings are taken, or during their pendency, or after conviction and judgment.
+
+Any neutral politic legal scholars care to chime in?

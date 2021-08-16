@@ -1,0 +1,8 @@
+What tax policy could fix tax havens?
+Most countries have a [territorial corporate tax system](https://taxfoundation.org/territorial-tax-system-oecd-review/) where multinational corporations are generally taxed as a proportion of the profits they make in each country. The United States is special in that it also claims [foreign income](http://www.taxpolicycenter.org/briefing-book/how-does-current-system-international-taxation-work) as taxable, but only when the profits are repatriated to the USA. This creates a stronger incentive to invest in foreign countries.
+
+Large multinationals have developed convoluted structures to avoid paying taxes on foreign profits, like the well-publicized [Double Irish](https://en.wikipedia.org/wiki/Double_Irish_arrangement), where a set of nested sub-corporations across USA, Ireland, the Netherlands, and Bermuda pay royalties on intellectual property to each other. This allows the overall entity a legal means of avoiding a large amount of taxation.
+
+One proposed measure in Europe is add a ~3% [gross revenue tax](https://www.irishtimes.com/business/economy/threat-to-irish-tax-take-from-eu-proposal-to-levy-digital-giants-1.3426071) on tech companies (which are most able to cheaply move around intangible assets). This is much less manipulable, but a gross revenue tax kills low-margin businesses and arbitrarily incentivizes vertical integration.
+
+Is there a corporate tax policy that could be uniformly adopted by all countries to disincentivize tax havens and bizarre corporate structures, while still ensuring that countries get a reasonable source of tax from activity that reasonably happens within their borders?

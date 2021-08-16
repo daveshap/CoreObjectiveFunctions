@@ -1,0 +1,11 @@
+What evidence supports Vietnam's COVID19 case reports?
+Vietnam holds the world's [15th highest population](https://www.worldometers.info/world-population/population-by-country/), and holds a [relatively high population density](https://www.statista.com/statistics/264683/top-fifty-countries-with-the-highest-population-density/) [as the 30th most densely populated country](https://www.wikiwand.com/en/List_of_countries_and_dependencies_by_population_density) while another site ranks Vietnam as the [47th most densely populated](https://worldpopulationreview.com/country-rankings/countries-by-density). Nevertheless, Vietnam's population density appears to hover above the median. To compare, Japan's population density is [899 people per square mile](https://www.worldometers.info/world-population/japan-population/), which is remarkably similar to [Vietnam's 813 people per square mile](https://www.worldometers.info/world-population/vietnam-population/).
+
+  
+However, as of July 4th, 2020, Vietnam is reported to have [355 coronavirus cases and 0 deaths](https://www.cnn.com/interactive/2020/health/coronavirus-maps-and-cases/). The similarly dense Japan has [19,068 coronavirus cases and 976 deaths](https://www.worldometers.info/coronavirus/country/japan/).
+
+  
+News articles have praised the Vietnamese government's ability to stave off the virus attributing their success to [early quarantining measures](https://www.bbc.com/news/world-asia-52628283),  [contact tracing](https://foreignpolicy.com/2020/05/12/vietnam-coronavirus-pandemic-success-repression/), and [transparent communication](https://ourworldindata.org/covid-exemplar-vietnam). Yet it should be noted that Vietnam does not have a stellar track record when it comes to [free press](https://freedomhouse.org/country/vietnam/freedom-net/2019).
+
+  
+What evidence supports Vietnam's COVID19 case reports?

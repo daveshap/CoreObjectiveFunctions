@@ -1,0 +1,1 @@
+The Standard Error in R language lm (linear regression) is Standard Deviation or Standard Error of the Mean? When we are estimating the coefficient in R, \"Std Err\" will be produced by \"lm\". Is it Std or SEM? How is it calculated? Run lm function with any R data set will give an example.

@@ -1,0 +1,1 @@
+How to automaticaly create a buffer for a line in QGIS I am creating some lines, and I would like to add a 500m buffer around thoses lines. But i need this buffer to automaticaly change if i modify my line around. Is there any solution to this?

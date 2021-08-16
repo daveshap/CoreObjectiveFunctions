@@ -1,0 +1,1 @@
+step down 6V to 2V I have a 6v 4.5Ah lead acid battery. I need to step down the voltage to 2V to heat a nichrome wire. The wire need 1.7 A to get heated to required temperature. Any suggestions to step down the voltage?

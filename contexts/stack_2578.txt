@@ -1,0 +1,1 @@
+QGIS: I can barely see the labels in layer panel So, I finally bit the bullet and upgraded to QGIS 3.2.3 Bonn.  However, for layers that are not turned on the font is a super light grey in the layer panel and I can barely read it.  How can I change what this looks like so I won't need to get glasses in 6 months?

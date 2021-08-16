@@ -1,0 +1,8 @@
+JOACHIM: Steady on course. All systems normal.
+KHAN: It's not much different from Enterprise. When I was a guest aboard her some years ago, Captain Kirk kindly allowed me to memorize her technical manuals. And now, Mr. Chekov, let us review: You say you have no details of Project 'Genesis' ?
+CHEKOV: Beyond what I told you, sir, it is classified information.
+KHAN: Umm. And would Admiral Kirk have access to such information?
+CHEKOV: I would think so, sir. He's on the Fleet General Staff.
+KHAN: Then to whom do you report directly regarding Genesis?
+CHEKOV: To Doctor Marcus, the civilian director of the experiments on Space Laboratory Regula I.
+KHAN: I see. Helmsman?

@@ -1,0 +1,4 @@
+GEORDI: I read six distinct positronic signatures, spread out over a few kilometers on the surface.
+PICARD: What do we know about the population?
+DATA: Isolated pockets of humanoids. It appears to be a pre-warp civilization at an early stage of industrial development.
+GEORDI: Captain, I don't recommend transporting, that ion storm doesn't look very neighborly. -It could head this way with- out much warning .

@@ -1,0 +1,1 @@
+How do you export a temporal KML from QGIS? If I have data with a timestamp attribute, how do I export that from QGIS into a time-aware KML that invokes the GoogleEarth time slider?I do not see any sort of options in the Save vector layer as dialogue and internet searches have turned up zero.

@@ -1,0 +1,1 @@
+hidden file removal on ubuntu I have PDF files in a hierarchical directory stucture to 4 levels on my webserver.The files were uploaded from an OSX machine to a Windows Machine to my server.I now have many (dot) .filenames.pdf that I wish to remove whilst keeping the actual filename.pdf file.I would like to this with one line of shell script.many thanks for your time. Simon

@@ -1,0 +1,4 @@
+HELM: He's not at ground level.
+RICHTER: Up!
+HELM: I've got a lock! There!
+RICHTER: Come on!

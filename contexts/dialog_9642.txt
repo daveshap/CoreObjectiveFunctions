@@ -1,0 +1,11 @@
+PARRY: ... Do you know who I am?
+JACK: Uhh... I'm drawing a blank.
+PARRY: Take a guess... <u>Let him guess</u>!! <u>Tch</u>.
+JACK: Uh... gee... well... you seem to be some kind of vigilante...
+PARRY: No, no... I mean that sort of happens along the way but no... I'm on a very special quest.
+JACK: A quest?
+PARRY: But I need help and <u>they</u> sent you.
+JACK: The Little...
+PARRY: They work for Him.
+JACK: Him...?
+PARRY: God... I'm the janitor of God.

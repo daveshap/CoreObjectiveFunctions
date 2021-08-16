@@ -1,0 +1,1 @@
+Apple's FaceTime on Ubuntu 18.04 I wanted to know if Apple's FaceTime, designed for iOS, could work on Ubuntu 18.04 as well. Maybe through an emulator.Do you know if there is any way to install FaceTime on Ubuntu? Or do I need an emulator? Which one?

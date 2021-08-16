@@ -1,0 +1,1 @@
+Why does a constant force on a rigid body with a fixed axis of rotation produce more angular acceleration if applied farther from the axis? I know the eq torque = Ia and also torque = Fr... it's easy to see mathematically but not physically. I want a simple physical justification for it.(may be microscopically).

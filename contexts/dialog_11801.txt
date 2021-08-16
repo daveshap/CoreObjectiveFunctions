@@ -1,0 +1,6 @@
+CEREAL: What's that?
+DADE: Devil book. The Unix Bible.
+CEREAL: What's that?
+DADE: Dragon book. Compiler design.
+CEREAL: Oh yeah? What's that?
+DADE: The Red Book. NSA Trusted Networks. Otherwise known as the Ugly Red Book that won't fit on a shelf.

@@ -1,0 +1,20 @@
+The US National debt is $22 trillion, but critics say focusing on this number misses other debt the Federal government is actually an underwriter for, like State debt, pensions, social security payouts and more. What debt outside of US treasury bonds is the Federal reserve formally on the hook for?
+The current US national debt is [around $22 trillion](https://www.npr.org/2019/02/13/694199256/u-s-national-debt-hits-22-trillion-a-new-record-thats-predicted-to-fall).
+
+[Some](https://www.businessinsider.com/social-security-and-medicare-could-add-trillions-to-the-national-debt-2018-7) investors [argue](https://www.forbes.com/sites/adamstrauss/2018/07/12/how-to-invest-in-an-era-of-100-trillion-financial-obligations-part-i/#40b4deb67ccb) this number [does not reflect](https://www.cnbc.com/2019/09/09/real-us-debt-levels-could-be-a-shocking-2000percent-of-gdp-report-suggests.html) the true debt obligations of the United States.
+
+Critics argue money like [$3.1 in individual state debt](https://fred.stlouisfed.org/series/SLGSDODNS) should be considered a Federal obligation. There are also arguments to include *future liabilities*, like Social Security, which by law cannot add to the deficit, but for which is expected by 2034 to require Congress to make up any shortfall through Federal spending, unless another solution is drafted [Source](https://www.reuters.com/article/us-column-miller-socialsecurity/social-security-and-the-u-s-deficit-separating-fact-from-fiction-idUSKCN1N64GR).
+
+---
+
+This $22 trillion number is important because it's widely used to inform the public about the total debt liabilities of the Federal government.
+
+It's also used in other metrics and indexes of government debt obligations, like the [Debt-to-GDP Ratio](https://www.investopedia.com/terms/d/debtgdpratio.asp), which is used by investors as one measure of the credit worthiness of a government.
+
+---
+
+I have a couple questions on this topic:
+
+1. What additional debt obligations, if any, is the Federal government formally on the hook for outside of the ~$22 trillion national debt? For example, is there any clarity on whether future Social Security payments are a certain Federal financial obligation?
+
+2. Are these potential liabilities formally used in rating the security of US treasury bonds?

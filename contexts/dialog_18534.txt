@@ -1,0 +1,5 @@
+BROWN: What's your name?
+ASSISTANT DRESSER: Mary Taylor, sir.
+BROWN: Have I seen you up in Balmoral, Mary?
+ASSISTANT DRESSER: I hope to go up next year.
+BROWN: You wouldn't happen to know what the Queen's reading for recreation, would you, Mary?

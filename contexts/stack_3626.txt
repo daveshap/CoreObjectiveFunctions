@@ -1,0 +1,1 @@
+how does tresorit \"shared links\" work if files are encrypted on the server? Tresorit has the option of sending a link that anyone can open without a Tresorit account or password.  If files are encrypted on the server, how can anyone with a link decrypt it?  Are files with shared links unencrypted on the server?

@@ -1,0 +1,7 @@
+RAY: Don't I know you?
+CLAUDE: I don't think so.
+RAY: Sure I do. What's your name again?
+CLAUDE: Claude Banks.
+RAY: Claude Banks. How could I forget that? You've got to remember me. Ray Gibson. We went to high school together.
+CLAUDE: You went to Monroe?
+RAY: That's right! Good old Monroe...

@@ -1,0 +1,14 @@
+Bernie Sanders vs. Verizon: Who is right?
+Recently, Sanders made a claim that [Verizon doesn't pay any taxes](http://www.huffingtonpost.com/bruce-kushnick/verizon-ny-paid-virtually_b_9667024.html).  A simple google search will show that this claim is supported by a wide variety of sources, many from several years ago (before politics might add extra biases) ([1](http://www.lohud.com/story/news/2014/02/26/study-verizon-paid-no-federal-income-taxes/5852539/), [2](http://www.huffingtonpost.com/2014/02/25/corporation-tax-rate_n_4855763.html), [3](http://www.usatoday.com/story/money/business/2013/10/23/big-companies-pay-no-taxes/2480281/)), so there must be at least *some* truth to the claim.
+
+However, [Verizon's CEO recently made a statement that Bernie is entirely incorrect](https://www.verizon.com/about/news/senator-sanders-needs-get-his-facts-straight), and a look a [Verizon's latest SEC 10-K filing](http://verizon.api.edgar-online.com/EFX_dll/EdgarPro.dll?FetchFilingHTML1?SessionID=GQYoeDso-hr2yxm&ID=11203121) seems to agree with the CEO's claim. (For those who don't want to search through that monotonous document, the "total income tax provision" noted for 2015 is $9865 million). 
+
+This should be a cut-and-dry issue, no?  The amount of money paid from Verizon to the federal government in 2015 should should be a simple fact, but I am having a lot of trouble finding any sources which can put this to rest.
+
+**tldr: How much money did Verizon actually pay to the federal government in 2015?**
+
+**Edit:** Thanks for the replies, everybody.  I learned quite a bit from the discussion, and I'll summarize some of my conclusions up here for posterity.  
+
+* Ultimately, Verizon is paying its federal taxes, as far as I can tell from the 10-K, or as far as most of the commenters here can tell.
+* Bernie isn't directly lying, however.  As pointed out by /u/jacksonmills, Verizon *New York* has not paid any taxes in a while, largely due to repeated losses. 
+* As noted by multiple people, most of the reason that corporations avoid paying taxes in a given year is [Tax loss carryforward](http://www.wikinvest.com/wiki/Tax_loss_carryforward), which explains some of the suspect years.

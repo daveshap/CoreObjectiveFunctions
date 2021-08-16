@@ -1,0 +1,1 @@
+Xkill on open directory I accidentally ran xkill on my documents directory. Can I get the directory back or is it gone forever?I am told the directory no longer exists.

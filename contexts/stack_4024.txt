@@ -1,0 +1,1 @@
+What's an application of order statistics? I'm trying to understand order statistics but am having a hard time conceptually understanding it.

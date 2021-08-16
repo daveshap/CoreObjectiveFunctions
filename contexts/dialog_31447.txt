@@ -1,0 +1,25 @@
+GRADY: I passed out.
+GREENHUT: You did.
+GRADY: I've been doing that a lot lately.
+GREENHUT: So I hear. You've also been smoking a lot of marijuana, I understand.
+GRADY: Do you think that's why I've been having these... ...spells?
+GREENHUT: How long have you been having them?
+GRADY: The last month maybe.
+GREENHUT: How long have you been smoking marijuana?
+GRADY: Spiro T. Agnew was vice president, I believe.
+GREENHUT: That's probably not the problem, then. What about your lifestyle. Any major changes recently?
+GRADY: I've been trying to finish a book...
+GREENHUT: And your wife left you.
+GRADY: Is that in my chart?
+GREENHUT: I spoke with the woman who saved your life. You're lucky she came along when she did.
+GRADY: I know.
+GREENHUT: You need to see a doctor, Mr. Tripp. An internist. And I think you really ought to consider seeing a therapist, as well.
+GRADY: She told you about...
+GREENHUT: Her dog, yes.
+GRADY: Actually, it was her husband's dog...
+GREENHUT: Look, Mr. Tripp. You have a drug problem, all right? On top of that, you have a bite on your ankle that is severely infected. We pumped you with antibiotics so you'll be fine, but another day or two and you might have lost the foot. As for your spells. I'm guessing they're a result of the anxiety you've been experiencing lately.
+GRADY: They're anxiety attacks? That's a little disappointing.
+GREENHUT: Better luck next time.
+GRADY: So is my friend... is Sara still here?
+GREENHUT: No. There's no one here.
+GRADY: I have to see her. As soon as possible.

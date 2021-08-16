@@ -1,0 +1,1 @@
+Steam Repository installation I have been trying to install steamcmd and normal steam on bionic Ubuntu. I cant figure out how to install the missing libraries and i also want to know if there is repositories i can install. I am running armhf arch.

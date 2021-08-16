@@ -1,0 +1,1 @@
+Azure SQL Synonyms with On-Premise I have an on premise database that I can't move to the cloud due to it not being our software, though I have a website that ties into it using synonyms and views. Is there any way to allow the Azure DB to use synonyms or whats the best way to communicate.The website only does a few small writes, but mainly reads from those synonyms.

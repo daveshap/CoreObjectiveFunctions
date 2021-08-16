@@ -1,0 +1,1 @@
+Number of prime implicants How many  prime Implicants are there, 2 or 3? F(w,x,y,z)=\u03a3(5,7,8,10)+d(9,11,13,15)I am confused if red block will be counted as Prime Impicant or not?

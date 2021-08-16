@@ -1,0 +1,1 @@
+how to reset router without reset button? I was trying to enable mac filtering and now I can't access internet, the reset button is broken, is there a way to reset the router or bypass the mac filtering?

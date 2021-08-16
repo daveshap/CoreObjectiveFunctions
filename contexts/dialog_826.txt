@@ -1,0 +1,9 @@
+ROBY: Here, Chaz.
+STANDARD: We're coming up now, open the outer lock door.
+ROBY: Chaz -- what happened to Broussard?
+STANDARD: It's some kind of organism, it's attached itself to him. Let us in.
+STANDARD: You hear me, Martin? Open the outer door.
+ROBY: Chaz, if it's an organism, and we let it in, the ship will be infected.
+STANDARD: We can't leave him out here, open the door.
+ROBY: Chaz, listen to me -- we've broken every rule of quarantine. If we bring an organism on board, we won't have a single layer of defense left.
+STANDARD: Martin, this is an order! Open the door!

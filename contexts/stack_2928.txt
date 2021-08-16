@@ -1,0 +1,1 @@
+Capacitors phenomena I wanted to ask one simple question: when there is a uncharged capacitor directly connected to a battery with any resistance in between, does current flow in the circuit, or does it only flow until the capacitor is completely charged?

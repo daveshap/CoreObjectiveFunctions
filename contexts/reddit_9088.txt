@@ -1,0 +1,8 @@
+What are the pros and cons of basing eligibility for social security on demographics like sex and race?
+Different races and sex get different amounts of social security benefits due to difference in life expectancy
+
+https://www.cdc.gov/nchs/data/nvsr/nvsr63/nvsr63_03.pdf - White and hispanic women live about a decade longer than black men
+
+http://www.urban.org/sites/default/files/alfresco/publication-pdfs/412943-Has-Social-Security-Redistributed-to-Whites-from-People-of-Color-.PDF - Money is being distributed from PoC to whites
+
+https://www.ssa.gov/policy/docs/ssb/v62n2/v62n2p59.pdf- Slightly less exaggerated life expectancy for those already 65yo and a lot of other info

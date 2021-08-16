@@ -1,0 +1,1 @@
+How to delete Ubuntu files loaded on Vmware permanently to increase disk space c When I delete a any program or file on Ubuntu, the C disk space does not increase on Windows 10. How can I delete unnecessary Ubuntu files to increase the disk space?

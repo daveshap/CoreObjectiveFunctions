@@ -1,0 +1,1 @@
+How to configure auto completion on docker-compose alias I installed docker-compose, set up auto completion which works as its supposed to. However it does not work on aliases.Any ideas how to solve this?

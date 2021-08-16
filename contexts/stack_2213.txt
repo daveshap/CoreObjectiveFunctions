@@ -1,0 +1,1 @@
+Connect to a private Minecraft server I am trying to connect to a private Minecraft server of a friend of mine. I use the Windows 10 app to play and he is playing on a Mac. He can connect to the Minecraft server hosted on a cloud machine, but I can't connect to this server.What could be the problem? Is it not possible to connect from different operating systems?

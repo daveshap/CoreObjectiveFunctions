@@ -1,0 +1,1 @@
+Teleporting Different Players in Different Locations Say there are 6 players in a map, and you want to teleport all of them in 6 different locations. You cannot teleport them by name since there will be different players every time. What command do I use?

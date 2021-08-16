@@ -1,0 +1,1 @@
+GFCI that opens when power source cut Usually when the source of power in GFCIs were cut, the switching contacts remain shorted. What kind of GFCIs can open the switching contacts when there is loss of power source? This is useful for open service neutral faults detection/disconection, where the GFCI would disable the output when it happens.

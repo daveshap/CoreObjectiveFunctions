@@ -1,0 +1,1 @@
+Can MacBook Pro get slower after SSD is almost full? MBP 13, 2015 with 128 GB SSD and 8 GB RAM.I have noticed, that after only some 20 GB of SSD was free my Safari browser was very slow.RAM was used 4-6 GB from 8.Is it general possible, that SSD can slow the MAC or it was some other reason?

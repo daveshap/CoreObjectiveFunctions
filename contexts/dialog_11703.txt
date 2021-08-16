@@ -1,0 +1,12 @@
+CARTER: Detective Carter from the Haddonfield P.D.
+BLAKE: Toni Blake from Langley P.D.
+CARTER: Mind if we sit down?
+KERI: I'd prefer you didn't. I'm very busy.
+CARTER: Okay, then how 'bout we ask you a few questions?
+KERI: Detective...
+CARTER: Carter.
+KERI: ... I think it would be best if you both left.
+CARTER: Might want to stop and think about the safety of your students, Miss Tate.
+KERI: I never stop thinking about it, Detective. The only way in or out of this school is through that gate, and it is secured at all times.
+CARTER: Funny, we just drove right in.
+KERI: Well, I can assure you, it won't happen again. Thanks for your concern. Goodbye.

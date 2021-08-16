@@ -1,0 +1,12 @@
+CHIEF GUARD: Religion?
+ALEX: C of E, sir.
+CHIEF GUARD: Do you mean Church of England?
+ALEX: Yes, sir, Church of England, sir.
+CHIEF GUARD: Brown hair, is it?
+ALEX: Fair hair, sir.
+CHIEF GUARD: Blue eyes?
+ALEX: Blue eyes, yes, sir.
+CHIEF GUARD: Do you wear eye glasses or contact lenses?
+ALEX: No, sir.
+CHECK-IN: One shirt - blue, collar attached.
+CHIEF GUARD: Have you been receiving medical treatment for any serious illness?

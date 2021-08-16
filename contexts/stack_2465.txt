@@ -1,0 +1,1 @@
+TileMap: How to convert MBTiles to RMaps SQLite? These two map formats look very similar (based on SQLite and Tiled Maps).I am looking for method to convert maps from mbtiles to RMaps SQLite and vice versa without quality lost.

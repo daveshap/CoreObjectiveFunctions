@@ -1,0 +1,1 @@
+trouble installing suggested packages to play dvds on 14.04 I have finally successfully installed the ubuntu restricted extras as well as the libdvdread4 for the cc2, but still can't play dvds.

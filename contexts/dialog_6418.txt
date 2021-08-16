@@ -1,0 +1,4 @@
+ELLIE: ... could it be a nested code of some sort?
+DRUMLIN: You must have checked the signal for polarization modulation already...
+ELLIE: Dr. Lunacharsky...?
+LUNACHARSKY: Analyzing signal polarization shifts.

@@ -1,0 +1,1 @@
+XLR Microphone not working with phantom power supply I'm using macbook air. My XLR mic works fine without phantom power supply in between, it's just that audio is low. When I use phantom power supply, macbook doesn't detect the microphone. Has anybody faced a similar problem? What's the solution?

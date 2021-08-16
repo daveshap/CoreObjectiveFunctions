@@ -1,0 +1,42 @@
+Manager set up a meeting for "Significant Oversight". HELP.
+Hi guys,
+
+ 
+
+Please advise on the below if you have the time. Thanks in advance for taking the time to read this. Also if you can recommend other subreddits for this situation, that would be much appreciated.
+
+  I work at a big global company that treats their employees like total crap and I can’t wait to leave the job but circumstances arent letting me so far.
+
+ 
+
+**Quick background info of the position:** Suppose we are Team X, we work with Department Y and set up projects. Then Team QC, QC’s our works, sends back the findings/mistakes and we have to address them. Then the QC team finally publishes the project. Now the job Is very technical and demands very high attentiion to detail where its just insane because its on TRIVIAL MATTERS. Like Department Y had it as “Troponin-I” not “Troponin I” - like seriously our clients are PIs and PhD holders - they will KNOW WHAT IT IS. I digress sorry.
+
+  **For months now-** we have been getting VERY high number of projects, where as we are always at least 20 (small+big) projects behind (we're a team of like 12). Company wont even hire more people and will keep us understaffed. Company also has a high turnover rate, glassdoor reviews are mostly bad because of this reason amongst many others. The corporate greed is high.
+
+Team X, my team is now fully staffed after months of hiring and rehiring. But the QC team is SO understaffed, and SO backlogged, its like 4 Team X members to 1 QC person, as a result, a project is now getting QC’d 2-3 weeks later, and always right at the publishing deadline. That means these guys are rushing and breaking their backs. Before, theyd publish well before the deadline and we could take our time and address findings. And as you know any rushed work means more errors. The errors come back on us though since we set up the projects.
+
+ 
+
+Lately my manager’s been telling me at my 1-1 regroups that I have a lot of QC findings and been telling me that I should take breaks and not get fatigued etc. In my defense - we’re swamped and I’ve been getting high level projects (as in big ones) back to back! But anyway I don’t complain and I just told her I am trying my best. Luckily for our overall error review to date, I met the standards and got average number of errors as every other person in the team (like expected). This was yesterday.
+
+ALSO yesterday:
+
+A QC person had the publishing deadline for a ginormous project I set up 2/3 weeks ago. I’ve been doing my due diligence and working with her this week to address the findings. Then I left for the day, and it turns out one finding had 90 small internal elements that needed setting up - now on paper, the document we use - it looks like 1 line. So this is a common miss. She had to set up these for me and publish late at night. In reality this is an extra 1 hour or 1.5 hour of work even though they are using the number against me. Anyway I  hold nothing against the QC person though even though her manager complained to mine about how upset she was. Understandable.
+
+ 
+
+Now my manager is setting up a meeting next week for this “significant oversight”
+
+ 
+
+**Now here’s my defense/argument:**
+
+Yes it was an oversight, and my mistake. But in my defense, this study went well beyond my own timelines because the department I was cooperating with assigned their totally new hire lol I had to spoon feed everything AND that 1 line error that I missed, required a code that was released like THE DAY I was told to complete no matter what (also beyond recommended deadlines). This one code was holding up the entire study. Clearly this was rushed and it was the last minute addition that caused this oversight. Its like that last piece of the puzzle at last moment - that increases margin of error ANYWAY for ANY situation if that makes sense. I’ll own up to this. Also on a side note - the noobie was so pleased with me that she's gonna give me an inspire award for it, it's like a shout out. Just trying to tell you guys I don't suck 😂.
+
+ HOWEVER I will not take responsibility for the QC person rushing to publish and meet their deadlines and finishing this stuff on my behalf. The normal process should have been she has to send it to me.  I would have gladly programmed the 90 small elements the next business day. This is a company ISSUE where they obviously don’t give a crap about their employees. QC team requested higher ups to hire more people, and they got declined. And as a result of them being understaffed, backlogged immensely and rough deadlines, she had to go out of her way and address the finding herself. Like thats not my problem. My Manager is also trying to obviously guilt trip me using the QC person’s ordeal but I am not having that b.
+
+ 
+
+REDDITORS PLEASE ADVISE. SORRY ITS SO LONG.
+
+**TL;DR: Manager set up a meeting next week because QC person had to address a finding herself because it was her publishing deadline and their team is backlogged. The finding itself is fairly common, and is an additional 1-1.5 hours worth of work and I would have gladly addressed it the next business day. I will own up for it as well. My manager is guilt-tripping me with the QC person's extra work - that I will not own up to because that is the company's fault for keeping their team understaffed and intensely backlogged. How should I tell her this as professionally as possible?**

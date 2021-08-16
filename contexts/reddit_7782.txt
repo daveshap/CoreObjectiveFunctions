@@ -1,0 +1,18 @@
+My M.S. Advisor let me Defend When I wasn't Ready, and I Failed
+tl;dr. Lost funding; threw a hail-mary to defend before funding ran out; failed. Still don't think I should've been allowed to defend. 
+
+So a bit of background: my relationship with my advisor sucks. He convinced me to switch projects from one with a working code to one with a broken code without telling me the code was broken. So, instead of generating results and trying to develop a new method, I tried to debug thousands of lines of C++ CFD code, unsuccessfully, for about 7 months.
+
+After failing to fix his code, he informed me in my third semester that he was hesitant to keep funding me, and that I would need to improve my work ethic. I think the debugging with no results had burned me out completely at this point.
+
+Finally, I propose a new approach to fixing his code that he still doesn't particularly like, and yet it answered some important questions on how to move forward. 
+
+He informs me that he cannot fund me past two years. Okay, fine. I'll try to defend before that.
+
+He informs me halfway through the Spring semester that I should defend in May. Great! Hopefully I can get it done in time; if not, I'll have to pay my own tuition to defend.
+
+Well, the deadline comes up and he tells me a "sensible" draft of my thesis should be fine. We meet remotely for the defense, and I fail.
+
+I totally get that I'm responsible for this chain of events, but damn did I get very little practical guidance in how to proceed. This has been the worst experience of my life, and I want to give up after working so hard on a thesis, then flunking the defense. I just don't understand how an advisor with my best interest at heart would let me defend and fail.
+
+Now I must wait at least 3 months to defend again, so a summer defense is not an option. It's looking like another semester or two to finish my degree.

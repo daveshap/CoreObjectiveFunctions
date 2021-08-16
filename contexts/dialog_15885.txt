@@ -1,0 +1,13 @@
+GUMP: That much magic I can offer ye, a small measure of entertainment at best. Making the world a frozen hell is beyond me modest powers.
+JACK: Then, what's gone wrong? Why did it happen?
+GUMP: If ye want more tricks, I'm your man, but for big questions ye must go elsewhere.
+JACK: Don't you care about what's happened?
+GUMP: Course we care. What good's the world locked in a season of death. Frozen up, no folks to scare out of their wits on a summer's night; no babies to tickle; no more spells to cast... Think that's an enjoyable prospect?
+JACK: There must be an answer somewhere.
+GUMP: True... But it won't come easy or free. If ye want to ask, ask Jenny Greenteeth.
+JACK: Jenny Greenteeth? Who's she?
+GUMP: Someone worthy of respect, lad. She be a water spirit, lives in a bog down at sea-side. Hideous creature to look at, even by my doubtful standards; devours little children, she does, when she can catch them.
+JACK: How is it this hag knows the truth?
+GUMP: Think there be truth only in beauty, lad? If you've the courage to ask and take care to avoid her terrible claws, Jenny Greenteeth has the answers you seek.
+JACK: Will you lead me to her?
+GUMP: Aye. On the morrow we go, but tonight... ... tonight is for making merry.

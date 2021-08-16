@@ -1,0 +1,1 @@
+Correlation between Discrete Event and Continuous Parameter Change Does the temperature in the room increase when we turn on the furnace?  Intuitively the answer is yes.  Practically the answer is yes.  BUT, how do we prove it statistically?  If I have a time series of temperatures and a series of furnace states, what would be the best way to determine correlation?

@@ -1,0 +1,12 @@
+Keeping up with many projects or focus on one
+Hi everyone. I didn't know whether to use the Research or Admissions flair. Let me elaborate.
+
+My background is CS and I'm conducting research on deep learning models (this is so common these days Inactually feel kind of weird saying it). Anyway, I told my advisor on Monday that I'm going to opt out of my integrated program and graduate with a master's, and also apply to PhD programs abroad this year.
+
+He advised me that I should really try and get a publication with me as the first author out before applying, as it's not typically expected that master's students have their own publications (unless you're going for the "top schools") but that it would really help me make a difference, and even if the submission doesn't work out it'll be good experience.
+
+Long story short, I'm currently involved in three research projects. I'm starting to think that focusing on one and dropping the other two will be a good idea so I can focus. The projects to be dropped I don't really see myself doing long term anyway. The submission date is less than two months away btw.
+
+What would you do if you were in my shoes? I'm still a bit on the fence.
+
+Just an FYI in case anyone's wondering, the research I want to continue is geometric deep learning (graph neural networks) and the ones I want to drop are NLP and financial ML.

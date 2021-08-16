@@ -1,0 +1,18 @@
+GRANT: You must carry spare parts --
+CORA: Not anything built into the chassis. If it hadn't come loose --
+MICHAELS: That's beside the point now. I don't see the sense of going on.
+CORA: We must!
+MICHAELS: With no laser --
+GRANT: Isn't there another surgical procedure you can try?
+DUVAL: No, there's no other way.
+GRANT: If you had a transistor about this size and power output, and a thin enough wire -- -- could you piece it together?
+CORA: No, it requires such absolute precision --
+GRANT: A surgeon might...
+CORA: Oh yes, I'm sure Dr. Duval could. If we had the parts.
+GRANT: I've got a source. All I have to do is tap it.
+MICHAELS: Grant -- wait a minute -- you're not going to dismantle the wireless?
+GRANT: Just one little transistor and a circuit wire is all it takes.
+MICHAELS: But that'll knock out our communications! We'll be cutting ourselves off from the outside.
+GRANT: They'll still be able to track us by radar, because of the radioactive fuel.
+GRANT: Well, sir? Which is it? The wireless, or Benes' life?
+MICHAELS: Send the following message...

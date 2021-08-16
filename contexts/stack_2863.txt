@@ -1,0 +1,1 @@
+Potential inside a uniformly charged spherical shell If electric field inside the uniformly charged spherical shell is zero then how potential will be a non-zero constant equal to potential of shell, since there is no need to do work in moving a charge in forceless field?

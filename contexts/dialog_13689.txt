@@ -1,0 +1,13 @@
+JOE: I don't like the sound of that.
+AL: We have to get out of here.
+JOE: Door's locked.
+AL: See the codelock? Punch this in. 26993
+JOE: Now what.
+AL: Go out, take your first left.
+JOE: Just walk down the hall?
+AL: With Authority!
+JOE: Which way do I go?
+AL: What does it say.
+JOE: Corridor A.
+AL: Take a left and your next right.
+JOE: Where are we going?

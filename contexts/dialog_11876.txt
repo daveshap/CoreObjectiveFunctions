@@ -1,0 +1,8 @@
+ATTENDANT: Purpose of visit?
+MAN: A patient pickup and transfer to Smith's Grove.
+ATTENDANT: You're late.
+MAN: Yeah. Should be on the road.
+ATTENDANT: Yeah, ha, hell of a night huh?
+MAN: Real charmer.
+ATTENDANT: I'll take you down there.
+MAN: All right.

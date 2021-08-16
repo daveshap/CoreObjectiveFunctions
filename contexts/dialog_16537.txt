@@ -1,0 +1,4 @@
+BOB: What do you want to drink?
+CHARLOTTE: A coke.
+BOB: So, where'd you go today.
+CHARLOTTE: Around.

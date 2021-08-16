@@ -1,0 +1,1 @@
+Remove trash icon from desktop and add to Ubuntu dock in Ubuntu 18.04 I just installed Ubuntu 18.04 and don't like having the trash icon on the desktop rather that in the launcher (Ubuntu dock). How can I move it back to the launcher? Can other icons be moved from the desktop to the launcher?

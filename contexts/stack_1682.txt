@@ -1,0 +1,1 @@
+Doubts regarding via creation using pad designer I have following doubt on via creation.Is a via surrounded by soldermask or not? If it has a soldermask layer then what happens if there is no soldermask layer around pad?Give me brief explanation about types of vias?

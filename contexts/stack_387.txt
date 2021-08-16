@@ -1,0 +1,1 @@
+Wifi is interfering with Bluetooth headset Wifi is interfering with Bluetooth headset in my Ubuntu system. When i disconnect wifi then it works fine but when i connect it back again same problem. While googling it I found some coexistence term that i tried but still same problem. Please help.

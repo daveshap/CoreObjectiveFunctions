@@ -1,0 +1,19 @@
+JERGENS: Hello, Mr. Balboa -- I'm Miles Jergens -- Please, have a seat.
+ROCKY: ...Thanks.
+JERGENS: Mr. Balboa --
+ROCKY: Rocky.
+JERGENS: Rocky, do you have any representation? A manager?
+ROCKY: No -- Just me.
+JERGENS: Rocky, would you be interested in --
+ROCKY: Sparrin'?
+JERGENS: Excuse me.
+ROCKY: I know ya need sparrin' partners -- I'm very available.
+JERGENS: I'm sure you are.
+ROCKY: Absolutely -- Sparrin' with the Champ would be an honor -- y'know what?
+JERGENS: What?
+ROCKY: I wouldn't take no cheap shots. I'd be a good sparrin' partner.
+JERGENS: Rocky, would you be interested in fighting Apollo Creed for the Championship?
+ROCKY: ...Like I said, I'd make a boss sparrin' mate.
+JERGENS: Did you hear what I said?
+ROCKY: Sure, an' I'm smart enough to know that no sparrin' partner should take cheap shots at the Champ. He's just there to help condition the man.
+JERGENS: Not spar, I'm asking whether you would be interested in fighting Creed for the championship.

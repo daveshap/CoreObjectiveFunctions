@@ -1,0 +1,1 @@
+How to make the selection transparent in QGIS 3.0? Despite setting the layer or the symbology of the features to semi-transparent, when performing a selection, the features become solid. I want to edit those features based on properties of the features/background image below them. How can I set a transparency when features are selected?

@@ -1,0 +1,1 @@
+Deja: Save backup at more places I want make a backup with deja and save this backup local and about ssh for example.Is it possible to choose two or more places?

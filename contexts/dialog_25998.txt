@@ -1,0 +1,53 @@
+PAM: Hello?
+TOBY: Hello, is this Pam?
+PAM: Who is this?
+TOBY: Toby Oxman.
+PAM: Toby -? Oh, hi! How are you?
+TOBY: Oh, fine. How are you?
+PAM: Great!
+TOBY: Great!
+PAM: So what's going on?
+TOBY: That's what I was gonna ask you.
+PAM: But...you called.
+TOBY: Oh, yeah, well...um...I was just calling because, well, I was wondering if you still remembered me, which I guess you do...
+PAM: Yeah.
+TOBY: So. Look at where we are: the year 2000! Can you believe it? I mean, did you ever think we would actually make it?
+PAM: Um, well, yeah. So are you still acting?
+TOBY: Oh, no, not any more. No, um, I kind of came to terms with myself, I realized I had done what I had to do. And it was time to move on.
+PAM: Oh. So what did you do after you gave up on acting?
+TOBY: Well, I went to law school, if you can believe that.
+PAM: I believe it.
+TOBY: Yeah, well, it was really all kind of a joke - and a rip-off, so, uh...so I dropped out.
+PAM: Oh, that's too bad.
+TOBY: Yeah, well, then it got me writing, so that was a good thing.
+PAM: Anything I might know about?
+TOBY: Well, um, I kind of let things go on this novel I'd been really into - I mean, the whole publishing industry is totally corrupt. I mean, really, it's finished.
+PAM: That's too bad.
+TOBY: I worked over at a homeless shelter for a while, drove a cab to pay the rent, but, I mean, that was like - I mean, I have some dignity.
+PAM: That's good. So then what do you do now?
+TOBY: I'm a documentary filmmaker.
+PAM: Oh? Anything I might have seen?
+TOBY: N-not yet. I'm hoping to get a grant for this one project on teenagers. Geez, remember when we were teenagers?
+PAM: Yeah. You didn't wanna take me to the prom.
+TOBY: Oh, I don't remember that...
+PAM: I do.
+TOBY: Well, but it was so long ago. We were so different back then...
+TOBY: Uh, well, anyway, so I'm looking for subjects for this documentary on teenage life in suburbia. Kind of an exploration of the mental psyche of its mythology. I wrote to Derrida to see if he'd like to do the narration. But everything's still kind of in development at this point.
+PAM: Hunh.
+PAM: That's good.
+TOBY: Yeah...um...so anyway, tell me. What about you? I'd heard through the grapevine you were producing movies.
+PAM: Yeah. But not any more.
+TOBY: Oh. Tired of 'life in the fast lane'?
+TOBY: Yeah...So you're um...you're married?
+PAM: Yeah.
+TOBY: Huh. Kids?
+PAM: Yeah.
+TOBY: How many?
+PAM: Three.
+TOBY: Great. How old are they?
+PAM: Eight, six, and four.
+TOBY: Wow, that really is great. In a few years, who knows, maybe they'll want to be in my documentary!
+PAM: Listen, Toby, I can't really talk right now. Do you mind if I call you back?
+TOBY: Yeah, sure.
+PAM: OK. Bye.
+TOBY: Maybe she has caller ID.

@@ -1,0 +1,8 @@
+KIRK: Spock: Condition report!
+SPOCK: No data, Admiral. Computers are non-functional.
+CHEKOV: The mains are down, sir! Aux power is not responding.
+KIRK: Mr. Sulu, switch to manual control!
+SULU: I have no control, sir!
+KIRK: Picture, Uhura!
+UHURA: I can't, sir -- Nothing!
+KIRK: Out of control, and blind as a bat!

@@ -1,0 +1,1 @@
+ISPConfig set up login page URL I have an Ubuntu 16.04 server with ISPConfig 3.1.I set up many websites and emails, but I would like to log in to the server or account through an URL like domain.com/ispconfig (pretty much like cpanel).How can I set up this URL in order to access to the ISPConfig login page for clients?

@@ -1,0 +1,9 @@
+DUVAL: It's against my better Judgment...
+MICHAELS: Better Judgment?! To wait until the actual operation -- when it may be too late?
+DUVAL: I've done all I could with the laser.
+MICHAELS: All I'm asking is you test it beforehand!
+DUVAL: If it won't work, it's beyond my power to fix it. But if it does, there's no telling how long it will hold up. It's a jury rig, at best, and we'll need every second of use we can get out of it. That's why I don't want to put any extra strain on the connections by running unnecessary tests.
+MICHAELS: Dr. Duvall I insist you test the laser.
+DUVAL: I'll do nothing of the sort! The operation is <my> responsibility! I won't do it, and that's final!
+MICHAELS: As usual, you want everything your way. Except this time there's more than your damned ego at stake.
+DUVAL: I know only too well what's in the balance, Doctor. And it's not my ego, damned or otherwise.

@@ -1,0 +1,3 @@
+NICK: What are you doing here?
+AUDREY: I thought you said there'd only be a dozen eggs.
+NICK: I was wrong.

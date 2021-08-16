@@ -1,0 +1,13 @@
+BETTY: Good morning, Mr. Killaine. I'm sorry I can't give you the name of my bank--because I have no bank at the moment. That was a crude trick.
+KILLAINE: They're all crude, when they don't work. Had breakfast?
+KILLAINE: Care for a stroll outside? Beautiful morning. The air is like wine, the sky is a deep blue.
+BETTY: Deep blue? I'd call it grey-blue.
+KILLAINE: You must come from pretty far South.
+KILLAINE: FLorida?
+BETTY: I've never been to Florida.
+SECRETARY: Good morning, Mr. Brandon.
+BRANDON: Morning. Any calls?
+SECRETARY: Mr. Reed would like you to call him.
+BRANDON: All right. Get him.
+SECRETARY: And there's a Mr. Goble to see you. Says his business is personal.
+BRANDON: Who's Goble?

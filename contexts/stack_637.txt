@@ -1,0 +1,1 @@
+package containing stb_image.h? Have just moved some development from a Fedora system to Ubuntu, but I'm having a few problems.I cannot find which package provides stb_image.h. On Fedora it was something starting stb or stbi, but nothing like that seems to exist with the synaptic package manager.Can anyone point me to the right thing.Thanks.

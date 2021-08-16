@@ -1,0 +1,1 @@
+How do I clean ununsed tags from Finder? I seem to have accumulated a number of tags, some of which are duplicate and which do not belong to any files. I can see these tags when I open All Tags. These I assume were set for some files, which were then deleted.How do I clean up the Finder so that only the current tags are present?

@@ -1,0 +1,1 @@
+Why is no radiation emitted during the final transmission in He-Ne laser in Ne atom? During the working of He-Ne laser, I have understood everything except for the fact that no radiation is emitted when the electrons go through their final transition and reach the ground state again. Why is there no emission of radiation during the final transition?

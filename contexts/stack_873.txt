@@ -1,0 +1,1 @@
+Completely remove Notepad++ How to completely remove Notepad++ in Ubuntu 18.04 terminal?I can't find it in Synaptic package manager, and don't know where is on system, but I can see an icon in Activity. It is probably not completely installed, because I can't open it.

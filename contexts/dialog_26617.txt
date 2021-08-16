@@ -1,0 +1,6 @@
+MITCHELL: My name is...
+BILLY: Mister, I don't want to know your name.
+MITCHELL: I understand.
+BILLY: No you don't.
+MITCHELL: I can help you.
+BILLY: Not unless you can raise the dead.

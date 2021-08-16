@@ -1,0 +1,1 @@
+No sound in Ubuntu 17.10 I just installed 17.10 from DVD an I hear no sound. I have sound in Windows. I had the same problem with 16.04, and I had the change the grub from splash to radeon.audio.1. This was the solution. This donesn't work in this distribution. I have Radeon RX460 graphics and the sound comes from the HDMI port. Please help me, thank you in advance

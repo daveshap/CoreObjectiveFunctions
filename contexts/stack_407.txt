@@ -1,0 +1,1 @@
+Is there some way that I can see performance in Ubuntu? I am a new Linux user. In Windows, I used to monitor and sometimes improve my performance by using a software called \"Advanced Systemcare\". Is there some kind of software like this for Ubuntu? or someway that I can monitor how the things are going?Thank You!

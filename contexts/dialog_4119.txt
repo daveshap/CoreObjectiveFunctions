@@ -1,0 +1,9 @@
+GEORGE: Hello.
+MIRTHA: Hello.
+GEORGE: Do I know you?
+MIRTHA: I don't think so.
+GEORGE: Why are you smiling?
+MIRTHA: Why are you smiling?
+GEORGE: I don't know. My name is George.
+MIRTHA: I know who you are, El Americano. Mister George.
+GEORGE: What is your name?

@@ -1,0 +1,1 @@
+Need guidance to install Miraclecast using Cmake I'm new to Ubuntu and went through the readme file on MiracleCast zip download. I'm using CMake, but can't seem to figure out what to do once i download the zip folder. How i use CMake to download and run MiracleCast?

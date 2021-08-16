@@ -1,0 +1,1 @@
+How do I rename a volume in the Disks utility - in 18.04? I clicked the gear icon/ edit mount options but don't know which field changes the actual label for the volume that shows upon my desktop visually.

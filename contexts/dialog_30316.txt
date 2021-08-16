@@ -1,0 +1,6 @@
+SCOTTIE: Please drink your coffee.
+MADELEINE: I will. You're terribly direct in your questions.
+SCOTTIE: I'm sorry. I didn't mean to be rude.
+MADELEINE: You're not. Merely direct. What were you doing there? At Old Fort Point?
+SCOTTIE: Wandering about.
+MADELEINE: You like it, too.

@@ -1,0 +1,1 @@
+How do I move a window past the screen edge I am using one screen and am trying to do 2 things at once. I am watching netflix and playing runescape. In windows I could move the application to only show half the game window(Runescape client)In ubuntu It does not let me move the game window past the edge of the screen. Am I making sense?

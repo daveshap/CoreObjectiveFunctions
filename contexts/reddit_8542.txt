@@ -1,0 +1,59 @@
+What is the basis for for arguing ISP's have 1st Amendment right to block websites?
+I saw this article on the recent supreme court nominee about his [dissent on a case about the FCC’s 2015 net neutrality rule.](https://arstechnica.com/tech-policy/2018/07/net-neutrality-rules-are-illegal-according-to-trumps-supreme-court-pick/)
+
+Knowing sometimes it can be hard to accurately summarize someones legal position I looked at his actual [dissent](https://www.cadc.uscourts.gov/internet/opinions.nsf/06F8BFD079A89E13852581130053C3F8/$file/15-1063-1673357.pdf). In it he argues the FCC's 2015 net neutrality rule is inconsequential for two reasons, of which the second reason I am interested about. 
+
+> Second and in the alternative, the net neutrality rule
+> violates the First Amendment to the U.S. Constitution. Under
+> the Supreme Court’s landmark decisions in Turner
+> Broadcasting System, Inc. v. FCC, 512 U.S. 622 (1994), and
+> Turner Broadcasting System, Inc. v. FCC, 520 U.S. 180
+> (1997), the First Amendment bars the Government from
+> restricting the editorial discretion of Internet service
+> providers, absent a showing that an Internet service provider
+> possesses market power in a relevant geographic market.
+> Here, however, the FCC has not even tried to make a market
+> power showing. Therefore, under the Supreme Court’s
+> precedents applying the First Amendment, the net neutrality
+> rule violates the First Amendment.
+
+The two [mentioned](https://supreme.justia.com/cases/federal/us/520/180/) [rulings](https://supreme.justia.com/cases/federal/us/512/622/) as far as I can tell relate to cable providers being required to air [locally licensed stations](https://en.wikipedia.org/wiki/Turner_Broadcasting_System,_Inc._v._FCC)
+
+> Turner I established that cable television companies were indeed First Amendment speakers but didn't decide whether the federal regulation of their speech infringed upon their speech rights. In Turner II the court decided that the must carry provisions were constitutional.
+
+I guess he is referencing the fact television companies were first amendment speakers but if he is saying the FCC cant apply the 1934 communication act because the internet is not "radio" how can he apply case law from the supreme court on a ruling about cable? If anything it would seem to me the internet is more analogous to radio than T.V.?
+> Here, because Congress never passed net neutrality
+> legislation, the FCC relied on the 1934 Communications Act,
+> as amended in 1996, as its source of authority for the net
+> neutrality rule. But that Act does not supply clear
+> congressional authorization for the FCC to impose commoncarrier
+> regulation on Internet service providers. Therefore,
+> under the Supreme Court’s precedents applying the major
+> rules doctrine, the net neutrality rule is unlawful.
+
+Additionally based on the following text (mostly the editorial discretion part) I think he may be referencing [Miami Herald Publishing Co. v. Tornillo] (https://en.wikipedia.org/wiki/Miami_Herald_Publishing_Co._v._Tornillo) 
+> In short, although the briefs and commentary about the
+> net neutrality issue are voluminous, the legal analysis is
+> straightforward: If the Supreme Court’s major rules doctrine
+> means what it says, then the net neutrality rule is unlawful
+> because Congress has not clearly authorized the FCC to issue
+> this major rule. And if the Supreme Court’s Turner
+> Broadcasting decisions mean what they say, then the net
+> neutrality rule is unlawful because the rule impermissibly
+> infringes on the Internet service providers’ **editorial
+> discretion**
+
+which ruled 
+
+> Miami Herald Publishing Co. v. Tornillo, 418 U.S. 241 (1974), was a United States Supreme Court case that overturned a Florida state law requiring newspapers to allow equal space in their newspapers to political candidates in the case of a political editorial or endorsement content. The court held that while the statute does not "prevent [newspapers] from saying anything [they] wish" it "exacts a penalty on the basis of the content." Because newspapers are economically finite enterprises, "editors may conclude that the safe course is to avoid controversy," thereby chilling speech. Furthermore, the Court held the exercise of **editorial judgment** is a protected First Amendment activity. In effect, this ruling reaffirmed the constitutional principle of freedom of the press (detailed in the First Amendment) and prevented state governments from controlling the content of the press
+
+Again why is a supreme court ruling on newspapers being applied as case law to the internet? Does that require some interpretation of the supreme courts intention that he seems to imply in his own dissent he cannot do?
+
+> To state the obvious, the Supreme Court could
+> always refine or reconsider the major rules doctrine or its
+> decisions in the Turner Broadcasting cases. **But as a lower 
+> 3
+> court, we do not possess that power. Our job is to apply
+> Supreme Court precedent as it stands.** 
+
+Additionally does restricting internet access go both ways with free speech? If my ISP block reddit from me and I cannot participate in discussions on Reddit is that considered an impingement on free speech?

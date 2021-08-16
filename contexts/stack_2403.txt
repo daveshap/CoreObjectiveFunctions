@@ -1,0 +1,1 @@
+Exporting location coordinates as .csv file Is there a way to export the coordinates of regions that have been drawn on a map in google earth engine to a .csv file?

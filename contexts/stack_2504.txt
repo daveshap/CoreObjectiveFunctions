@@ -1,0 +1,1 @@
+Creating relationship class in QGIS for uploading to ArcGIS Online? Since I don't have the advanced license for ArcGIS Pro, I'm trying to create relationship class in other programs. Would ArcGIS Online support relationship (O-M) created through another program (such as QGIS or FME)?

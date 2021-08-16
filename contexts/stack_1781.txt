@@ -1,0 +1,1 @@
+Frequency tracking PLL type I'm unable to understand which PLL type (1 or 2) is better suited for frequency tracking and why? Can anyone explain how that additional integrator in type 2 will affect tracking?Thanks in advance!

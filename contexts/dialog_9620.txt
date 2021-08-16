@@ -1,0 +1,4 @@
+TRAUTMAN: Stay on your heading, Captain.
+DOYLE: Sorry, Sir. Can't do it.
+TRAUTMAN: That's an order.
+DOYLE: Sorry, Sir.

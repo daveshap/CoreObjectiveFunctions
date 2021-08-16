@@ -1,0 +1,1 @@
+How to have the ANT video downloader extension work on newest ubuntu+firefox I have been using the ANT video downloader extension in firefox since years. I just installed ubuntu mate 18.04 with latest firefox and after installing the extension I am asked to install a native app that is a .msi file and can't be open in ubuntu with any program. Any solutions?Thank you

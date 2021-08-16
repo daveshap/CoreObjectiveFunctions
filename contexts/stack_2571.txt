@@ -1,0 +1,1 @@
+Find the extent of a GeoJSON FeatureCollection How can I get of the extent of all features within a GeoJSON FeatureCollection with Python 3? One extent for all features, not one per feature. The Feature collection includes multiple points features and multiple LineStrings features.

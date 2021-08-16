@@ -1,0 +1,8 @@
+[Mendeley] How to group many citations in just one?
+What I have: \[1-3\]
+
+What I want: \[1\] a), b), c) 
+
+[Here is an example](https://lh3.googleusercontent.com/-jikRiUVpL4o/XsQq3hM2OaI/AAAAAAAABUM/suRtVhTuQHQ5I1X-HzYElYix2yAYm7_qACK8BGAsYHg/s0/2020-05-19.png) with multiple references in one - ref # 87.
+
+Does anyone know how to do it?

@@ -1,0 +1,8 @@
+JACK MILO: Nixon lives in Saddle River, New York.
+ANDY WARHOL: Saddle River's in New Jersey.
+JACK MILO: Saddle River, New York!
+ANDY WARHOL: It's in New Jersey.
+JACK MILO: New York.
+ANDY WARHOL: I think it's in New Jersey.
+JACK MILO: It's in New York.
+ANDY WARHOL: Oh, I didn't know that.

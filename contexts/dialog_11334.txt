@@ -1,0 +1,6 @@
+LAMBEAU: What's that?
+WILL: Half-red, half-black--
+LAMBEAU: --that?--
+WILL: --Half-red, half-black--
+LAMBEAU: --That edge!
+WILL: An integer.

@@ -1,0 +1,21 @@
+KULOK: Mack, I'm sorry. I apologize. I should have called. I had no right to sneak in on you like that.
+MACKELWAY: No, Jaime, I apologize. I didn't... I had no right to speak to you like that.
+KULOK: I came over because I couldn't sleep and was lonely. I wanted to see you. I thought I'd surprise you.
+MACKELWAY: You did.
+KULOK: Maybe we should back off a bit.
+MACKELWAY: I can't. They trust me, they accept me. I've got their confidence.
+KULOK: No, I mean maybe we should back off a bit, you and me.
+MACKELWAY: Oh.
+KULOK: There's the Agency issue. I think Koessler may suspect something already. We're not on the best footing with him as it is.
+MACKELWAY: That's true.
+KULOK: Then there's the other issue.
+MACKELWAY: What's that?
+KULOK: You need time to think. About the case, about you and me.
+MACKELWAY: I found a peephole into Deviant World. I'm gonna reach in and yank some of those creeps out.
+KULOK: And nobody else can do that?
+MACKELWAY: Not the way I can.
+KULOK: That's my point. Remember, you're a cop pretending to be a deviant. It's not the other way around.
+MACKELWAY: Don't confuse what we do with who we are.
+KULOK: I just need to go a little slow.
+MURMAN: [Lionheart, what happened?]
+MACKELWAY: Something came up, Murman, my man.

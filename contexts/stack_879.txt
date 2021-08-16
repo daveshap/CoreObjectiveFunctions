@@ -1,0 +1,1 @@
+How can I keep the network up when I close my laptop lid? I'm running ubuntu 18.04 on an asus laptop.When I close the lid of the laptop, the laptop drops off my home network.How can I keep its connection to network open?

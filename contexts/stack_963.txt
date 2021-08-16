@@ -1,0 +1,1 @@
+Programs opening in full-screen mode by default Since I upgraded from Ubuntu 16.04 to 18.04, both Filezilla and Firefox always open in full-screen mode, no matter how I have adjusted them before closing.  What can I do to change this annoying behaviour?

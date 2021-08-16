@@ -1,0 +1,1 @@
+Prepare MacBook for sale when OS X Lion reinstall requires Apple ID I'm going to sell my Macbook Pro.When I reinstall OS X Lion, I have to enter my own Apple ID. Another Apple ID won't work, I get message \"This item is temporarily unavailable\".How can I deassociate my Apple ID with this computer so that the next owner will be able to reinstall the OS with their own apple ID?

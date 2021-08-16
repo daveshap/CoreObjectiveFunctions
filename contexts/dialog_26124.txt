@@ -1,0 +1,19 @@
+MAJOR MANDRAKE: What's the gun for, General Ripper?
+GENERAL RIPPER: Please don't take any notice of this weapon, Major. I love all weapons, and as of late, I've just taken to keeping a loaded weapon nearby at all times.
+MAJOR MANDRAKE: Sort of like a new hobby, huh, General?
+GENERAL RIPPER: That's right, Major.
+GENERAL RIPPER: I see you're playing your radio, Major. Isn't that contrary to my instructions for the personnel of this base?
+MAJOR MANDRAKE: Oh, it's not my radio, sir. I picked it up in the communications center.
+GENERAL RIPPER: I didn't mean for anyone to play anyone else's radio either, Major.
+MAJOR MANDRAKE: Yes, sir. General, can I ask a question?
+GENERAL RIPPER: Certainly, Major Mandrake. You're a good officer, and you can ask me a question any time you want to.
+MAJOR MANDRAKE: Well, General Ripper, sir -- I was thinking -- we're on a condition red, aren't we?
+GENERAL RIPPER: That is correct, Major.
+MAJOR MANDRAKE: And a condition red means enemy attack in progress, doesn't it?
+GENERAL RIPPER: You know the regulations well, Major.
+MAJOR MANDRAKE: Well, sir, I was thinking, if an enemy attack is in progress, how come the radio's still playing music? It's supposed to go off, and all we should hear are Civil Defense broadcasts.
+GENERAL RIPPER: That's a good question, Major. Maybe if you think hard, you can think of the answer yourself.
+MAJOR MANDRAKE: Well, I was thinking, maybe an enemy attack is not in progress?
+GENERAL RIPPER: And if that were true?
+MAJOR MANDRAKE: But then, sir, why have you issued the order: Wing attack, Plan-R?
+GENERAL RIPPER: Because I thought it proper, Major. Why else would you think I'd do it?

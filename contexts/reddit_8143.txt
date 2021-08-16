@@ -1,0 +1,10 @@
+Over a fifth of American children live below the poverty line, a higher rate than comparable developed nations. What are the historical and present causes of this outlier, and what policies have been shown to be effective at improving the situation?
+Recent estimates suggest that [over 20%](http://www.nccp.org/topics/childpoverty.html) of American children are currently living below the poverty line. While the current rate is [at the lowest it has ever been](https://www.theatlantic.com/business/archive/2017/10/child-poverty-rate-record-low/542058/), it remains one of the highest in the developed world. Notably, a much greater proportion of American children are in poverty compared to the general population: overall, [around 13% of Americans are in poverty](https://poverty.ucdavis.edu/faq/what-current-poverty-rate-united-states), by some measures. While measures of poverty differ, [one source](https://www.stjornarradid.is/media/velferdarraduneyti-media/media/1---formennska-2014/0930_Family_policy_TS.pdf) suggests that compared to an OECD average of about 11%, US child poverty is over 17%. 
+
+Various proposals have long been put forward to resolve the matter. [Free childcare](https://www.brookings.edu/research/why-the-federal-government-should-subsidize-childcare-and-how-to-pay-for-it/) and [conditional transfers](https://www.theguardian.com/global-development-professionals-network/2013/nov/05/bolsa-familia-brazil-cash-transfer-system) have received a fair amount of attention, though both have been criticized for not tackling larger, structural or historical structures unique to the US. 
+
+---
+
+**Why is US child poverty so much higher than in comparable countries? What historical or structural factors contribute?**
+
+**Which policies or structural transformations have been shown to be effective and feasible at reducing child poverty, and how could they be applied to the US?**

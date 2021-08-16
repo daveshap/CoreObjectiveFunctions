@@ -1,0 +1,6 @@
+GRANT: Meat.
+BUTCHER: Howdy, Mr. Grant. You goin' to the Deer Cheer this weekend?
+GRANT: Sure thing, killer.
+BUTCHER: What can I do you for?
+GRANT: Thinkin' 'bout getting me a couple of these big ol' rib eyes.
+BUTCHER: How many you need?

@@ -1,0 +1,2 @@
+Does anyone know how to link Zotero library to Dropbox/ Box/ Google drive?
+I was hoping I can link my Zotero library to anyone of these cloud storage to back it up. anyone has an idea on how to do that? Thanks!

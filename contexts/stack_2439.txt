@@ -1,0 +1,1 @@
+Protecting KML/KMZ files created in ArcMap from being copied? Is there a way to lock/protect a kml/kmz file that is created in ArcMap from being copied in Google Earth and/or geoprocessed in ArcMap when you want to give to third parties?

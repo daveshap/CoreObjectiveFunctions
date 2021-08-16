@@ -1,0 +1,37 @@
+NAPOLEON: My God...! What time is it?
+DUROC: Four o'clock.
+NAPOLEON: My God, what a fire!
+NAPOLEON: When did it start?
+DUROC: The first reports came in at about ten.
+NAPOLEON: Why didn't you wake me then?
+DUROC: At first, it hardly seemed more than a routine fire.
+NAPOLEON: How did it spread so quickly?
+DUROC: It is the work of incendiaries.
+NAPOLEON: I told Mortier that he would answer with his life for any looting.
+DUROC: Our troops have no part in this. It has been started by the Russians!
+NAPOLEON: Impossible, I don't believe it.
+DUROC: We have already captured a dozen incendiaries, convicts, released just two days ago. They said they were acting under orders of the secret police.
+NAPOLEON: But to start a fire like this in five hours -- how is it possible? It would take a carefully organized plan, tons of combustibles and hundreds of people.
+DUROC: From what we can tell, there are hundreds of agents, all over the city. The combustibles seem to have been carefully placed beforehand, and all the fire-engines have been removed from the city.
+NAPOLEON: My God -- this could be very bad for us... very bad, indeed.
+GENERAL KUTUSOV: I hope you will forgive me, Your Majesty, for requesting an audience at such a late hour, but I have traveled all the way from Moscow to see you, on a matter which cannot wait.
+ALEXANDER: Very well, General, what is it you wish to say?
+GENERAL KUTUSOV: Your Majesty, I have been advised that you have received a letter from Napoleon, offering a peace treaty, and that you have decided to accept it.
+ALEXANDER: I have decided to accept the principle of a negotiation; the terms are not established.
+GENERAL KUTUSOV: If I may, Your Majesty, I would like to offer a dissenting opinion.
+ALEXANDER: General Kutusov, feel free to say whatever you like.
+GENERAL KUTUSOV: I believe I am right in saying that, before the fire, the country had grown weary of the war, and there were few who were interested in continuing the battle.
+ALEXANDER: Proceed.
+GENERAL KUTUSOV: But, since the fire, a completely new spirit has been aroused in the nation. The French have become an army of criminals, against whom Russia must be avenged, against whom she is now prepared to fight to the death.
+ALEXANDER: You know, General Kutusov, there is a very strong possibility that the fire was not started by Napoleon's troops but was organized under the orders of Rostopchin's secret police.
+GENERAL KUTUSOV: I have heard that story but I do not believe it.
+ALEXANDER: Rostopchin is a fanatic and he is capable of anything -- however, it doesn't affect what we are talking about. Please go on.
+GENERAL KUTUSOV: The point I was trying to make is that I think it is reasonable to say that Your Majesty would not find himself under unbearable pressure, if he decided to make peace with the Emperor, at least at this time.
+ALEXANDER: For the sake of your argument, let us say that is correct.
+GENERAL KUTUSOV: Well, has Your Majesty considered what Napoleon's alternatives might be, if you simply chose to ignore his note?
+ALEXANDER: Yes, General Kutusov, I daresay that this has been considered and discussed at great length. Napoleon would simply spend the winter in Moscow and continue the campaign in the spring. Another lesser possibility might be to march on St. Petersburg now, although there is some doubt that he has the strength to do this, until he refits his army.
+GENERAL KUTUSOV: You have my absolute assurance, Your Majesty, that Napoleon does not have the strength to attack St. Petersburg now -- his army is exhausted and ill-supplied, and he would be defeated if he attempted that.
+ALEXANDER: I will accept your assurance, but I'm afraid I don't see your point.
+GENERAL KUTUSOV: Forgive me, Your Majesty, I am about to make it.
+ALEXANDER: Ah, yes -- proceed.
+GENERAL KUTUSOV: The point is that I don't think Napoleon will sit in Moscow until the spring! I don't think he can afford to.

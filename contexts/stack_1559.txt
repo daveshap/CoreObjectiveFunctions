@@ -1,0 +1,1 @@
+Capacitance decay of SMD ceramic capacitors I want to use a 330nF X7R ceramic capacitor for an analog circuit.Obviously the capacitance value is very important for the correct working of the circuit.I haven't found on the datasheet if these kind of capacitors has an important capacitance decay during time. For example, does the capacitance decrease after 1000 hours of usage?

@@ -1,0 +1,5 @@
+PICARD: Report.
+RIKER: A quantum implosion has occurred within the Amargosa star. All nuclearfusion is breaking down.
+PICARD: How is that possible?
+WORF: Sensor records show a solar probe was launched from the observatory a few moments ago.
+RIKER: The star's going to collapse in a matter of minutes.

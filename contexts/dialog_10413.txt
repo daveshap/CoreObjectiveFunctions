@@ -1,0 +1,9 @@
+CAESAR: So you've finally seen sense and come back to your old job, Vincent.
+JEROME: Not yet, I'm afraid.
+CAESAR: No? What's keeping you?
+JEROME: I guess I'm a slow learner.
+CAESAR: I guess so. Well, while you're up there, maybe you could tidy the place up a bit.
+JEROME: I'll see what I can do.
+CAESAR: And don't go getting everybody lost out there. You'll give us a bad name. You won't have me to keep an eye on you, you know.
+JEROME: By the way, I left some trash in your locker.
+CAESAR: I'll take care of it.

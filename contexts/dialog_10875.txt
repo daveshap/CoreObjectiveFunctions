@@ -1,0 +1,4 @@
+VENKMAN: At ease, Officers. I'm Peter Venkman. I think there's been some kind of misunderstanding here and I want to cooperate in every way I can.
+PECK: Forget it, Venkman. You had your chance to cooperate but you thought it was more fun to insult me. Now it's my turn, smart-ass.
+SPENGLER: He wants to shut down the storage grid.
+VENKMAN: If you turn that thing off we won't be responsible for the consequences.

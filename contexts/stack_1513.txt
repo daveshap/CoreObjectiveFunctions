@@ -1,0 +1,1 @@
+Read a value of open circuit or GND I'm trying to make a circuit that have in input a \"not connected\" or \"GND\and the output is a function of input.For example if there is no connection, the outpur is 3.3V. If the input is connected to GND, the output is 0V.I only can use analog elements. I have problems to simulte the \"open circuit\" with ltspiceDo you have ideas?Thanks

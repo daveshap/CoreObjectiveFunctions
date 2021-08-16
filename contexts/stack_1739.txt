@@ -1,0 +1,1 @@
+pro micro timers and controlled pins datasheet I am using a Pro Micro with a ATMega32U4, where can I find timer number and which pins that controlled?I just found Arduino Mega: (tested on Arduino Mega 2560)timer 0 (controls pin 13, 4)timer 1 (controls pin 12, 11)timer 2 (controls pin 10, 9)timer 3 (controls pin 5, 3, 2)timer 4 (controls pin 8, 7, 6)Can I use this?Thanks

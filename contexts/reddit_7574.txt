@@ -1,0 +1,13 @@
+Help with Mendeley
+I am having some issues, and I cannot find a solution. My area is Sport Science, and I am using APA 6th edition to cite.
+
+Basically, some of the citations are wrong. For example, instead of only seeing the surname, often there are also the initials for no reason.
+
+Just to give you an example of two citations created by Mendeley:
+
+(Kavaliauskas, Aspe, & Babraj, 2015; H. L. Taylor, Buskirk, & Henschel, 1955)
+
+The first one is correct, the surnames are mentioned correctly. The second one has the "H. L." at the beginning, and I cannot understand why. I looked at the paper details, and they are correct. Name and surname are indicated correctly in the details, in the correct order, and yet I can see the initials.  
+
+
+Can somebody help me with this? It happens with a few papers, and it's really annoying.

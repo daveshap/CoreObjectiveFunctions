@@ -1,0 +1,7 @@
+How strong is the case for enshrining net neutrality as a constitutional amendment?
+Even though it's a somewhat abstract issue, net neutrality seems to (at least) run parallel to the 1st amendment ^[[0](https://en.wikipedia.org/wiki/Right_to_Internet_access#Ensuring_that_access_is_broadly_available_and.2For_preventing_unreasonable_restrictions)] ^[[1](https://www.pri.org/stories/2014-06-16/net-neutrality-and-first-amendment-who-has-right-free-speech)] ^[[2](http://thehill.com/policy/technology/211607-franken-net-neutrality-is-first-amendment-issue-of-our-time)]. I'm most interested to know (a) if there's a case for an amendment (b) if there are clear reasons *not* to (c) how much wiggle room do states have to regulate if the nation refuses.
+
+I realize there are financial forces ^[[3](http://www.dailydot.com/layer8/lobbyists-net-neutrality-fcc/)] ^[[4](https://www.nytimes.com/2014/04/25/business/lobbying-efforts-intensify-after-fcc-tries-3rd-time-on-net-neutrality.html)] creating political realities that would impede Congress from doing something like this. For the sake of this question, let's assume Congress and the president are not being influenced by corporate money.
+
+* EDIT01: adding sources as per guidelines
+* EDIT02: added link to Wikipedia article which covers the 1st Amendment relationship quite well

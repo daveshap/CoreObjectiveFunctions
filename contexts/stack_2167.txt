@@ -1,0 +1,1 @@
+Is there a command to stop individual mobs from spawning in Minecraft? I want to be able to play survival mode on 1.8.0(with mods) without hostile mobs spawning but with hunger going down. Basically, I want the mobs to act like peaceful mode, but everything else to act like normal mode.

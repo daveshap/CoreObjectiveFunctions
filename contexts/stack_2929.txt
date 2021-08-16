@@ -1,0 +1,1 @@
+Electric flux through gauss law Why is it that objects kept in uniform electric field have net flux through them when gauss law says that net flux through a surface is q/epsilon.I mean the net charge will be zero if a gausian surface is drawn so the net flux must also be the same

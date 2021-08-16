@@ -1,0 +1,1 @@
+pdf reader with Send By Mail option Is there any PDF reader which has a 'send by mail' menu option that can attach the PDF to an email (preferably Thunderbird)?

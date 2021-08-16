@@ -1,0 +1,1 @@
+ArcGIS - Flow directions in the 4 cardinal directions only (North, East, South and West) I would like to know if there is a way to calculate the flow directions in the 4 cardinal directions only (North, East, South and West). Indeed, ArcGIS transfers the flows in the 8 directions, which I don't want.Does anyone have any idea how to proceed?

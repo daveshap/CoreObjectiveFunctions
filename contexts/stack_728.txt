@@ -1,0 +1,1 @@
+How to Install Microsoft SQL Server in Ubuntu Please How do I Install SQL server in Ubuntu 16.04 LTS, I a new Ubuntu user and I need the sql server for Database class.  I had to partition my hard drive and use windows to be able to use the Sql server.  I want to install in in the Ubuntu

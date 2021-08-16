@@ -1,0 +1,39 @@
+In Trump v. Hawaii (travel ban), the Supreme Court ruled the President's past statements should not be considered when reviewing that directive. Does this mean statements counter to Trump's Emergency Declaration, like "I didn’t need to do this," won't be considered in upcoming litigation?
+In his Emergency Declaration speech to procure funds for a Southern border wall, the [President said](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-national-security-humanitarian-crisis-southern-border/):
+
+> "I could do the wall over a longer period of time.  I didn’t need to do this.  But I’d rather do it much faster."
+
+The President also said (from 1st source):
+
+> But we’ve done a fantastic job, but we haven’t been given the equipment.  We haven’t been given the walls.  And in the bill, by the way, they didn’t even fight us on most of the stuff.  Ports of entry.  We have so much money, we don’t know what to do with it.  I don’t know what to do with all the money they’re giving us.  It’s crazy.
+
+These quotes, particularly the first, [could be used against President Trump](https://www.apnews.com/b6814d2dbaa044dc846f2040cc17ff2f) in legal challenges: 
+
+> ACLU executive director Anthony Romero said Trump’s remarks are an admission that there is no national emergency. “He just grew impatient and frustrated with Congress,” Romero said in a statement that also said the rights group would file a lawsuit next week.
+
+---
+
+This very much reminded me of the Supreme Court decision last Summer in [Trump v. Hawaii](https://en.wikipedia.org/wiki/Trump_v._Hawaii), (commonly called the 'travel ban'), where the court sided with the President. 
+
+The similarity comes from several lower court decisions that used Trump's [history of disparaging comments](https://www.washingtonpost.com/news/post-politics/wp/2017/05/20/i-think-islam-hates-us-a-timeline-of-trumps-comments-about-islam-and-muslims/?noredirect=on&utm_term=.8e683f19c5ae) to find decisions that [ruled against the President](https://www.nytimes.com/2017/10/18/us/travel-ban-blocked.html):
+
+> The cases have presented the rare spectacle of a president’s own words undercutting the legal arguments of his administration. The government’s position is that the latest ban, like those before it, is not an attempt to prevent Muslims from entering the United States, but a bid to limit and control who enters from some of the world’s most dangerous countries.
+
+> Judge Chuang quoted extensively from Mr. Trump’s statements and Twitter messages during the campaign and in office, including his demand as a candidate for “a complete and total shutdown of Muslims entering the United States,” his calls for “a Muslim ban,” and a remark that because his statements had upset some people, he was “talking territory instead of Muslim.”
+
+At the Supreme Court, Chief Justice Roberts wrote in the majority opinion that the President had ample statutory authority to make national security judgements when it came to immigration, and [addressed the comments cited by lower courts](https://www.nytimes.com/2018/06/26/us/politics/supreme-court-trump-travel-ban.html):
+
+> Chief Justice Roberts acknowledged that Mr. Trump had made many statements concerning his desire to impose a “Muslim ban.” He recounted the president’s call for a “total and complete shutdown of Muslims entering the United States,” and he noted that the president has said that “Islam hates us” and has asserted that the United States was “having problems with Muslims coming into the country.”
+
+> ...
+
+> “The issue before us is not whether to denounce the statements,” Chief Justice Roberts wrote. **“It is instead the significance of those statements in reviewing a presidential directive, neutral on its face, addressing a matter within the core of executive responsibility.”**
+
+> “In doing so,” he wrote, “we must consider not only the statements of a particular president, but also the authority of the presidency itself.”
+
+
+----
+
+I just have one question:
+ 
+Does the Supreme Court's ruling in Trump v. Hawaii impact whether Trump's comments can be used effectively in litigation? As in, did the Supreme Court set precedent that would have weight in the lower courts about how Trump's personal comments can be used? Must Trump's comments be viewed separately from officially written and submitted presidential directives?

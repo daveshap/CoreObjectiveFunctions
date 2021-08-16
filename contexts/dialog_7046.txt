@@ -1,0 +1,8 @@
+BUMSTEAD: Doctor! What brings you here?
+SCHREBER: Just visiting my patient.
+BUMSTEAD: Really? And how is his state of mind?
+SCHREBER: He's seriously disturbed...
+BUMSTEAD: You seem a little edgy. Everything okay?
+SCHREBER: Yes, of course. Everything's fine...
+BUMSTEAD: To tell you the truth, I'm glad we've run into each other like this. Maybe you can help me tidy some loose ends.
+SCHREBER: Loose ends?

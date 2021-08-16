@@ -1,0 +1,1 @@
+Dissolve polygons based on number of polygons How can I dissolve group of polygons into many polygons based on specific number?For example I have 100 points which are beside each other I need to dissolve each nearest 5 polygons into 1.

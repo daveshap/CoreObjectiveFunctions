@@ -1,0 +1,16 @@
+PSYCHIATRIST: Are you comfortable Regan?
+REGAN: Yes.
+PSYCHIATRIST: How old are you?
+REGAN: Twelve.
+PSYCHIATRIST: Is there someone inside you?
+REGAN: Sometimes.
+PSYCHIATRIST: Who is it?
+REGAN: I don't know.
+PSYCHIATRIST: Is it Captain Howdy?
+REGAN: I don't know.
+PSYCHIATRIST: If I ask him to tell me, will you let him answer?
+REGAN: No.
+PSYCHIATRIST: Why not?
+REGAN: I'm afraid.
+PSYCHIATRIST: If he talks to me, I think he'll leave you. Do you want him to leave you?
+REGAN: Yes.

@@ -1,0 +1,10 @@
+What models exist for state law patches if Obamacare is repealed federally?
+The incoming Trump administration and Republicans in Congress have been planning what's called ["repeal and delay"](http://www.nytimes.com/2016/12/02/us/politics/obamacare-repeal.html) which would enact a repeal of many provisions of Obamacare, but delay implementation for [up to 4 years.](http://www.politico.com/story/2016/12/republicans-obamacare-how-long-will-it-stay-232693)
+
+[Some have predicted](http://www.vox.com/2016/11/17/13665184/obamacare-repeal-delay) that this would cause much more immediate problems in individual marketplaces as insurers pulled out once they saw there was no long term future. 
+
+Obamacare [was modeled on](https://kaiserfamilyfoundation.files.wordpress.com/2013/01/8311.pdf) a state law program implemented in Massachusetts by Governor Mitt Romney, so there's some precedent for state-level reforms there.  Other state-level programs under Obamacare have had less success, [such as the failure of Vermont to implement single payer.](http://www.nejm.org/doi/full/10.1056/NEJMp1501050#t=article)
+
+[This piece](http://theincidentaleconomist.com/wordpress/patching-obamacare-at-the-state-level/) discusses one option of a state introducing its own individual mandate even if the Federal mandate is repealed.
+
+What other programs have states implemented that might be successful, and what models or papers are there out there on some other possible state-level reforms?

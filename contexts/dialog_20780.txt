@@ -1,0 +1,16 @@
+JOE: Ms. Burton. You're black.
+ANTHEA: Is that a question?
+JOE: No. Have you ever felt discriminated against, at Wyant Wheeler?
+ANTHEA: Yes.
+JOE: In what way?
+ANTHEA: Well... One time, Mr. Wheeler's secretary, Lydia, told me Mr. Wheeler had a problem with my earrings.
+JOE: Your earrings?
+ANTHEA: Apparently, Mr. Wheeler felt they were too... ethnic" is the word she used. She said he would like it if I wore something smaller
+JOE: What did you say?
+ANTHEA: I said my earrings <u>are</u> American. They're African-American.
+JOE: Thank you. No more questions.
+BELINDA: Miss Burton? Do you still work at Wyant Wheeler?
+ANTHEA: Yes.
+BELINDA: Were you recently promoted?
+ANTHEA: Yes. I'm now in charge of the paralegal department.
+BELINDA: Thank you.

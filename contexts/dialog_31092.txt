@@ -1,0 +1,12 @@
+BOBBY: Need a hand?
+SAILOR: Thanks, Bobby, 'bout done.
+BOBBY: How 'bout a beer?
+SAILOR: That'd be fine, Bobby.
+BOBBY: Let's go by Rosarita's. You been there yet?
+SAILOR: No, haven't heard of it.
+BOBBY: Thought maybe Sparky and Buddy'd taken ya. Come on, I'll drive.
+SAILOR: This your car?
+BOBBY: Hell, no, belongs to my girl's sister. The sister's been over to New Orleans, lets us have it while she's gone. Where's that pretty little lady of yours today?
+SAILOR: Restin' in our room. She ain't been feelin' well.
+BOBBY: Sorry to hear it.
+SAILOR: New Orleans, huh?... We was just there.

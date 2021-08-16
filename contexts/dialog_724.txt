@@ -1,0 +1,9 @@
+STELLA: Excuse me, are you alright? I noticed you talking to yourself. I'm a nurse. Can I be of some help?
+TED: Uh... oh, thank you. It's nothing.
+STELLA: You don't have to thank me, I'm a nurse. This is my father, Dr. Barrington.
+TED: Not Dr. Barrington, the world renowned agronomist?
+STELLA: Yes. He's dying <u>a-n-d</u> wants to be buried on Mercury.
+TED: I'm familiar with your work, Doctor. You'll have to excuse me, I have to go.
+STELLA: You don't have to excuse yourself. I'm a nurse. I understand.
+SIMON: Meet me onboard, sweetheart. I have to pick up a few things at the drugstore.
+ELAINE: Don't be too long.

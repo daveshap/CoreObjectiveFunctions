@@ -1,0 +1,1 @@
+Is there a way to always keep num pad on? I never ever turn num pad off, it's always an annoyance to turn it on once the system starts, or when I turn it off by accident.Is there a setting to keep it on always and ignore num lock presses?I am using Ubuntu 16.04

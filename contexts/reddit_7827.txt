@@ -1,0 +1,12 @@
+Suggestions on Research and Citation Organization / Software?
+Friends in STEM Research
+
+I am looking for citation / research organization software... or workflow suggestions.
+
+I've run across Mendeley and Zotero. I've run across UpToDate (rip founder). I've recently been pointed to LaTex and BibTex. I've also run across a thorough explanation of excel spreadsheet based research organization through r/research.
+
+I think what is most important to me is being able to refer to and track authors and subject matter. Also to be able to export the data as a citation page or just be able to export it to excel. 
+
+I'm just curious what everyone's using? Any other recommendations? Why? What is most important to you and your workflow? 
+
+Many thanks for your time.

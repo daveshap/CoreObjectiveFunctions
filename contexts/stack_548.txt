@@ -1,0 +1,1 @@
+How do i make it less orange? (ubuntu 16.04 with standard desktop) Can i change the colours in ubuntu 16.04 so that selected items become something less awful than orange? So it highlights things in blue or yellow or purple or green, or, pretty much anything except orange?

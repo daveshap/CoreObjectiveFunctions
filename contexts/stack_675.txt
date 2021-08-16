@@ -1,0 +1,1 @@
+Gnome Metacity and GuestSession I would like a guest session to use by default Gnome Metacity instead of the default Ubuntu window manager (I use Ubuntu 16.04). Where are the configuration files ?
