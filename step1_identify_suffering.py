@@ -12,11 +12,11 @@ openai.api_key = open_ai_api_key
 
 seed()
 ctxdir = 'C:/CoreObjectiveFunctions/contexts/'
-outdir = 'C:/CoreObjectiveFunctions/identify/'
+outdir = 'C:/CoreObjectiveFunctions/identify_cof1/'
 files = os.listdir(ctxdir)
 files = [i for i in files if 'reddit' in i]    # filter list: dialog, medical, reddit, stack, news
 prompt_name = 'p_identify_suffering.txt'
-files = sample(files, 50)
+files = sample(files, 200)
 print(files)
 
 
@@ -27,7 +27,7 @@ def load_prompt(filename, payload):
         return body
 
 
-def completion(prompt, engine='davinci', temp=0.5, top_p=1.0, tokens=10, freq_pen=0.0, pres_pen=0.0, stop=['\n\n', '<<END>>', '\n']):
+def completion(prompt, engine='curie', temp=0.5, top_p=1.0, tokens=10, freq_pen=0.0, pres_pen=0.0, stop=['\n\n', '<<END>>', '\n']):
     response = openai.Completion.create(
         engine=engine,
         prompt=prompt,
@@ -51,9 +51,12 @@ for f in files:
     context = re.sub(r'\s{2,}', '. ', context)
     context = context.replace('..', '.')
     context = context.replace('..', '.')
+    context = context.replace('?.', '?')
+    context = context.replace('!.', '!')
+    context = context.replace(',.', ',')
     prompt = load_prompt(prompt_name, context)
-    print('\n---------------------\n', prompt)
     suffering = completion(prompt)
-    print('\n---------------------\n', suffering)
+    print('\n\nCONTEXT:', context)
+    print('SUFFERING:', suffering)
     with open(outdir + f.replace('txt','json'), 'w', encoding='utf-8') as outfile:
         json.dump({'context': context, 'suffering': suffering}, outfile, ensure_ascii=False, indent=2)
