@@ -11,9 +11,9 @@ openai.api_key = open_ai_api_key
 
 seed()
 ctxdir = 'C:/CoreObjectiveFunctions/contexts/'
-outdir = 'C:/CoreObjectiveFunctions/questions/'
+outdir = 'C:/CoreObjectiveFunctions/cof1/'
 files = os.listdir(ctxdir)
-files = [i for i in files if 'reddit' in i]    # filter list: dialog, medical, reddit, stack, news
+files = [i for i in files if 'news' in i]    # filter list: dialog, medical, reddit, stack, news
 prompt_name = 'COF1_prompt_reddit.txt'
 files = sample(files, 5)
 print(files)
@@ -47,8 +47,10 @@ for f in files:
         with open(ctxdir + f, 'r', encoding='utf-8') as infile:
             context = infile.read()
         prompt = load_prompt(prompt_name, context)
-        print('\n---------------------\n', prompt)
+        print('\n---------------------\n', context)
         cof = completion(prompt)
+        if not cof:
+            continue
         print('\n---------------------\n', cof)
         with open(outdir + f, 'w', encoding='utf-8') as outfile:
             outfile.write(cof)
