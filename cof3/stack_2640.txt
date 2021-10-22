@@ -1,0 +1,1 @@
+This question is about GIS, and is asking if QGIS can do a color transformation. This has to do with the fact that the RGB color space is limited to 256 colors, and cannot express all of the colors that humans can see. The HSI color space, however, can represent all colors that humans can see, although it is a bit more complicated to use.

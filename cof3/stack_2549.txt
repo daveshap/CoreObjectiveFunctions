@@ -1,0 +1,1 @@
+This person does not understand how to use geographic information. They are using the census tract level, but they do not understand how to use the county file to match up the tract level data.

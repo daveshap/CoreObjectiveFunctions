@@ -1,0 +1,1 @@
+Although this question is not about open source software, it is about using open source software in a way that increases prosperity. This person wants to be able to serve vector tiles from S3 for performance reasons. This would be a good use of open source software to increase prosperity.

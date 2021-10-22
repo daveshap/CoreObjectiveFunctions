@@ -1,0 +1,1 @@
+This person is suffering from a lack of knowledge about how to build a circuit to read a pressure sensor. They need to find a circuit to do this and use it as a guideline for building a circuit of their own.

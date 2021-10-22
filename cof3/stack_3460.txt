@@ -1,0 +1,1 @@
+This person does not understand how to protect their infrastructure from DDOS attacks. This is a good thing to learn, especially now that the number of DDOS attacks is increasing. Whether to allow large file sizes can be a complicated decision, and will need to be weighed against the potential downside.

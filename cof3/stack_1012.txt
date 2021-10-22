@@ -1,0 +1,1 @@
+This person wants to understand their history and recent files. They may not understand how to use the Ubuntu GUI search feature. They may also not know how to use terminal commands.

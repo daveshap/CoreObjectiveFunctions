@@ -1,0 +1,1 @@
+This person is suffering from a lack of access to a resource. They are also suffering from a lack of knowledge or know-how about how to access this resource. This person could benefit from a tutorial on how to add a view as a data source to a feature service.

@@ -1,0 +1,1 @@
+This person wants to understand how to improve the performance of their database. They also want to understand how to find queries that may cause problems. The person may not understand how to use DMVs to find queries, and may think that the server is slow because of the queries. It may be helpful for this person to learn how to use DMVs to understand the health of the database.

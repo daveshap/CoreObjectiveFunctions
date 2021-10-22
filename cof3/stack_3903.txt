@@ -1,0 +1,1 @@
+This person is interested in predictive modeling and has a specific problem they need help with. They would likely benefit from an explanation of the problem. They may need to look at the assumptions behind modeling and how to refine their model so that it works in this context.

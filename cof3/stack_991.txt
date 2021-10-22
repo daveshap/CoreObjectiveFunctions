@@ -1,0 +1,1 @@
+This person wants to understand how to make their Unix partition. But they are already running Linux, so they may not need to make a partition at all. This person is having trouble with permissions, which is a complicated topic. It might be helpful to read about how to use the chown command.

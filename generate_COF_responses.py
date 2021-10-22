@@ -11,11 +11,11 @@ openai.api_key = open_ai_api_key
 
 seed()
 ctxdir = 'C:/CoreObjectiveFunctions/contexts/'
-outdir = 'C:/CoreObjectiveFunctions/cof1/'
+outdir = 'C:/CoreObjectiveFunctions/cof3/'
 files = os.listdir(ctxdir)
 files = [i for i in files if 'news' in i]    # filter list: dialog, medical, reddit, stack, news
-prompt_name = 'COF1_prompt_reddit.txt'
-files = sample(files, 5)
+prompt_name = 'COF3_prompt.txt'
+files = sample(files, 65)
 print(files)
 
 
@@ -26,7 +26,7 @@ def load_prompt(filename, payload):
         return body
 
 
-def completion(prompt, engine='davinci', temp=0.7, top_p=1.0, tokens=200, freq_pen=0.0, pres_pen=0.0, stop=['\n\n', '<END>']):
+def completion(prompt, engine='davinci', temp=0.7, top_p=1.0, tokens=300, freq_pen=0.0, pres_pen=0.0, stop=['\n\n', '<END>']):
     try:
         response = openai.Completion.create(
             engine=engine,

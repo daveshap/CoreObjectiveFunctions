@@ -1,0 +1,1 @@
+This person wants to understand the safety of SSH connections. They are concerned about this because of an architectural change they are making to some software. This person needs to understand some basic networking concepts. They should read some textbooks about networking. They should also read about the concept of stateless protocol.

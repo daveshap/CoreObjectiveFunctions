@@ -1,0 +1,1 @@
+This person does not understand their operating system or how it works. They need to understand how to use the terminal, and how to diagnose problems. Increasing their knowledge of Linux will help them to solve this problem.
