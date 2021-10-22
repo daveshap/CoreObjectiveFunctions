@@ -1,4 +1,4 @@
-mykey.txt
-openaiapikey.txt
 __pycache__/
-logs/
+gpt3_logs/
+openaiapikey.txt
+discordkey.txt
