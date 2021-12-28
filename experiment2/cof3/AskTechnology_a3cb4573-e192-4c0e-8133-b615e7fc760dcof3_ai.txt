@@ -1,0 +1,15 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Importing Text Conversations from Mobile to Computer?
+Hello all, 
+
+I work in the legal field and we constantly have clients sending us screenshots of text message conversations. These are sent as dozens of individual files out of order. We've had some clients use Google Drive to import/share screenshots, which is not terrible, but with screenshots we don't have the date/time associated with the messages, which makes them much less useful for legal purposes. 
+
+I am looking for a program -- preferably one compatible with iOS, Windows, and Android devices. Ideally, the clients could download the program on their computer, connect their mobile device, and then import their SMS/iMessage conversations into a user-friendly format. Someone has suggested iMazing in the past, but I've found it to not be so user-friendly. And hopefully, the program catalogs/tags the date/time of the conversations.
+
+Does anyone have any suggestions to help me with this issue? Thank you in advance. I'll try to repay the help over in r/legaladvice one day 😅
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Create a program that can easily and seamlessly import text message conversations from mobile devices to a computer.
+-The program should be user-friendly and catalog the date and time of the conversations.
+-The program could be available for iOS, Android, and Windows devices.

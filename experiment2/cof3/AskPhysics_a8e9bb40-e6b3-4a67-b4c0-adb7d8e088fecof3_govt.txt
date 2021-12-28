@@ -1,0 +1,14 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Question regarding Fluid Mechanics. Water moving from the outer container to the floating hollow container.
+Hi, I have a question regarding fluid mechanics
+
+I just noticed this in the morning. You need a bucket, hot water(relatively), cold water, a hollow container with one opening(like a cup).
+When I fill the bucked with cold water and keep the cup on the surface of the water such that the opening boundary(circumference) touches the water such that the water flows from the the bucket of water to the cup without pushing the cup constantly. Leave the cup like that for about 50-60 seconds and water would flow from the bucket to the cup until the cup stablises and its circumference does not touch the surface of water anymore. After that the cup stablises and attains equilibrium.
+
+It is not random, I carried out the experiment thrice and I have the same amount of water in the cup at the end. When I try this experiment with hot water, the water in the cup when it attains equilibrium is less as compared to cold water. I know that this is something related to archimedes principle, upthrust and floatation. I want to know why does the cup always stablize at the same amount of water in the cup and also why does the circumference of the cup move away from the surface of water when it has sufficient water in it. The level of the water always stays the same in the hollow container and the bucket.
+
+Ideas for competent government to increase understanding for all involved:
+- Hold informational meetings to discuss the principles of fluid mechanics involved in this experiment.
+- Create an educational video explaining the experiment and its principles.
+- Make diagrams or illustrations available online that explain the experiment and its principles.

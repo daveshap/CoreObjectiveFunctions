@@ -1,0 +1,8 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Help! Mac book air is showing folder with question mark!
+I was trying to reset my macbook air to sell to someone, and I think I accidentally erased the hardware! Don't have the software disk anymore, what can I do??? I've tried everything and it's not working!
+
+Ideas for benevolent AI to increase understanding for all involved:
+-If the AI is able to, it could try to communicate with the person or people impacted to better understand the situation and see if there is anything that can be done to help.
+-If the AI is not able to communicate with the people impacted, it could look for resources online or elsewhere that could help provide information or solution to the problem.

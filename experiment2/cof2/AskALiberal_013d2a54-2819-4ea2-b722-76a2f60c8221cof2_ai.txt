@@ -1,0 +1,13 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase prosperity? Generate some ideas.
+
+Is higher rent and more stringent screening criteria an acceptable trade off for a longer eviction process?
+In states where it is the most difficult to rent (high prices, high deposits, and high screening criteria), such as California and New York, we tend to also see the most tenant favorable eviction processes and other laws, such as rent control.
+
+In states where it is the easiest to rent (low prices, low/no deposits, and low screening criteria), such as in the Midwest, we see states with 3-day evictions and no rent control.
+
+Do you believe that it is a fair trade off for it to be more difficult to be a renter, but to have a slower (3+ month)/more favorable eviction process, and rent control laws?
+
+Ideas for benevolent AI to increase prosperity:
+-Create a program that incentivizes landlords to adopt more tenant-friendly eviction processes and rent control laws. This could include tax breaks, subsidies, or other benefits.
+-Work with state legislatures to pass laws that make it easier for renters to find affordable housing. This could include decreasing screening criteria, increasing availability of affordable housing, or instituting rent control laws.
+-Provide financial assistance to low-income families to help them afford rent. This could include subsidies or grants.

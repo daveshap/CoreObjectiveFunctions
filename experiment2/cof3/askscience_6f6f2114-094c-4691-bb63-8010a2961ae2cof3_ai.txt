@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Are there documented COVID-19 cases linked to surface-to-patient transmission?
+Either way, why do many places seem to emphasize surface sanitization and hand washing as opposed to ventilation?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Generate a detailed report on the incidence of COVID-19 cases linked to surface-to-patient transmission and why it is a concern.
+-Create an infographic on the benefits of hand washing and ventilation in preventing the spread of COVID-19.
+-Publish a blog post or video on the topic to help educate people on the risks of COVID-19 and how to best protect themselves.

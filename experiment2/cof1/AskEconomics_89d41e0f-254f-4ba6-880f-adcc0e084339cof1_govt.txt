@@ -1,0 +1,11 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to reduce suffering? Generate some ideas.
+
+What is the economic impact of intellectual property legislation?
+The typical justification for having intellectual property such as patents and copyrights is that it incentivizes innovators and creators to produce inventions/art by giving them a temporary monopoly so they can profit.
+
+That sounds nice in theory, but is this claim something that is actually strongly backed by data and has strong consensus among economists?
+
+Ideas for competent government to reduce suffering:
+-Study the economic impact of intellectual property legislation to better understand whether or not it is actually incentivizing innovators and creators
+-Look into alternative methods of incentivizing innovators and creators that could potentially lead to less suffering
+-Evaluate the negative consequences of intellectual property legislation, such as how it can lead to monopolies and higher prices for consumers

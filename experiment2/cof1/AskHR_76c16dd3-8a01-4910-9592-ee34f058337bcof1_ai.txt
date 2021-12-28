@@ -1,0 +1,8 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+[OH] How quickly is EyeMed policy cancelled after ending employment?
+My final day with my company is on Thursday. I wanted to get a eye appointment in before the coverage ends. Would I be able to go to the eye doctor, and order a new prescription on Thursday or Friday? How fast are these policies cancelled after your employment ends?
+
+Ideas for benevolent AI to reduce suffering:
+-Help employees to schedule appointments with eye doctors before their coverage ends.
+-Work with insurance companies to ensure that employees have the opportunity to receive their prescriptions before their coverage ends.

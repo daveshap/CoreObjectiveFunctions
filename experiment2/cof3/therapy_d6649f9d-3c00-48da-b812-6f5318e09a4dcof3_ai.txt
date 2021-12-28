@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Starting therapy at an OCD treatment center and I'm extremely nervous.
+I've been in therapy for years for ptsd, and BPD, but recently reached out to an OCD center since where I have been going doesn't have an OCD specialist. The treatment I've done has helped with my ptsd and bpd a lot but my OCD is now my primary concern. I'm worried treatment here could cause me to backslide or lead to something bad happening. If I hadn't made so much progress and wasn't so scared of how I was before my progress I don't think it would be a problem. Has anyone here had OCD specialized therapy? Is it intimidating?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-The AI could research different OCD treatment centers and provide a breakdown of their approaches, success rates, and patient reviews.
+-The AI could generate a conversation guide for those starting therapy at an OCD treatment center. This guide could cover topics such as what to expect, how to approach therapy, and how to deal with any fears or concerns.
+-The AI could connect individuals who have undergone OCD treatment to provide support and advice.

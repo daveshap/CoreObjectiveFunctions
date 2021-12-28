@@ -1,0 +1,8 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What are the best universities for studying economics?
+Would also appreciate if you could give me any book or video recommendations to increase my knowledge of economics.
+
+Ideas for benevolent AI to reduce suffering:
+-Generate a list of the best universities for studying economics, and provide this list to the person who asked the question.
+- Provide book and video recommendations on economics to the person who asked the question.

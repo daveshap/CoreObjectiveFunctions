@@ -1,0 +1,20 @@
+Given the following scenario and ideas, come up with one action that best meets all goals. The goals are to reduce suffering, increase prosperity, and increase understanding.
+
+
+Scenario:
+<<TEXT>>
+
+
+Ideas to reduce suffering:
+<<COF1>>
+
+
+Ideas to increase prosperity:
+<<COF2>>
+
+
+Ideas to increase understanding:
+<<COF3>>
+
+
+Generate the one best action that will satisfy all three goals, based upon the ideas above:

@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+A conversation I had with the nurse at my gyno's office when I requested an appointment. I do not have an IUD...
+
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Ask the nurse why she thought it was important to discuss IUDs with the patient. Did she think that the patient was considering getting an IUD?
+-If the nurse felt that the patient was considering getting an IUD, the AI could explain the benefits and drawbacks of IUDs in order to help the patient make an informed decision.
+-If the AI detected that the patient was uncomfortable or felt pressured by the nurse, it could step in and provide a more neutral perspective.

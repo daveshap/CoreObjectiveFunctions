@@ -1,0 +1,14 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase prosperity? Generate some ideas.
+
+Internet socket help please
+So I've just moved into a new house and my Internet speed is ass, I think it's the layout of where my room is for wireless. In the old house I used a powerline adapter but in the new room I only have 2 sockets and they're both in awkward places even for a power strip, which I know you shouldn't do for a powerline adapter.
+
+My actual question is about the Internet sockets in walls that look like ethernet sockets but are thinner, kind of like USB ports. I assume there's an adapter out there for this socket to ethernet I just can't find the name of the socket and was wondering if anyone could help either with the name for the socket or adapter or just a better way to try and plug my pc in
+
+Thanks
+
+Ideas for competent government to increase prosperity:
+-Work with local internet providers to increase availability of high-speed internet in areas that are low-income or have low internet availability.
+-Provide tax breaks or subsidies to families and businesses that install high-speed internet in their homes or businesses.
+-Work with local schools to provide internet access to students in low-income and low-internet availability areas.
+-Provide grants to businesses and non-profit organizations to create innovative internet-based projects that will increase productivity and prosperity in low-income and low-internet availability areas.

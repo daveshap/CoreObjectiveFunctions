@@ -1,0 +1,6 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase prosperity? Generate some ideas.
+
+<<TEXT>>
+
+Ideas for benevolent AI to increase prosperity:
+-

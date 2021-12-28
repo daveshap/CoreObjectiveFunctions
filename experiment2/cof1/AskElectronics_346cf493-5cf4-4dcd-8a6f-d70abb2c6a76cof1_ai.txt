@@ -1,0 +1,10 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+Please help me identify a uknown IGBT Gate driver Hybrid IC that has no marking or refrence what so ever, SIL package 14 pin , Driving a INFINEON FZ1000R33KE3
+This board is responsible for driving 2 High Power IGBT Transistors used inside a EMU train as part of the Auxiliary power system and more specificly in the Inverter unit , this board is getting damged so often. all parts are working well unless the Hybrid IC that we have no clue where to find
+
+Ideas for benevolent AI to reduce suffering:
+-Use resources to create a database of all known IGBT Gate driver Hybrid ICs.-Use resources to create a database of all known SIL package 14 pin IGBT Gate driver Hybrid ICs. 
+-Use resources to create a database of all known EMU train auxiliary power system Inverter units. 
+-Use resources to create a database of all known damaged IGBT Gate driver Hybrid ICs. 
+-Use resources to create a database of all known INFINEON FZ1000R33KE3 Hybrid ICs.

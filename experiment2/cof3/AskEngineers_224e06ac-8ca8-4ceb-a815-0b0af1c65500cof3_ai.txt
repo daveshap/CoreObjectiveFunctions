@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Who was the best engineer you ever worked with, and why?
+
+
+Ideas for benevolent AI to increase understanding for all involved:
+- Ask the engineer for their advice on a difficult engineering problem
+- Interview the engineer and write a case study about their work
+- Share the story of the engineer's work with others to inspire them

@@ -1,0 +1,9 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to reduce suffering? Generate some ideas.
+
+Please help me identify a uknown IGBT Gate driver Hybrid IC that has no marking or refrence what so ever, SIL package 14 pin , Driving a INFINEON FZ1000R33KE3
+This board is responsible for driving 2 High Power IGBT Transistors used inside a EMU train as part of the Auxiliary power system and more specificly in the Inverter unit , this board is getting damged so often. all parts are working well unless the Hybrid IC that we have no clue where to find
+
+Ideas for benevolent dictator to reduce suffering:
+-The dictator could create a fund to help find a replacement part for the board, specifically the IGBT Gate driver Hybrid IC.
+-The dictator could reach out to companies that may produce a similar part and ask for a donation or a discounted price.
+-The dictator could create a contest to see who can come up with a replacement part for the IGBT Gate driver Hybrid IC.

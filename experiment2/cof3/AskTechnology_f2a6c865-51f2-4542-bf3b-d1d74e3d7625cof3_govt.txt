@@ -1,0 +1,9 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Help! Mac book air is showing folder with question mark!
+I was trying to reset my macbook air to sell to someone, and I think I accidentally erased the hardware! Don't have the software disk anymore, what can I do??? I've tried everything and it's not working!
+
+Ideas for competent government to increase understanding for all involved:
+- Contact Apple support hotline and inquire about possible solutions. 
+- Create a tutorial video on how to reset a Macbook air to factory settings, specifically for people who have never done it before. 
+- Make a blog post or article with common solutions to this issue, for people who are struggling to find a fix online.

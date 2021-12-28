@@ -1,0 +1,10 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Basic cosmology questions weekly thread
+Ask your cosmology related questions in this thread.
+
+Please read the sidebar and remember to follow [reddiquette](https://www.reddithelp.com/hc/en-us/articles/205926439).
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Create a weekly thread where people can ask cosmology-related questions and provide answers based on information from reputable sources.
+-Use machine learning/artificial intelligence to analyze public data (e.g. social media, online news) to identify trending cosmology topics and provide summaries/insights to help people understand these topics.

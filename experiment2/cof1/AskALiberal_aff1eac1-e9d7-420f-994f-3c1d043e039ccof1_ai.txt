@@ -1,0 +1,18 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+How should the remaining global emissions budget be allocated between nations?
+This sounds like it should be a really technocratic question and thus not suited for a forum like this but it's really a question of justice and ethics, and thus suited for basically anywhere.
+
+The IPCC gives us about 460Gigatons of CO2 left that we can afford to emit for a 50% chance at holding warming under 1.5C. The actual budget is going to vary based on choice of temperature targets and desired chances of hitting that target (for example if you want a 66% chance of 1.5C the budget drops to 360GT). If you were a global central planner, how would you allocate this budget? 
+
+You could do it based on population, in which case the US would have a budget of 19GT, the PRC would have a budget of 80.5GT, and Brazil would have 12.2GT.
+
+You could do it based on current GDP, in which case the US would have a budget of 110GT, the PRC would have 69GT (nice), and Brazil would have 11.6GT
+
+These are just a couple of options to get discussion going, but because the budget is a set number, assigning additional emissions capacity to one country necessarily denies that emissions capacity to any other country.
+
+Ideas for benevolent AI to reduce suffering:
+- Use emissions budget to incentivize emissions reductions in countries with largest carbon footprints
+- Allocate emissions budget based on population size or emissions per capita
+- Use emissions budget to incentivize renewable energy development and adoption
+- Use emissions budget to finance mitigation and adaption projects in developing countries

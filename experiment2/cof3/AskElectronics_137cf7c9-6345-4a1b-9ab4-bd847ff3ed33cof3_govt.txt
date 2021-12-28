@@ -1,0 +1,13 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Kester 50/245 vs 44
+I am looking to buy good quality solder wire, I am looking at [Kester 50/245](https://www.amazon.ca/gp/product/B00068IJOU/ref=ox_sc_saved_image_2?smid=A3DWYIK6Y9EEQB&amp;psc=1) and [Kester 4](https://www.amazon.ca/gp/product/B00068IJWC/ref=ox_sc_saved_image_3?smid=A2T6WH6GHC7Q1&amp;psc=1)4.
+
+First of all, Why does Kester 50/245 have two codes 245 and 50 ?
+
+Secondly, Which one should I go for ? is there a significant difference between the two ? Both of them do not require cleaning ? for game controller/console repair and DIY audio kits, which one should I go for ?
+
+Ideas for competent government to increase understanding for all involved:
+-Hold a public forum to discuss the benefits and drawbacks of each type of solder wire
+-Distribute pamphlets that provide an overview of solder wire types, as well as the pros and cons of each
+-Host a workshop that walks individuals through the differences between Kester 50/245 and Kester 4/44

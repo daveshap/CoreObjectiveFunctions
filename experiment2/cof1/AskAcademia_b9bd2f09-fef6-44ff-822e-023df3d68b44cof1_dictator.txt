@@ -1,0 +1,21 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to reduce suffering? Generate some ideas.
+
+Post-conference publication invitation -- how to handle it on CV?
+Hello,
+
+I presented at a conference two months ago. After the conference, I was invited to submit my full paper to include in an "edited book". I have submitted it, and it is awaiting some approval process that I assume is essentially a peer review.
+
+This work is currently listed on my CV as a conference presentation, but the fact that since then a full paper has been written and submitted seems to merit moving it from the presentations section of my CV to the publications section.
+
+My questions:
+
+1. Should I move it to the publications section?
+2. How should I characterize it? ("Under review"?)
+3. Should I wait until it's accepted to list the name of the publication outlet?
+
+Field is psychology.
+
+Ideas for benevolent dictator to reduce suffering:
+-Require that all conference presentations be published in full within a year of the conference
+-All conference presentations must undergo a peer review process before being published
+-Require that all conference presenters be listed as co-authors on any papers published as a result of the presentation

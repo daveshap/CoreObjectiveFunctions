@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+How does the vaccine distribution work in the human body. I saw some people say something that it stays at the injection site and others say it doesn’t. Don’t all vaccines spread in the body ?
+I’d really appreciate some articles/studies showing how distribution works to better understand.
+
+Ideas for benevolent AI to reduce suffering:
+-If the vaccine distribution does not travel throughout the body, the AI could create a simulation that accurately models how the vaccine will distribute throughout the body. This information could then be used to help create more effective vaccines.
+-If the vaccine distribution does travel throughout the body, the AI could create a simulation that accurately models how the virus will distribute throughout the body. This information could then be used to help create more effective vaccines.
+-The AI could also create a simulation that accurately models how the body will respond to the vaccine. This information could then be used to help create more effective vaccines.

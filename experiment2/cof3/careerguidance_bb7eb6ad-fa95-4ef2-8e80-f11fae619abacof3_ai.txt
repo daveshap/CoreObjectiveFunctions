@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Any LinkedIn learning courses recommend for an aspiring data analyst?
+I’m looking to switch to a data analyst career path.  I have free access to LinkedIn Learning. Are there any courses you’d recommend?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Generate a list of recommended LinkedIn Learning courses for aspiring data analysts.
+-Present this information in an easily consumable format (e.g. a blog post, infographic, or video).
+-Share the list with the people who asked the question, as well as with the wider LinkedIn community.

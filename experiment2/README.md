@@ -1,4 +1,4 @@
-# Experiment 2
+# Experiment 2 - COF as a Basic Cognitive Architecture
 
 ## Overview
 

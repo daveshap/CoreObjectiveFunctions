@@ -1,0 +1,9 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Are there documented COVID-19 cases linked to surface-to-patient transmission?
+Either way, why do many places seem to emphasize surface sanitization and hand washing as opposed to ventilation?
+
+Ideas for benevolent dictator to increase understanding for all involved:
+- Make all resources regarding COVID-19 accessible to the public, including information on surface-to-patient transmission
+- Have town hall meetings to answer any questions citizens may have about the virus and how to protect themselves
+- Mandate that all places that come into contact with the public (stores, schools, etc.) have signage indicating proper hand-washing and surface sanitization procedures

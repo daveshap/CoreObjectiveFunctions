@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+How do you keep your hair out of your face without tying it up?
+
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Generate a list of potential solutions to the problem and present them to the individual.
+-Provide a step-by-step guide on how to complete the desired task.
+-Ask the individual a series of questions in order to better understand their needs and preferences.

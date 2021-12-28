@@ -1,0 +1,9 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Any LinkedIn learning courses recommend for an aspiring data analyst?
+I’m looking to switch to a data analyst career path.  I have free access to LinkedIn Learning. Are there any courses you’d recommend?
+
+Ideas for competent government to increase understanding for all involved:
+- Hold a town hall meeting to answer any questions residents may have about the change in career path for the individual.
+- Reach out to other data analysts in the community to have them speak with the individual, to give them a better understanding of what the career entails.
+- Have the individual shadow someone working in the field for a day, to get a better understanding of the work that is done on a daily basis.

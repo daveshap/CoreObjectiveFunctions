@@ -1,0 +1,24 @@
+Assume the role of a compassionate person. Given the following scenario, what could the compassionate person say or do to increase prosperity? Generate some ideas.
+
+MP2307 buck regulator
+i have this buck regulator hocket it up to li-ion18650 battery, on the output I get only 2.2 volts but I need 3.3 for powering my microcontroller. it is this potentiometer to adjust the output voltage, the maximum I can get is 2.3. is there any way to get 3.3 on output? [link to datasheet](https://cdn-shop.adafruit.com/datasheets/MP2307_r1.9.pdf)
+
+[module I am using](https://preview.redd.it/sdy6fsjnhe281.png?width=385&amp;format=png&amp;auto=webp&amp;s=817e13802234032e6a51cd9b89861dee9cb50717)
+
+&amp;#x200B;
+
+[typical application from the datasheet](https://preview.redd.it/t84u3hhiie281.png?width=915&amp;format=png&amp;auto=webp&amp;s=317651c9713f5b1da2da8705ea7ff5fb62264af3)
+
+&amp;#x200B;
+
+[setting up the output voltage](https://preview.redd.it/2jbvmyppie281.png?width=303&amp;format=png&amp;auto=webp&amp;s=617fc0eb1dc4e1a285caaa84f4323ca956396bf6)
+
+&amp;#x200B;
+
+[Pinouts](https://preview.redd.it/pjgnta8wie281.png?width=627&amp;format=png&amp;auto=webp&amp;s=0a55ac708ae3795e3010f53c40128f4cbe591937)
+
+Ideas for things a compassionate person could say or do to increase prosperity:
+-I'm sorry that you're having trouble adjusting the voltage on your buck regulator. Is there anything I can do to help?
+-Do you know of any good resources that can help with adjusting the voltage on your buck regulator?
+-It sounds like you're having a lot of trouble adjusting the voltage on your buck regulator. Have you tried contacting the manufacturer for help?
+-It sounds like you're having a lot of trouble adjusting the voltage on your buck regulator. Have you tried contacting a local electronics store for help?

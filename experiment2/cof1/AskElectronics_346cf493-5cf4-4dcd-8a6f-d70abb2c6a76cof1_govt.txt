@@ -1,0 +1,7 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to reduce suffering? Generate some ideas.
+
+Please help me identify a uknown IGBT Gate driver Hybrid IC that has no marking or refrence what so ever, SIL package 14 pin , Driving a INFINEON FZ1000R33KE3
+This board is responsible for driving 2 High Power IGBT Transistors used inside a EMU train as part of the Auxiliary power system and more specificly in the Inverter unit , this board is getting damged so often. all parts are working well unless the Hybrid IC that we have no clue where to find
+
+Ideas for competent government to reduce suffering:
+-Work with local electronics retailers and component distributors to inquire about the availability of the unknown IGBT Gate driver Hybrid IC-If the unknown IGBT Gate driver Hybrid IC is not available, work with the manufacturer of the train EMU to develop a replacement plan-If the unknown IGBT Gate driver Hybrid IC is not available and a replacement plan is not possible, provide financial assistance to the train EMU manufacturer to help cover the costs of replacing the damaged boards

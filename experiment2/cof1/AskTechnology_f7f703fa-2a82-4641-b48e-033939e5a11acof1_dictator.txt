@@ -1,0 +1,24 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to reduce suffering? Generate some ideas.
+
+Computer advice please:(
+I feel like my actual portable computer is getting slower and slower and i am thinking about an update but i am hesitating between a few options. I am a student in data science (i will work soon, a lot a teleworking i think due to covid). I am interested in art and would like something to draw. I am interesting in purchasing a few devices : an ipad (in order to draw, edit videos and photos, easy transportation...), a computer with tower (would allow me to compute big programs and play video games at home), a new portable computer. 
+
+I thought about different associations but i cannot choose. 
+
+\- Ipad and tower computer (+ : i have something to carry around something powerful / - maybe not the best if i have to work from somewhere else but i don't know if it's common in data science)
+
+\- just a new portable computer (might not be powerful enough)
+
+\- the tree options (is it really necessary to have the three as they are kind of variants of the same thing?)
+
+&amp;#x200B;
+
+I also thought about getting a cheaper tablet but I feel like the ipad has really intuitive softwares especially in arts and note taking (for example procreate). 
+
+You may feel that i am a very indecisive person haha but any help would be appreciated, and don't hesitate if you have experience either in data science or with those devices!
+
+Ideas for benevolent dictator to reduce suffering:
+-If the student is indecisive, the dictator could make a decision for them or provide a recommendation.
+-If the student is interested in art, the dictator could recommend purchasing an iPad for its drawing capabilities.
+-If the student is interested in data science, the dictator could recommend purchasing a computer with a tower to increase its computing power.
+-If the student is interested in video games, the dictator could recommend purchasing a computer with a tower to allow for a better gaming experience.

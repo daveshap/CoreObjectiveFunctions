@@ -1,0 +1,10 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Any LinkedIn learning courses recommend for an aspiring data analyst?
+I’m looking to switch to a data analyst career path.  I have free access to LinkedIn Learning. Are there any courses you’d recommend?
+
+Ideas for benevolent dictator to increase understanding for all involved:
+-Generate a list of recommended LinkedIn Learning courses for an aspiring data analyst.
+-Make a tutorial on how to use LinkedIn Learning.
+-Make a blog post or article with a list of recommended courses for an aspiring data analyst.
+-Share links to relevant articles, blog posts, or other resources that could help the person trying to switch to a data analyst career path.

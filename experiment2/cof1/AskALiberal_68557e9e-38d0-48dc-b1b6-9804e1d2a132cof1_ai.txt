@@ -1,0 +1,11 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What do you think about Medicare Advantage plans?
+Lately I've been bombarded by commercials for advantage plans so I looked into it. I guess the idea is the federal governments gives a private company the money to provide health insurance to a Medicare beneficiary. From there the private company gives beneficiaries all sorts of additional benefits that original Medicare doesn't give: dental, hearing, vision, prescriptions, etc.
+
+What is your opinion on the medicare advantage program?
+
+Ideas for benevolent AI to reduce suffering:
+- Inform Medicare beneficiaries about the Medicare Advantage program and the additional benefits it provides.
+- Compare the costs of the Medicare Advantage program and original Medicare, and inform beneficiaries which plan is more cost-effective.
+- Assist Medicare beneficiaries in enrolling in the Medicare Advantage program.

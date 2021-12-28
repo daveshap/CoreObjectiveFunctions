@@ -1,0 +1,11 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase prosperity? Generate some ideas.
+
+[Mathematics] Is Randomness applicable to Ordinal Numbers?
+I was wondering, since Ordinal Numbers are numbers in a specific position And/or order within a set of other numbers such as (*first:2, second:4, third:1, fourth:5, fifth:1*). I was wondering, does *randomness*and/or a random pattern have any relationship to the positioning and ordering of numbers in this way?
+
+and here is randomness [https://en.wikipedia.org/wiki/Randomness#In\_mathematics](https://en.wikipedia.org/wiki/Randomness#In_mathematics)
+
+Ideas for benevolent AI to increase prosperity:
+-Create a mathematical model to explore the relationship between randomness and ordinal numbers
+-Use the findings from the model to create strategies to increase prosperity
+-Publish the findings to help other researchers in the field

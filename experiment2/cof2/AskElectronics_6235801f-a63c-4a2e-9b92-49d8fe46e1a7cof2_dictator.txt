@@ -1,0 +1,41 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase prosperity? Generate some ideas.
+
+ATMEGA PCB will upload but won't execute?
+Hey guys, I'm trying to make a custom PCB using the ATMEGA328PU. I've able to successfully burn bootloader and upload sketches according to the Arduino IDE (all signs look good including flashing lights on my FTDI serial adapter). Only problem is I can't actually run any code I try to upload. I'm working on running even the simplest LED code but to no avail.
+
+All I want to do is at minimum get LED1 to flash or turn on before I start working on any other components within the PCB.
+
+Is my schematic wrong? Wiring diagram? Code?
+
+https://preview.redd.it/bar55vbohr281.png?width=1159&amp;format=png&amp;auto=webp&amp;s=2969469c1078b1885fade8a86f91da1743c7ac39
+
+https://preview.redd.it/9q81b5pohr281.png?width=617&amp;format=png&amp;auto=webp&amp;s=aa81583d7dab7f77410a9700143188ae74e2a9ba
+
+/\*
+
+Blinks LED using ATMEGA328PU
+
+\*/
+
+const byte LED = 4;
+
+void setup() {
+
+pinMode(LED, OUTPUT);
+
+}
+
+void loop() {
+
+digitalWrite(LED, HIGH);
+
+delay(1000);
+
+}
+
+Ideas for benevolent dictator to increase prosperity:
+-Improve education system, making it more affordable and accessible
+-Encourage entrepreneurship by creating an environment that is conducive to starting and running a business
+-Boost the economy by creating incentives for businesses to invest in new products and services
+-Provide tax breaks and subsidies for businesses that create jobs
+-Reduce regulation and bureaucracy that stifles innovation and growth

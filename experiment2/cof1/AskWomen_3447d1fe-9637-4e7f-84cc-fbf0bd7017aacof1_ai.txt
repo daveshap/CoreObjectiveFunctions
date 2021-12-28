@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What are signs that other women are interested in your friendship?
+
+
+Ideas for benevolent AI to reduce suffering:
+-If possible, create an algorithm that can detect when someone is feeling lonely or unsupported and then provide them with support or connect them with others who may be able to help.
+-Develop a chatbot that can be used to provide emotional support to people who are struggling.
+-Create a support group for people who are experiencing loneliness or social isolation.

@@ -1,0 +1,21 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Fellow men, how do you shop?
+Me: 
+
+Step 1: Decide what I want to buy.
+
+Step 2: Walk into the store. 
+
+Step 3: Eliminate everything I definitely won't be buying in 5 minutes. 
+
+Step 4: Eliminate everything I won't buy from whatever's left. 
+
+Step 5: At this point there isn't really anything left so I pick whatever I haven't crossed out. 
+
+Total time taken: 7 minutes. 9 if I'm particularly interested.
+
+Ideas for benevolent AI to increase understanding for all involved:
+- Offer store tours to help people shop more efficiently
+- Create simulations of different shopping scenarios to help people better understand what to consider in their own shopping
+- Offer quiz-style challenges that help people learn how to better evaluate their own purchase decisions

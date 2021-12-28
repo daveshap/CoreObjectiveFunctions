@@ -1,0 +1,10 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+What are some good software resources (i.e. apps) that would be useful going into a physics/maths degree?
+I'm not really talking about textbooks and stuff just other online tools that would be useful (such as latex I've heard). Also one more follow up question, will iPad pro be good to run this stuff?
+
+Ideas for benevolent dictator to increase understanding for all involved:
+-Produce a list of recommended software resources, including specific applications and websites, and make this information available to all who are interested.
+-Create a forum or online community where individuals can ask questions and share information about software resources that have been helpful to them.
+-Hold workshops or webinars that provide an overview of the various software resources available, how they can be used for studying physics and maths, and tips for getting the most out of them.
+-Make a video tutorial series that demonstrates how to use specific software applications and websites for studying physics and maths.

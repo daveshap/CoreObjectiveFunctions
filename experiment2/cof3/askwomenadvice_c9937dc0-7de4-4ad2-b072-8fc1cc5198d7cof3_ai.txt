@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+How do I go about asking a girl I like to a highschool dance?
+I really like this girl and I want to ask her to the next dance just I don't know how to do so. (M15)
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Use natural language processing to read and interpret the question, and then provide advice on how to ask the girl out.
+-Use data from previous school dances to recommend a strategy for asking the girl out.
+-Monitor social media and news outlets for stories about high school dances to provide tips on how to ask someone to a dance.

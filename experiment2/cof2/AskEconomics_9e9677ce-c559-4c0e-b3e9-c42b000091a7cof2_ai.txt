@@ -1,0 +1,21 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase prosperity? Generate some ideas.
+
+Is there a term for the cost of convenience while shopping?
+It's a bit of an odd question for a proper term so I'll present the story that led me to think about it.
+
+At one store, milk is $3, but the produce is bad so I will purchase none.
+
+At another store, milk is $4, but the produce is good so I will purchase produce there.
+
+Is there a term for my unwillingness to go to the cheaper milk store to save $1?
+
+Is there a term for the $1 difference in milk prices between the stores, assuming the other store knows I'm willing to pay this extra $1 to be able to purchase both milk and produce at one location?
+
+It feels too easy an broad to call it price discrimination because my shopping preference is between two products instead of one, and that cost increase is based on my preference for produce which varies from time to time. The stores are also right next to each other which means I can't really account for travel time as a big factor.
+
+Thanks!
+
+Ideas for benevolent AI to increase prosperity:
+-Offer incentives to shop at stores that have lower prices on items that people typically purchase regularly (e.g. milk, bread, eggs, etc.), e.g. lower prices on other items or coupons.
+-Provide price comparisons for items at different stores in the area.
+-Increase awareness of price differences between stores.

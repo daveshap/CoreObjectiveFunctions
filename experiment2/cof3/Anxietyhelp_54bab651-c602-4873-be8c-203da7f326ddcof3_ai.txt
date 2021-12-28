@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+How to Find a Therapist for Anxiety Disorders
+
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Generate a list of therapist profiles that specialize in anxiety disorders, ranked by distance from the user's location or alphabetically.
+-Include user ratings and reviews of therapists, as well as information on insurance accepted and appointment availability.
+-Offer a free consultation with a therapist of the user's choice.

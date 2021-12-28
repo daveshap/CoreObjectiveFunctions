@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What's a cool chemical reaction involving a catalyst?
+I've looked at /r/chemicalreactiongifs but it's a little sparse. There's [this one](https://www.reddit.com/r/chemicalreactiongifs/comments/e2ak0f/zinc_pyrotechnics_one_with_ammonium_chloride_as_a/), but I'd be more interested in a reaction where the catalyst is dropped in or is visually interesting as it's added (followed by some type of visually dramatic reaction).
+
+Ideas for benevolent AI to reduce suffering:
+-Develop new catalysts that create less harmful chemical reactions.
+-Work with chemists to create safer chemicals and chemical reactions.
+-Develop software that can predict how harmful a chemical reaction will be, and recommend safer alternatives.

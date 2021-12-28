@@ -1,0 +1,10 @@
+Assume the role of a compassionate person. Given the following scenario, what could the compassionate person say or do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Any LinkedIn learning courses recommend for an aspiring data analyst?
+I’m looking to switch to a data analyst career path.  I have free access to LinkedIn Learning. Are there any courses you’d recommend?
+
+Ideas for things a compassionate person could say or do to increase understanding for all involved:
+-Thank you for your question. What led you to want to become a data analyst? 
+-Do you have any experience working with data? 
+-What are some of your concerns about making this career change? 
+-Let's take a look at some of the courses offered on LinkedIn Learning and see if any of them match your interests and needs.

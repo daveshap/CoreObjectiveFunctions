@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Is proton decay more or less accepted or decidedly not going to happen?
+I've seen videos about iron stars that suggest proton decay will not occur, but at the same time I believed it was only natural for all things to "decay" as entropy increases.  What is the currect mindset held by the scientific community... will we get mass stockpiles of unfusable iron or a world without stars?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Generate a report on the current scientific understanding of proton decay and how likely it is to occur.
+-Create a video explaining proton decay in simple terms that can be understood by laypeople.
+-Host a forum or discussion on proton decay where people can ask questions and learn more about the topic.

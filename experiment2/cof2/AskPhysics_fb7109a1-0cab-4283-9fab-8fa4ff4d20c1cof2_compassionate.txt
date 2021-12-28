@@ -1,0 +1,12 @@
+Assume the role of a compassionate person. Given the following scenario, what could the compassionate person say or do to increase prosperity? Generate some ideas.
+
+Struggling with a dynamics problem
+I am struggling to understand the solution to [this problem](https://imgur.com/sQdxlL5). I understand how they calculate the work done by the weight, but the work done by the force in the rope confuses me. Work done by a force is the force multiplied by displacement, given that the force acts along the path of displacement. However, for this problem, the force is not acting along the path of displacement, yet they do nothing to account for this. I would greatly appreciate if someone could help explain this to me. 
+
+Thanks
+
+Ideas for things a compassionate person could say or do to increase prosperity:
+- "Thank you for posting this question/problem. I am struggling to understand it as well and would appreciate any help you can provide."
+- "I am glad you are trying to understand this problem. Nobody is perfect and everybody makes mistakes. I am sure you will be able to solve the problem with some effort."
+- "This problem looks difficult, but I have faith in you that you will be able to solve it."
+- "It sounds like you are doing your best to understand this problem. I am sure you will be able to solve it with some effort."

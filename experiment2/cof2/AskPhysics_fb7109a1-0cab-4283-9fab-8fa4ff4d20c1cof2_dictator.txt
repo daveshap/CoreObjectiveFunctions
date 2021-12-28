@@ -1,0 +1,11 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase prosperity? Generate some ideas.
+
+Struggling with a dynamics problem
+I am struggling to understand the solution to [this problem](https://imgur.com/sQdxlL5). I understand how they calculate the work done by the weight, but the work done by the force in the rope confuses me. Work done by a force is the force multiplied by displacement, given that the force acts along the path of displacement. However, for this problem, the force is not acting along the path of displacement, yet they do nothing to account for this. I would greatly appreciate if someone could help explain this to me. 
+
+Thanks
+
+Ideas for benevolent dictator to increase prosperity:
+-Provide educational resources on dynamics problems and how to solve them.
+-Provide a forum for people to ask dynamics problems and receive help.
+-Offer scholarships or grants to students who show exceptional promise in the field of dynamics.

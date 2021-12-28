@@ -1,0 +1,11 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What is the economic impact of intellectual property legislation?
+The typical justification for having intellectual property such as patents and copyrights is that it incentivizes innovators and creators to produce inventions/art by giving them a temporary monopoly so they can profit.
+
+That sounds nice in theory, but is this claim something that is actually strongly backed by data and has strong consensus among economists?
+
+Ideas for benevolent AI to reduce suffering:
+- Advocate for revisions to intellectual property legislation that would reduce the amount of suffering caused by it. For example, arguing for shorter patent terms or less restrictive copyright laws.
+- Collaborate with economists to study the impact of intellectual property legislation on innovation and creativity, with a view to identifying reforms that would reduce suffering.
+- Support initiatives to make patent and copyright law more accessible and understandable to the general public, with the goal of educate people about the effects of intellectual property on innovation and creativity.

@@ -1,0 +1,8 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+What wars or conflicts have been won or lost due to lack of morale?
+Has there ever really been a conflict where even though the group wanted to fight, none or too few of their soldiers actually wanted to? Even if they had all the weapons, all the high ground, nobody wanted to fight?
+
+Ideas for benevolent AI to reduce suffering:
+- Use persuasive techniques such as positive reinforcement and empathy to encourage morale and reduce the number of soldiers who do not want to fight.
+- Use technology to create simulated environments that convincingly portray the human side of war, in order to reduce the psychological disconnect between soldiers and the realities of war.

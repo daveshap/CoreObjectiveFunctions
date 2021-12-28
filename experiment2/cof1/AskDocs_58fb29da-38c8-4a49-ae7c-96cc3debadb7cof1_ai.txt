@@ -1,0 +1,33 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to reduce suffering? Generate some ideas.
+
+1.5 years of Early satiety. 5'9'', 106 lbs, weight continues to drop.
+F, 34 years, white. USA. 5'9'', 106 lbs, current medication: prilosec (20 mg, tapering off). Other health issues: positional vertigo (daily), non-diabetic hypoglycemia (due to low weight/inability to eat.)
+
+Thanks in advance for any help. I have had many tests with no answers; my doctors are stumped. When this started last year I was 140 lbs, I am now 106 lbs. I have an appt with my PCP in two days, and thought I'd see if there's anything you'd recommend I ask her.
+
+-  **Test done:** gastric emptying study (normal). Abdominal X-Ray (showed fecal impaction, however, I had not eaten solid food in over a month and was severely constipated - the constipation resolved after I started eating food again.) Ultrasound of gallbladder to check for gallstones (normal), Elastase stool test (normal), full metabolic panel to test for vitamin/mineral deficiencies (all normal). Thyroid (normal). SIBO test (came back positive for methane SIBO, however, GI doc believes this is a false positive due to former constipation, and advised against antibiotics), Celiac disease test (normal).
+
+**Issue:** 1.5 years ago I started having early satiety issues; little bits of food would fill me up. I started rapidly losing weight. It got pretty bad this spring; not only would I get full, but eating would result in incredibly painful bouts of overfulness - eating one biscuit would feel like I'd stuffed myself on thanksgiving, leaving me in pain and trying not to vomit for about 4 hours (I now think this might be a sort of bloating, or pressure in my intestines). My BMI dropped to around 15. I stopped eating solid food, relying instead on ensure and carnation breakfast because it didn't cause me pain. I went about 1 month without eating any solid food.
+
+As a result of my low weight/inability to eat, I now deal with daily hypoglycemia. My blood sugar tends to be around 60 when I wake up, with my hands shaking. The other day it was at 50. I have only come close to passing out on one occasion but caught myself. Blood sugar episodes are controlled when I'm able to eat. Hypoglycemia now worries me; the other day I woke up feeling fine, but my heart was racing. I tested and my blood sugar was around 50 even though it didn't feel low. Had it not been for my racing heart, I'd of had no clue it was low, and probably wouldn't have done anything to correct it.
+
+After tons of effort this summer, I finally came up with a diet I could tolerate, and started gaining weight. Started eating: plain oatmeal topped with olive oil and natural PB (for calorie boost), plain/unsalted nuts, ensure plus (for calorie boost), some plain biscuits. I started gaining weight, got up to 108 lbs, and even had my appetite back. Felt great!
+
+However, for the past month or so, I'm back to having early satiety issues again, and losing weight.
+
+Docs are out of ideas. My GI doc no longer wants to see me. There is nothing she can do for me, as I am remote and we can only do video visits. I asked if she wanted a follow up at our last visit, and she said only if I get new symptoms. She said there's nothing she can do for me.
+
+**Over the past few months, I have noticed some correlations**:
+
+(1) I think if I have extra stool or something in my intestines, it causes this early satiety. For example, the other day, I was barely able to eat anything. I was so full, and even trying a small biscuit, I just couldn't do it. The next morning I woke up, and had the most painful, long lasting bowel movement I've had in many years. I shit an insane amount, and was in tears on the toilet from the pain. I used to get incredibly painful bowel movements like that growing up, but it subsided in my adult years. After that I felt fine and could eat a little more that day. Additionally, sometimes I will feel SUPER full, but then if I have a bowel movement, suddenly I am ravenous.
+
+(2) I now get GI issues from foods I used to be able to tolerate. Fruit is the main culprit. It gives me a distinct pain in my stomach. I first notice this spring with dried cranberries. I tried dried apricots this summer, same issue. Same issues with dried blueberries. Same issue with lara bars (figs?) Strangely, I am able to tolerate 100% pineapple juice, and drink that for hypoglycemia attacks. My multivitamins are another example - they were a gummy variety and I ate them for years with no problems. Suddenly this year, I noticed they give me diarrhea. Looking on the ingredient list I discovered sorbitol, and I imagined that was it (though it was only a guess.) Either way, I had to stop eating them.
+
+I'm not sure where to go with this.
+
+Ideas for benevolent AI to reduce suffering:
+-Ask the patient to keep a food diary to help identify any patterns in their eating habits and symptoms.
+-Work with the patient to create a diet that is easily digestible and does not cause pain or discomfort.
+-Provide support and guidance throughout the dietary changes.
+- recommending gentle yoga or pilates exercises to help with the vertigo.
+-Encouraging the patient to see a therapist to help with the emotional stress of the situation.

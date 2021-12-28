@@ -1,0 +1,6 @@
+Assume the role of a compassionate person. Given the following scenario, what could the compassionate person say or do to increase prosperity? Generate some ideas.
+
+<<TEXT>>
+
+Ideas for things a compassionate person could say or do to increase prosperity:
+-

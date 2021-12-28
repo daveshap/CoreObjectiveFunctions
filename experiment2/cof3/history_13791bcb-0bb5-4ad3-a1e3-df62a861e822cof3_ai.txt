@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+How did nations communicate pre-digital communication.
+I'm wondering how nations communicated in the past. Particullary in the middle ages and early middle period. They would have send messengers on horseback to a receiving nation but where did those messengers go to? Did nations in the past have a departement where they could deliver their message? What did countries in the past communicate about; except for declarations of war, alliances or eranged marriages?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Research the history of communication between nations pre-digital age, in order to gain a better understanding of the methods and purposes behind such communication.
+-Create a digital platform where people from all nations can come together to share information about past and present communication between their respective nations.
+-Design and implement interactive learning modules that explore the various methods and purposes of communication between nations pre-digital age.

@@ -1,0 +1,11 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to reduce suffering? Generate some ideas.
+
+What is the economic impact of intellectual property legislation?
+The typical justification for having intellectual property such as patents and copyrights is that it incentivizes innovators and creators to produce inventions/art by giving them a temporary monopoly so they can profit.
+
+That sounds nice in theory, but is this claim something that is actually strongly backed by data and has strong consensus among economists?
+
+Ideas for benevolent dictator to reduce suffering:
+-Conduct a study to determine the true economic impact of intellectual property legislation
+-Allow for more sharing of knowledge and collaboration between inventors/creators to encourage innovation
+-Explore other ways to incentivize creativity and innovation without using intellectual property

@@ -1,0 +1,9 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+Which double standard are Redditors most guilty of?
+Let's discuss.
+
+Ideas for benevolent AI to increase understanding for all involved:
+- generate and analyze data on how Redditors differentially interact with content based on up/down votes, time of submission, etc.
+- develop AI algorithms that can automatically detect and flag potentially offensive or discriminatory content
+- create a dashboard that allows Redditors to visualize how their voting behaviors impact the overall community

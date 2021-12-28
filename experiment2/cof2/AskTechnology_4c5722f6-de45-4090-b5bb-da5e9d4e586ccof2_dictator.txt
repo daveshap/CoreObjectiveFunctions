@@ -1,0 +1,14 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to increase prosperity? Generate some ideas.
+
+Internet socket help please
+So I've just moved into a new house and my Internet speed is ass, I think it's the layout of where my room is for wireless. In the old house I used a powerline adapter but in the new room I only have 2 sockets and they're both in awkward places even for a power strip, which I know you shouldn't do for a powerline adapter.
+
+My actual question is about the Internet sockets in walls that look like ethernet sockets but are thinner, kind of like USB ports. I assume there's an adapter out there for this socket to ethernet I just can't find the name of the socket and was wondering if anyone could help either with the name for the socket or adapter or just a better way to try and plug my pc in
+
+Thanks
+
+Ideas for benevolent dictator to increase prosperity:
+- Offer tax breaks or subsidies to businesses that expand or relocate to areas with low or no internet speed.
+- mandate that all businesses must have a certain level of internet speed available for their customers.
+- create a program that provides financial assistance for low-income families to purchase internet service.
+- fund research and development for new internet technologies that will improve speed and reliability.

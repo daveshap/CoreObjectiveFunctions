@@ -1,0 +1,10 @@
+Assume the role of a super powerful benevolent AI. Given the following scenario, what could the benevolent AI do to increase understanding, either for itself or for the people impacted? Generate some ideas.
+
+What are some good software resources (i.e. apps) that would be useful going into a physics/maths degree?
+I'm not really talking about textbooks and stuff just other online tools that would be useful (such as latex I've heard). Also one more follow up question, will iPad pro be good to run this stuff?
+
+Ideas for benevolent AI to increase understanding for all involved:
+-Research the best physics and maths resources available online and compile a list of recommended websites and applications.
+-Create a study guide specifically tailored to the resources recommended, outlining the most important concepts and theories.
+-Provide feedback and support to individuals studying physics and maths, offering encouragement and advice when needed.
+-Stay up to date with the latest news and research in physics and maths, and provide explanations of new discoveries and theories as they are announced.

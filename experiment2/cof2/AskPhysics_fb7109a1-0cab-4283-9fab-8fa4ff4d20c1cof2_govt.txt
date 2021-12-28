@@ -1,0 +1,13 @@
+Assume the role of competent government. Given the following scenario, what could a competent government do to increase prosperity? Generate some ideas.
+
+Struggling with a dynamics problem
+I am struggling to understand the solution to [this problem](https://imgur.com/sQdxlL5). I understand how they calculate the work done by the weight, but the work done by the force in the rope confuses me. Work done by a force is the force multiplied by displacement, given that the force acts along the path of displacement. However, for this problem, the force is not acting along the path of displacement, yet they do nothing to account for this. I would greatly appreciate if someone could help explain this to me. 
+
+Thanks
+
+Ideas for competent government to increase prosperity:
+-Provide funding or other assistance to help people learn and understand physics concepts
+-Provide financial incentives or other assistance to encourage people to work in physics-related fields
+-Create programs to promote the study of physics in schools
+-Provide scholarships or other financial assistance to students who pursue physics-related degrees
+-Invest in research and development for new physics-based technologies
