@@ -1,0 +1,8 @@
+Breaking the Poisson ratio on my printer
+I'm printing a pretty incompressible clay slurry with a 50mm diameter nozzle. It's being calibrated to be squashed by the printer into a layer 25mm deep, 60mm wide line.
+
+I did my first batch of calcs considering a cylinder 50mm diameter, 36 high being squashed to a 60mm wide disc, 25 high (no net volume change).
+
+This is giving me a Poisson ratio of 0.65 when it should really really be just under 0.5 (for an incompressible squidgy paste). 
+
+What the hell am I missing? Is it flat out impossible to spread the paste wider than 57.535mm? Or does Poisson's ratio break down for slurries?

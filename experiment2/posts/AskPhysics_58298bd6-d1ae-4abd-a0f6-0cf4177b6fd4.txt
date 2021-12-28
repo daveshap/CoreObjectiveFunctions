@@ -1,0 +1,4 @@
+Elasticity and Acceleration
+If a ball has more elasticity, like a rubber ball, can that ball gain speed by ricocheting off of a solid object? 
+
+If yes, how?

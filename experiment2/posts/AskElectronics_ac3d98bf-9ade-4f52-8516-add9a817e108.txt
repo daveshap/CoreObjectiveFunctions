@@ -1,0 +1,1 @@
+Part help. I'm looking to upgrade the onboard ram on a motherboard but seem to be having a hard time finding a suitable upgrade. I'm looking for a 28 pin SOJ that is greater than 16m bit x 8. I am aiming for 128m bit x 8 but I have been looking and I would be happy with anything bigger than 12 m bit

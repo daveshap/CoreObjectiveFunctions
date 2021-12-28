@@ -1,0 +1,2 @@
+In the two slit experiment, why doesn't light act as a particle when it contacts the obstacle with the slits?
+Why does light act as a wave when interacting with the slits and a particle when interacting with the sensor? Couldn't the wave function collapse somewhere on the surface area of the obstacle?

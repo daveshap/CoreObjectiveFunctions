@@ -1,0 +1,4 @@
+What microcontroller would you pick to replace an ATMEGA328P to avoid the shortages?
+I've got a hobby project I've been working on and hooray I am able to sell a few thousand or more! However the PCB is basically an arduino nano with some MOFSETS bolted on, and now that I'm ready to order I discover the ATMEGA328P-AU is sold out until the end of time.
+
+ I don't want to redesign for a new IC and then discover it's short again in 6 months. Does any relatively cheap microcontroller look like it'll stay in stock or have a steady supply?

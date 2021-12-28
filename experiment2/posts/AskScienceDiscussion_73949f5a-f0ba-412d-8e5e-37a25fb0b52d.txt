@@ -1,0 +1,10 @@
+How do i find the effects of any explosion?
+there calculations to the effects of any explosion size(chemical,nuclear,antimatter,etc)?
+Do I need thermodynamics to know how far away from a blast I need to be to not burn?
+Do I need fluid dynamics to know the wind speeds at any distance?
+What formula do I need to calculate the amount of radiation from a distance?
+How do I find out the temperature of the center of the blast?
+How do I find out the surface temperature of the fireball?
+How do I find out crater size?
+How do I find out the shape of smoke rising from an explosion?
+Please help me understand.

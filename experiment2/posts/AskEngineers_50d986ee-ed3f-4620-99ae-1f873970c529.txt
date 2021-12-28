@@ -1,0 +1,6 @@
+How would one compute the required torque/energy to maintain constant output RPM in a system of inline 1:1 gears?
+Hello, non-engineer here. I was watching [this youtube video](https://www.youtube.com/watch?v=NAThvwGJJoI&amp;t=3s). Where they keep adding in-line gears to the system and it progressively gets harder to crank as the number of gears increases. 
+
+Since I don't know anything on the topic, I was curious about what is actually going on here. 
+
+If I was an engineer that wanted to maintain constant RPM of the system while adding arbitrary number of gears, what would I need to compute? Is this even a well-formulated question? I found this [formula online](https://www.sdtgear.com/how-to-calculate-gearbox-output-torque-gearbox-output-torque-calculation-formula/), but not quite sure if it's talking about the same thing.

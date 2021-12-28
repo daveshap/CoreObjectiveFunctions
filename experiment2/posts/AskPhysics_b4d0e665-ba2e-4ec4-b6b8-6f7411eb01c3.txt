@@ -1,0 +1,8 @@
+Caliper force from movement of master cylinder
+Hello!
+
+Taking the following example of a braking system, on the right there's the master cylinder, on the left the piston of the caliper.
+
+https://imgur.com/uhhfxWQ
+
+Knowing only the diameters of the pistons, the volume of braking fluid and the travel of the piston inside the master cylinder, how would I go about finding what force would the caliper's piston exert? (Without knowing what force the  master cylinder piston exert).

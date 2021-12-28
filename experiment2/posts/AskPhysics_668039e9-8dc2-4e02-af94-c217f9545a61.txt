@@ -1,0 +1,4 @@
+When do circuit components like resistors, capacitors etc. contribute to the net resistance/capacitance?
+I apologise if the wording is confusing. Essentially I want to know how to identify if a circuit component like a resistor or capacitor does not contribute to the net capacitance or resistance just from looking at the circuit diagram. What are some pointers that tell you to not include certain capacitors/resistors while calculating the net resistance/capacitance?
+
+I hope you guys can help me out here.

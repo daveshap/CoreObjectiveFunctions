@@ -1,0 +1,2 @@
+Why is the probability density determined by the square of the wave function? (Ψ^2)
+Really the title speaks for itself. I’m taking quantum and this was taught to us when Schrödinger was discussed. The problem is I can’t get my head around the fact WHY this is true. We weren’t really given any derivation, it was more like a statement that we had to accept lol. Youtube videos explain it the same way, not giving any reason for why it is this way :|

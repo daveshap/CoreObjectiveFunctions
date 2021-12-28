@@ -1,0 +1,6 @@
+Alternative to arduino
+Hi all!
+I want to make a small project, with a servo motor, a speaker and some leds.
+I thought of arduino (maybe nano for small size).
+What could be some other options?
+I'm a beginner but I was thinking there should be other solution as for toys which doesn't need arduino because of the cost.

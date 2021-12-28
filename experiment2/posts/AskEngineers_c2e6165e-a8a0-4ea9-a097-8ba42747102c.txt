@@ -1,0 +1,10 @@
+Evaluating Job Offer - Am I selling myself short?
+Hi fellow engineers! This is a throwaway account for anonymity. I am evaluating a potential job offer and just want to hear some second opinions from other experienced engineers.
+
+I have worked more than 6 years as a product design engineer at an automotive factory in a southern state with more than a year now as a senior engineer. I’m making roughly 75k. I have a BSME and will soon have a MSAE too. So I’m looking for a new position dealing with FEA, structural analysis, or similar because that’s what I focused on my MS.
+
+Anyway, I’ve applied to about 20 positions. Got my first interview with an aerospace company in the Pacific Northwest recently and got an offer a week later. (Sounds too good to be true in the current job market). This is a structural analyst position at level 2. From what I understand, a level 2 is somewhat equivalent to a Masters grad entry level with limited experience. I countered the salary and got ~3k bump to a high 90k pay.
+
+From talking with some acquaintances familiar with the company, they think I deserve at least a level 3 engineer with higher pay and I’m probably overqualified for this position due to my existing experience. I’m second guessing myself now. On one hand, perhaps I deserve better. OTOH, my current job doesn’t deal with FEA or stress analysis. It’s mostly design for manufacturing, NPI, daily problem solving, and project management. So I’m not sure if I can handle a level 3 FEA analysis position, not to say I’m still not very familiar with the aerospace industry yet except for my short exposure in grad school.
+
+Am I assessing myself correctly? Or is this imposter syndrome and I am just selling myself short here?

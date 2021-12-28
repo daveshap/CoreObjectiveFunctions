@@ -1,0 +1,10 @@
+By how much has COVID reduced life expectancy?
+This question is based on two assumptions. If either is incorrect, please tell me.
+
+First, to my knowledge COVID is a disease which causes no damage or negligible damage to the large majority of infected people but which causes catastrophic damage or death to a significant minority of infected. Since older people are the most likely to suffer these serious effects, using the impact on life expectancy could be a more useful statistic to indicate the effect the disease has had on public health on aggregate as opposed to raw numbers of infections and deaths.
+
+Second, I am assuming that there is a general upwards trend in life expectancy as time goes by due to incremental improvements in medicine and public health when it comes to dealing with existing threats.
+
+Since it appears that COVID is not going away, I assume that its emergence has had an impact on life expectancy in the long term. Would it be correct to say that this jas set the progress in life expectancy back? Could we calculate by how much? For example could we say that the negative impact of COVID has counteracted 5 years of gains in life expectancy for example?
+
+Since new threats will inevitably appear, can we predict how life expectancy will change in future?

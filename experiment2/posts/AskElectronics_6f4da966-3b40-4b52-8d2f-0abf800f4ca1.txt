@@ -1,0 +1,2 @@
+If capacitive dropper exists for changing current from AC to DC with small current, why people don't use inductive dropper?
+Is it because with capacitive dropper you need small capacitor, while with inductance you need a large one? Therefore it's not really practical?

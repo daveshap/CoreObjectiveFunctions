@@ -1,0 +1,16 @@
+Pin connectors for evaluation board
+&amp;#x200B;
+
+https://preview.redd.it/yvu5lhwl4h281.png?width=632&amp;format=png&amp;auto=webp&amp;s=040820a2c9a3bf021f6d76e5297d49c7a1217c79
+
+Hi all,
+
+For a research project I need to connect wires to the two rows of 3 pins on this accelerometer evaluation board:[https://www.mouser.com/new/analog-devices/adi-adxl1003z-evaluation-board/](https://www.mouser.com/new/analog-devices/adi-adxl1003z-evaluation-board/)
+
+I can't seem to find the specs on the pins, but they might be spaced by 0.1". Ideally I'd like a connector that had 3 female sockets on one side and a place to solder or crimp wires on the other side. If I had to connect each wire individually onto a pin that would be OK too.
+
+Could someone point me in the right direction?
+
+EDIT:  I'm not sure about the pitch since I don't have the board yet.  it would be enough to know what it is called so I can search catalogs for it.
+
+&amp;#x200B;

@@ -1,0 +1,8 @@
+How to make a GameChanger's show Buzzers and player's stands?
+(I'm not sure if this is the right subreddit to ask, I'm sorry, if it's not the right place to ask this I'd appreciate it if anyone could redirect me to the correct subreddit) 
+
+I'm a first year electric engineering student hosting a quiz game in my campus but I wanted to make something cool, and I was wondering if anyone here could tell me how I could make the buzzers and stands with displays like the ones you see in game shows? So far I have the buttons, the displays and some cardboard to assemble everything and I was thinking about using Arduino to code it. What other components would I need? How could I connect them all? 
+
+I've been looking around and the closest example I can find is this [https://www.hackster.io/LIMPINGLIM/quiz-buzzer-film-prop-71084d](https://www.hackster.io/LIMPINGLIM/quiz-buzzer-film-prop-71084d) 
+
+I appreciate any help

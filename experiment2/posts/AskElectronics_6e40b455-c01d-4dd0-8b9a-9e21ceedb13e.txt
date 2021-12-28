@@ -1,0 +1,1 @@
+I built this guitar effect circuit and I know it works, but I can’t fully sort out HOW it works. More detailed questions in the comments, grateful for any guidance you can offer.

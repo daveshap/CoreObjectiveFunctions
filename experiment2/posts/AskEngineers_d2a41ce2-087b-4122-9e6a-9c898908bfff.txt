@@ -1,0 +1,7 @@
+How to Calculate the Rise in Temperature (per hour) in a space where the heating load exceeds the cooling capacity?
+As the title suggests, it's been a LONG time since I've done any sort of cooling calculations. So, I'm a little stumped on where to begin. (It doesn't help that I got my booster vaccine yesterday and can barely think straight).
+
+I want to understand what sort of rise in temperature can be expected (per unit of time) in a space where there is only a sensible load, but that load is \~10kW (34,120 BTU/Hr) over the rated sensible cooling capacity of the unit serving the space (\~50kW or 170,600 BTU/Hr).  
+
+
+If the room is at steady state where the load in the space equals the cooling capacity of the unit serving the space at time zero, how do I calculate how much the temperature will increase when the additional 10kW load is applied over a period of 1 hour?

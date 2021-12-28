@@ -1,0 +1,12 @@
+Need ethics advice on helping a researcher as a freelancer
+So I recently finished my PhD and have plans for a postdoc that due to unforeseen circumstances got delayed by a few months. During this wait time, parallel to wrapping up my PhD projects, I decided to do freelancing to get to know what the industry requirements are and earn some money now that I don't get a paycheck.
+
+I came across a project which to my understanding is posted by a postdoctoral student not well-versed in coding/working with data. He's an expert in his domain and wrote down the pseudocode for what needs to be done and the mathematical model of the process. He just can't do the coding and/or doesn't have time for it, that's why he posted the job on a freelance platform.
+
+I'm quite experienced doing the type of tasks he posted, so I submitted a proposal and got the job offer. By the way, I found out about the client's academic background in the process of working with him.
+
+So here's the ethical question that's bugging me. Should I be asking for some kind of acknowledgement from this person in his (potentially) upcoming publication? The domain is very far from what I work on, so asking for a co-authorship isn't an option, especially since I cannot vouch for the quality of his paper, but can only guarantee the quality of my work. Or should I instead ask to mention my name in the Acknowledgements section? What would be the ethical thing to do?
+
+Having worked at the interface of theory and experiment, I know that it's a common practice to have university facilities do jobs for the research for money. And given the fact that this guy really knows the subject and will be writing the paper himself, I'm not worried of classical plagiarism issues.
+
+Any input on this situation is much appreciated!

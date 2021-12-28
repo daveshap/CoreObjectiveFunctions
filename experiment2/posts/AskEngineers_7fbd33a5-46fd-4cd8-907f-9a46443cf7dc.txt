@@ -1,0 +1,2 @@
+Calculate 4 Bar hinge
+So I'm trying to grapple with a 4 Bar hinge mechanism and I'm just about at my wits end. Due to space issues a normal type of hinge won't work however I cannot find anything on how to calculate the design of a 4 Bar hinge mechanism. I have my fixed side and my moving side but I can't find anywhere that explains how the bar lengths and pivot points are calculated anyone able to help?

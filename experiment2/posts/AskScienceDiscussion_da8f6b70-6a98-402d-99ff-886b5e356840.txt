@@ -1,0 +1,6 @@
+Can people be infected by multiple COVID strains simultaneously?
+From news reports, the Delta variant has become dominant because it spreads more readily than other strains.  In news reports about the Omicron strain, there is a lot of uncertainty about whether or not it will become dominant vs. Delta.
+
+One thing that I wonder about is, does it pre-suppose that you can't be infected with more than one strain at the same time?   If this can happen, what is the difference in transmissibility between two strains where one strain will become so dominant that it displaces the other?
+
+Also, what factors make one dominant?  Is it the ability of a strain to be spread from one person to another, or the ability of a given virus to hijack the production process of a cell to duplicate the virus?

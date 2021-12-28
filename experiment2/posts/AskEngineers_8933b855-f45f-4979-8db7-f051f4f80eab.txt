@@ -1,0 +1,6 @@
+Resources To Learn About mechanical Engineering for Robotics
+Hi everyone,
+
+I have been working on a humanoid robot. I am from computer science background and I have good applied knowledge of ML and Optimization. I have learnt about kinematics, sensors and electrical parts, but I am finding it difficult to find good resources for Mechanical parts  eg: springs, hydraulics etc. I would highly appreciate if someone can guide me for the same.
+
+Thanks.

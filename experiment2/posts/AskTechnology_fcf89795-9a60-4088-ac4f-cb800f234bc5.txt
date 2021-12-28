@@ -1,0 +1,2 @@
+Time
+how do computers know what time it is after being shut down and turned back on without any wifi connection? does it have a clock that keeps going when it is shut down?

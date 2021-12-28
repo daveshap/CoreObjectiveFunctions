@@ -1,0 +1,10 @@
+If a moving source sends two beams of light, one forward and one backwards, how can an observer at rest see both beams going at c?
+Hi, it's me again, still not understanding special relativity. 
+
+Let's say a spaceship sends a beam of light in the direction of his trajectory, and an observer at rest is watching. Both the pilot of the spaceship and the observer "see" (assuming this is possible) the beam of light going at c. The only way for this to makes sense is to assume that the observer sees the pilot's clocks running slower. 
+
+If however, the spaceship sends a beam of light backwards, then the only way both the pilot and the observer will agree on the speed of that beam is if the observer sees the pilot's clocks running faster.
+
+Obviously this leads to a paradox if the spaceship sends two beams of light, one backwards and one forward. The observer cannot see the pilot's clocks running both faster and slower than his own, therefore at least one of those two beams must be going at a speed different than c, relative to the observer, which breaks the second postulate of special relativity.
+
+Obviously I must have misunderstood the second postulate somehow. But how exactly? Thanks in advance.

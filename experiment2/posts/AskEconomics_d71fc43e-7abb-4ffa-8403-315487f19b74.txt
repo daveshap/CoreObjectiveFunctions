@@ -1,0 +1,6 @@
+Are there benefits to the redistributive effects of a flat carbon rebate?
+A flat rebate as implemented in Switzerland or Canada effectively increases the net income of those who consume less than average, and decreases the net income of those who consume more (as they paid more in tax than they get back in the rebate). 
+
+Besides making gas relatively more expensive than alternatives, does such a model further decrease carbon consumption by redistributing income from high carbon consumers to low carbon consumers? 
+
+I.e. if we could somehow fully equally compensate for the carbon tax and remove this redistributive effect, would that increase carbon consumption vs. the flat rebate? Would it be possible to fully compensate for the carbon tax's costs without nullifying its ability to decrease carbon consumption? I'm interested as it seems the flat rebate enriches urban dwellers at the expense of people who can't easily take subways for example, and am wondering if there's a way to mitigate that.

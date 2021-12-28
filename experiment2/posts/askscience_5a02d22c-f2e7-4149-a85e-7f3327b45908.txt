@@ -1,0 +1,4 @@
+Is there an experiment to prove two particles are entangled without measuring one or the other?
+Is there any possible way to know that two particles are entangled without measuring them in the first place?
+
+Specifically I am thinking in the way of quantum circuits. Is there some gate combination we can run them through that does not involve measuring the original entangled pair. But gives us some separate output we can measure with a state of 1 being the originals are entangled and 0 if they are not.

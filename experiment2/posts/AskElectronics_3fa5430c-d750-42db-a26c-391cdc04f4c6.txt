@@ -1,0 +1,4 @@
+How do I find a Bluetooth master chip that supports HSP?
+I'm trying to connect a radio to my motorcycle helmet and finding it hard to get a Bluetooth chip that will work. Seems like they all are either slave, no datasheet or serial only. Does anyone have a good recommendation?
+
+For instance, aside from going through each of [these Mouser listings](https://www.mouser.com/c/embedded-solutions/wireless-rf-modules/bluetooth-modules-802151/?class=Class%201~~Class%202%2C%20Class%203&amp;rp=embedded-solutions%2Fwireless-rf-modules%2Fbluetooth-modules-802151%7C~Class) one at a time. Is there a faster way to find what I need?

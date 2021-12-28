@@ -1,0 +1,4 @@
+Would it be possible to provide partial share ownership at an exchange level?
+Partial ownership of shares is usually a service that broker provides. The exchange from which the clients buy it from deals only in full-shares. The broker either waits for enough partial share order to arrive to make a full share, or it buys a full share and keeps it in its books. 
+
+Is there a way for a stock exchange itself to provide this service?

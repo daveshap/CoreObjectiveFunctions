@@ -1,0 +1,2 @@
+Which unit is equivalent to meters per second?
+I’m pretty sure that the key for my homework is wrong, since the question asks which answer choice is equal to meters per second. I think that it is Hz(m), since Hz is pretty much 1/s. multiply that by m/1 and you get m/s. However, the answer marked as correct is m/Hz… am I doing something wrong or is the key wrong??

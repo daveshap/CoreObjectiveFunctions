@@ -1,0 +1,26 @@
+Can't find a DisplayPort "Switch" 2 In 2 Out. Any idea why ?
+Hello,
+
+First post, so if anything is wrong, let me know and I'll fix it.
+
+Quick summary of my situation:
+
+I bought a new monitor a week ago, to do a dual monitor setup.  
+But the problem is that I don't have enough ports on my computers. I say "computer**S**" because I have my desktop computer on one side and a laptop on the other side of the desk.
+
+So, to solve my problem, I had two ideas:
+
+\- Daisy chaining ([here](https://www.hp.com/us-en/shop/tech-takes/how-to-daisy-chain-monitors) is a definition).  
+\- DP "Switch" 2 In 2 Out
+
+The first solution seemed pretty good to me, if you forget the fact that you need a DP output on the first monitor to connect the second... However, I don't have an output on the first or even the second monitor !
+
+So, next option: DP "Switch" 2 In 2 Out. That would be another good option, if it exists at all... Actually, after a lot of searching, I found a few devices that might look like what I'm looking for, but each time something is missing:
+
+\- Not many results for 2 inputs  
+\- Switching button on outputs instead of inputs  
+\- Only duplicate screens
+
+To illustrate concretely what I am looking for, [here](https://www.amazon.co.uk/Selector-Switcher-One-Button-Swapping-Keyboard-Black/dp/B07S5H6T18/ref=sr_1_1_sspa?adgrpid=126825095249&amp;gclid=Cj0KCQiAtJeNBhCVARIsANJUJ2FtAGHsbShIJGe0khaPsZ-4-EI5_95rxkjdT7A2iY82ojsLSrK8wIQaAqoMEALw_wcB&amp;hvadid=529762167527&amp;hvdev=c&amp;hvlocphy=9108679&amp;hvnetw=g&amp;hvqmt=b&amp;hvrand=3337175223103893915&amp;hvtargid=kwd-887092052304&amp;hydadcr=26213_1767484&amp;keywords=2%2Bin%2B4%2Bout%2Busb&amp;qid=1638288149&amp;sr=8-1-spons&amp;smid=A3N4KE8B16B9TN&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWTNIRFI5TzI4V1I1JmVuY3J5cHRlZElkPUEwOTYwMjc0MUFIRTY5VjA1UFpLJmVuY3J5cHRlZEFkSWQ9QTAzNjc1NzkzNFdJVUsyTDc3RElRJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&amp;th=1) is the right device, but for USB.
+
+The more I try to find it, the more I'm convinced it doesn't exist... but I'd like to at least know why it can't exist before I give up on the idea completely. Any guesses ? Or maybe you could tell me that I've looked very badly and that it does exist ! (I'd love to)

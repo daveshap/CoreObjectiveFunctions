@@ -1,0 +1,4 @@
+If the pressure of a fluid acts in all directions, why doesn't the ocean have uniform pressure at all depths?
+The pressure of a fluid increases the deeper you go, and the pressure of a fluid acts in all directions. In fact, this idea is of great importance in discussing buoyancy. 
+
+If the pressure of the fluid acts in all directions*—*even above*—*shouldn't the higher-pressure, deeper parts of the ocean put pressure on the lower-pressure, higher parts of the ocean; thus, causing the pressure of the ocean to be uniform?

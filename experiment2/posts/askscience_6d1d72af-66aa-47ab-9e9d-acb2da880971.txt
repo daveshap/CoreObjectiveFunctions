@@ -1,0 +1,6 @@
+In a setup similar to Maxwell's Demon thought expriment, if there was only one particle, how would that particle behave?
+For this variation of the thought experiment, I suppose there doesn't have to be a demon, only two boxes and one particle between them. If I understand the principle correctly, the particle should always want to transfer from the box with the higher energy to the box with the lower energy. The box containing the single particle obviously has the higher energy. However, when the particle moves, the box it left instantly becomes the box with the lowest energy because there is only one particle. 
+
+I'm wondering if the particle would do something odd instead, like behave like a wave and divide itself between the two boxes? If that should happen, are there suddenly two particles? 
+
+Or does the particle do something unexpected, like not switch boxes because, I don't know, maybe there's no other sources of energy in either box to move the particle?

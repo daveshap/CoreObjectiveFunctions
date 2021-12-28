@@ -1,0 +1,1 @@
+Whats this switch called? I looked up “spring action DPDT momentary” and didn’t find it. (push to on, release to off)

@@ -1,0 +1,4 @@
+What is your company's current policy for remote vs. on-site work?
+My company (F100 conglomerate) recently required all employees to return to the office at least three days per week, with the intent to eventually bring employees back to the office five days per week. I'm not a huge fan of this decision, as I've enjoyed many aspects of WFH, and I don't believe that working in an office for 40+ hours per week is necessary for most engineering positions.
+
+What is your company currently doing in terms of remote vs. on-site work? Have any companies permanently changed their WFH policies in favor of more flexibility?

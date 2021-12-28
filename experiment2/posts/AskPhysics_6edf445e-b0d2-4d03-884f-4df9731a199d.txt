@@ -1,0 +1,4 @@
+How does Pauli exclusion manifests?
+Usual pop-sci description is the following: no two electrons can occupy the same quantum state, the quantum state being the position × momentum × spin.
+
+That is a bit unsatisfactory. What does "the position" mean here? Does that mean electrons can be arbitrarily close to each other, just cannot be at the same spot? Is there some volume that the electron claims as its own? Is it just the smaller the distance the less likely it is to find two electrons at that distance from one another?

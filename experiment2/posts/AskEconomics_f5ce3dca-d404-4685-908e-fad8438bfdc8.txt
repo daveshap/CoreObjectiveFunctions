@@ -1,0 +1,6 @@
+How does fractional reserve banking work when it comes to wiring USD?
+I'm confused about how fractional reserves show up in bank reserve accounts.
+
+Let's say there are banks 1 and 2. A homeowner (a) and homebuyer (b) both use bank 1 to sell a house. So now homeowner (a) has $1M cash and the buyer has a mortgage. If (a) wires $1M to bank 2, does bank 1 now have a negative $1M balance with the fed, and bank 2 have a positive $1M?
+
+And would this negative balance be avoided in real life by other deposits at bank 1?

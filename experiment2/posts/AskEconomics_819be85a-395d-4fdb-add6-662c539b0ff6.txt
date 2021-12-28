@@ -1,0 +1,11 @@
+What is the optimal policy for strategic industries?
+Economists generally frown upon protectionism because of the inefficiencies and deadweight loss it creates. However, some industries are vital for national defense capability. They provide an intangible economic benefit to a nation that is not reflected in prices. In the event of a war, production capacity in these industries can be shifted for wartime production. Examples include:
+
+* Steel and other metals
+* Automotive and other manufacturing
+* Aircraft manufacturing
+* Shipbuilding
+* Merchant marine
+* Semiconductors
+
+How should economists take strategic value into account when calculating possible trade benefits?

@@ -1,0 +1,4 @@
+PWM circuit at 5V
+Hi! I was looking for a simple PWM circuit that works at **5V**; I know the well known circuit with 555 timer, and it seems to work at low voltage as well, but I haven't tested it yet, I have to gather all the components first. Do you think that this circuit will work in good conditions at **5V** using  **IRF640N** instead of IRFZ44N ?
+
+https://preview.redd.it/utv5it6m9m281.png?width=945&amp;format=png&amp;auto=webp&amp;s=d72017d4bb64c7f0d92cf735053931b1a12267f2

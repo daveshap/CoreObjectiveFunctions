@@ -1,0 +1,7 @@
+Why does a higher thermal conductivity in the core lead to later inner-core formation?
+I am confused--intuitively, it feels like higher conductivity would cool the core faster, and so we'd get an *older* inner core.
+
+But in the literature a higher conductivity is always given as a reason for a *younger* core (it's never really explained).
+
+Can anyone explain what's actually going on? What am I missing here?
+Thanks!

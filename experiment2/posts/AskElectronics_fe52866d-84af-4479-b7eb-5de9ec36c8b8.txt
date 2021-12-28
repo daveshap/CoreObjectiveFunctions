@@ -1,0 +1,10 @@
+Isolated 5V supply design suggestions?
+I'm looking to put together a low-cost and simple isolated 5V supply.   
+The input voltage is ideally from a lipo cell that is limited to 2.75-4.2v.   
+The current that the supply needs to source is 20mA nominal with peak currents up to 1A   
+It would be great if the quiescent current could be in the 1mA range as we'd like to be able to operate in low power sleep modes while the supply is on  
+
+
+The intent is to use this supply to power a sensor  (20mA load) and a RS422 interface
+
+Any suggestions on design options I should be considering?

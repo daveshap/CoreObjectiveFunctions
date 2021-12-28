@@ -1,0 +1,6 @@
+Engineering term or word for "doesn't scale well"?
+I tried Googling this, but the results are wildly diverse and I haven't been able to find a specific answer to my question.
+
+Backstory... I once watched a documentary about early flying machines where the writers made reference to a word or term I had never heard before. The topic was about how innovators of flying machines would create small, working versions of their aircraft and then proceed to build larger "man-sized" versions based on the successful smaller design. What they would discover (sometimes with fatal results) was that the larger versions failed spectacularly. As a design scaled the inventors failed to take into consideration the fact that key engineering factors (material tolerances, weights, pliability) would change as well. It took a while until people realized that small models don't scale well into their larger counterparts. 
+
+There's an engineering word (or term) that encapsulates this "doesn't scale well" concept. Does anyone know what it is? Please?

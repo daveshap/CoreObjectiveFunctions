@@ -1,0 +1,12 @@
+Ethical Dilemma - Forced Unpaid Overtime
+I work as a Program Manager Contractor for a large company. All contractors work hourly. My job is to approve the Financials for over 100 projects. It used to be that every February, June, and October, there would be major project deliveries requiring teams to work long hours. Overtime was common. Occasionally, if one of the regular employees in Product Management, refused to pay for the overtime we would retroactively adjust their hours in the early days of the next month before "Actuals" hit, locking everything in.
+
+There were rare exceptions where we would let someone take some time off the next month, but still pay them in order to compensate them for the time they worked.
+
+As the company has rolled out Agile, deliveries have sped up unsustainably, with Contractors working more and more overtime to keep pace.
+
+There was an announcement that there would no longer be adjustments to reported time and cracking down on the paid time off workaround. There is no schedule, scope, or headcount relief. I have pointed out that hitting our Delivery dates will not be possible without the usual final "push" and the feedback I got was no overtime and disciplinary action for people working on projects that slip.
+
+As a Contractor, I feel like this company is outsourcing the squeezing of the people whose time and project Financials I approve to me. And I don't see a way to avoid breaking the law with respect to unpaid overtime.
+
+Thoughts?

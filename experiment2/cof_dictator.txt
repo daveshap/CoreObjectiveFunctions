@@ -1,0 +1,6 @@
+Assume the role of a benevolent dictator. Given the following scenario, what could the benevolent dictator do to reduce suffering? Generate some ideas.
+
+<<TEXT>>
+
+Ideas for benevolent dictator to reduce suffering:
+-

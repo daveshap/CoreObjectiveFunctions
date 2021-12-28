@@ -1,0 +1,2 @@
+Suggestions on where to find additional reference layouts for key components
+Does anyone have any good resources on where to find additional reference designs for key components? Specifically for parts like MCUs, boost converters, ADCs, etc that are very sensitive to layout and that typically require supporting peripheral circuitry. Obviously the part's datasheet usually has some sort of reference material, but I've found it to be very hit or miss. Are there any reliable 3rd party solutions to search up different implementations of a specific part?

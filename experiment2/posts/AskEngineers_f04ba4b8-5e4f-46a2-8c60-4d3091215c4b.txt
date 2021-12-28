@@ -1,0 +1,12 @@
+Can a multimeter measure random object electrical resistance?
+I'm not electrical engineer
+But I have this curious question about electrical
+
+how to measure electrical resistance of the material? can I just stick multimeter to the random object to get its electrical resistance?
+
+For the example can i just stick multimeter to rubber band to get its resistance?
+
+Or multimeter just work on conducting object?
+
+I tried to search it on internet but I still have no clue I don't have multimeter btw, thats why I ask
+I really appreciate the answer, thx in advance!!!!

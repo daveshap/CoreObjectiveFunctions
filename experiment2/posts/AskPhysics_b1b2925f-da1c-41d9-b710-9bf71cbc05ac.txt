@@ -1,0 +1,8 @@
+How to find acceleration or net force on an object? (full question in body)
+I'm doing a homework problem where I must find the force of gravity, the  normal force, the force of friction, and the net force acting on an  object as well as its acceleration, given the coefficient of friction  between the object and it's surface and it's mass, neglecting air  resistance. I have found everything except acceleration and net force.  What equation or thought process am I missing to find one of these? (if I  know at least one I know how to find the other) thank you!
+
+&amp;#x200B;
+
+(problem:) an 88-kg object is sliding to the right and encountering a friction force that slows it down. The coefficient of friction between the object and the surface is 0.15. determine the force of gravity, the normal force, the force of friction, the net force, and the acceleration. (Neglect air resistance).
+
+My work so far: I have found the Force of Gravity(862.4), the normal force(862.4), and the force of friction(239.4) with variations on F=ma and (force of friction) = (coefficient of friction) \* (normal force)

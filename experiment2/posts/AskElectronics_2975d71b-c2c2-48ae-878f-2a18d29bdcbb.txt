@@ -1,0 +1,1 @@
+How can I calculate voltage gain factor and cutoff frequency of this amplifier

@@ -1,0 +1,2 @@
+Mechanical engineers who successfully switched to software, what did your learning look like?
+I've seen a lot of posts about engineers switching to software and I am in the process of trying to do so. What resources did you use, how long did it take, and what languages did you focus on? I know language is just a tool but am I missing out on anything by focusing on practicing in python and C++?

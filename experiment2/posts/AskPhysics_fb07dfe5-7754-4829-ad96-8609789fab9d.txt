@@ -1,0 +1,33 @@
+Capacitors in equilibrium
+Hi everyone!
+I need some help with the question b) of a problem involving RC circuits:
+
+There's a circuit like this (I hope the drawing isn't too fucked up):
+
+         _____√\√\√\_________
+         |                  |
+        ___                ___
+        ___                ___
+         |                  |
+         _____________________
+Description: the circuit is a simple square. On the vertical sides there's 2 capacitors, C1 and C2, on the top side there's a resistance R, while the bottom side is short-circuited.
+
+Where C1, C2 and R are given.
+At Time=0 C1 is fully charged with Q=Q0, while C2 is fully discharged.
+
+a) describe the situation at equilibrium
+b) at what time T1 is such equilibrium reached?
+
+
+a) 
+Equilibrium =&gt; no current =&gt; ∆V1=∆V2
+Also we know that (charges on capacitor 1 at start) = (charges on capacitor 1 and 2 at equilibrium) Q0=Q1+Q2 
+
+It's an easy system in 2 equations and 2 variables.
+Once solved we'll have Q1, Q2 and ∆V
+
+
+b) how do I do this?
+I was thinking about using the formula for the discharge of the first capacitor Q1(t)=Q0*e^(-t/RC) but it doesn't work as there's a couple numeric problems in my book, and I'm not getting the correct results.
+Moreover since the system is in equilibrium, situation at T1 should be equal to situation at TInfinity.
+If so, i want   Q1= Lim(Q1(t)) t--&gt;+infinity, but using the discharge formula such Lim=0

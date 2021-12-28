@@ -1,0 +1,2 @@
+Initial value problems for hyperbolic wave equations
+Why is it that initial value problems with data specified on a timelike hypersurface is ill-posed for hyperbolic wave equations ? What about specifying data on a null hypersurface ? Does this make the problem ill-posed, too ?

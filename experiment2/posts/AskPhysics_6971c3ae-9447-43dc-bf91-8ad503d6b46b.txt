@@ -1,0 +1,3 @@
+How does depolarizing a laser beam work?
+For this physics experiment we did, we wanted the laser beam to have equal amounts of s- and p-polarized light. So we put a circular polarizer into the beam path that was set to 45 degrees. 
+I just don’t get at all how that works. Wouldn’t the polarizer then only let through light that is polarized at 45 degrees? Rather than half s and half p?

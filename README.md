@@ -39,3 +39,5 @@ file_upload('cof.jsonl')
 finetune_model('<fileid returned from file_upload command>')
 finetune_list()
 ```
+
+Current COF model is `curie:ft-user-aev4t8pdy0qsyqxayyjuuqut-2021-10-23-13-08-17`

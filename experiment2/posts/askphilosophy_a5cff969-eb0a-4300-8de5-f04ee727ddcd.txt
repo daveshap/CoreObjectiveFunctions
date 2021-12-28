@@ -1,0 +1,90 @@
+The Correct Usage of Not Either-Or (:= Neither-Nor): The proposition expressed by the sentence [A1]. "I Am Not Convinced of Either Option" can be Expressed as Which One of the Following 2 Options: [B]. I am Unconvinced Both Options, or [C]. I am Unconvinced of Either Option?
+# On the Correct Usage of the Negation of an Inclusive Disjunction:
+
+\[ **Not 'Either-OR' = 'Neither-Nor' \]**
+
+&amp;#x200B;
+
+In order to say that I reject (i.e., not accept) both options, I could express this proposition as follows:
+
+**A1.** I am not convinced of either option.
+
+\--&gt; this option implies that one is convinced of neither option.
+
+**It would be incorrect** to try to express the above proposition in this following way:
+
+**A2.** I am not convinced of both options.
+
+&amp;#x200B;
+
+**Suppose:** there are only two options (to be considered): {A, B}.
+
+The *Disjunction* ('OR'-*Operation*) of A and B is **\[A i.or B\]** in its *Inclusive* Sense
+
+and is **\[A x.or B\]** in its *Exclusive* Sense.
+
+Negating the Inclusive Disjunction ('i.or') yields in the Joint Denial ('nor').
+
+Proposition **X1**: "I am not convinced of either option"
+
+can be equivalently reformulated as follows:
+
+**X2.** I am neither convinced of A nor of B &lt;=&gt;
+
+**X3.** I am not convinced of either A or B &lt;=&gt;
+
+**X4.** I am not convinced A and also not convinced of B. &lt;=&gt;
+
+**X5.** I am not convinced of A and  not convinced B, either. &lt;=&gt;
+
+wherein: X1 &lt;=&gt; X2 &lt;=&gt; X3 &lt;=&gt; X4 &lt;=&gt; X5; where the symbol &lt;=&gt; denotes "materially equivalence".
+
+**However, what about** using 'unconvinced" instead of 'non-convinced' or 'not  convinced'.
+
+&amp;#x200B;
+
+**Questions:** *Which of the following options would be the correct reformulation of A1*\*\*?\*\*
+
+**B1.** I am unconvinced of both A and B.
+
+**B2.** I am unconvinced or either A or B.
+
+(where, in B2, the 'or' operator is to be understood as being of the inclusive kind)
+
+**B1\*.** I am unconvinced of both options. \[as opposed to not convinced\]
+
+**B2\*.** I am unconvinced of either option. \[as opposed to not convinced\]
+
+**Which** *one* of these two above **{B1\*, B2\*}** is the *correct* ***reformulation*** of **A1,**
+
+*where:* **A1.** "I am not convinced of either option."
+
+&amp;#x200B;
+
+**Clarification on My QUESTION.** I am not sure whether to treat the option "unconvinced..." in the same way as I would treat the option "not convinced...". What suggestion(s) could you give me to help me decide which one is correct. How would you decide this? 
+
+The reason that I am hesitant to treat "unconvinced" as "not convinced" is as follows below:
+
+There is a difference between negation \[not ("\~")\] as a propositional connective which is part of the formula and negation as a bivalent truth-function that outputs a truth value -- that value being either true **xor** false: (i.e., true or false, not both, and also not neither.) 
+
+**Ex.'s (P1 vs. P2):**
+
+**P1.** The Law of Excluded Middle (LEM): **\[X i.or \~X\]** which more formally can be expressed as \[X V \~X\].
+
+Here, the symbol (\~) denotes negation (i.e., 'not'), and is part of the formula, so that the only input into the formula is X. 
+
+Notice, that LEM is only expressed in terms of **Either** X is true **or** Not X is true : 
+
+: =&gt;  \[X i.or \~X\]  (*is true*). 
+
+Note that X is **not** expressed in terms of being either **true or false** and that the term **'false'** is not part of the formulation of LEM, though it is part of the formulation of the law of bivalence. LEM is a syntactical principle of logic.
+
+**VS.**
+
+**P2.** The Law of Bivalence: **\[X x.or \~X\];** *where* **x.or** = exclusive-or; **or** = disjunction.
+
+Bivalence is a semantical principle of logic. Here, the negation (\~)  functions as a bivalent truth function which outputs only one truth value (at a time) -- that value being  either true **or** false (where 'or' is to be understood as x.or = exclusive-'or'). The negation of X is not part of the formulation of the law of bivalence, instead the output truth values are. 
+
+&amp;#x200B;
+
+&amp;#x200B;

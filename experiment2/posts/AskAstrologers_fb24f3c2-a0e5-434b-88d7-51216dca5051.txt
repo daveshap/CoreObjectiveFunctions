@@ -1,0 +1,1 @@
+What does this Envelope pattern mean? I've heard it also be called a "Seer" pattern.

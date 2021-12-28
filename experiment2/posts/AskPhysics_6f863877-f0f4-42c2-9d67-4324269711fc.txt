@@ -1,0 +1,52 @@
+Some someone clarify how magnets create an electrical current? (Electron flow myth(?) perpetuated by textbook?)
+*Refrigeration and Air Conditioning Technology, 9th Edition* states on page 286 that   
+
+
+&gt;If a conductor, such as a copper wire, crosses the lines of  
+&gt;  
+&gt;force, the outer electrons in the atoms in the wire are freed  
+&gt;  
+&gt;and begin to move from atom to atom. This movement of  
+&gt;  
+&gt;electrons results in an excess of electrons on one end of the  
+&gt;  
+&gt;conductor and a deficiency of electrons on the other. This  
+&gt;  
+&gt;difference in charge is what we will later describe as voltage,  
+&gt;  
+&gt;potential difference, or electrical potential. It is this electri-  
+&gt;  
+&gt;cal potential that causes electric current to flow. It does not  
+&gt;  
+&gt;matter if the wire moves or if the magnetic field moves. It is  
+&gt;  
+&gt;only necessary that the conductor crosses through, or cuts,  
+&gt;  
+&gt;the lines of force, Figure 12.6. This movement of electrons  
+&gt;  
+&gt;in one direction produces current. Current is, in its simplest  
+&gt;  
+&gt;terms, an impulse transferred from one electron to the next.  
+&gt;  
+&gt;For example, if you pushed a golf ball into a tube already  
+&gt;  
+&gt;filled with golf balls, one would be ejected instantly from the  
+&gt;  
+&gt;other end, Figure 12.7. The energy of electromagnetic waves  
+&gt;  
+&gt;travels in a similar manner at speeds up to 300,000 km/s,  
+&gt;  
+&gt;or 186,000 miles/s. The electrons themselves do not travel  
+&gt;  
+&gt;through a wire at speeds even close to this. The electrons  
+&gt;  
+&gt;flowing through a battery-powered lamp, for example, move  
+&gt;  
+&gt;at a speed of about 3 in. per hour!  
+
+
+  
+This seems to be describing the idea of electron flow, but I am under the impression that electron flow is actually a myth or fallacy. The YouTube channels [Veritasium](https://www.youtube.com/watch?v=bHIhgxav9LY) and [The science Asylum](https://www.youtube.com/watch?v=C7tQJ42nGno) recently released videos about this subject and if I understand correctly it's actually a complex series of interactions between magnetic fields by which energy is transferred and electrons jump between energy levels or something?  
+
+
+Honestly, I've watched these videos several times and still struggle to really grasp what is happening. But they both seem to be saying electron flow (as my high school science teachers taught it) isn't real, while this textbook seems to be saying that electron flow is not only real, but also the mechanism by which moving a conductor through a magnetic field generates an electrical potential/current.

@@ -1,0 +1,15 @@
+Repair broken TV, blown capacitor
+Hi. My friend's TV broke down. Something popped inside of it, and then it started smoking. They didn't want to repair it so they gave it to me. I opened it and found blown capacitor. Label on it is not readable and I didn't find online what values it could have.  
+So, how would you suggest I could find the characteristic of this cap?  
+And then, I red somewhere that this blown cap can be symptom of something else wrong on the board. Is it probable and should I replace something else?  
+And what about the components that were above the blown cap? Should I replace them too?
+
+&amp;#x200B;
+
+https://preview.redd.it/cajpfge5ks281.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=5c487f3f1366606ea03f93664e47279dca2f2c1c
+
+https://preview.redd.it/6b3buge5ks281.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=ed274f2d73903faf7ee3cdffc5a5ff9e4ca2889d
+
+https://preview.redd.it/fg5ishe5ks281.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=9c7e8ed05b14d03d4bfd5bed2453088350a2c66b
+
+https://preview.redd.it/w4z5gle5ks281.jpg?width=3472&amp;format=pjpg&amp;auto=webp&amp;s=d629cd36306a184de9414e09ce709e140d81d6a1

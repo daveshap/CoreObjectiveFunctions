@@ -1,0 +1,20 @@
+Trying to identify a component on surround system PCB
+I'm replacing components on my old x530 surround speaker system, but ran into a component which I've never seen before. I also cannot seem to find the X530 schematics.
+
+This is the component:
+
+&amp;#x200B;
+
+https://preview.redd.it/s5h0jck7ca281.jpg?width=699&amp;format=pjpg&amp;auto=webp&amp;s=9e2825b993504392f1bfa2c2c8d6d99e6fc7acd7
+
+And this is the spot on the PCB it came from:
+
+&amp;#x200B;
+
+https://preview.redd.it/41iu1fa8ca281.jpg?width=340&amp;format=pjpg&amp;auto=webp&amp;s=408391697581db58d1cb6a5cb18c89c62d908e7e
+
+Who can tell me what it is? What's it's use? I've destroyed two of em, and I don't know how to order new ones without their name.
+
+&amp;#x200B;
+
+Thanks to anyone willing to help me!

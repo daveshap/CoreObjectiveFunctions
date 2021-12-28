@@ -1,0 +1,32 @@
+Can anyone please explain this physics joke?
+Hi everyone! I hope wherever you are, you are doing well. And if you aren’t, that’s okay too!
+
+I came across this physics joke and was wondering if anyone could perhaps provide a little bit more information or recommend some references to look at. I believe it was a joke that Feynman mentioned in one of his lectures, but I could be entirely wrong.
+
+Anyways, so far it seems like it is referring to CPT Symmetry violation, but I do not have enough knowledge on the matter to really understand the joke.
+
+Any explanations would be greatly appreciated!
+
+Here’s the joke:
+
+“The human race has discovered an alien race is trying to communicate with them. 
+
+Except, of course, the problem is that we can only communicate (send words and numbers) over a radio signal. Unfortunately, we cannot use any physical reference phrase to communicate with these aliens. These aliens live in a universe that is governed by the same laws of physics and they are surrounded with a similar environment composed of atoms. 
+
+So after a couple of interactions, you and the aliens become friends and you want to educate them about who we are and explain some things about humans, as they are interested in knowing more about you. 
+
+First, we can define numbers for the alien. We tell the alien, “Tick. One. Tick, tick. Two. Tick, tick, tick. Three...” so that gradually the alien can understand a couple of words. You can tell the alien how long we live (you can use atomic processes as a reference). 1 second is defined with hyper fine transitions in Caesium-133 (an element commonly used in atomic clocks). After a while, we become very familiar with the alien. and the alien says, “What do you guys look like?” We start to describe ourselves, and say, “Well, we are six feet tall.” The alien says, “Wait a minute, what is six feet?” Is it possible to tell him what six feet is? Certainly! We say, “You know about the diameter of hydrogen atoms - we are 17,000,000,000 hydrogen atoms high!”. Physical laws are not invariant under change of scale; therefore we can define an absolute length. And so we finish describing how we look on the outside, presumably without encountering any particular difficulties. The alien is even making a model of us as we go along. 
+
+So the alien knows what we look like. Now, you also try and explain some of our cultural idiosyncrasies. You explain to the alien them that when humans meet each other, they shake their right hands. “Hang on” says the alien. “What do you mean by “right”?”. How do you communicate what left and right are? If it were up and down, that would be easy, we could use the ground and the sky, or gravity. There seems to be no way to explain what left and right is without being in physical proximity.
+
+That is true, but only in a symmetric universe.
+
+But our universe luckily has an asymmetric process with Cobalt-60! So now you can explain to the aliens, using Cobalt-60 as a reference point, what left and right are - by defining the direction of spin when the electrons are emitted downwards. The aliens now know what “left” and “right” are. Hooray!
+
+The aliens decide to go on an interstellar voyage and visit their new friends - the human race. Once they arrive in their spaceship, a single alien representative is sent to the surface of our planet. The whole world watches on as our World President goes out to make first contact with our new friends, the aliens. Remembering the lessons in human culture, the alien sticks out its left hand. 
+
+And the planet explodes.”
+
+If you read through all of it, thank you, I really appreciate it!
+
+Take care!

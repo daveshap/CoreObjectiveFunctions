@@ -1,0 +1,4 @@
+How do you design a board to fit another part or existing standards?
+Hi there. I've had some experience in designing my own circuit boards in KiCAD, but something that confuses me is how people are able to design their boards to fit other parts (including ones that they didn't design and may not have the schematics for), as well as to existing standards? 
+
+For example, let's say you wanted to design a part a Raspberry Pi hat, Arduino shield, DE-10 nano FPGA daughter board, or even something that can mount into a common ATX PC case; is there some kind of library that you can use as a reference when creating your parts, or do you just have to measure everything out carefully during board layout?

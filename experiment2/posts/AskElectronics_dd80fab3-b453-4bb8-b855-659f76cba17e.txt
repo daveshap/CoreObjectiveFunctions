@@ -1,0 +1,2 @@
+How to load bootloader on to atmega32
+I am currently building a discipline V2 for which i sourced all of the parts myself and so the microcontroller has come without the bootloader. I can't figure out how to load the bootloader onto the microcontroller. I have a usbasp avr programmer and there's the guide for how to flash the bootloader however i cannot figure out what to do [https://github.com/coseyfannitutti/USBaspLoader/tree/atmega32a](https://github.com/coseyfannitutti/USBaspLoader/tree/atmega32a)

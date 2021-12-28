@@ -1,0 +1,10 @@
+In Rocket Propulsion, is the exhaust velocity relative to the rocket itself?
+Hello, 
+
+I have a question about this equation : vf-vi=ve ln (mi/mf) where ve is the exhaust velocity of the fuel. I am wondering if this will be in relation to the rocket? If so, shouldn't it be negative?
+
+Thank you for any help :)
+
+Have a wonderful day
+
+a confused undergrad

@@ -1,0 +1,16 @@
+Differences between Mains Filters
+I am currently looking for a suitable mains filter for a frequency converter.
+
+After a little searching I found some potential matches, but the prices vary quite a bit and I can't really tell the difference between for example these two:
+
+[More Expensive One](https://www.amazon.de/Leistungsstarker-zweipoliger-einphasiger-Netzentst%C3%B6rfilter-Terminal115V/dp/B07V3BN9MV/ref=asc_df_B07V3BN9MV/?tag=googshopde-21&amp;linkCode=df0&amp;hvadid=380166602635&amp;hvpos=&amp;hvnetw=g&amp;hvrand=16282398857032667221&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9041715&amp;hvtargid=pla-1023322309192&amp;psc=1&amp;th=1&amp;psc=1&amp;tag=&amp;ref=&amp;adgrpid=84387571344&amp;hvpone=&amp;hvptwo=&amp;hvadid=380166602635&amp;hvpos=&amp;hvnetw=g&amp;hvrand=16282398857032667221&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9041715&amp;hvtargid=pla-1023322309192)
+
+[Cheaper One](https://www.conrad.de/de/p/schaffner-fn-9222-6-06-netzfilter-mit-kaltgeraetebuchse-250-v-ac-6-a-0-78-mh-b-x-h-48-mm-x-22-5-mm-1-st-398723.html)
+
+(The fact that the cheaper one has a socket for plugging in the cable doesent really matter to me)
+
+&amp;#x200B;
+
+Can anyone please help me deciding which Mains Filter I need?
+
+Please also keep in mind that I have a RCD installed which may also cause some problems.

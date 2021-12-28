@@ -1,0 +1,4 @@
+How to identify a high frequency transformer?
+I am trying to replace a high frequency transformer in a led driver circuit. There are 5 inputs, 2 positive, 2 negative, and 1 fed by a MOSFET. The input is 170v DC, there is no output voltage currently. The windings are covered by a black casing, the numbers on it are 0571-86379829. Google sends me to this pdf https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=http://u.dianyuan.com/upload/space/2012/02/10/1328876201-597936.pdf&amp;ved=2ahUKEwjY6bbOrcD0AhVELX0KHb_wBFoQFnoECAcQAQ&amp;usg=AOvVaw05J5waaEriGZErTSTL8Xkf which page 5 / 6 looks similar and the application is reasonable. Any suggestions on how I can verify the parameters of the part to find a replacement?
+
+Thanks

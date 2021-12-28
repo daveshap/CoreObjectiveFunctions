@@ -1,0 +1,1 @@
+Has anybody ever seen a DIP16 package with these additional ‘pins’ on the side?

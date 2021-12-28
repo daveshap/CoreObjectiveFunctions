@@ -1,0 +1,2 @@
+Why can't mass be negative?
+Is there an actual requierements for mass to be positive or is it an assumption we make based on logic and observations?

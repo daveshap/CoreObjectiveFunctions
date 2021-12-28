@@ -1,0 +1,4 @@
+How can i calculate what percentage of the weight of the bridge each cable holds?
+[Design](https://reddit-mindlesshawkeye.tumblr.com/post/669362816191447040/bridge)
+
+I was given this as a "challenge" since i play polybridge but i simply have no idea but i would love to see the math behind this.

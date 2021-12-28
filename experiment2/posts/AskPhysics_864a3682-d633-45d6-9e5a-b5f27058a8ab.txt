@@ -1,0 +1,12 @@
+Trying to gain intuition for how energy is transferred throughout the EM field
+So there was this veritasium video that I'm sure sparked a lot of debate and questions: [https://www.veritasium.com/videos/2021/11/19/the-big-misconception-about-electricity](https://www.veritasium.com/videos/2021/11/19/the-big-misconception-about-electricity)
+
+It left me with some questions related to other subjects that I still wonder about and have not been answered by any of the countless other videos that analyze the veritasium one.
+
+I am asking for a confirmation (or denial) of whether my intuitive understanding regarding this topic is correct, so thank you to anyone for setting me straight on whatever it is I'm misunderstanding, because I'm sure there is a lot of it.
+
+Here is my understanding: The poynting vector represents both the direction of the flow of energy in the electromagnetic field, which also implies that the poynting vector also represents the velocity of the flow of energy. Does that mean that the poynting vector also represents the velocity of a photon, or the actual photon itself traveling through space? Isn't that what a quantum of the electromagnetic field is?
+
+Secondly, considering the power plant scenario in which power is transmitted to homes thousands of kilometers away from the power source: is the visual representation of the transmission of that power a literally thousand kilometer-long poynting vector originating from the power plant, and arriving at your house? So this would mean that the energy we're receiving at our homes actually traveled to us "through the air" via disturbance of the EM field thousands of km away from me? Does this then not imply that all energy that is transmitted by means of electromagnetism is "wireless" when you focus on the energy itself and the medium it travels through?
+
+&amp;#x200B;

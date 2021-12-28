@@ -1,0 +1,18 @@
+Question about finding components of a resultant force
+Hi there, I am having trouble with a textbook question that I was hoping to get some help with!
+
+&amp;#x200B;
+
+"Resolve the horizontal 600 N force into components acting along the u and v axes and determine the magnitudes of these components. " 
+
+[https://i.imgur.com/ZEtGq3r.png](https://i.imgur.com/ZEtGq3r.png)
+
+&amp;#x200B;
+
+I understand how to calculate the magnitude for u because it can be made into a right angled triangle which I have done in previous questions, I am just a little lost when it comes to resolving the magnitude for v. 
+
+Is it as simple as just using sine and cosine rules after finding u? That was the first thing I tried but I am not super confident in my answer and I am not sure if there is a good way to check if both magnitudes are correct.
+
+&amp;#x200B;
+
+Thank you for any help you can give!

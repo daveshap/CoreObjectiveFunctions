@@ -1,0 +1,14 @@
+If a person is pulling a box (with friction) at a given velocity and given a v(t) function, find force, work done, and power.
+Can you explain the process of finding:
+
+1. Force
+2. Work done
+3. Power
+
+Friction exists.
+
+There's no numerical values so explain as like:
+
+"To find force, integrate \_\_\_\_, derive \_\_\_\_, plug in \_\_\_, etc."
+
+Thank you so much!!

@@ -1,0 +1,6 @@
+Suggestions for vagabonding career
+I'm looking for suggestions on how to make a living from home or while traveling with my partner and child.  I'm American and have a Liberal Arts associate's and a CDL.  I've worked in IT and have an entry-level/hobbyist background in Linux, bash scripting, and some Java from about twenty years ago.  I've also driven OTR truck for a few years over the last decade.
+
+My target salary is about $50k annually.  Driving truck seems out, as I don't think I'd be able to drive with both the partner and the baby.  I'm considering pursuing sysadmin/RHEL/DevOps and/or some kind of coding job but am open to other options.
+
+Does anyone have any suggestions?  Something that doesn't require an abundance of additional schooling is preferred but not required.  Also, for those who know, which is liable to be more viable between the DevOps and coding routes?

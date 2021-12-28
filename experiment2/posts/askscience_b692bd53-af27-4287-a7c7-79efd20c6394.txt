@@ -1,0 +1,2 @@
+Whats the maximum percentage of an objects kinetic energy that could be imparted in one collision?
+I remember while studying physics that the reason water is really good at absorbing neutrons from a reactor is that the hydrogen atoms are very close in mass to the neutrons, and there being talk that the theoretical limit in one collision being a transfer of 50% of the KE (or it mightve been momentum) and i was wondering if there was any loopholes around this where technically you could get a higher percentage but its practically impossible

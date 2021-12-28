@@ -1,0 +1,12 @@
+Which decoupling cap placement is most optimal?
+In this made up example which would be considered closer to ideal decoupling cap placement?
+
+The 1st scheme would have lower common impedance but higher impedance to their respective load.
+
+2nd seems more logical but wouldn't an ideal ground have zero impedance between all points, which 1st seems closer to.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+https://preview.redd.it/sd8kp8ztvx281.png?width=1729&amp;format=png&amp;auto=webp&amp;s=3aa5e16e090ca2264dccc995bcbc634ef0d6a3f5

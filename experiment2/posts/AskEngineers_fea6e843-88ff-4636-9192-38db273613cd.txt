@@ -1,0 +1,8 @@
+If a friction buffer stop can stop a speeding train in just a few seconds, why can't the actual brakes of the train?
+Generally I have seem the limited braking capability of trains and other such heavy vehicles be explained in terms of the low heat capacity of the brakes, that is, once you are dealing with the massive amounts of kinetic energy involved on a moving train, attempting to turn all that energy into heat via friction will quickly overload the pads of the brakes and prevent them from working effectively. Yet, a friction buffer stop, a device which grips the rails using just a few relatively small braking jaws that, presumably, has a much lower heat capacity than the far larger brakes of the train, is able to stop a train much more quickly than it would be able to by using it's actual braking system. How come?  
+  
+Here is a video showing a friction buffer stop in action:  
+  
+https://youtu.be/mBaP27QeVvc  
+  
+EDIT: Spelling

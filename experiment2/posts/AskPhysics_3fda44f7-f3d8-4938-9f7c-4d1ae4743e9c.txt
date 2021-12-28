@@ -1,0 +1,12 @@
+Energy in an electric circuit?
+Hello guys
+
+So I was browsing youtube and saw a video about circuit energy (https://youtu.be/C7tQJ42nGno). As I understand it, the energy doesn't flow inside of the wire but is outside of the wire, perpendicular to it.
+
+I've learned that a battery produces an electromotive force, which flows in the wire at near light speed. Because of the EMF, the free electrons in the wire very slowly move towards the positive terminal of the battery. 
+
+When light in for example a lightbulb is produced, this would be because of the heat (which in turn makes for photons) that is created in the resistor as a result of the free electrons bumping into things.
+
+But according to this video the energy that provides light out of the lightbulb is around the wire? 
+
+Could someone explain to me how this all falls into place? Thanks!

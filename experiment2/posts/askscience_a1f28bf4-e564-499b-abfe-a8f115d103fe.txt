@@ -1,0 +1,6 @@
+Why is there a finite limit on the evaporation rate of a liquid at infinite temperature?
+I am curious why there is a finite evaporation rate for any liquid at infinite temperature? The evaporation rate relates to the vapor pressure of a liquid as a function of the liquids temperature. This follows a exponential dependence at saturates to 1 at infinite temperature, implying that the vapor pressure also saturates at infinite temperature. This is based off the dependence observed from the Clausius Clapeyron Equation 
+
+What is the physical interpretation of this finite limit to the vapor pressure of a liquid and thus its evaporation rate? Does the CC Equation not hold when approaching finite temperature? Is there something else that I am missing to explain this finite limit?
+
+Note: this seems to still hold in a vacuum system (which is what I am working with). So I am unsure about the idea that this saturation comes from condensation

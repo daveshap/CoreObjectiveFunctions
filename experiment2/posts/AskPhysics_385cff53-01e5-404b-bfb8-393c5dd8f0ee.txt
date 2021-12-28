@@ -1,0 +1,4 @@
+How to calculate Temperature from 2 measured wavelengths
+Hello,
+
+I need to calculate the effective temperature of a star from luminous flux density (I hope this is the correct English translation) of 2 wavelengths. I know I have to use the black body equation, I just don't know how...

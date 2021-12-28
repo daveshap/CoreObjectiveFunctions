@@ -1,0 +1,16 @@
+Help calculating mass from Gravitational Time Dilation
+Hi!
+
+I'm trying to backwards-calculate the mass of a "black hole" from a novel (Wheel of Time). Just a fun exercise for a video. 
+
+Here is my attempt: https://i.imgur.com/qaY0fVE.jpeg
+
+I think this is okay, but I was hoping to get another set of eyes on it. 
+
+We only have some rough estimates of the time differences between time near the singularity and time for an outside observer. 
+
+So tf ≈ 5 days, while t0 ≈ 2-3 hrs. 
+
+After that, the distance from the center of mass to the observer is about, r ≈ 1600km. Though, I was reading that this r should be in **Schwarschild Coordinates**. I never took special relativity in my degree, so I'm not too familiar with these. 
+
+Can someone help me out with this? Thanks in advance!

@@ -1,0 +1,6 @@
+Attenuation of viruses via electromagnetic radiation?
+I've been looking at the history of virology and I've seen a few things about the first rabies vaccine. Attenuation (making the viruse weak enough to not be a threat) can be done via passaging them through unrelated animals cells, drying them, exposure to oxygen, and heat. 
+
+Question. I've heard that you can hit them with X-rays and uv radiation to deattenuate them, but how useful is the success rate? I've heard that the UV radiation simply denatures the proteins so badly that they're point less for usage in vaccination. 
+
+P.s. how do they ensure the proteins are still useful after heating? Do they just heat them 'just right'?

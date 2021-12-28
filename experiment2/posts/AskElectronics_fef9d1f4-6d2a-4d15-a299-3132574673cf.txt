@@ -1,0 +1,8 @@
+Best resource / way to learn electronics
+Hey everyone, I would like to learn how to work with arduino, esp board, microchip etc. in the hardware side such as how and why a resistor was choose in the diagram (i watched a youtube [video](https://youtu.be/xPlN_Tk3VLQ) and he mentioned using 220ohm resistor but anything from 150 to 470 ohm is okay, how do i determine the min and max ohm i can use in a circuit and what is a good padding /practice ), how to wire stuff correctly and test it and ultimately finishing all my smart home projects.
+
+I only know the basic stuff and only following example that is already out there (don't know how to create/debug my own instead of just following a guide),  for example, i was following this [yt vid](https://youtu.be/IBKfB2GNPbU) and the creator did mentioned that not all rpm gauge will work because of how it's wired, in this case, I don't know how to debug what i need to change or what to debug to get the same result)
+
+With that said, where should I start dipping my toes and learn this.
+
+Also, i just knew there is a online circuit simulator from an old yt vids, but i couldn't find that page anymore, is there a website or linux application that I can learn to simulate circuits?

@@ -1,0 +1,6 @@
+Radio frequencies for commercial device use?
+I am trying to find information about which radio frequencies I could use for a commercial device I want to make. Ideally, it would be in the lower bandwidth - somewhere near 433Mhz as I am not transmitting much data but being able to do so through walls would be helpful. Also ideally, I don't want to have to pay for a license to operate the devices. 
+
+Does anyone have any suggestions or at least any idea where I could start looking into learning about this? 
+
+Thank you in advance!

@@ -1,0 +1,8 @@
+Capacitance Micrometry
+For a class I am tasked with designing a circuit to measure the capacitance through the equation:
+
+C = (e\_r \* e\_0 \* A) / d
+
+This is so we can detect a change in charge in the distance between the plates of the capacitor. I am a bit confused as to where to start. On top of simply measuring the change in separation, it needs a button to indicate that the current separation in the start point, and then it needs to take a measurement of C at least once per second. I was thinking of using an opamp with feedback leading through another capacitor to measure this but I don't see how that would work.
+
+Is anyone able to give me some advice for a point to start with this? I'm using LTSpice.

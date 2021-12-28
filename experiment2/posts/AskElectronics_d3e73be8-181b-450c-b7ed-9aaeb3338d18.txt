@@ -1,0 +1,8 @@
+Project electric engineering - PWM signal to voltage converter
+Hi everyone,
+
+I study Electric engineering and for my next school project I'll have to make a PWM signal to Voltage Converter Circuit on a PCB. The goal of this project is to manage rectifiers with a higher current.
+
+Because the max current on one of the device that we are using (MiniTrans Plus) is 30A. And they want to send the PWM output of the MiniTrans Plus (0-10V) for example 100A to the rectifier.
+
+So I wanted to ask for as many help and tips I could get before I start with the process of this project. Thanks in advance.

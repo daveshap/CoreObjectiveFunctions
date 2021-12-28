@@ -1,0 +1,14 @@
+Burnt Resistor on Power Supply Board
+Hello, I have a monitor here that has a couple problems. Namely the burnt resistor on the power supply motherboard.
+
+I don't know very much about electronics but is there any way to repair this board without knowing the value of the resistor? I can't find any schematic online and MSI support could not help (to no surprise). Are you able to make an educated guess as to what the value might be? If you are slightly off on the value will the monitor work at all? I have many questions but if I'm screwed, just tell me I'm screwed.
+
+I've looked into buying the board itself online but shipping costs outweight the expense of the monitor..
+
+ Motherboard pictures: [https://imgur.com/a/7ZQs7nj](https://imgur.com/a/7ZQs7nj) 
+
+ MSI Optix G24C 24" gaming monitor
+
+ Board identifier: 6501P240100120
+
+ Any help is appreciated. TIA

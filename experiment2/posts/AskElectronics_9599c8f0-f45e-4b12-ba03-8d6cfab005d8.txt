@@ -1,0 +1,4 @@
+Question about Op-Amps
+Hi, I’m looking forward to start building a modular synth sometime in the future and I was wondering if the AS58P could sub for the TL072. I don’t know much about op-amps so any help would be great. Thank you in advance!
+
+P.S. They’re for an envelope generator. Forgot to mention that.

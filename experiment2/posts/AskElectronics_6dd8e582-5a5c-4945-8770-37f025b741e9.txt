@@ -1,0 +1,16 @@
+Sony XV-T33 Titler - Is this fixable?
+Picked up this Sony XV-T33 Titler recently. It worked perfectly exactly one time. The second time I tried to use it I got no video output and later noticed a slight electronic burning smell. It still powers on and all the buttons and sounds appear to work.
+
+Opened it up to find what I believe to be the culprit. One connection appears to have burnt a little and the adjacent capacitor looks like it needs to be replaced. Is it just a matter of replacing the capacitor and that multi-pin wire? I have no circuit repair / soldering experience but now seems like a good time to learn.
+
+(Bonus question: does anyone know what the switch in the last photo does? It's only accessible if you take the device apart.)
+
+https://preview.redd.it/chweu34j1v281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=c6cb5e7aa5af4e920c6d9d07b977c3c6e8ffca3b
+
+https://preview.redd.it/5k6lel3j1v281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=4769aadba49609f5efb2b04480b46c51cbe689a8
+
+[The capacitor is a 4700uf 10v](https://preview.redd.it/3kwfoj3j1v281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=7ef98118381bc64885b27a0d0f5b805e301a84a4)
+
+https://preview.redd.it/khd98g3j1v281.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=b5eb36ae4958ba1147f3ff7e369f0561b8016829
+
+[Unrelated: Any idea what this switch does?](https://preview.redd.it/2xbp5d3j1v281.jpg?width=1316&amp;format=pjpg&amp;auto=webp&amp;s=997368a5cdbc5c9b4afb1a8772b21108949cc0ce)

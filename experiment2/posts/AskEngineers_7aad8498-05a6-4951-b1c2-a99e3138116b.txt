@@ -1,0 +1,10 @@
+Bi-component epoxy not getting rigid
+Hello, I have been testing the epoxy from the link attached (Pattex Nural 27) and after more than one day the mix isn't rigid it's still flexible and not as resistant as it should be.
+
+At first, I thought it could be due to the low temperatures, so I set the adhesive chill in a warm environment and tested it again, but with the same results.
+
+What am I  doing wrong? Or is this epoxy crappy quality?
+
+My objective is to "cold solder" tungsten carbide with steel, so if you know a better method, please let me know.
+
+[https://www.bricomart.es/soldadura-en-frio-nural-27-22ml-10892994.html](https://www.bricomart.es/soldadura-en-frio-nural-27-22ml-10892994.html)

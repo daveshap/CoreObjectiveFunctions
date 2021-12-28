@@ -1,0 +1,2 @@
+One NAS To Rule Them All?
+Is it possible to configure a single NAS unit with multiple (4) bays to act as a media server AND my Time Machine backup?  Ideally I'd like to have both configured as Raid 1, attached to a wi-fi 6 router, so that I can stream media to the Apple TV box using one pair of drives, and have my laptop backups done wirelessly using the second pair of drives.  Does anyone have any experience with this type of setup?  Hope what I've written is clear, and appreciate any advice.

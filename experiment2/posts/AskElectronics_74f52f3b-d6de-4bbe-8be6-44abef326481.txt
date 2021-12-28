@@ -1,0 +1,14 @@
+how to make dc-dc converter PCB for servomotors
+Hi all,I'm a computer scientist and Electronic is one of my hobbies.Since I'm not a expert and I need an advice on what's the best practice for the design of this PCB, prepare for newbie questions!.
+
+I want to build a circuit for driving 6 servo [MG996R](https://www.electronicoscaldas.com/datasheet/MG996R_Tower-Pro.pdf).
+
+the servos can work between 4.8V and 7.2V and I have a power supply that provides 12V (30A).At 6V the servos require 900mA to run free and have a stall current of 2.5A.
+
+Based on my application I can imagine that only 3 of the 6 servos can stall, the others will require less then 15W so I was thinking to plan for them to draw a maximum of 1.5A (9W at 6V) each.So I need a total of 12A at 6V.
+
+Since I found really difficult to find a dc-dc converter that can withstand 12A of output current at 6A of input current at the same time I though to create a circuit using 4 [LM2576](https://rocelec.widen.net/view/pdf/gqrq0ecvct/NATLS13855-1.pdf?t.download=true&amp;u=5oefqw) that can provide 3A each.
+
+Here it comes my first question: is it a good idea to choose more than LM2576 or should I find a single IC that can handle the currents that I need. Do you have any IC to advice me?
+
+The second question is: If I have 4 ICs should I connect them all together to the same track or should I keep each servo connected with his own track for the power? what's the safer choice and what should I consider when I have to take such decisions?

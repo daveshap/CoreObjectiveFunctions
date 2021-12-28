@@ -1,0 +1,2 @@
+Monitor refresh rate
+So recently I got my Samsung Odyssey G9 ultra wide monitor. I have a Aorus 3080 XTREME. My monitor has a refresh rate of 240hz but in the NVidia control panel I can only select up to 120hz. Anyone know why?

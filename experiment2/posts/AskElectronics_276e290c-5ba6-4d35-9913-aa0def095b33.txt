@@ -1,0 +1,10 @@
+high load AC electronic dimmer - cheaper alternative?
+Hi,
+
+I'm building my own coffee roaster with arduino and a popcorn popper and I've run into a special need, an electronic controlled triac dimmer. I'm using more powerful poppers and their resistance powers are somewhere between 1400-1800W on 127V - 60Hz.
+
+I've tried this dimmer: [https://www.tindie.com/products/bugrovs2012/pwm-16a-3500w-triac-leading-edge-dimmer-50hz-60hz/](https://www.tindie.com/products/bugrovs2012/pwm-16a-3500w-triac-leading-edge-dimmer-50hz-60hz/) and its result is amazing, but it's too expensive to use on this project.
+
+Do you know of another pwm, serial or i2c controlled dimmer for high power resistive loads? It would be great if it was cheaper than the tindie one.
+
+Thank you very much.

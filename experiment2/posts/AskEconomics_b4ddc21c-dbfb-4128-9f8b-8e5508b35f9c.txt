@@ -1,0 +1,4 @@
+Why is the effective federal funds rate consistently below interest on excess reserves?
+In my college Money and Banking class, we learned that in a supply and demand framework for reserves, if the federal funds rate was below interest on excess reserves, then demand for reserves would become perfectly elastic as banks would prefer to old excess reserves over lending in the federal funds market. However, in the Fred series, IOER is below the federal funds rate for almost the entirety of its existence - so what incentive does anyone have for lending in the federal funds market?
+
+https://i.imgur.com/QqlLeO7.png

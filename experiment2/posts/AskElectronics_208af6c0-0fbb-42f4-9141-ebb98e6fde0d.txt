@@ -1,0 +1,5 @@
+USB chip
+What's a good IC to control a relay via usb?  
+
+
+Thanks in advance

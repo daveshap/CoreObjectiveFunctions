@@ -1,0 +1,1 @@
+Since high resistance in a circuit essentially lets a small amount of current to pass through then how does a fuse wire sustains the flow of current despite having high resistance?

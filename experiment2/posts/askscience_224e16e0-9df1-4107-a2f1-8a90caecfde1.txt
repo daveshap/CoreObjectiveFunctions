@@ -1,0 +1,8 @@
+Why in some pictures the sun looks brighter the closer to the edges?
+I was looking this picture https://old.reddit.com/r/interestingasfuck/comments/r5vmjv/yesterday_i_took_a_300_megapixel_photo_of_our_sun/ and noticed that the color of the sun's surface looks whiter on the edges.
+
+I'm assuming the sun has roughly the same surface temperature so this could be an optical effect.
+
+Even NASA's SOHO pictures confirms the rough uniformity of surface color
+
+So what is happening here ?

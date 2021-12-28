@@ -1,0 +1,7 @@
+How do I find the magnitude of two identical charges if I only have the force and distance?
+I have a homework and although I know that I have to use Coulomb's Law, I don't understand how to solve it. Our modules don't have proper explanations regarding coulomb's law and there won't be any class meetings. Explanations on google are complicated and I have tried coulomb's law calculators but they won't show the solution unless I pay.   
+
+
+Thank you very much!!
+
+EDIT: Thank you to everyone that helped! After hours of research and asking, I finally understood. I just had a problem in finding the missing charge and got confused. I was looking for the magnitude, not the charge. Understood that after hours of trying 😭 Thank you very much for everyone's patience and I appreciate it a lot!!

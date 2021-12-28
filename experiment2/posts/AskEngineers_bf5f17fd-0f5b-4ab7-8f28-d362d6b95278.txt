@@ -1,0 +1,3 @@
+Click orthographic images with phone camera.
+I want to use my mobile to capture images and use them for drawings. I want to make a jig which can capture images of all planes.
+All the ideas are appreciated.

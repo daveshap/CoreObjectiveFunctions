@@ -1,0 +1,10 @@
+What's an "L Position"?
+To summarize a little bit, I have a tape deck that has the buttons doing anything, i have figured out that the microchip ([M50942-510SP](https://imgur.com/gallery/K3kqor0)) is the problem.
+
+This microchip has a reset pin that (quoted from [this](http://www.datasheet39.com/PDF/385839/M50930-XXXFP-datasheet.html) datasheet) has to:
+
+*be kept at a "L" for more than 2µs (under normal Vcc conditions). If more time is needed for the crystal oscillator to stabilize, this "L" condition should be maintained for the required time.* 
+
+And I don't know what that means, or if I do it, would it reset the buttons completely and leave it unusable?
+
+Thanks for any help

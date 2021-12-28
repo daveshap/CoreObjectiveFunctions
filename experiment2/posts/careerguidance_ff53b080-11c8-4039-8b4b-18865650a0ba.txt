@@ -1,0 +1,10 @@
+I want to switch to a software development career. What is in demand? What are the prospects for someone who is self-taught w/o a CS degree?
+I'm looking into a career switch to software development. I currently work in IT and have Windows and Linux administration experience, and like being involved in all areas of a project, so full stack is very attractive to me.
+
+I have prior experience with c# .NET, so .NET core/ASP.NET seem like obvious choices. Are these in demand? What's the best way to go about learning them in ways that will translate well to employment?
+
+Alternatively, there is JavaScript (and nodeJS, reactJS, etc). which seems to be ubiquitously popular, but which I have no experience, unlike c#. 
+
+My degree is in something completely irrelevant to this field and going back to school is out of the question, so a path that is friendly to self-taught, ambitious folks would be best. 
+
+What do?

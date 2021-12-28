@@ -1,0 +1,6 @@
+IoT devices at your factory? Is it just hype or are they popular?
+For those of you who work in or proximate to manufacturing/operations, does your employer make use of IoT/smart devices on the shop floor? I see a lot of hype about "industry 4.0" and "smart factories" that would involve a bunch of networked machines whose embedded sensors provide detailed data on aspects of the manufacturing process.
+
+I personally have not seen much deployment of this sort of thing. Individual machines seem to be getting "smarter," but all this sort of smart factory stuff still seems more like marketing department hype than something actually happening on the ground. I don't work for huge manufacturers though, who I would imagine would be the most willing to pony up the capex required to attain this tech and hire people capable of putting it to use.
+
+Any anecdotes about using this tech at work, or not using this tech at work, would be greatly appreciated!

@@ -1,0 +1,1 @@
+What kind of led is this? I salvaged it on an old pcb and it is labeled as "sensor" i tried powering it on the led tester on my multimeter but its not showing changes, tried my cams but its not an infrared led

@@ -1,0 +1,24 @@
+Design Ideas for my top down Hash Agitator
+Hey folks,
+
+I make hash making equipment and am working on a new design for a tipping tank ice water agitator. After agitation the tank tips to allow you to dump out the spent biomass. 
+
+I am looking for ideas on the best way to deal with the paddle being in the way when the tank goes to tip.
+
+Few things:
+
+1) bottom machine seal drive agitation is not an option
+
+2) current ideas involve either unpinning the paddle and removing manually, or tipping the full tank with agitator and all
+
+Would there be a way to retract the shaft up and through the gear box?
+
+Current design ideas:
+
+[https://streamable.com/i8uwsw](https://streamable.com/i8uwsw)
+
+[https://streamable.com/5rxayi](https://streamable.com/5rxayi)
+
+&amp;#x200B;
+
+cheers

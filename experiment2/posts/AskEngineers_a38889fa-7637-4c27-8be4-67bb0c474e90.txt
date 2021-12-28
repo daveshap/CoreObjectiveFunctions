@@ -1,0 +1,11 @@
+What's the proper way to build a vacuum chamber with holes on the side
+Hey there, I'm working on a project that I need to modify a vacuum chamber a little. I'm not an expert by any means and I'm a software engineer by occupation so please bear with me. 
+
+I need to create a vacuum chamber that can handle the pressure being reduced to .02 or close to it. What material would be best to handle that? Metal? Acrylic?
+
+What I need is a regular vacuum chamber with a few modifications. I want to drill holes on the left and right of the box for intake and on right for exhaust. These holes will be sealed and will have hoses attached to them. 
+
+1. What materials would I have to build this chamber out of to handle the pressure? Preferably a material that's easy to drill through and seal (rubber gasket or something)
+2. What kind of hoses/tubes would I have to attach to the holes so they don't collapse under the vacuum?
+
+Long story short, I want to start a vacuum, pump water into the container through the left inlet (hose/tube) and once the water starts boiling, extract the vapor through the right outlet (hose/tube).

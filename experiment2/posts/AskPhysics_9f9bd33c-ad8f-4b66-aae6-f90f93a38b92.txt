@@ -1,0 +1,2 @@
+Do supercapacitors warm up when they are discharged?
+Im writing something and i would like to know if railgun capacitor banks would need dedicated cooling.

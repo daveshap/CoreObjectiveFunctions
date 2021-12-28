@@ -1,0 +1,12 @@
+Mounting multiple bent TO220s below Heatsink
+Hello everyone
+
+I am trying to mount multiple TO220 packages below a heatsink similar to the way the MOSFET is mounted in this picture:
+
+&amp;#x200B;
+
+[TO220 Mounted from below](https://preview.redd.it/28yi66o91s281.jpg?width=1163&amp;format=pjpg&amp;auto=webp&amp;s=9902036e796481cd3d9204c2fb05e0991b872942)
+
+So far I had issues screwing all packages into the heatsink because of mechanical misplacement. It seems like the TO220 packages have wome "whiggling room" when I solder them onto the PCB. This leads to small errors in the positioning of the MOSFET hole which in turns makes it difficult to screw the packages in.
+
+How do you normally handle this issue? Should I mount the MOSFETs first onto the heatsink and only after that solder it to the PCB?

@@ -1,0 +1,42 @@
+Second career change?
+I'm 23, and I've been having trouble choosing a career path since I was 18.
+
+I enjoyed doing chemistry, maths and biology at high school. I was supposed to go to uni and study agricultural engineering, but I changed my decision during my last year at high school and started industrial engineering.  I got really demotivated during the first semester and dropped out, since all we were doing was pure math with no real-world examples and with really bad professors, and I couldn't find the motivation to go through it.
+
+Next year, talking with a friend about my drop out,  he told me that he was finishing a 2 year higher grade education about renewable energies, and that I should give it a try if I didn't know what to do.
+
+Long story short: I gave it a try and liked it, but a teacher introduced us to programming and arduino and i LOVED it. I've been tinkering with arduinos, raspberry pis, nodeMCUs, 3d printers, and all kind of boards and sensors since then.  I like stuff related with open-source, IoT, 
+
+I then did another higher grade in robotics, and now I'm currently working in a small company which requires me to do a lot of different things (programming-related stuff for a few prototypes, CAD, GIS, excel...)
+
+It feels like I'm wasting my time since I  know a lot of concepts, but I don't have a deep understanding of any.
+
+Now I'm about to give college a second chance. I'll be starting telecom engineering in February. It has a lot of things that I'm interested in, and is broad enough to not make me regret my decision later on. Here are some of the career opportunities that they claim:
+
+&gt;Design and implementation of Telecommunication systems  
+&gt;  
+&gt;Design and implementation of audiovisual systems  
+&gt;  
+&gt;Robotics and internet of things  
+&gt;  
+&gt;Intelligent cities (smart cities) information security  
+&gt;  
+&gt;Blockchain  
+&gt;  
+&gt;Artificial intelligence  
+&gt;  
+&gt;Industry 4.0, Big Data  
+&gt;  
+&gt;Aerospace applications  
+&gt;  
+&gt;Technology business consulting  
+&gt;  
+&gt;Design of software and multimedia applications  
+&gt;  
+&gt;Management of technological projects   
+&gt;  
+&gt;Free practice of the profession (projects, appraisals, installations, etc.)
+
+From here, how do you make your decision?  I honestly just want to make a choice and start developing my career, but I'm getting overwhelmed.
+
+TL;DR: I don't know how to know what I want

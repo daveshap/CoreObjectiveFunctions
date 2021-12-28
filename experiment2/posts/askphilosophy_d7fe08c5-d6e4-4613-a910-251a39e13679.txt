@@ -1,0 +1,36 @@
+Understanding necessity of a judgement of experience in Kant
+I'd like to clarify beforehand that I don't have any formal education in philosophy (I'm not a phil undergrad/grad, that is), which might be the reason I'm having some difficulties  grasping the examples given.
+
+I'm currently reading through the Prolegomena (I'm brazillian, so I'm reading it in portuguese, but I'm gonna quote the Hatfield translation to avoid mistranslating technical terms), and I'm trying to see if I understand correctly how a judgement of experience is necessary.
+
+Everything below is to be taken as "if I understood correctly", that is, I'll try to expose my reasoning, stating things according to my understanding so far, which might be incorrect.
+
+\_\_\_
+
+Kant distinguishes between two types of empirical judgements: subjective ones, judgements of perception, and objective ones, judgements of experience. The latter are necessary. I'll quote the following (along with the footnote):
+
+&gt;Now before a judgment of experience can arise from a judgment of perception, it is first required: that the perception be subsumed under a \[4:301\] concept of the understanding of this kind; e.g., the air belongs under the concept of cause, which determines the judgment about the air as hypothetical with respect to expansion.∗ This expansion is thereby represented not as belonging merely to my perception of the air in my state of perception or in several of my states or in the state of others, but as necessarily belonging to it, and the judgment: the air is elastic, becomes universally valid and thereby for the first time a judgment of experience, because certain judgments occur beforehand, which subsume the intuition of the air under the concept of cause and effect, and thereby determine the perceptions not merely with respect to each other in my subject, but with respect to the form of judging in general (here, the hypothetical), and in this way make the empirical judgment universally valid.
+
+&amp;#x200B;
+
+&gt;∗ To have a more easily understood example, consider the following: If the sun shines on the stone, it becomes warm. This judgment is a mere judgment of perception and contains no necessity, however often I and others also have perceived this; the perceptions are only usually found so conjoined. But if I say: the sun warms the stone, then beyond the perception is added the understanding’s concept of cause, which connects necessarily the concept of sunshine with that of heat, and the synthetic judgment becomes necessarily universally valid, hence objective, and changes from a perception into experience.
+
+My first question is: how does necessity exactly arise? Does it mean any subject who experiences both (sunlight on stone and its warmth) would 'connect the dots', or at least if presented with the assertion 'the warmth of the stone is actually caused by sunlight', would have to agree (in the sense it's justified by using the concepts, even though something else could be the cause of warmth)?
+
+Is the stone example assuming the connection between the concepts of sunshine and warmth as I think or does the connection arise from one happening after the other? From my understanding the fact that the pure concept is a priori involves some sort of necessity, but how precisely is the judgement of experience universal?
+
+Kant also presents two tables, of moments of judging and concepts, both in the same format (4 groups, 3 items in each). If I understood correctly, when we have a judgement of experience, the concept under which the perception is subsumed determines the form of judging (moment, are these the same?), so the tables are in some sense "analogous".
+
+Quoting Kant:
+
+&gt;The logical moments of all judgments are so many possible ways of uniting representations in a consciousness. If, however, the very same moments  serve as concepts, they are concepts of the necessary unification of these representations in a consciousness, and so are principles of objectively valid judgments
+
+Kant also writes
+
+&gt;Now before a judgment of experience can arise from a judgment of perception, it is first required: that the perception be subsumed under a \[4:301\] concept of the understanding of this kind \[...\]
+
+My question is: how can the judgement of experience arise from the judgement of perception if the perception is "directly" subsumed under a concept that determines the moment, which was already determined? That is, if I need a form of judging in order to have a subjective perception, and a subjective perception to have an experience perception, how can the latter arise using a pure concept which itself determines a form of judging (as if it determined something that's already determined from the judgement of which it arises, that is, in inverse order)?
+
+\_\_\_
+
+That's all (phew!). I apologize for the long wall of text, but I'd really appreciate if someone could take the time to help me. I'd also like to apologize if there are any crass misinterpretations along the text, I'm still trying to grasp the basics of Kant, and wanted to know if I'm on the right track and also clarify some doubts I couldn't do by googling. Any help is appreciated!

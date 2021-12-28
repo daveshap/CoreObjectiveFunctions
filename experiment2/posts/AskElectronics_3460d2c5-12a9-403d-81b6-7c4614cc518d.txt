@@ -1,0 +1,5 @@
+I'm thinking of making an embedded device with a Li battery, Safety concerns?
+[the box](https://uk.farnell.com/hammond/1455d602/enclosure-multipurpose-aluminium/dp/2904322?MER=sy-me-pd-mi-alte)
+I'm thinking of having a BQ2057 to charge  the battery and a L5973 to generate the 5v needed. There will be a 3.5mm socket for an external 12v in at less than 250mA.
+
+[The battery](https://hobbyking.com/es_es/rhino-300mah-2s-50c-lipo-battery-pack-w-xt30.html?queryID=18a9d8308b6ce7bdfffe79926fafa67e&amp;objectID=86250&amp;indexName=hbk_live_products_analytics)

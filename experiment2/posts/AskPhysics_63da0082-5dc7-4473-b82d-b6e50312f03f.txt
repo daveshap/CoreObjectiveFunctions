@@ -1,0 +1,8 @@
+A question about Veritaium's last video on electricity
+Hi everyone,
+
+In one of his latest videos, Veritasium explains that if we have a switch connected to a lightbulb that is close to it and joined by a very very long cable (half a second light), the time it takes to turn on is the distance between the power supply and the bulb, and not the time it takes to go through the entire cable.
+
+I've seen a couple of justifications for what he says on the video like the wires act like a capacitor or an inductor and thus the current flows instantly like it does through a capacitor at t=0, but this doesn't make sense, as the capacitance of the wires is so small (if not zero) that the bulb would turn on and off instantly.
+
+What really disturbs me about this fact is that it seems that this phenomena is ignoring completely in the circuit itself. Because if I modify the circuit so that it has an inductor on one side, so that the lightbulb should act differently as the original circuit, the information about the inductor's existence doesn't have enough time to reach the lightbulb. What would happen there? Would the lightbulb turn on almost instantly and then turn of and turn on gradually half a second later?

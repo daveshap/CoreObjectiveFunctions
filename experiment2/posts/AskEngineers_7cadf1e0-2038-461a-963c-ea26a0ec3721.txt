@@ -1,0 +1,1 @@
+You don't need a capacitor to start an asynchronous (two-pole) motor in three phase current?

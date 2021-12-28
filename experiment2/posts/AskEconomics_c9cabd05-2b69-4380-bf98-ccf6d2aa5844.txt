@@ -1,0 +1,2 @@
+How does a country come out of an inverted yield curve?
+Currently, I calculated the yield curve for my country, and I'm wondering the type of policies the government could take to get the curve back to normal.

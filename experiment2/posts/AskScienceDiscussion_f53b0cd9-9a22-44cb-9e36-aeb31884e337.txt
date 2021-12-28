@@ -1,0 +1,2 @@
+Given concerns over whether vaccines provide sufficient protection against new variants of COVID, are there any concerns that lateral flow or PCR tests will not detect new variants?
+As in, is there anything different in the antigen response that means lateral flow tests can't/won't spot a new variant, or that the DNA that PCR is looking for will change significantly?

@@ -1,0 +1,2 @@
+How to solve for Initial Velocity with only Range and Angle?
+I can't find a way on how to solve for Initial velocity with only range and angle. I have visited sites/calculators but none of them have an option to solve for initial velocity with angle and range only. TIA

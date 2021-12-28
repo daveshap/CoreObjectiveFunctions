@@ -1,0 +1,8 @@
+How do I convert power to data?
+I have this a schematic for a metal detector, but I want it to output data to a pi instead of just sounds from a speaker. 
+
+How would I accomplish this?
+
+This is the metal detector tutorial I’m following.
+
+https://youtu.be/FmmYviJ45bM

@@ -1,0 +1,20 @@
+IC identification help
+Having some issues finding out this part's datasheet. Looking up NKV7B finds nothing. This is directly next to an ethernet port. The device is PoE (47v?). This chip appears to be running off of a 5v circuit (or producing it?). The dark brown capacitor behind it is burning hot.
+
+&amp;#x200B;
+
+If anyone is interested. This is a control box for a intra-oral xray sensor.
+
+[IC7](https://preview.redd.it/8a7p04aykn281.jpg?width=545&amp;format=pjpg&amp;auto=webp&amp;s=21ea70a802bd26dc799dac7121ff71da74aeb9ed)
+
+&amp;#x200B;
+
+https://preview.redd.it/2dmznjay4o281.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=76bb208db29d542912b6c753dff03451d693f6d5
+
+&amp;#x200B;
+
+https://preview.redd.it/obv3d6c15o281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=0f5cba42f6c444c623e4698bf7cb993f41557b76
+
+&amp;#x200B;
+
+https://preview.redd.it/pwojdxt25o281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=3186232cdca82e5e3f8ff3e8bbc16f42057d3aa0

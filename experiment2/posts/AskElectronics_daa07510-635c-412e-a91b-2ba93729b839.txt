@@ -1,0 +1,10 @@
+Can someone help me find a datasheet for this VFD display?
+So I pulled this display out of a TI-5030 calculator. The back of the display says FG117F7A and I can't find any datasheet for it online.  If you have any information on it I would greatly appriciate it.
+
+Thanks for the help in advance.
+
+&amp;#x200B;
+
+https://preview.redd.it/bs44st3kqd281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=917d5d382efa07111e8dff98d3390fecd4371654
+
+https://preview.redd.it/cl2siwehqd281.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=99316409965885a9d26c16bfcc2e6aa5075f36cc

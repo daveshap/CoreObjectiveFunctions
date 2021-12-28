@@ -1,0 +1,14 @@
+Beautiful FAANG Resume, If you don't agree leave comments to improve
+I've traditionally been hired into application developer roles, but I usually find myself taking on DevOps roles and would like to intentionally move over to an infrastructure role. My work motivation comes from helping people and I've liked the feedback loop from helping developers: automating painful parts of their job and being involved in high-level enterprise architecture (container orchestration, laying the groundwork for an event-driven arch, installing telemetry)  
+
+
+I am having a tough time shaping my resume. Over the last 5 years I have been keeping a running list of all the different projects I've worked on, and so as a first pass, I'm trying to work at cutting all of this down to 1 page to exposé my experience, technologies, and side gigs.  
+
+
+I would be grateful for anyone to look at my resume and provide any insight. If you have any suggestions on what elements to focus on to trim down the content, these issues should be fixed:  
+\* It's cramped and overloaded  
+\* The font is too small (it's size 9)  
+
+
+  
+[https://www.teamblind.com/post/g3ox4BdP?cid](https://www.teamblind.com/post/g3ox4BdP?cid)

@@ -1,0 +1,4 @@
+In a Solar pond, why does the bottom get to a higher temperature?
+Watching this animation. [https://www.youtube.com/watch?v=qn5DZ2CQQEs](https://www.youtube.com/watch?v=qn5DZ2CQQEs)
+
+I don't understand how it works after reading the wiki article. The water at the bottom is supposed to get to a higher temperature and begin convecting, which is then stopped by adding salt. But why would it even get warmer at the bottom? I thought the sun would heat the surface water more and thus it should be the surface water convecting downwards.

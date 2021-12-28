@@ -1,0 +1,8 @@
+Can I use a tp4333 powerbank charging chip to charge this spare Lithium Ion battery?
+https://imgur.com/a/DUStZcH
+
+I'm making a lot of assumptions here since I'm a relative beginner.  I purchased this battery charging case and never used it for its intended purpose.  I have a battery I pulled from a project someone threw away and the battery still worked, but the charging circuit was built into the parts I threw away.
+
+The battery charging circuit has a micro usb charging port and a USB type A port for usage.  The original post for the battery case says it takes a 18650 battery which I understand has is 3.6v and has between 2600mAh and 3500mAh.  I know the voltages are close, but I don't know enough to know if the 1800mAh on the LIPO battery I have makes a difference.  I read that over charging these batteries is an issue, but I didn't read enough to understand where that protection happens.  I'm also not sure what type of battery a 18650 battery is, and if the charging circuits are similar or different to lipo batteries.
+
+Thanks for your help!

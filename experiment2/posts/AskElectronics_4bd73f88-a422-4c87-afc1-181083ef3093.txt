@@ -1,0 +1,4 @@
+Why do the decoder inputs go through two inverters?
+I'm looking at this schematic for an 8-bit addressable latch ([https://www.ti.com/lit/ds/symlink/cd4099b.pdf?ts=1638200868374&amp;ref\_url=https%253A%252F%252Fwww.google.be%252F](https://www.ti.com/lit/ds/symlink/cd4099b.pdf?ts=1638200868374&amp;ref_url=https%253A%252F%252Fwww.google.be%252F)). Why do the inputs to the 3-8 decoder (A0, A1, and A2) need to go through two inverters before going into the decoder instead of just going straight in?
+
+https://preview.redd.it/rwbxadf9rq281.png?width=812&amp;format=png&amp;auto=webp&amp;s=e6089f5c1f6c8c2a2e2f54327e819436f997e184

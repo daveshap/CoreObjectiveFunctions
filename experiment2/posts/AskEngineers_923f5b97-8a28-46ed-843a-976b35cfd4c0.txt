@@ -1,0 +1,12 @@
+More than 4 valves on a really big, super-charged piston engine like for aeroplane, boat ( Hydroplane ), tractor puling, Bonneville
+More than 4 valves where often tried in some competitive racing classes, but never really worked out.
+
+There has been this checker-board placement of intake and exhaust valves. It reduces interference drag between adjacent valves. With more valves the advantage would be greater because you got it on four sides to avoid interference.
+
+With a super-charged engine ( and an extractor header, no cat nor filter ), the pressure on the intake is higher then on the exhaust. So there could be one (small) intake at the circumference. It opens early and flushes the combustion chamber with cold air ( no fuel ). This cold front reaches valve after valve. They let pass some of it to cool themselves and then close one after another. On a bike there is not much space for a 5th valve and the plumbing, but on a big engine?
+
+With a large bore engine the combustion takes place for a long duration around TDC. There grows a ball of fire around the spark plug. After TDC it got a significant surface. The burn compensates the volume given by the piston moving down with only a small pressure rise. For this it is important that the ball does not hit walls at this point of time. So we need a lot of stroke stroke and we need a cylindrical combustion chamber (or a toroidal one). Hemi or pancake would be bad. Some squish areas around which produce jets and thus swirl are probably very beneficial. Anyway, to avoid knock, the outer parts of the cylinder need to be very cool. So I propose to put the intake valves on the circumference. Also enough spacing between cylinders to cool them all around. Oil squirters need to aim at a skimmer in the piston which directs cooling oil around the circumference of the piston and then to the center. The spark plug sits in the center of 4 exhaust valves. This is the hot center.
+
+Sparkplugs, coils, and the electronics is expensive. Used valves from a car junk yard are cheap.
+
+Why was none of this tried? Can the ideas be combined?

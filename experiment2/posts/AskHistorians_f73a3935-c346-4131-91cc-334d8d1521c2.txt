@@ -1,0 +1,20 @@
+Is there any evidence of the U.S. actually censoring coverage of the "Spanish Flu"? Is its etymology more myth than fact?
+There is a commonly repeated claim going around that the 'Spanish Flu' is only named that because Spain was one of few neutral countries through WWI that was thus free to report on the otherwise demoralizing truth of the disease. In fact Wikipedia even says:
+
+&gt;The pandemic broke out near the end of World War I, when wartime censors suppressed bad news in the belligerent countries to maintain morale, but newspapers freely reported the outbreak in neutral Spain. These stories created a false impression of Spain as the epicenter, so press outside Spain adopted the name "Spanish" flu.
+
+The idea being that Spain was reporting it *so much* while other countries were reporting it *so little* (due to censor) that everyone assumed it was coming from Spain. Searching sources I can find that the British did in fact have the 'Defence of the Realm Act of 1914' which enabled such censorship, but I can't find any definitive evidence of this ever taking place in the U.S.
+
+The first reporting of the disease actually occurred within the U.S. near what many hypothesize was its origin in Kansas [when](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC340389/):
+
+&gt;Miner considered this incarnation of the disease so dangerous that he warned national public health officials about it. Public Health Reports (now Morbidity and Mortality Weekly Report), a weekly journal produced by the U.S. Public Health Service to alert health officials to outbreaks of communicable diseases throughout the world, published his warning [in April 1918].
+
+There is ample reporting cited in that very article of illness throughout the country as well though not necessarily as influenza or any universal nomenclature.
+
+I've seen no evidence that there was any censor of information in the United States, let alone that there was such a significant gap in the coverage between Spanish press and that of the U.S. to merit naming the disease as such. Perhaps there was misunderstanding or downplaying of the disease in the U.S. but to chalk it up as 'wartime censor' seems inaccurate, and further misguided when we're comparing it against Spain's supposedly rampant coverage at the time. The best evidence I can find is that it did not get the attention that, in hindsight, we think it should've deserved in the U.S. press. However, this does not mean Spain was the only one covering it or that there were any efforts to downplay it in the U.S. This also is not even to say anything about the actual coverage Spain was giving the disease. 
+
+I question the validity of this claim and whether there may be another reason why it was dubbed the Spanish Flu. Could Spain really have had an outsized number of cases? Was there just some reason people liked that name? I'm not posing an answer here but certainly, without someone providing evidence to the contrary, we can't stick by the notion of Spain's uniquely-free press coverage as the driving force. 
+
+And again all this is without me doing much digging on the actual Spanish press side of things, as the question stands out to me whether the Spanish press was getting such global penetration that citizens of the U.S. or even Britain would conflate their pandemic with what was being reported in Madrid in 1918 enough to pin them as the epicenter of a global crisis.
+
+**TLDR:** To me this commonly cited claim is based on far too many assumptions to be any sort of fact - assuming that Spain had significant coverage of the disease, assuming that coverage was being consumed globally to any material extent, assuming that the U.S. was actively censoring flu coverage and assuming it was done out of wartime interest.

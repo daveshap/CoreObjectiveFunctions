@@ -1,0 +1,17 @@
+(Help) Trying to identify the right name for this type of 3.5mm female jack
+It has 3 contacts and has a mechanical switch that is activated when the 3.5mm connector is plugged in. Someone identified it as 'tip switch' but still not much look finding it. The problem is knowing what to search for. I have come across many panel mount jacks with 4 pins but they do not include a circuit diagram. 
+
+&amp;nbsp;
+
+Here is a diagram of what I am after
+https://imgur.com/a/AATt9iq
+
+&amp;nbsp;
+
+It's for a thing I'm making that runs off a battery. When I plug in the 3.5mm connector it lets me charge it and power the device. Keeping it simple. Here is my terrible diagram of what I am going for if you are interested. Sorry if this causes you distress...
+https://imgur.com/a/185LM8q
+
+&amp;nbsp;
+
+EDIT:
+From the feedback I have concluded that using the 3.5mm jack probably is not the way to go even in my janky setup. I  will probably use 2 switched barrel jacks instead. These will not have a chance of shorting when the connector is inserted or removed. The setup uses car batteries so I think this is the way to go. Thanks for all the feedback.

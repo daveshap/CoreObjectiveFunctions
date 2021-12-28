@@ -1,0 +1,2 @@
+Two ventilators twice the flow rate?
+I am constructing a fume extractor piping of my house. Pipework is combined of 125mm round pipes and 50x220mm square pipes. I am adding a ventilator in the middle of the pipework (where the horizontal piping transfers to vertical ventilation shaft) to do the pull of air. The ventilator has a declared 250 m3/h flow rate. If i add second/third ventilator right after the first one, will i double/tripple the flow rate of the whole system or is there a bottle neck because of the piping size or somewhere else?

@@ -1,0 +1,2 @@
+How is the empty region "inside" fuzzballs restored after the fuzzball fully decays?
+My understanding is that fuzzballs have absolutely no interior - not just empty spacetime, but actually a true hole in spacetime and therefore have no need for a horizon. I'm wondering how the topology of spacetime is restored upon the decay of the fuzzball. I can only imagine that the universe should have the same genus before and after the existence of the fuzzball, so there must be some process by which this hole is sealed.

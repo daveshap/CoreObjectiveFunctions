@@ -1,0 +1,14 @@
+Is the pick-up pattern of a cardioid mic impacted by a change in the nephroid curve's area?
+I have been writing an essay on the relation between the Cardioid and Nephroid (figure-8) curves and trying to establish what the areas of these two curves can suggest about the Cardioid microphone's polar pattern. 
+
+I have proven that area of a cardioid curve is half of Nephroid's and I also wrote that a Cardioid polar pattern is created by adding the polarity of Omnidirectional polar pattern and Nephroid polar pattern. 
+
+Now, what I'm hoping to conclude is that if we make changes o the area of the Nephroid curve, it would impact the sound pick-up pattern/ sound frequency of a Cardioid mic (since a Cardioid mic is made up of Omnidirectional polar pattern and **Nephroid polar pattern.**)
+
+However, I am unsure of this conclusion and need to make sure that if we change the area of a nephroid curve, in turn implying that we are changing the area of nephroid presented on a polar graph, it would lead to a change in the pick-up pattern of a Cardioid mic.
+
+&amp;#x200B;
+
+would appreciate any help!
+
+thanks!

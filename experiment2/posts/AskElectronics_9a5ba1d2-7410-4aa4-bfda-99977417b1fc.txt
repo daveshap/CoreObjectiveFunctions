@@ -1,0 +1,8 @@
+Repairing ATX power supply
+I have an old 650W power supply from a PC I built in 2013 and a few years back it started shutting off randomly under light to moderate load (maybe 100W). I suspect this might have to do with age and capacitors drying out.
+
+I took the unit apart to find the output capacitors are green teapo type. I ordered some equivalent rubycon capacitors on LCSC and now getting around to re-capping it. But before I do that I figure I'd measure the new ones with my LCR meter and compare them to the old ones.
+
+What I found was very interesting. The old teapo ones actually outperform the capacitance spec, measuring consistently above 2200uF (around 2.3 to 2.8) while the new rubycon ones underperform, all measuring around 1800uF. Why is it so? More concerningly, the ESR of the new ones appears to be higher. They are rated 18mOhms and I get readings higher than 0.02 ohms at 10kHz, usually around 30mOhms. Mind, I am measuring at 10kHz instead of the rated 100kHz since my ESR meter is out of range on 100kHz.
+
+Are these capacitors actually worse or am I measuring them wrong and I should apply the operating DC bias to them and measure it with a more substantial ripple current?

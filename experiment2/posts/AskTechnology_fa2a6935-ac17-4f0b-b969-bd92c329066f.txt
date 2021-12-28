@@ -1,0 +1,2 @@
+Dual Monitor Setup Question
+Maybe someone can help me. I have 2 monitors and First one takes HDMI and the other takes VGA. But when I connect HDMI and VGA to my CPU, VGA doesn't take input. Any suggestions?

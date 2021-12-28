@@ -1,0 +1,16 @@
+Seeking help with fundamentals of latching transistor switches. Goal: microcontroller sleeps while active sensor is independent and used as interrupt.
+I am making my first battery powered device. At the core of this device is a microcontroller with a moisture sensor, motion sensor, and audio system. If the moisture is below the desired value, the device begins monitoring for someone to walk by so it can yell at them to water the soil. To monitor motion, I am using a microwave Doppler sensor (RCWL-0516) so it can hide out of sight. 
+
+I am using this simple project to explore long lasting battery powered projects. As such, I would like the microcontroller(MC) to be able to: wake up &gt; sense low moisture &gt; send signal to a latching switch of some sort to power the motion sensor &gt; MC goes back to sleep &gt; motion sensor used as interrupt &gt; MC wakes up and turn off motion sensor.
+
+To accomplish this, my my first thought was a simple latching relay. But I figured that there are probably some transistor setups out there to accomplish the same thing more elegantly. This lead me down a rabbit hole of SR-Latches, D-Latches, something about flip flops 🏖️... Honestly kinda over my head at the moment. 
+
+I have stumbled upon this [D-Type Transparent Latch 1 Channel 1:1 IC Tri-State 6-TSSOP](https://www.digikey.com/en/products/detail/nexperia-usa-inc./74AUP1G373GW,125/2814069?utm_adgroup=Integrated%20Circuits%20%28ICs%29&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Shopping_Supplier_Nexperia_1727_Co-op&amp;utm_term=&amp;utm_content=Integrated%20Circuits%20%28ICs%29&amp;gclid=Cj0KCQiA7oyNBhDiARIsADtGRZZSQIX4L34NYggnwTPPQd02DUz6eSiR8A8mIMKUVXqpyrdeDgAUomgaAohREALw_wcB)
+
+The data sheet is a bit overwhelming but it seems to be something that would work...maybe? Either way it has a 26 week lead time, so I will have to figure something out. 
+
+Is this the right direction and if so how exactly would I use it to accomplish my goal? 
+
+I would really appreciate some feedback on if this is the right direction, if I missed an easier way of accomplishing this task, or some direction twords educational material that would help (not trying to read a textbook or anything). 
+
+Thanks!

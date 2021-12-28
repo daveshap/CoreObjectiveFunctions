@@ -1,0 +1,4 @@
+A Hypothetical Centrifuge
+Consider a centrifuge that rotates at a constant angular velocity. Imagine that, while obeying the laws of special relativity, it is possible to get a tangential speeds close to the speed of light.
+Attached to the center is an omnidirectional point source of light. 
+Are there any properties of the light that would change when viewed from a perfectly inertial reference frame outside of the system?

@@ -1,0 +1,2 @@
+Split one circuit into two independent ones
+I want to use a capacitor in my circuit to smooth out the signal, but I also want to use the original signal later on, so I have to split the circuit into two independent circuits (I can‘t simply use a diode, because there are negative voltages). How can I achieve this? Thank yall in advance!

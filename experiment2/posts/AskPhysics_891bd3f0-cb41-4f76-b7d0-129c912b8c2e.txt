@@ -1,0 +1,2 @@
+Why does the Peltier effect seem to require both p and n semiconductors instead of just one?
+Can it work with just one kind of semiconductor instead of a couple? If so, are couples used just for practical/engineering reasons?

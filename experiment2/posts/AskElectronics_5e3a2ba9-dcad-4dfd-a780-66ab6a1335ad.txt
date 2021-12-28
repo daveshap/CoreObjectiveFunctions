@@ -1,0 +1,1 @@
+Hi, this is a 3S 40Amp BMS that I've used for my 12V power bank that utilizes car 12v chargers to charge my stuff. Basically a 3s9p configuration for for 18650 2500mah cells. The problem is that the red marked 430 resistance is heating up. And that's when It's just idling. Any possible explanations?

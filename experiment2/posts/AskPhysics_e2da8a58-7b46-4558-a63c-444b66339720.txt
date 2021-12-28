@@ -1,0 +1,18 @@
+Teacher says I should be getting 3 amps as the answer to a problem which makes sense but I keep getting 24 amps and can't figure out how to get 3.
+A
+
+\_\_\_\_\_\_\_\_\_|-|-  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+|     |     | -------------Nothing--------------------|
+
+4     4     2  ------------Nothing--------------------3
+
+|     |     |   -----------Nothing---------------------|
+
+\_\_\_\_\_\_\_\_\_\_|-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+B
+
+Two batteries in a circuit, battery A = 60V Internal Resistance 3 Ohms - Battery B = 12 Volts Internal Resistance 1 Ohm. 3 Resistors connected in parallel on the left side of the circuit \[4 |4 2\] connected to a resistor on the right side of the circuit 3|. I have to calculate the current in the 2 ohm resistor.
+
+So far I found the total voltage in the system by doing 60 - 12 as the batteries are against each other \[negative ends facing each other\] charge flowing toward the left |-|- &gt;&gt; -|. I got total V = 48 which I used to calculate the total current by doing 48 = 8I; 8 being the value of the total resistance which gives 6 amps of current. My teacher said I did it right so I figured that since the voltage in a parallel circuit stays the same I would use that to find the current in the 2 ohm resistor. I did 48 = 2I and got 24 but this is obviously wrong and I don't know how to get the right answer.

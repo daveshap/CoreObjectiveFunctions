@@ -1,0 +1,3 @@
+Is it safe to run a switching power supply without power transistors?
+I have a dead computer psu. Pretty sure power section is dead but i still want to make sure that switching logic is fine before ordering new components. 
+Can i connect oscilloscope probes to transistor's gates to see if logic is still alive.  Will psu even turn on if i do this? Willi have to short power_ok pin to force it on?

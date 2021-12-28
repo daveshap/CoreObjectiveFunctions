@@ -1,0 +1,15 @@
+Which data set is most accurate with regards to Pakistan's PPP GDP Per Capita? I'm seeing a LOT of conflicting data.
+[As you can see here, according to this infographic from the World Bank, India's Per Capita PPP GDP surpassed Pakistan only around the year 2009.](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD?locations=IN-PK) 
+
+However, when I look at data from 2005 on Wikipedia, I see that India's and Pakistan's Per Capita PPP GDP were $3,019 and $2,372, respectively. This data comes from the IMF. SOURCE: 
+
+https://web.archive.org/web/20050330032513/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+
+So I'm thoroughly confused, and I'm also now suspicious about Pakistan's own Per Capita PPP GDP claims. [Here's a screenshot of the World Bank's own Per Capita PPP GDP data figures for India and Pakistan for August 2008, and it shows that India has a higher [figure for this.](https://imgur.com/cMWFZBv)
+
+
+SOURCE: https://web.archive.org/web/20080819030543/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+
+
+
+**What's going on with Pakistan's own Per Capita PPP GDP data and the World Bank's huge discrepancy here?**

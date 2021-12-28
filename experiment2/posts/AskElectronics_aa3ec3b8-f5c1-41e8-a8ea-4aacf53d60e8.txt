@@ -1,0 +1,2 @@
+Looking for a 32m-bit x 8 or higher alternative for a m5m417805cj chip. I haven't had any luck finding any SOJ chips that seem to fit the specs. Wondering if anybody with a bit more DRAM experience than myself might be able to help. The chips (m5m417805cj) that I'm trying to upgrade are 16m-bit x 8
+The original chips data sheet can be found [here](https://datasheetspdf.com/mobile/554147/MitsubishiElectric/M5M417805CJ/1) if anybody is interested. Thank you.

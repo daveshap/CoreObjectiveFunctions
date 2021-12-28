@@ -1,0 +1,6 @@
+Types of jobs to apply to related to coding as a bioinformatics focus biomed engr?
+What positions, fields, or companies I should take a look at with probably around 4-6 years of coding courses, high performance computer experience (C and Perl), data analysis, big data experience, java object oriented programming, experience with arduino (C), systems, circuits, dif eq, and the basics for engineering physics?
+
+I've been applying to basic data analyst, bioinformatics roles (with the least luck), positions where circuits/systems meet coding like entry level robotics and devops (literally don't know what that means but I've made it past the first stage more than once), as well as software dev and engr ( In C, Java, and python). 
+
+I want to get more into coding in the long term especially because it's potentially remote. But my portfolio isn't great projects got wiped from TOS change to University git. Still have like 2-3 solid projects posted on it but it's definitely not representative of the work I've completed, and I need money so I'm just applying to what I can get atm.

@@ -1,0 +1,10 @@
+Question about generalized coordinates in Lagrangian mechanics
+Hi,
+
+Just have a quick question about Lagrangian mechanics. 
+
+In the single pendulum problem, most instructors I've seen say that the one generalized coordinate they can use to describe the system is theta. But to get the velocities, they end up just splitting theta into x and y anyway. So how is that not using cartesian coordinates? Can you solve the pendulum example without doing that?  
+
+Please do let me know if I've missed/completely misunderstood something.
+
+Thanks!

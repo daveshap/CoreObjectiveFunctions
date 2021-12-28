@@ -1,0 +1,10 @@
+AM transmitter designs/schematics
+Where can I find AM transmitter designs/schematics? 
+
+Obviously I've researched first before asking here but the ones that I saw are either not allowed to us or it's just too weak. The design that we should have should have no ICs or opamps so it would only have discrete components although we can use ICs or opamps for amplification and that's it. It must also have a long range transmission. 
+
+I've been doubting the ones that I've researched so I can't decide which design I can follow since all of it looks sketchy.
+
+Any book,site,channel reccomendations would be appreciated
+
+Edit: by long range,I only mean by about 5-15 meters. My goal is just so that the receiver can still have a clear audio signal even if I'm that far away.

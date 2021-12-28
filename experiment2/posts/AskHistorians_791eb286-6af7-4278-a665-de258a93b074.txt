@@ -1,0 +1,10 @@
+SCR-528 radio in the Sherman tank, what was its distribution in 1944?
+How common was the SCR-528 in Sherman tanks that were not the Platoon Leader or Platoon sergeant in 1944? 
+
+In Zaloga's Panther vs Sherman, he states that the SCR-528 was only in the Plt Ldr or Plt Sgt tanks, however I tracked down the source of this information and it appears to be from a August 1942 manual on the US Tank Company. It claims that all other platoon tanks had the SCR-538 which could only receive and not transmit. This source is very early war and I have suspicions that it does not represent the equipment of later war Sherman tanks companies through 1943 and especially 44, considering that the Sherman itself would have at that point gone through many iterations. 
+
+Other sources I have found online, namely the Sherman Tank Site (a blog that usually quotes from primary sources) indicate the the SCR-538 was only put on tanks when there were supply shortages of the 528. 
+
+&amp;#x200B;
+
+Does anyone know what the distribution of the 528 was to Sherman tanks later in the war? In particular, Normandy and beyond.

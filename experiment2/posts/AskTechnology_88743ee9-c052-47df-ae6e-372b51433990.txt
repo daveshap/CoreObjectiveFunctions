@@ -1,0 +1,6 @@
+Does a portable 2 in 1 powerbank / charger with &gt;60W output exists ?
+I'm talking of the devices much like this one: 
+
+[https://www.amazon.com/Baseus-Portable-10000mah-Delivery-Charging/dp/B08D9LGZQ9](https://www.amazon.com/Baseus-Portable-10000mah-Delivery-Charging/dp/B08D9LGZQ9) 
+
+the main features of which are that it's pretty much a powerbank with built-in plug and a big output (Yet this one is 45W which is still not enough to charge ASUS Zephyrus g14 from USB-C) AND it has additional USB ports for charging a smartphone. I'm looking for something like this for traveling since not only it's very cumbersome and heavy to carry both a phone charger, a laptop charger and a power bank but also a lot of times a hostel room only has one plug, and you have to choose whether you want to charge a laptop or a phone or a powerbank. The device like this eliminates this hassle.

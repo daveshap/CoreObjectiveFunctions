@@ -1,0 +1,4 @@
+What happens if I use a SIM card from a foreign country? Could I still receive SMS?
+My country is going to start to impose mandatory SIM card registration and I'm finding ways on how to bypass it. I never really use SMS as a direct way to communicate to others. I usually just use it to register to privacy-focused messaging platforms like Signal which requires a phone number to have an account. 
+
+My question is, if I purchase a SIM card from a foreign country (online) and use it in my home country, will I still be able to receive SMS from services like Signal? For example, if I purchase a SIM card from New Zealand and use it in Japan, can I still receive messages while I'm in Japan using that SIM card?

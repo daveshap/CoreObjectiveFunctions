@@ -1,0 +1,4 @@
+Many engineering roles are just project management roles and I feel like vendors push their design too much and managers seem to accept it as long as it comes with some guarantee. Do you have this scenario playing in your company? how do you go about designing systems?
+Vendors basically push their design solutions and frankly the lack of expertise among our engineering departments leaves them with no major alternatives besides historical reliance on the relationship with said vendors. Basically no one even questions SEL or Emerson or Scheider , Rockwell etc; they can sell shit in a box at this point and no one will question them. It's a matter of time not if when something major happens because no one diversified their OEMs usage.. Not to mention they have us by the balls because a lot of equipment isnt interoperable with other vendors so we have to keep expanding with the same vendor.
+
+what are your thoughts?

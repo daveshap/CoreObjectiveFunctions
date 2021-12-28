@@ -1,0 +1,2 @@
+LED's capacitance/"solar panel" capability. any way to display this?
+basically, the 3W LED chips i have have a capacitance of 966 pf and also if you shiny a light on it close up, a voltage is generated. any way i can show a practical demlonstration (not including multimeter)? my idea was to try a transistor, but nope, too weak even when my phone torch was used.

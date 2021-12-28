@@ -1,0 +1,10 @@
+Would cooling off the exhaust gas of a steam turbine at the turbine's outlet yield an increase in efficiency?
+[https://gyazo.com/8078a0e6435b4b4af4bdf4ec44209b31.png](https://gyazo.com/8078a0e6435b4b4af4bdf4ec44209b31.png)
+
+In the image there's two theoretical steam turbines.
+
+Both  of them have identical temperature input. The difference being that  turbine A exhausts steam into the atmosphere with no extra steps, while  turbine B would have a supply of cold air being supplied at the start of  the turbine's exhaust and then exhaust it into atmosphere.
+
+Am I correct in assuming this would increase efficiency over turbine A?
+
+My  thinking is that steam contracts when cooled so this would create a low  pressure zone right at the exit of the turbine and in turn create a  sort of pulling force for the subsequent steam to come? Gaining us  efficiency through dumping of built up temperature?

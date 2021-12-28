@@ -1,0 +1,18 @@
+Hi, would anyone mind clarifying Ampere’s law for me? Context in post.
+Was practicing for an exam, came across two questions with (imo) conflicting solutions
+
+Question-solution pair [here](https://imgur.com/a/sKwwBmw/)
+
+I’m wondering how there can be a presence of a magnetic field in one case and a lack thereof in the other. Ampere’s law to my understanding would tell us that in both cases should have no B-field, as a closed circular loop would have 0 net current flowing through it.
+
+However, logically by considering the wire as an infinite number separate parallel wires in a formation, I would think there would be a B field in both, one circular and the other closer to an ellipse.
+
+The world seems to be playing a joke on me as I came across question 8ai first, using the I(enc)=0 implies B=0 as my initial working, only to change this view when I came across question 5ai(in a subsequent practise paper) and proceeded to get it wrong as I changed my method.
+
+The solution for the first question utilises a superimposed wire and finds the B field of that, whereas the other just states plainly that B=0
+
+Why wouldn’t either method work for the other? Which one is correct?
+
+I don’t think I’ll have to deal with such questions in the exam, but still want to understand how one might solve the question.
+
+Thanks in advance.

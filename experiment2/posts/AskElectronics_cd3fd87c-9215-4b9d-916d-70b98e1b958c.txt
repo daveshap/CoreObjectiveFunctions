@@ -1,0 +1,22 @@
+Need Help Understanding How These Components Will Interact with Each Other in This System
+Hello everyone,
+
+I’m brand new to Reddit and I’m seeking help designing a circuit for a project I’m brainstorming. I’m a working M.E. but our curriculum was very light on electrical and with this project I’m struggling a bit.
+
+Essentially I’m designing a system that will heat water to circulate through vinyl tubing. I’m other words, the reverse of a common liquid cooling system. 
+
+For my prototype, I need…
+
+- The whole system to be initially powered by a 110v wall outlet
+
+- The ability to set a desired temperature, between say, 60-120 Fahrenheit, and have the heating element controlled on and off to maintain desired temperature within roughly +/- 1 degree, but can fluctuate more
+
+- A pump that will run continuously while the unit is plugged in, or when the main power is switched “on”. Very low flow rate is needed.
+
+- This whole system will use a very small amount of fluid, likely under .25 gallon
+
+- while prototype costs can be higher, this needs to be designed in a way that it can be cost effective to produce and sell, as the end goal is a marketable product. I would like to keep the electronics for the prototype under $75
+
+I should mention that I found a PTC element and water block that is roughly the same dimensions on Amazon that I planned to use for the heat transfer. This can change if necessary though.
+
+My main source of confusion is whether or not I can run this system off 110VAC without transitioning to a DC system, as some components I’ve found that seem ideal are AC, while some components (like the pump) are virtually all DC powered. I expect to experiment with this system to achieve my ideal results, but I’m trying to find some initial help with the design so I don’t waste $100’s of dollars buying parts that won’t work or are not ideal for what I’m trying to do. To be clear, I want to learn and understand how these components will work together in this system, I’m not trying to take the easy way out. But I’ve reached the point where I can’t figure out what components I need to use without asking for help. Any assistance anyone can provide would be appreciated. Thanks so much!

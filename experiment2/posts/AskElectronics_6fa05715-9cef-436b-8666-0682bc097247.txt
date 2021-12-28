@@ -1,0 +1,2 @@
+Need Help With Optocoupler Relay Module Trigger Voltage
+I want to use this module for a vehicle project [https://www.ebay.co.uk/itm/254576050354?hash=item3b45ea40b2:g:8FQAAOSw5uZemfpM](https://www.ebay.co.uk/itm/254576050354?hash=item3b45ea40b2:g:8FQAAOSw5uZemfpM).  A vehicles voltage when charging could be 14.5 Volts yet the module is rated at 12 Volts. Will a 14.5 volt supply to the board and 14.5 Volts trigger  voltage damage the Optocoupler. TIA

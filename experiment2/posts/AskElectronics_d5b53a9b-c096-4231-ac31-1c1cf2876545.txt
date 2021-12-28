@@ -1,0 +1,6 @@
+Astable 555 in negative voltage circuit
+I've been working on some amplifier circuits and realized for the IC's I'm using I will need a negative voltage rail.  Being a poor hobbiest, I can't really afford another unit that can supply a negative voltage, so I decided to build my own.  I found a circuit on All About Circuits that uses an astable 555 circuit with some diode to create a negative rail.  I already have all of the parts except for the 10nF capacitor to control the oscillations.  There's no place around here to buy them so it's going to take at least a week or more to get any and I'm impatient.  So here's my question.  From what I understand C3 controls the frequency of the oscillations.  Does it's value really matter since all the positive oscillations are going to be stripped off in the output circuit?  
+
+&amp;#x200B;
+
+https://preview.redd.it/4zsfj00bie281.png?width=1242&amp;format=png&amp;auto=webp&amp;s=a192f0b9a70946b86f70b0bd9fc41537c9cbf12e

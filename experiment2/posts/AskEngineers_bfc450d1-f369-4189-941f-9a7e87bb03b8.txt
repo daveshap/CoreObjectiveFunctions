@@ -1,0 +1,14 @@
+Sources to learn about Industrial Automation and Mechanics.
+I recently graduated from EE and I am working on my own projects outside of my work. I am familiar with electronics, prototyping etc. however I have never designed a solution for industry scale. I would like to inform myself of the industrial machinery to be able to provide such solutions for possible customers or for myself. I am interested in learning the principles of a manufacturing site that takes the raw materials and generates the final products fully automated. When I check the Youtube videos of such factories, I can make sense of the electronics and mechanics behind the process but I would not know where to start if I were to design those. So I am open for any source suggestions for a systematic learning:
+
+What are the basics/keywords to start with?
+
+Is there standards to follow? 
+
+Suggested books or courses? 
+
+Sources that guide you with the commonly used mechanical methods like turning, sorting, cutting, pressing/streching, aligning, heating/cooling etc..
+
+Sources for commonly used manufacturing sensors, machinery materials that endures the conditions?
+
+Thank you in advance

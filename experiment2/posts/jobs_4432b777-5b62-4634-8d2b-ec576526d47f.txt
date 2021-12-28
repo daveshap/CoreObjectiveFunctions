@@ -1,0 +1,21 @@
+What are the best skills to gain to become a digital nomad?
+Hi all,
+
+I am new to this community and I am curious if I would be a good candidate to eventually become a digital nomad. Hopefully I am posting in the correct place and people here are able to point me in the right direction.
+
+I am a graduate in Civil Engineering but I did not enjoy my degree. So after college I pursued a career in Construction Estimating. After more than a year of construction estimating experience working at a Fortune 500 company, I find little enjoyment in this work as well. I feel really dumb for picking a degree that I did not enjoy and not realizing it until I started doing internships and my post grad work. Since the start of the pandemic the dream of working for a big corporate company went away and I really want to change to a job with more creativity and freedom and 100% remote work.
+
+In saying all this I know I want to switch fields but I am not sure where. I enjoy coding and manipulating data and I am open to learning all sorts of new skills. The main priority is to have more freedom and be able to travel and visit family for extended periods of time hence wanting to pursue remote work.
+
+**Some skills that I have that could be useful:**
+
+* Took a couple of C programming classes in college up to Data Structures. Enjoyed the classes and excelled in them.
+* I have experience writing simple codes at work in Python and Excel VBA for various projects.
+* I have created Powerbi reports using data from SQL servers. Not proficient in SQL language but know enough to access some data.
+* I am currently enrolled in the Google Data Analytics Professional Certificate course to gain some skills to transition out of construction estimating.
+
+**Questions to the community:**
+
+* Where should I get started?
+* What skills do you guys recommend to become a self-sufficient digital nomad? Any certificates that I could pursue?
+* How long will it take me to gain the appropriate skills to become a digital nomad?

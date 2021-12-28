@@ -1,0 +1,4 @@
+Does Gauss's Law hold outside of electrostatics?
+I am reading through Maxwell's fix to Ampere's Law, and part of the derivation involved rewriting the divergence of current density into the time derivative of charge density then into the time derivative of charge density but rewritten based on Gauss's Law (there was also a negative because current is the negative change in charge).
+
+The textbook I'm reading uses Gauss's Law basically only in electrostatics, and I don't recall if I did any problems using Gauss's Law outside of electrostatics, so does Gauss's Law hold even when charges are moving?

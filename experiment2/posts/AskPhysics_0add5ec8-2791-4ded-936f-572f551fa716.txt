@@ -1,0 +1,4 @@
+Formulas regarding light attenuation
+I've read on a few sites online that light attenuation (weakening of intensity) = 1/d\^2 where d is the distance the light travels from the source. Is this formula true? Also, if it is, it's worth noting that in my experiment I will be measuring light attenuation through water, a different medium. Are there any formulas that may be helpful to me here regarding light passing through any mediums with different molecular densities in general or nah?
+
+Cheers

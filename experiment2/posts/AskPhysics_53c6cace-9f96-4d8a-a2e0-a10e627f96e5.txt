@@ -1,0 +1,14 @@
+Help with magnetohydrodynamics problem
+[https://imgur.com/a/fIOu5M7](https://imgur.com/a/fIOu5M7)
+
+Here the problem in full. What I have done so far is rewritten the left-hand side using the triple cross product rule and canceled terms using the following information from MHD:
+
+div B = 0
+
+v dot del = 0
+
+So now I am left with the expression
+
+\- \\vec{B} (div \\vec{v}) + ( \\vec{B} dot del) \\vec{v}
+
+How can I rewrite this to match the right hand side?

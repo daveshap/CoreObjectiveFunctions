@@ -1,0 +1,12 @@
+Variable signals and oscilloscope triggering
+I have an audio signal that I want to view with my oscilloscope, and am able to do so after pressing the "Auto" button. But it seems to show the signal for a short while and then seems to re-trigger (I'm guessing) at seemingly random intervals on the order of a few seconds. The signal suddenly shifts and it makes it hard to see the continual transformation of the signal.
+
+[Video of what I'm trying to describe](https://i.imgur.com/fkP7x39.mp4)
+
+I'm guessing that it's triggering at different points in the (relatively) complex waveform, but I don't understand why it does the magic I want sometimes and not others. I have found that I can make it behave "better" by raising the trigger point, but when the wave's amplitude decays below that point, it goes back to misbehaving.
+
+It seems like there should be a way to tell the scope to find the appropriate sampling frequency (I'm sure that this is not the correct term) and stay there until I say otherwise, but I'm new enough at this that I don't know if I don't know how to configure my scope properly, if my scope doesn't have this capability, or if no scope has this capability.
+
+Assuming it's a trigger problem, the options I see are AC vs DC Coupling, Auto/Normal/Single, Rising vs Falling Edge, and Trigger Level. There may be more I'm missing.
+
+The scope in question is the [Owon HDS272S](https://www.owon.com.hk/products_owon_hds200_series_digital_oscilloscope). ([User manual](http://files.owon.com.cn/probook/HDS200_series_user_manual.pdf).) I'm aware that this is not a high-end scope, but, again, I don't know if my expectation is unreasonable, and, if so, how unreasonable.

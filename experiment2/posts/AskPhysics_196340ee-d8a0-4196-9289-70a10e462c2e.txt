@@ -1,0 +1,8 @@
+Would a compressed spring be hotter than an undisturbed one?
+I'm thinking that it would be hotter. The wound up spring has potential energy. Therefore, it has more internal energy. Hence, more thermal energy. 
+
+However, I also think that it wouldn't because compressing the spring did not change its kinetic energy, and temperature is the average kinetic energy. 
+
+What's the right way of thinking? I feel like I got my definitions mixed up. 
+
+Side question: Will a spring that was compressed and let go have a higher temperature than an undisturbed one because the first spring had its potential energy converted to kinetic energy?

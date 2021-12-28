@@ -1,0 +1,12 @@
+Quick Symbolic Question
+It was late and I'm currently having a discussion with my friend and I'm writing out my argument to see if I'm making unjustified jumps, but while I was doing that, I was thinking if it's possible to make a proof using the rules of inferences and conditional/indirect proofs to prove the contraposition of a conditional.
+
+I know you don't need to since they are logically equivalent, but this is more or less just a personal exercise to see if I understand how to make proofs (particularly assumptions) correctly. I came up with this.
+
+    1) p &gt; q / ~q &gt; ~p Pr.
+        2) ~q Assp. (C.P.)
+        3) ~p M.T. 1
+            4) p Assp. (I.P.)
+            5) p * ~p Conj. 4, 5
+        6) ~p I.P. 4-5
+    7) ~q &gt; ~p C.P. 2-6

@@ -1,0 +1,6 @@
+Do all methods to find the wavelength of light involve measuring the distance between interference patterns?
+I have watched a number of videos on how to find the wavelength of light, and they all seem to be some variant of this video: [https://www.youtube.com/watch?v=E-3uht9LAhM](https://www.youtube.com/watch?v=E-3uht9LAhM)
+
+Where some sort of diffraction grating is used to estimate the spacing between points of light, and then a formula is applied. So at core, I presume this is measuring the wavelength in terms of the distance between peaks on an interference pattern (please correct me if my assumption is wrong).
+
+Is this the only way to measure the wavelength of light? Are all uses of the term wavelength, fundamentally referring to the gaps between peaks of an interference pattern? Or are there other fundamentally distinct ways to measure wavelength, and a fundamentally different interpretation of the wavelength of light, unrelated to interference patterns?

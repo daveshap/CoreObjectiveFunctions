@@ -1,0 +1,2 @@
+How do people create high voltage starter for xenon lamps?
+I've seen some videos of giant 1000w+ xenon lamps and I'm a little bit interested on how they start the arc with high voltage without interfering with the power supply or just killed the power supply?

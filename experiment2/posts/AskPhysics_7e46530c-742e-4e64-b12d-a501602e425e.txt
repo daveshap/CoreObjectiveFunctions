@@ -1,0 +1,2 @@
+Why are thermistors non-linear?
+From the point of view of a thermistor's working principle, what about them causes their curve (ressitance as a function of temperature) to be non-linear?

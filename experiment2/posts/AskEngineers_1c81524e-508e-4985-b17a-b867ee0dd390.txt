@@ -1,0 +1,22 @@
+What is the ideal way to scale down materials for the purposes of controlling test costs?
+Hi All,
+
+Query is essentially what is contained in the title. I want to carry out some primary research for my thesis, and am struggling with how exactly to scale down for the purposes of testing. Wondering what best course of action is?
+
+# Example:
+
+I want to perform a lateral pull-out test on a Hollow-Section Steel Pile, the realised dimensions for which are:
+
+Section Depth = 120mm
+
+Section Breadth/Width = 60mm
+
+Wall Thickness = 3mm
+
+Length = 2200mm
+
+Is it best to divide all dimensions by 3 to conform to a scale factor of 1:3? Also, if I wanted to add concrete within the pile, do you think I would have to scale down mix characteristics accordingly?
+
+I'd appreciate if anyone could shed some light on this! Cheers
+
+EDIT: Call for help is originating from Ireland - excuse the metric units my Imperial friends!

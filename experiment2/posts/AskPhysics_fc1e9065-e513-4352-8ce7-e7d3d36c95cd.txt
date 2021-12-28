@@ -1,0 +1,14 @@
+Is Nuclear Decay Causeless?
+By causeless, I mean an event that occurs without regard to any prior states whatsoever.
+
+By prior states, I mean things like positions of subatomic particles within an atom's nucleus over time as well as any external effects (no matter how negligible) from the universe as a whole. I do **not** mean the configuration of an atom's nucleus, however. I understand that two identical atoms can decay at entirely different and unpredictable times.
+
+To my understanding (which is admittedly limited) the internal dynamic chain of events happening inside two identical atoms make them essentially non-identical, in that their subatomic particles move differently over time and experience different external effects from the surrounding universe. Identical in configuration yes, but not in how they experience the surrounding universe. If they were actually identical in that sense, to me, I would think they would have to be the exact same particle existing in the exact same time and place.
+
+What I'm **not** saying is that I think subatomic particles inherently have hidden variables, however. I am not talking about intrinsic properties of subatomic particles, but the different external effects they experience over time (including effects with each other inside the nucleus). To my understanding, Bell's Theorem proves that quantum physics is incompatible with local hidden variable theories, but I don't believe I'm talking about hidden variables here.
+
+Additionally, I do understand that nuclear decay is a spontaneous event and is impossible to predict **when** a particular atom's nucleus will undergo decay, but it seems odd to me to therefore consider such an event as uncaused. The cause is, in my eyes, the collective prior states of the subatomic particles in the nucleus randomly arriving to a new collective set of states that allow nuclear decay to occur.
+
+An analogy I feel might apply here is a bucket of water experiencing ripples. Every now and then, the ripples align in just the right way, causing some of the water to spill out. To me, even if we treat these ripples as purely stochastic, the event they produce (water dripping out of the bucket), seems to still be part of a causal chain of events that has transpired. The water in the bucket doesn't need to have intrinsic properties for this to occur. It simply does because the individual molecules (which in this analogy are being thought of as the subatomic particles in an atom's nucleus) have aligned in such a way that allow for some of them to be thrown out of the bucket. And therefore, such an event is "caused" by the prior states involved.
+
+I feel like this is enough for now. Please do read my words carefully, as I'm trying to understand a very nuanced distinction and have been very purposeful with how I've worded things.

@@ -1,0 +1,13 @@
+With current tech can we hang an object between the Sun and Earth, at approximately the midpoint between L4 and L5, with tethers attached to heavier probes orbiting at those points?
+Ignoring financial challenges; just considering materials, devices etc, that we know how to build today.
+
+Or would the object (or the cables themselves) be experiencing too high centrifugal force for any tether/cable we would know how to build today? How would the challenge compare to space elevators?
+
+Would we have enough raw materials on Earth for the type of tethers required?
+
+What would be the mass ratio between the two anchors and the hanging object required for such a setup to remain relatively stable?
+
+
+|
+
+How about a similar setup, but with more slack on the tethers to place the hanging object at Earth's L1, with the tethering serving to restrict motion along the unstable axes at L1?

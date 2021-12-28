@@ -1,0 +1,6 @@
+Shorted SMPS Output help
+Hi, im repairing a CRT monitor that worked perfectly a few days ago but it dosent work now
+The smps is shorted at the secondary side and I figured out by removing some diodes at the secondary output that if I remove D961 then the smps starts producing voltage again but theres no picture ofc
+[Here is the smps output schematic](https://imgur.com/a/rzMaKzz)
+I have swapped the tl431 for another one but it didnt solve the case
+What could it be?

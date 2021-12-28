@@ -1,0 +1,2 @@
+How do electric fields travel through wires
+I understand the basic explanation that there is a potential difference across the battery when a closed circuit is connected the electric field extends through the wire at the speed of light. I have trouble understanding and visualizing why this is.

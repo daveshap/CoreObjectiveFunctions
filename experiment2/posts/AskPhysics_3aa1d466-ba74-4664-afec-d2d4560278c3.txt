@@ -1,0 +1,2 @@
+Solenoid Valve
+How can we increase the pressure in 12V solenoid valve? After giving 12v itself water wasn't flowing as expected. Any sort of suggestion is highly appreciated.

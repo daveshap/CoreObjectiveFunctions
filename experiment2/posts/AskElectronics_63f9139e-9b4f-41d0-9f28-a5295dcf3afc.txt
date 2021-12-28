@@ -1,0 +1,2 @@
+How to add current limit freature to a circuit?
+I have this circuit that I'm working on and itll easilly draw 15-20 Amps. Thing is that the pcb traces cant handle that amount of current and itll shorten the life of my mosfet. My power supply is a fixed 24v 1600w and cant current limit but outputs as much as the circuit wants to draw. Any way I can add a current limiting feature to the circuit without overly complicating it?

@@ -1,0 +1,10 @@
+What material should I use to make a case to protect a very ESD sensitive component?
+Background I have PCB components as part of a setup that are potentially very ESD sensitive. They're generally handled by operators wearing antistatic bands in a grounded environment, using antistatic mats etc. but boards are still occasionally breaking. The boards are about the size of a flash drive, connected to a computer via USB cable and connected to a component via a ribbon cable (which needs to be accessed, as the thing with the ribbon cable is what is being tested).  The boards are not connected to anything else. They hang by the USB cable in free space, so the only path to ground is that cable.
+
+  
+
+I'd like to design a protective housing so that an operator's hand never touches the pcb but I am not sure if I should do one out of plastic to insulate it (I'd like to 3d print, currently available materials are standard ABS and PLA). I read \[this page\]([https://www.cadimensions.com/blog/esd-materials-in-3d-printing/](https://www.cadimensions.com/blog/esd-materials-in-3d-printing/)) and I'm confused as to whether regular plastic is potentially a bad idea since static charge can build up on the surface. Alternatively, I can make an aluminum case, connect it to the mounting holes on the board via conductive screws, and directly connect this case to ground. But that would be heavy and tricky, so I'd prefer plastic if feasible.  
+
+  
+
+Sorry if this sounds like a dumb question. Static protection has always baffled me

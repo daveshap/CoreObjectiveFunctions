@@ -1,0 +1,16 @@
+[India] Scrum master keeps interrupting me and asks me to get updates from other team members
+I work as a software developer. A new scrum master has been assigned for the project since the previous one went on long leave. Previous scrum master was super cool, displayed great professionalism and got the work done without breathing on people's neck.
+
+Now with the new scrum master, we have our usual daily stand-up meetings. But this guy keeps messaging me and calling me before daily meeting, to get the status. He again calls in the afternoon and evening to get latest updates. Lately it started feeling like my work is just to give him updates.
+
+I cannot focus on my work, because I have to constantly keep thinking on what to update him.
+
+He rushes and wants the work do be done. Sometimes I will be working on 3 user stories/tasks in parallel (which is not bad), but he expects great progress on each task, which is impossible for me to achieve.
+
+He then wants ME to get updates from other team members. He asks me to check with another guy on something he needs. So it becomes like a back and forth thing. I have to keep interrupting other people to check updates FOR him, and then report it back. One day he asked me to call my colleague to his phone number (on his behalf) to remind him to join a meeting that I am not part of. Today he asked me to tell someone, something, and to arrange a call for the three of us so that he can get an update, and when the other person was not available, he asked me to convey some message to him. I am not sure why he can't do that himself.
+
+Now few days ago, he sent me a meeting invite 10 minutes prior (I had already overworked that day, and just before I log off from work) to join a meeting just to tell them that he won't be able to join if they ask! I was already working 2 hours out of my working hours and I had to join that stupid meeting I had no part in, just to update them my scrum master won't be able to join, but they never asked. He sent the meeting invite despite the fact that I told him I won't be available at that time.
+
+I am not sure if he understands the separation of work between people.
+
+This has been a long rant. How do I handle this? I am thinking about quitting the job. It is affecting my performance. This guy is very polite but super annoying.

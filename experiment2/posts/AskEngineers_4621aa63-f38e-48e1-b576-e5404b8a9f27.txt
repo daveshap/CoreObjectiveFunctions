@@ -1,0 +1,4 @@
+Difference between manufacturing and production engineering
+I understand that production engineering involves work related with inventory control, process design and optimization, Utilization, Delivery etc., and manufacturing engineering is the design of process to achieve the physical model of the product.
+
+I wanted to know that the differences that distinguish them completely from one another.

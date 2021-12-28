@@ -1,0 +1,27 @@
+College Student needing advice regarding pc/laptop/tablet and storage/hardware
+Hey everyone,
+
+I’m a college student at Cal Poly SLO who needs some advice. For some background, I’m a computer science major concentrating in machine learning and artificial intelligence. Currently, I own a laptop (asus gl552vw) and a gaming pc I built 5ish years ago (1080ti, i7, 16 gigs). Right now, I’m using TeamViewer to transfer files/remote in from my laptop to my pc because I’m on university wifi. I don’t ssh anymore because i assume I’d need to portforward? I’m looking at holiday deals and I’m thinking about updating my current tech situation. 
+
+Issue #1:
+Is there a better way to access files (code, textbooks, pdfs, etc) from both my pc and my laptop? Can I make use of my pc’s hardware from my laptop? Is the best way to use a service/vm like from google’s cloud or aws or something? I honestly don’t know a whole lot about all this, but I use to ssh into my pc from my laptop when I lived at home.
+
+Issue #2:
+Carrying my laptop around all day can be quite the hassle. It doesn’t have good battery life (3-4 hours at the very max) so I have to carry the laptop and the charger around. Honestly, I write my notes by hand in all my classes (even cs classes), so it’s probably not very necessary. I was planning on buying a slimmer laptop, but I’m scared this won’t be powerful enough to run some of the neural networks and other ML/AI I work on. This isn’t a problem tho if I can make use of my PC’s gpu from anywhere (back to issue #1). My other idea is to get a tablet to take notes and write a little code on. Once again, if I can connect my pc, laptop, and tablet to all share files somehow (issue #1), then I’d feel a lot better about leaving my laptop at home when I know I won’t need it. If this is the best situation, is the Samsung Tab S7 a good choice? I haven’t had the best time with apple phones/tablets and windows/linux pc’s. 
+
+Issue #3 (low priority):
+My pc was running at like 98% of it’s ram capacity. I checked the resource manager and there was the normal stuff like chrome and Firefox but there was also a McAfee program eating up most of the ram. I’ve temporarily disabled McAfee, but I’m on my dad’s McAfee subscription and I would like to keep it. I do a lot of ram intensive stuff, so maybe I should upgrade from 16-32 gigs of ram? There’s a good cyber Monday deal on Amazon that I might take advantage of.
+
+
+Sorry for the long post. If anyone has any advice, I would love to hear it in the comments or a dm. Also, sorry for such a short notice, but I would like to take advantage of the cyber Monday deals tomorrow. I hate spending money (I rarely buy anything), so if there are any cheap solutions I’m all ears.
+
+(This is a repeat post from r/techsupport. I will update with a link to whichever is answered)
+
+Laptop:
+[Asus ROG GL552VW](https://www.amazon.com/dp/B01578ZKPO/ref=cm_sw_r_cp_api_glt_fabc_09WQFJE3PTVBZJ9EN3DZ)
+
+Tablet:
+[Samsung Tab S7](https://www.amazon.com/dp/B08FBPX3W2/ref=cm_sw_r_cp_api_glt_fabc_dl_535XGZ0Y083K2E83Q0JK?_encoding=UTF8&amp;psc=1)
+
+Ram:
+[Cyber Monday Ram](https://www.amazon.com/dp/B083TSLDF2/ref=cm_sw_r_cp_api_glt_fabc_dl_KJYNWH9W5755YW5TGQPV?_encoding=UTF8&amp;psc=1)

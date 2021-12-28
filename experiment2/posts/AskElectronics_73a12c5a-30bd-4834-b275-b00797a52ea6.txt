@@ -1,0 +1,26 @@
+Esoteric Nixie Tubes - How should I drive these?
+Hi all, I have some weird Philips ZM1030 nixie tubes I'd love to get working for a clock project. Here's the datasheet:
+
+[ZM1030\_philips\_01.pdf](https://www.andersknelson.com/blog/wp-content/uploads/2017/11/ZM1030_philips_01.pdf)
+
+They seem to require more voltage rails than typical nixies. I figured I could use 3 separate HV switching supplies to drive the three different high voltage rails without generating a ton of heat (via resistive voltage divider networks), so I built three of these:
+
+[Hackaday - Nixie Tube Power supply](https://hackaday.io/project/27899-nixie-tube-power-supply)
+
+My intent is to switch the numeral cathodes using one of those HV sink driver ICs made for VFDs and inkjet printheads. I saw them used this way here: 
+
+[Doayee. - Nixie Tube Driver](https://doayee.co.uk/nixie/)  
+
+
+**My questions:**  
+
+
+1.  **Is using 3 separate HV supplies a good idea?**  
+
+2. **How should I hook the tubes up with respect to the HV sink driver and the supplies? A description/diagram showing the connections to one numeral from "group 1" and "group 2" would be super helpful.**
+
+I'm more of digital guy, analog stuff still confuses me sometimes! Here's what the tubes look like when operating in the original machine, wheee: 
+
+https://preview.redd.it/p1otkvapu0381.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=f8ec0e8e89830ee386a3d524eb20e19232c03f1b
+
+Any help is appreciated!

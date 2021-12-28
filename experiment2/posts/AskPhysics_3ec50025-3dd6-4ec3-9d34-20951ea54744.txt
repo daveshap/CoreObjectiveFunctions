@@ -1,0 +1,4 @@
+Any good books on the gravitational n-body problem and n-body simulations
+Also, what prerequisites would I need? Thanks.
+
+Edit1: Also, could someone knowledgeable explain the general solution (I think there's something like nested series defined recursively, I'm not sure)? I skimmed through an article and it had topology in it and other advanced stuff.

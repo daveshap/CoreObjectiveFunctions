@@ -1,0 +1,9 @@
+What is S in the formula of Magnus Force?
+This is what I am talking about:
+
+F=S(w x v)
+
+The definition says that it is the air resistance coefficient, is it the same as Cd?   
+
+
+Physicists/Engineers studying fluid dynamics please help me out. 🙏.

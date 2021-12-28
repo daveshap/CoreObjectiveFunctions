@@ -1,0 +1,12 @@
+What Operating System should I use?
+I use *want to use* my computer for:
+
+* Gaming
+* Coding
+* Web Browsing and other basic tasks
+
+I am currently using Arch Linux but GNU/Linux is not the best OS for Gaming and Entertainment.
+
+I was thinking of switching to Windows but I don't like having Microsoft track me with telemetry background tasks.
+
+I am not sure what OS I should switch to.

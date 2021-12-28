@@ -1,0 +1,2 @@
+How are brute force attacks possible on iPhones?
+From my knowledge, shouldn’t an iPhone disable after a certain amount of incorrect attempts of entering the passcode? How do companies get around this?

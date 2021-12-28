@@ -1,0 +1,8 @@
+Trajectory Calculation with non constant accelerations
+Hello, as a challenge out teacher asigned us the following work:
+An electric current of intensity 5 A circulates through a straight and undefined conductor (Z axis).  At a given instant, an electron is moving parallel to the current in the same direction, at a distance of 0.2 m, with a velocity of 10 ° m.s'.
+
+The challenge is to calculate the trajectory and the electron with geogebra, but I don't really know what to do here. 
+
+
+Thanks in advance

@@ -1,0 +1,12 @@
+Scanlon, Kumar, and the non-identity problem
+I've been reading some of T. M. Scanlon's *What We Owe To Each Other* and I'm a bit confused about what Scanlon thinks we owe future generations. He specifies towards the end of Chapter 4 that we can wrong people who will exist, but just slightly before this he mentions Parfit's non-identity problem and the ramifications this can have on the previous statement. 
+
+To give an example, I'm thinking about the summer/winter child case, which seems a common characterisation of the non-identity problem. Essentially, a mother has the option of giving birth to a child in winter, who will be disabled but still have a life worth living, or waiting till summer, which will result in the child will not be disabled. The winter child is seemingly wronged if they are given birth to, yet they simultaneously owe the mother their existence, and had they not been born, they would never have existed. Instead, summer child would have existed. 
+
+My professor suggested Rahul Kumar's paper, *Who can be wronged?*, as a way for Scanlonian contractualism to solve the non-identity problem. Kumar seems to be suggesting that instead of allowing every possible existing person to reject principles, we instead should be appealing to 'types' of future people. So it's not summer/winter child, but just child. This child type can then have the generic reason to reject principles that result in them being disabled, thus solving the non-identity problem because that type can then say they have been wronged if the mother goes ahead with the winter birth.
+
+But then doesn't this run into issues of us having to justify principles to every future person, since presumably they all fall under a type one way or another? Wouldn't that result in moral gridlock (which Scanlon seems familiar with and attempts to avoid)?
+
+Firstly, I just wanted to check my understanding of the issue - apologies if I'm unclear or have made a mistake. Secondly, I was curious whether Kumar's solution actually works, or whether the above issues cannot be avoided.
+
+Any help would be greatly appreciated.

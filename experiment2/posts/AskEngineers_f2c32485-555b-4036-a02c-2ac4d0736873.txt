@@ -1,0 +1,2 @@
+Hole for ER collets
+I was trying to find a drawing for the conical hole for ER collets but nothing pops out. I need to manufacture on one of my project and i want it to be working for all diameters of current ER dimension. I need ER11 now, later maybe bigger.

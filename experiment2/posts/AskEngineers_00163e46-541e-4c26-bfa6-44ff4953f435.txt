@@ -1,0 +1,2 @@
+Why is seebeck coefficient plotted against Temperature and not Delta T?
+Guys I was working on calculating the efficiency of a TEG for which I have to calculate the Seebeck coefficient of tin selenide. Now all the graphs I see online have the Seebeck coefficient plotted against temperature- but shouldn't it be for a temperature gradient.. because the hot side and cold side are at two different temperatures? If not then what is the temperature that it is plotted against?

@@ -1,0 +1,2 @@
+Does anyone know what connector Metcal uses for their cartridges?
+I know that the connector for connecting the handpiece cable to the base station is an F connector, but does anyone know what the coaxial connector on the back of the STTC series tip cartridges is? Is it a custom Metcal connector or something off-the-shelf?

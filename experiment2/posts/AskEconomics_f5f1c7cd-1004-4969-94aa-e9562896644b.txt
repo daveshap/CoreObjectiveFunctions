@@ -1,0 +1,2 @@
+Where to get statistics?
+All I was trying to do is find a chart of US deficit, preferably as a percentage of debt, over the past decades. I've tried the world bank and [treasury.gov](https://treasury.gov) but the best I could find were some single year reports.

@@ -1,0 +1,7 @@
+Secondary Router working but main is not
+Usually I’d ask google this but all I’m getting is secondary router not working which is not the issue I’m having.
+
+My main router is sending a signal and I can connect but then nothing happens and it can’t load anything at all, this is not it being really slow. This router has been reset many times in the last 2 days, including leaving it off for a few hours.
+My secondary router that is connected to the main by cable works just fine so I’m very confused as to what’s going on.
+
+Any idea what’s going on and how to fix it? Thank you in advance for any help.

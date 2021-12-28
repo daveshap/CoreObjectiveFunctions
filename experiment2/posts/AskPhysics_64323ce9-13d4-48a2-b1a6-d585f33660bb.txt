@@ -1,0 +1,8 @@
+Amount of force in a collision.
+I created a super hero, and his super power is basically having a heavy head (8kg) and he is able to swing it at 25m/s and headbutt his enemies (who are assumed to be stationary. 
+
+Since I made it so his headbutts are perfectly elastic, I can conclude that the kinetic energy is conserved. 
+
+I have found that there is 2,500 J of energy in one of his headbutt strikes. But how am I able to convert this to pounds of force? Am i even able to? 
+
+I know 2,500J is equal to 2,500Newtons * meters. This doesn’t mean there is 2,500 newtons of force though, so how can I find the amount of force?

@@ -1,0 +1,10 @@
+Virial theorum
+So in a lecture I was deriving the virial Theroux however I’m confused on one step concerning evaluation [P•r,V] 
+
+My working from the lectures is as follows
+
+https://i.imgur.com/eN2lwYX.jpg
+
+Now I completely understand up to the 2nd to last line (note x hat is an operator). But o don’t understand how one makes that jump from that to the final line. 
+
+Can anyone offer any insight? Any help is greatly appreciated

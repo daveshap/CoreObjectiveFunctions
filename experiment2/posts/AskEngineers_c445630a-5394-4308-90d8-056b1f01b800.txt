@@ -1,0 +1,7 @@
+What type of aluminum to use?
+Might not be the right place for this question, and I’m not an engineer. I have a project that needs a .25” plate of aluminum about 3’ x 2’. We will cut many holes and take out large sections. Like taking a rectangle and making an F. 
+Last time we did this it came back from the CNC warped, cupped. I don’t know the specs of the plate used that time. 
+
+What type/alloy/temper/whatever aluminum will stay flat while machining?
+
+We are a wood shop also so machining means cutting on a table saw.

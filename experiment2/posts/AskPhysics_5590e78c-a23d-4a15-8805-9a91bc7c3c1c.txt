@@ -1,0 +1,2 @@
+Elliptical PDE and physics
+Elliptical Pdes are said to have imaginary propagation speed. What does this mean ? And how is it related to the fact that those pdes are only used to describe static state as opposed to dynamical objects like quantum fields or GR spacetime ?

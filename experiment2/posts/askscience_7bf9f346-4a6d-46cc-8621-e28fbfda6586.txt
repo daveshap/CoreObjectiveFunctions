@@ -1,0 +1,4 @@
+How does the air flow in an accelerating train?
+If the air is not in motion and the train starts accelerating, how would the air change within the entire train. Some visuals would be nice :).
+
+Currents studying fluid dynamics and the question came to mind wanting to see a 3D visual.

@@ -1,0 +1,12 @@
+Q: Energy monitor VS Electricity Monitor
+Hi all,
+
+Is there any difference between energy monitor and electricity monitor? 
+
+# Context
+
+Recently, my electricity bill has gone up. To find out the why, I have decided to install a plug to track my appliances electricity usage. After much research, I came across energy monitor plug vs electricity monitor plug. 
+
+However, I am unable to find ***what is the pros and cons of it***.  
+
+Any help is greatly appreciated. Thank you.

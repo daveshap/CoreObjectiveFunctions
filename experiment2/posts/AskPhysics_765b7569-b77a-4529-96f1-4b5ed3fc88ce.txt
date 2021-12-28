@@ -1,0 +1,6 @@
+What is a modular Hamiltonian?
+I'm trying to understand the quantum Bekenstein bound, and the equation refers to something called a modular Hamiltonian.
+
+Specifically, the Von Neumann entropy of the excited state minus the Von Neumann entropy of the vacuum state is less than or equal to the modular Hamiltonian in the excited state minus the modular Hamiltonian in the vacuum state.
+
+I'm hoping for a fairly simple explanation, not something overly technical. Not that I would necessarily not be able to understand a technical explanation, but right now that's just not what I need.

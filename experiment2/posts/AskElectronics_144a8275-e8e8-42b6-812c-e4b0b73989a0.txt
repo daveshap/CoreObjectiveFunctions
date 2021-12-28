@@ -1,0 +1,1 @@
+This is an idea for a switch to be used in an inverter for a motor. When a signal is applied to r20 the switch is open. C4 is very small, only enough to keep the switching from being too sharp when the input signal to r20 goes low. Is there anything very wrong with this circuit?

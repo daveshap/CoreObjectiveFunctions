@@ -1,0 +1,2 @@
+How were apps sold by SMS?
+I remember growing up with ads that asked you to send an SMS to buy an app. Where can I read about it, how it worked, or the tech stack? I've tried searching "apps sold by SMS" and "software distribution by SMS" without luck

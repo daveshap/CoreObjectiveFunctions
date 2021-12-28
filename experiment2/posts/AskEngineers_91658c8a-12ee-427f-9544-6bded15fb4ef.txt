@@ -1,0 +1,2 @@
+How do Iron-oxygen (rust) batteries maintain their reactivity when dealing with iron precipitation?
+My understanding of how they work is they have iron pellets surrounded by oxygen, which then reacts to form rust and produce the desired electrical current. When re-charged, the iron and oxygen split back into their original components. My question is how when charged, the iron is kept from just adhering to the reaction vessel, and after enough cycles lowering the reaction surface area to an unacceptable degree?
