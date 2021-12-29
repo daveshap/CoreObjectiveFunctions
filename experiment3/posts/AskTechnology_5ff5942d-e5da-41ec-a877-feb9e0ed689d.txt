@@ -1,0 +1,4 @@
+Is it worth fixing a 55 inch Roku TV (2 years old) with an apparent main board failure for $150?
+The title says it all but to expand on what led to the (over the phone diagnostic) was that my display randomly went black. The power button is still illuminated and if I hold a flashlight up to the screen, I can faintly see the startup screen / logo. It also no longer appears on my router device list nor my Roku app device list which tells me it’s no longer connected to the internet despite it still having some power going to it.
+
+The estimate was given under the assumption that is the only issue, is it worth paying to replace it? They gave me a ballpark of $150.

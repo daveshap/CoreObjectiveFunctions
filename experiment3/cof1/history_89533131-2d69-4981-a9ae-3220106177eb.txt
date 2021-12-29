@@ -1,0 +1,21 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Who Are the Shadiest Characters in US History?
+I am trying to compile a list of figures who somehow succeeded in what they do ie swindling a lot of money and ruling a bunch of people only to allow justice to teach them a lesson in the end.  Also with the supposition that they got many chances to come clean but yet greed and sinister behavior prevail.  Below are a couple of characters along that vein:
+
+* Samuel Brannan: Mormon settler that profited over the CA Gold Rush while turning his back on the church.
+* William Walker: the dude that manage to declare filibuster wars against sovereign nations against the will of the US govt and somehow managed to rule some parts of Mexico and Nicaragua albeit for a very short period.
+* Albert Fall: Sec of Interior of the Warren Harding administration that transferred control of oil navy preserves of the navy to oil men taking exorbitant bribes
+* Henry Starr: bandit that somehow managed to rob 21 banks in his entire career and arrested multiple times including a pardon by President Roosevelt but always reverting back to his crooked ways after each release.
+* Boss Tweed: Leader of the NYC Tammany Hall  that somehow managed to pilfer so much money out of govt and engage in so much corrupt practices.
+
+I'm sure there is more than a handful like that throughout history. Please share...
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "There are many people in history who have done terrible things. It's important to remember that they are not the only ones, and that they are not representative of the majority of people."
+2. "These are complex issues, and there is no easy answer. It's important to remember that people are more than just their worst actions."
+3. "It's important to remember that these people are human, and they made mistakes. We all make mistakes sometimes."
+4. "It's important to remember that these people may have had good intentions, even if their actions were harmful."
+5. "These are difficult topics to think about, but it's important to analyze them so that we can learn from them."

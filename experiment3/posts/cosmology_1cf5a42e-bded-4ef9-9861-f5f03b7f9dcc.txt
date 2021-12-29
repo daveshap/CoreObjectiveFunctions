@@ -1,0 +1,8 @@
+Baryon Asymmetry and Cosmological Principle
+Baryon asymmetry is the observed fact that within our observable universe there is much, much more matter than antimatter, and the standard model cannot explain this.
+
+Does it have to? If the universe is much, much larger than the observable universe, couldn't it be that we simply live in a high matter region? Yes, you would expect there to be boundaries between the matter and antimatter where a lot of gamma radiation is released, but if that gamma radiation would prevent the formation of life, then the anthropic principle would explain why we do not observe these boundaries. Life simply could not develop near these boundaries, and the most likely place for life to form would be in the center of a matter (or antimatter) dense region of the universe. These matter dense regions could be many times the size of the observable universe, and so we would not expect to observe its boundaries. 
+
+The cosmological principle asserts that on the largest scales, the universe is homogenous and isotropic, but this principle can neither be confirmed nor disconfirmed, given we don't know the size of the universe compared to the observable universe (and so how much we can extrapolate from our observable universe).
+
+Could this be a potential explanation for the observed baryon asymmetry? Obviously it can't be confirmed or falsified because we can't observe past the observable universe, but hypothetically it could be the explanation for it that doesn't require physicists to change their models of particle physics according to the Sakharov conditions?

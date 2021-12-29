@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What minimal technology would we need to (re-)produce in space in order to restore current technological advancement in case some disaster happened on Earth?
+The question was inspired by the plot of "Seveneves" by  Neal Stephenson (hope that I didn't spoil it much).
+
+So, in case of some severe catastrophe that makes Earth uninhabitable, given that humanity has established off-earth colonies somewhere in Solar System, what would be the minimum required production facilities that would ensure that humans could sustain their colonies as well as technology that we currently have?
+
+The Stephenson's novel gives some answers on that, but from what I could understand, in his story he relies on some technologies that don't exist yet (but are possible).
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "That's an interesting question. The answer is complicated, and relies on many factors. Let me give you some information to better answer your question."
+2. "It's difficult to say, as it would depend on the specific situation. However, in general, we would need to create a self-sufficient environment that could support human life and technology."
+3. "There are many different ways to answer that question. It would depend on the situation, and what kind of technology we're talking about."
+4. "It's hard to say without knowing more about the situation. However, in general, we would need to create a self-sufficient environment that could support human life and technology."
+5. "That's a difficult question to answer. It would depend on many factors, such as the type of technology and the severity of the disaster. However, in general, we would need to create a self-sufficient environment that could support human life and technology."

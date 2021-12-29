@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+How did Einstein actually predicted gravitational waves using GR?
+I’ve failed to find any simple explanation online. I suppose the actual explanation requires a lot of derivation but could it be summarised in any qualitative way?
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "Albert Einstein used general relativity to predict the existence of gravitational waves. In general relativity, gravity is explained as the curvature of spacetime. This means that objects with mass cause the spacetime around them to curve. When objects move, they follow the curvature of spacetime. This is why gravitation affects everything in the universe.
+
+Einstein's theory of general relativity predicted that when two massive objects move around each other, they create ripples in spacetime. These ripples are called gravitational waves. Gravitational waves are incredibly weak and difficult to detect, but scientists have been able to detect them using very sensitive equipment.
+
+The first gravitational waves were detected in 2015. Scientists detected them using the Laser Interferometer Gravitational-Wave Observatory (LIGO). LIGO is a huge facility made up of two detectors, one located in Louisiana and the other in Washington state. Scientists use lasers to measure the distance between mirrors in the detectors.
+
+If a gravitational wave passes by, it will cause the distance between the mirrors to change. Scientists can detect this change using the lasers. LIGO has been able to detect gravitational waves from a number of different sources, including collisions between black holes and the collapse of neutron stars."
+
+2. "Albert Einstein used general relativity to predict the existence of gravitational waves. In general relativity, gravity is explained as the curvature of spacetime. This means that objects with mass cause the spacetime around them to curve.

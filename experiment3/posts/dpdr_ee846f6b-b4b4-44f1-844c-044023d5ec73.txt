@@ -1,0 +1,4 @@
+Bug report on fight/flight
+Idk who programmed this defense mechanism but this mfer must be scratching his head right now. This shit works absolutely not as intended it gets triggered when there is no danger around my character. Please fix this asap. Its ruining my experience and of many others.
+
+Bug is active in versions 2019,2020,2021

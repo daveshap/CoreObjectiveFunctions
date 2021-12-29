@@ -1,0 +1,8 @@
+I've been reading the Feynman Lectures lately; how current/accurate is the information?
+I've been trying to get a greater understanding of both classical and quantum physics, and the volumes available online at [caltech](https://www.feynmanlectures.caltech.edu/) are quite interesting! I find that the material is portrayed in a way that is more easily accessible than certain other.. denser.. sources.  
+
+However, when the author starts mentioning (e.g.) the shortcomings of computers and other topics which "simply haven't been discovered yet," it makes me wonder how much has changed since the articles were written. They're originally from the 1960's, and I know a lot has happened since then. 
+
+How accurate are the Feynman Lectures? Are there any supporting resources that might be helpful while I go through the info?  
+
+I'll probably try tackling the Griffith Quantum textbook again at some point. That book seemed really informative, but it was hard/slow for me to digest the last time I tried reading it.

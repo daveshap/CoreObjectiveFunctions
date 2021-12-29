@@ -1,0 +1,4 @@
+Why do propellers not have "wing tips" like planes do?
+From my understanding, planes have little wing tips to reduce wing tip vortices which create added drag. I know propellers don't quite work like wings but often have a similar cross sections to generate lift, albeit this cross section changes along the length of the prop to accommodate speed differences. 
+
+So why then, don't we see wing tips at the end of propeller blades?

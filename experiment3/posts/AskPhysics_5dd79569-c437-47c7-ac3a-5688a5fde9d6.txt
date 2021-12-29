@@ -1,0 +1,6 @@
+Is it worth learning to code for a future in physics?
+I'm 17 studying physics at A level in the UK, I know I want to pursue physics in my future. However I'm not sure what field yet, I know I want to study physics at Uni, and I've heard from some that coding has become useful and a regular part of some people's jobs.
+So my question is, is it worth learning to code if I want to pursue a life of physics? And what language do you think is the best to learn?
+(Don't worry about difficulty level with coding, I'm not a beginner, I familiarised myself with C++ when I was 12 and used python at school when I was 14. I'm not sure how these compare to what other people use, but I know the basics and will hopefully pick up as I go along)
+
+Edit: I've had so many responses, thank you redditors of askphysics!!!! I think I'll continue to learn python and maybe matlab too! Have a great life!

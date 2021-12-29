@@ -1,0 +1,6 @@
+Network may be monitored; unusual traffic
+Hello, I reset my modem yesterday at home and put in a new username and password. Now, I am getting messages stating that my "Network may be monitored" on my Chromebook and "Unusual traffic" when I do a Google search in the Firefox or Chrome address bar in Windows 10. Am I being monitored? Or are these error messages? How to figure that out and if I am monitored: help. This is my home network. Arris Surfboard modem/router. Thank you.
+
+[https://imgur.com/a/AWOvLmW](https://imgur.com/a/AWOvLmW)
+
+Edit: link to imgur

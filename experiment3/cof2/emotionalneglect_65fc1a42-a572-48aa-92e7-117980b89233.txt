@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I'm always the first to try and make other people feel better
+But I feel like, if I have to wait for people to do something nice for me when I feel poorly, I'll be waiting forever.
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It sounds like you're tired of feeling like you have to be the one who always takes care of everyone else. It's important to remember that it's okay to put yourself first sometimes."
+2. "It's natural to feel like you're not being appreciated sometimes. Maybe you can try expressing your needs more directly to the people around you."
+3. "It sounds like you're feeling lonely and unsupported. Maybe you could reach out to your friends and family, or look for online support groups."

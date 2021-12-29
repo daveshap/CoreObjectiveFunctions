@@ -1,0 +1,10 @@
+Does anyone know how eye trackers calculate where you are looking?
+I was just looking up how eye trackers work after watching a video with them in. 
+
+I’m not surprised that they calculate where you are looking on your screen but I don’t really know how.
+
+All I could find online is information from teacuplab.com which said they use Machine learning, image processing and mathematical algorithms.
+
+Sorry if this is obvious and I’m not just seeing it but I have no clue how these things would calculate where you are looking.
+
+Does anyone know how they calculate it?

@@ -1,0 +1,2 @@
+Is it possible to calculate how dice will fall?
+I don't know where else to ask this question but I'm quite bothered by it. I'm in no way good with physics so bear with me. So let's say we have some simulated environment where we could get all the data needed,what force was used when throwing dice what angle etc. Is it possible to calculate on which side it will fall?

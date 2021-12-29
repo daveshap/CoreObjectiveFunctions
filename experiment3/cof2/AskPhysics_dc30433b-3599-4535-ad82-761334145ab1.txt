@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+How did Einstein actually predicted gravitational waves using GR?
+I’ve failed to find any simple explanation online. I suppose the actual explanation requires a lot of derivation but could it be summarised in any qualitative way?
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "Gravitational waves are fascinating phenomena! Albert Einstein predicted their existence in his theory of general relativity. Essentially, gravitational waves are ripples in the fabric of space-time that are caused by the acceleration of masses. You're right, the actual explanation can be complex, but I'm happy to share a simplified explanation with you."
+
+2. "It's great that you're interested in learning more about gravitational waves! I find them to be a truly amazing phenomena. In short, gravitational waves are ripples in the fabric of space-time that are caused by the acceleration of masses. They're fascinating to study, and I'm sure you'll find them just as interesting." 
+
+3. "Gravitational waves are caused by the acceleration of masses. When a large object moves rapidly, it creates ripples in the fabric of space-time. Albert Einstein predicted their existence in his theory of general relativity. They're a fascinating phenomena to study, and I'm sure you'll find them just as interesting as I do."

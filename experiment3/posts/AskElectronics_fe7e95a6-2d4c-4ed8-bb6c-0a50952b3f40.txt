@@ -1,0 +1,1 @@
+I’m attempting to build a binary clock using shift registers. This is the circuit for the seconds segment and the transistors are supposed to reset the count at 60 as well as sending a signal to the minutes SR every 60 seconds. Will this schematic work?

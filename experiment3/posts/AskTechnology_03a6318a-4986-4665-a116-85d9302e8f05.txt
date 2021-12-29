@@ -1,0 +1,5 @@
+Low performance for the first time a game opens.
+So, a while ago I updated some drivers on my PC, the thing is, since then every time I open a game for the first time, the performance is way too low for my specs. This is fixed by spending a small amount of time on the menu, alt+f4'ing and then booting it up again.  
+In some bad cases, I have to struggle with a 2 FPS menu, play a little, then ALT+F4.  
+In specific with League, every time I get into a match, it goes smoothly until an enemy champ steps out of the Fog of War, then I get the usual until I alt+f4 and then get back in.  
+Anyone can help? Thanks beforhand

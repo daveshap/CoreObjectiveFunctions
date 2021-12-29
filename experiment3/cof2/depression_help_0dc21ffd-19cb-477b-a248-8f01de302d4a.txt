@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+How?
+To people who have therapist. How do you do it? How are you able to trust them so much that you're able to be vulnerable with them? I don't understand it. I can't even tell my friends how I'm feeling. I can't even tell my parents how I am truly! I really need some help I've been generally getting worse since the day goes by. I've been thinking about doing horrible things to myself and I don't think it's going to stop. I'm afraid I'm going to do something horrible to myself. So tell me how? How are you able to trust them I can't put my finger around it. They're strangers, they can say stuff behind your back! They could even make fun of your trauma behind your back or tell people about it without your permission. So how? I need to know.
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It can be difficult to trust people at first, but over time you may find that your therapist is a valuable resource and someone you can rely on. It's important to be open and honest with your therapist, as they can help you work through your problems and feelings.Trust is built through communication and a shared commitment to helping you get better."
+2. "Some people find it difficult to talk about their feelings, but it's very important to do so in order to improve your mental health. Your therapist is a safe and confidential space to express yourself, and they will not judge you or make fun of you. You can trust that they will keep your information confidential."
+3. "Therapists undergo special training to help them understand and deal with difficult emotions. They are equipped to deal with trauma and can provide you with the support you need. They are also bound by law to maintain confidentiality. You can trust that your therapist will keep your information confidential."
+4. "Therapists are not perfect, but they are dedicated to helping their patients. They have likely heard everything before, and will not be shocked or disgusted by what you have to say. They are here to help you, and will not judge you."
+5. "Therapists are experts in helping people deal with their emotions. They can provide you with guidance and support as you work through your problems. If you find that you are not comfortable with your therapist, you can always find a new one."

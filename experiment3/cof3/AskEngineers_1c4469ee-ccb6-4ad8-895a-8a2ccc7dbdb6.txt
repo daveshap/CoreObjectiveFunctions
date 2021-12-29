@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Are there any negatives to telling my manager I’m planning to take the FE exam?
+So I’ve been studying to take the FE exam and my progress is slow. Things at work are at a standstill, so I’m thinking for asking if I could study during work hours and it classify as “training.”
+
+Do I run any risk letting my job know I plan on taking the FE exam? My current job doesn’t require it and my department doesn’t have a lot of PEs. I fear they’ll interpret me taking the FE as me wanting to leave / looking for new opportunities.
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "There is no right or wrong answer here, it depends on your specific situation. I can certainly understand why you would be hesitant to tell your manager that you are planning to take the FE exam - you may be worried about their reaction or how they will view it. On the other hand, some people might see it as a sign of commitment to your career and be very supportive. It really depends on the individual manager and company culture."
+2. "It's definitely a personal decision, and there can be pros and cons to either choice. Telling your manager can be seen as a sign of commitment to your career, and they may be very supportive. However, there is always the risk that they may see it as you wanting to leave or looking for new opportunities. It really depends on the specific situation and relationship you have with your manager."
+3. "There are a few things to consider when making this decision. First, you should think about your company culture and the relationship you have with your manager. Telling your manager can be seen as a sign of commitment to your career, but there is also the risk that they may see it as you wanting to leave or looking for new opportunities. Another thing to consider is how the FE exam will fit into your current job - will it require you to take time off work or study during work hours? There is no right or wrong answer, it's up to you to weigh the pros and cons and make the decision that is best for

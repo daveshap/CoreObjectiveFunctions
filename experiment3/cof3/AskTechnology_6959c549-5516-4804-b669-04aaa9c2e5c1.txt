@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What is Gartner's track record in forecasting tech trends?
+As a marketing communications consultant working mostly with the tech sector, I get sent on a lot of Gartner papers from clients - both for the purpose of explaining their industry landscape and showing how they would like to position themselves in the market.
+
+A perspective I'd love to get from somebody with a longer career, however, is ... how reliable do these predictions tend to be?
+
+In other words: looking back at Gartner's track record - which they're unlikely to share unless it's rosey - how successful have they been at actually forecasting the direction that emerging technology categories will take? 
+
+I think knowing that would be helpful when trying to decide how much weight to place on their prognostics for a certain sector (Etc).
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. " trend forecasting is an inexact science, and Gartner is no exception. However, their analysts are highly experienced and knowledgeable in the field, so their reports should be considered seriously. "
+2. "Gartner is a leader in the field of trend forecasting, and their analysts are highly experienced and knowledgeable. Their reports should be considered seriously when making plans for the future."
+3. " their track record is usually quite good. However, it's important to remember that trend forecasting is an inexact science, and they are no exception. "
+4. " their track record is usually quite good. Keep in mind that trend forecasting is an inexact science, so there will always be a margin of error. "

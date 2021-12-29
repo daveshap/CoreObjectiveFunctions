@@ -1,0 +1,6 @@
+The Feynman Lectures on Physics Audio Collection
+It's amazing that we can learn physics directly from one of the most impactful physicists.  I've watched the few lecture videos that are available online, but it looks like the whole course is available only in audio form.
+
+Seems like this would be much more popular if the audio were a little less garbled. Does anyone know of a cleaned up copy, or is any filtering tool that would get rid of some of the tape-recorder audio artifacts?
+
+https://www.feynmanlectures.caltech.edu/flptapes.html

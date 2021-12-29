@@ -1,0 +1,1 @@
+If I'm in New York and I send a text message to someone in Japan, how does my phone know on which local and undersea cables to send the information through for it to get to the recipient?

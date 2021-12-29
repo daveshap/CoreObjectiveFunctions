@@ -1,0 +1,2 @@
+What the heck is boundary conditions?
+Can you please explain in the easiest way possible, i don't seem to get anything i read about boundary conditions.

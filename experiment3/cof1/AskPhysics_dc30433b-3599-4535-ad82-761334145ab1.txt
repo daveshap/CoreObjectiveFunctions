@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+How did Einstein actually predicted gravitational waves using GR?
+I’ve failed to find any simple explanation online. I suppose the actual explanation requires a lot of derivation but could it be summarised in any qualitative way?
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Albert Einstein was a very smart man. He was able to figure out many complex things using his intelligence and knowledge. One of the things he figured out was gravitational waves. Even if we can't understand it fully, we can appreciate his intelligence and the amazing things he was able to do."
+
+2. "To understand Einstein's prediction of gravitational waves, you would need to understand general relativity. This is a very complex topic that can be difficult to understand. However, I can provide you with some resources that may help."
+
+3. "Gravitational waves are waves that are caused by the movement of objects. For example, when a large object like a star moves, it causes gravitational waves to ripple out. Einstein was able to predict these waves using his theory of general relativity."
+
+4. "It's really amazing that Einstein was able to predict gravitational waves. His theory of general relativity is so complex, but he was able to use it to figure out this major phenomena. It's a true testament to his intelligence and brilliance."

@@ -1,0 +1,1 @@
+How can I change the frequency of this oscillator? It's currently outputting too high. Details in comments.

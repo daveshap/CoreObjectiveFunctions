@@ -1,0 +1,2 @@
+Best/well known electronics simulator software
+Hi, all! I want to know which software can I use to design and simulate analog and digital circuits in Linux, I use kicad for PCB design, but i looking for something more to design circuits, with virtual voltmeter, oscilloscope, signaling, etc. Thanks in advance..

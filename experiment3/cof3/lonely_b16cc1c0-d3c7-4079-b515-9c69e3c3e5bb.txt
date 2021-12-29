@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I don’t rlly have someone to tell this to
+I hit my first home run in softball today after about 3 years. I worked rlly hard and it was nice to achieve this milestone. Thanks for listening y’all
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "That sounds like an amazing accomplishment! I'm so happy for you."
+2. "You must feel very proud of yourself! Well done."
+3. "This is a great achievement! You should be very proud of yourself."

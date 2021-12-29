@@ -1,0 +1,12 @@
+Can I spoof a UK dial tone when abroad?
+(For context, phone calls placed through UK phone networks have an immediately noticeably different dialtone to European networks).
+
+My work has a (supposedly based on VAT tax rules) policy on us not being allowed to work while abroad, which I am keen to completely disregard.
+
+We are all homeworkers, and have a lightly surveilled ICT system (I have pretty ironclad assurances on this through our work as a union branch). So, I am pretty certain that a personal VPN would let all my computer-based work go unnoticed.
+
+However, we have work-issued mobiles, and any calls placed to my workphone while on the continent woulld give me away due to European dialtone.
+
+Which is all to ask:  Is there any way to spoof the UK tone?
+
+ (I am less concerned about outgoing calls, simple as I never make them and always use VOIP)

@@ -1,0 +1,6 @@
+New company refused to provide full NDA before signing?
+Hi all, I started at a new job today and was going through orientation, and as part of it they provided their confidentiality agreement and a cover page of their NDA. The cover page essentially says "I agree to the terms of the attached NDA," but when I asked for the full NDA they stated that they can't provide it until it's signed because the NDA itself includes confidential customer information. I was sent home since I can't start working until I sign the NDA since as part of R&amp;D I'd be working with a lot of customer information (contract mfg).
+
+The confidentiality agreement also had a questionable clause, that any product (designs, etc) I produce outside the "work for hire" stipulation, would be granted to the employer, and that this survives the expiration of the agreement
+
+Any insight here on what I should do? Thank you!

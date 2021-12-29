@@ -1,0 +1,16 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What minimal technology would we need to (re-)produce in space in order to restore current technological advancement in case some disaster happened on Earth?
+The question was inspired by the plot of "Seveneves" by  Neal Stephenson (hope that I didn't spoil it much).
+
+So, in case of some severe catastrophe that makes Earth uninhabitable, given that humanity has established off-earth colonies somewhere in Solar System, what would be the minimum required production facilities that would ensure that humans could sustain their colonies as well as technology that we currently have?
+
+The Stephenson's novel gives some answers on that, but from what I could understand, in his story he relies on some technologies that don't exist yet (but are possible).
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "I'm sorry to hear that. I'm not familiar with that book, but I can try to help answer your question."
+2. "We would need to rebuild many things, including our technology. It would be a difficult task, but I believe it is possible."
+3. "There is no one answer to that question. It would depend on the situation and what was needed."
+4. "That's a difficult question to answer. Let me think about it and I'll get back to you."

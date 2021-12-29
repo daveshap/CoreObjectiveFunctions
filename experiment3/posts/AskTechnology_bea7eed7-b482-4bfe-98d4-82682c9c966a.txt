@@ -1,0 +1,8 @@
+Extremely slow (&lt;100kb/s) transfer speed usb 3.0?
+Hi everyone, I'm pretty much at a loss here, I just can't figure this one out.
+
+I've got a 3TB Seagate SSD (split into 2 partitions). I'm trying to backup some old photos onto it using my gf's laptop, but for some reason the transfer speed is less than 100kb/s. I figured it was my SSD so I went over to a friend's house and used his laptop to transfer some files, and the speed was up to 50mb/s. Both laptops have usb 3.0, so it's not the SSD.
+
+I've tried updating the drivers, reinstalling the drivers, using different file systems, but the speed remains at less than 100kb/s, most of the time staying on 0b/s.
+
+Can anyone help me, and figure out what's going on? Thank you a lot in advance!

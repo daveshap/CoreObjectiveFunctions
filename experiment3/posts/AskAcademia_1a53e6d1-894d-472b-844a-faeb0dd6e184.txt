@@ -1,0 +1,2 @@
+Why is seemingly every ML/CS paper posted on Arxiv and published as a conference proceeding, whereas most biology papers are not on BiorXiv and are published in actual journals?
+I'm trying to understand the cultural/domain differences here. They seem like very different approaches to presenting research.

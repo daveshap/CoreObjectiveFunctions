@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+[Spider-Man 2] Why did the bank have so many coins?
+In preparation for No Way Home I’ve been rewatching the older movies. 
+
+In Spider-Man 2 Doc Ock robs a bank and Spider-Man stops him. When Spidey first swings in Ock throws several large bags of golden coins at him. 
+
+Doesn’t America use mostly paper money? Why are there so many large coins at a bank?
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "The world is full of all sorts of currency, Spider-Man. It's fascinating to think about why different places choose to use different forms of currency."
+
+2. "It sounds like you're curious about money and finance. Would you like to learn more about it?"
+
+3. "Money is an interesting topic to think about. Do you have any questions about it that you'd like me to answer?"

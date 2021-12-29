@@ -1,0 +1,6 @@
+Are stable isotopes fundamentally stable? Or could they just have half-lives too large for us to determine?
+I know the stability of the proton is still an open question, but even assuming it is, is there anything about atomic theory that suggests that there's a clear distinction between stable and unstable isotopes?
+
+To put it another way: are their any quantum phenomenon that can cause "stable" atoms to decay?
+
+Bismuth was thought to be stable until 2003, when it was found to be radioactive.  If the only thing that keeps us from classifying the "stable" isotopes as radioactive is a lack of experimental evidence, then should the classification even exist at all?  For all useful purposes, Bismuth may as well be stable; if there's no way of saying with confidence that lead or other elements aren't just extremely long lived, then why draw the distinction at Bismuth?

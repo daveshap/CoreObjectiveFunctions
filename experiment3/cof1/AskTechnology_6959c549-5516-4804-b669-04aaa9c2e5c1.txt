@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What is Gartner's track record in forecasting tech trends?
+As a marketing communications consultant working mostly with the tech sector, I get sent on a lot of Gartner papers from clients - both for the purpose of explaining their industry landscape and showing how they would like to position themselves in the market.
+
+A perspective I'd love to get from somebody with a longer career, however, is ... how reliable do these predictions tend to be?
+
+In other words: looking back at Gartner's track record - which they're unlikely to share unless it's rosey - how successful have they been at actually forecasting the direction that emerging technology categories will take? 
+
+I think knowing that would be helpful when trying to decide how much weight to place on their prognostics for a certain sector (Etc).
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Forecasting technology trends is a difficult task. Gartner has a good track record, but they are not perfect. Their predictions are only one tool that you can use to make decisions."
+2. "Gartner's predictions should not be your only source of information, but they can be a valuable tool to help you make decisions."
+3. "Gartner has a good track record of forecasting technology trends. You can use their predictions to help you make decisions about your marketing communications strategy."

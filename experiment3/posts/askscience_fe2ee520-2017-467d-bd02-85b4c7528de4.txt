@@ -1,0 +1,1 @@
+I understand the need for a standardized order of operations, but is there a reason behind the specific order? Or is it arbitrary like the order of the alphabet?

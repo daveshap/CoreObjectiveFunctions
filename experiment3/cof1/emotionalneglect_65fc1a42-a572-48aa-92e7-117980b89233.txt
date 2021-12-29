@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I'm always the first to try and make other people feel better
+But I feel like, if I have to wait for people to do something nice for me when I feel poorly, I'll be waiting forever.
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It sounds like it's tough when you're waiting for others to reach out to you, and you feel like you're always the one doing the reaching. Maybe you can try to find some self-care activities that you enjoy, so you can give yourself a little TLC when you're feeling down."
+2. "It's hard when we're constantly putting our energy into others and not getting anything back. Maybe you can brainstorm some ways to communicate your needs to others, so they are more aware of how they can support you."
+3. "It sounds like you feel like you're always the one giving and never receiving. Maybe you can find a way to treat yourself with the same kindness and compassion that you show to others."

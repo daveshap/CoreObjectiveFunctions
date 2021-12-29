@@ -1,0 +1,1 @@
+Battery powered (cheap) digital clock time drifts a few minutes after a month... Any possible fix? (such as replacing the crystal oscillator?)

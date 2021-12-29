@@ -1,0 +1,1 @@
+What IC is this? It seems to be a fairchild but I could not find one with this printing. It is used in an 70 W LED driver.

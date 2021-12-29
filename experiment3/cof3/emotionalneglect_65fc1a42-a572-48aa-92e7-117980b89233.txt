@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I'm always the first to try and make other people feel better
+But I feel like, if I have to wait for people to do something nice for me when I feel poorly, I'll be waiting forever.
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "I'm sorry to hear that you're feeling down. It can be tough when we don't feel like ourselves and we don't know how to make things better. Can you tell me more about what's going on for you?"
+2. "It sounds like you're unhappy with the way things are going in your life. That's tough, and it's understandable that you would want things to be different. Can you tell me more about what you would like to change?"
+3. "It sounds like you're feeling a lot of negativity and sadness right now. That's tough to deal with and it can be hard to see a way out. Are there any things that you've been finding helpful in dealing with these feelings?"

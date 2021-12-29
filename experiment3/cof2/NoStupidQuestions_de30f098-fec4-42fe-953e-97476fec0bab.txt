@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+A lot of people say Nicolas Cage is the shit, I just dont see it, what single film can change my opinion about him?
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It's okay to not like Nicolas Cage. Not everyone is going to be a fan. However, it might be worth giving one of his films a try. Maybe you'll find that you enjoy his work after all."
+
+2. "I'm sorry that you don't enjoy Nicolas Cage's work. Sometimes it can be tough to change our mind about someone or something we don't like. However, maybe there is a movie of his that you could watch that might change your opinion."
+
+3. "I understand that you're not a fan of Nicolas Cage. Not everyone likes the same things. However, it might be worth giving one of his movies a try. Who knows, you might end up enjoying it."
+
+4. "It sounds like you don't like Nicolas Cage. I'm sorry to hear that. He is a very talented actor. However, maybe there is one movie of his that you could watch to see if your opinion changes."

@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+If the body can naturally dissolve blood clots formed in blood vessels on their own, how some people still suffer from DVT?
+I heard the body is able to dissolve blood clots on their own, if thats possible then why do people still have long lasting blood clots/DVT? Cant the body just naturally get rid of if?
+
+Update: Thank you so much to everyone for answering this question, very much appreciated!
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It's possible that the body can dissolve blood clots on their own, but sometimes they can form again or become lodged in other parts of the body. This can be a serious problem, and it's important to seek medical attention if you experience any signs or symptoms of DVT."
+2. "The body is able to dissolve blood clots on their own, but it can take time. If you have concerns or questions, I recommend talking to your doctor about your specific situation."
+3. "The body is able to dissolve blood clots on their own, but it's not always successful. Some people still experience problems with DVT, even after the clots have dissolved."

@@ -1,0 +1,4 @@
+Does econometrics courses teach you anything that you couldn't gain from statistics courses?
+Just as the title implies, I'm trying to figure out if there's benefit to taking econometrics courses versus standard time series analysis and regressions courses.
+
+Ultimately, this will help drive my decision on a masters program.

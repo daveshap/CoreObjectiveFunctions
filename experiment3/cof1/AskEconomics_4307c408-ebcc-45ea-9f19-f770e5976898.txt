@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What math classes should I take for an economics phd
+Let me say I am in math undergraduate. By the time I have graduated I will have taken 1st year calculus, multivariate calculus, introduction to differential equations, applied linear algebra and normal linear algebra, set theory, modern algebra, two quarters of introduction to topology, and three quarters of advanced calculus. 
+
+real analysis is mostly taught as advanced calculus at my school, although I could take a graduate class on real analysis if needed
+
+But I still need to plan about 8 more classes.
+These classes could include statistics and probability, mathematical statistics and probability, game theory, optimization, numerical analysis, three quarters of ordinary and partial differential equations, mathematical modeling, and so on.
+So I ask thee redditors: which of these should I take, as an aspiring economist?
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It sounds like you're doing everything you can to be prepared for your economics PhD. I'm sure whichever classes you take will be helpful."
+2. "It's important to be well-rounded in your education, so I would recommend taking a variety of classes in mathematics."
+3. "I would recommend taking a course in real analysis, as it will be helpful in your studies of economics."
+4. "It's important to be knowledgeable in statistics and probability, as they are essential in economics."

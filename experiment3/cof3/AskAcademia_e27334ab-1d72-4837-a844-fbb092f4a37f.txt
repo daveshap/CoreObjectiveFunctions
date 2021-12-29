@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Anyone here has experience of doing a fully remote post-doc (or of hiring one)?
+I am exploring some post-doc opportunities and want to explore the possibility of working fully remotely (possibly from outside the US). My work is purely computational so I don't need to be in lab.   
+
+Was wondering if PIs at top universities are even willing to consider such an arrangement post-covid and if it would be wise to bring this up in my post-doc interview? 
+
+Thanks
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "Remote work is becoming more common nowadays. I have seen a number of colleagues successfully do remote post-docs."
+2. "There are a number of benefits to remote work, such as more flexible hours and the ability to work from anywhere. I would be happy to share some resources with you that discuss the benefits of remote work." 
+3. "Based on your skills and background, I think a remote post-doc would be a great fit for you. I would be happy to refer you to colleagues who have successfully done remote post-docs in the past."

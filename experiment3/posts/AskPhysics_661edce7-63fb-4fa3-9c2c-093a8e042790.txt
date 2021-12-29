@@ -1,0 +1,35 @@
+Veristasium/Electroboom and Poynting
+[SOLVED]
+
+Isn't E=0 outside a wire with current, because the net charge is locally 0? Why do they draw E field and Poynting vectors all around the circuit?
+
+Solution:
+
+I'm considering the static DC case just to get it straight, I know that they are not, but for this matter, the reasoning is the same. 
+
+I'm an MSc student in physics, in my physics-II course, and my digital/analog circuits laboratories, I was always taught this rough model (I'll omit some constants because I'm lazy, but it doesn't matter):
+
+the current J=σE, E constant inside the wire and parallel to it, E=0 outside (0 net local charge), B=JπR²/2πr azimuthal outside of the wire so that CurlB=J (R is the radius of the wire, r is the distance from the axis) and B=Jπr²/2πr=rJ/2 inside the wire.
+
+It turns out that in reality, you have a superficial charge distribution on the wires, that monotonously changes along the circuit and globally sums to 0.
+This charge distribution clearly creates E fields inside and outside the wires.
+
+This has nothing to do with the dynamics, it's just a diffused misconception about the static circuit configuration! This was the matter of my disappointment, I was taught wrong. &gt;:'C
+
+Thanks to everyone who helped me to sort this out.
+
+Some cool videos about the topic of surface charges:
+
+https://youtu.be/Qp3iI06bujA
+
+https://youtu.be/E9icmHpgbh4
+
+
+The paper by Sefton:
+
+https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=http://mharding.net/wp-content/uploads/2016/05/Understanding-Electricity-and-Circuits-Ian-M-Sefton.pdf&amp;ved=2ahUKEwiW7rCasdf0AhVKQhoKHUkeAd8QFnoECAcQAQ&amp;usg=AOvVaw23Qspwzmc8Td5JAi4fw7jm
+
+
+A simulation:
+
+https://www.glowscript.org/#/user/matterandinteractions/folder/matterandinteractions/program/18-SurfaceCharge

@@ -1,0 +1,1 @@
+This circuit is connected to a solar panel, that is not charging the battery enough (batteries were tested and are working properly), what kind of solar panel should I get? 5V 2W? Less volts more W? Is there anything I need to check before saying is the solar panel's fault?

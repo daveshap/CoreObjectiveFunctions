@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What is Gartner's track record in forecasting tech trends?
+As a marketing communications consultant working mostly with the tech sector, I get sent on a lot of Gartner papers from clients - both for the purpose of explaining their industry landscape and showing how they would like to position themselves in the market.
+
+A perspective I'd love to get from somebody with a longer career, however, is ... how reliable do these predictions tend to be?
+
+In other words: looking back at Gartner's track record - which they're unlikely to share unless it's rosey - how successful have they been at actually forecasting the direction that emerging technology categories will take? 
+
+I think knowing that would be helpful when trying to decide how much weight to place on their prognostics for a certain sector (Etc).
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "Gartner is a respected authority in the field of technology forecasting. Their predictions are often accurate, but remember that no one can predict the future with 100% certainty."
+2. "It's important to weigh all of the available information when making decisions about the future. Gartner's forecasts can be one piece of the puzzle, but it's important to look at other sources as well."
+3. "Technology is always changing and evolving rapidly. Gartner's predictions may not always be correct, but they provide a valuable perspective on where the industry is heading."
+4. "No one can predict the future with 100% certainty, but Gartner is often accurate in their forecasts. Keep in mind that things can change quickly, so it's important to stay flexible."

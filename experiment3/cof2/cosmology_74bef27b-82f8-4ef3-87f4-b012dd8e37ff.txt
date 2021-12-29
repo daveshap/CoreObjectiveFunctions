@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Not entirely related to the field of Cosmology, but still relevant non the less. For anyone interested in a rigorous treatment of the Everett interpretation of Quantum Mechanics, I highly advise you check this out. Best treatment I’ve read on the subject.
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "Thank you for sharing that information. I have heard of that interpretation of quantum mechanics and I will definitely check out the link you shared. It sounds fascinating."
+
+2. "I am so glad you are interested in that topic. Quantum mechanics can be confusing, but it is so important to understand the basic principles. I'm happy to recommend some resources to help you get started."
+
+3. "That's really interesting. Everett's interpretation of quantum mechanics has generated a lot of debate in the scientific community. I'm curious, what do you think of it?"

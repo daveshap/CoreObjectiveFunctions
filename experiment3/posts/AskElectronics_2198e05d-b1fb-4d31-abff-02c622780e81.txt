@@ -1,0 +1,1 @@
+555 Timer with 2 1M resistors and a 0.1 uF cap. What are the ripples on the bottom of the square wave signals?

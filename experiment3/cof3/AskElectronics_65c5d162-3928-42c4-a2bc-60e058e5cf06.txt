@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What are these + shaped pads on my new motherboard used for? At first I thought they're some kind of test pads but they aren't connected to anything. The board is an MSI B550-A Pro
+
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "Those are called test pads. They're used to test the motherboard during manufacturing. Sometimes they're left connected, but often they're not. Don't worry, they won't affect the performance of your motherboard."
+
+2. "Those are called test pads. They're used to test the motherboard during manufacturing. Sometimes they're left connected, but often they're not. If you're curious about what they do, you can do a quick Google search to learn more about them."
+
+3. "Those are called test pads. They're used to test the motherboard during manufacturing. Sometimes they're left connected, but often they're not. If you're curious about what they do, you can ask a friend or family member who's familiar with computers to help you understand them."

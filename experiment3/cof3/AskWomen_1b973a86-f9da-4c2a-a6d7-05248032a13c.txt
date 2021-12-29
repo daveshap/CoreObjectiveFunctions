@@ -1,0 +1,12 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What do you get criticized for ?
+
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "I'm sorry that you feel criticized a lot. Can you tell me more about why you think people might be critical of you?"
+2. "It sounds like it's really hard for you when people criticize you. What do you do to deal with that feeling?"
+3. "I'm curious, what do you think people are criticizing you for specifically?"
+4. "It sounds like it's really painful for you when people judge you. What do you do to feel better?"

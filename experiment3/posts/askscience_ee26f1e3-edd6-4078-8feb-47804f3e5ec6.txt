@@ -1,0 +1,4 @@
+How broadly might Pfizer’s new covid antiviral pill work?
+I read that Pfizer's new pill, paxlovid, is a protease inhibitor that interferes with viral replication, and that they expect it to work just as well against omicron as it did against previous variants. 
+
+Will it work against all potential sars-cov-19 variants? Might it work on other coronavirus? Other types of viruses, like influenza?

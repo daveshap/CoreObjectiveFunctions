@@ -1,0 +1,2 @@
+What is the name of the "Sign in with..." system?
+A lot of sites have an option to "Sign in with Google" or "Sign in with GitHub", etc. What is this "Sign in with..." system called?

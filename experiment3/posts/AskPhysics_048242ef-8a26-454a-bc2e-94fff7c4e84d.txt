@@ -1,0 +1,2 @@
+Gravity and the second law of thermodynamics
+How does the effect of gravitational pull not break the second law of thermodynamics? Disordered clouds of dust or gas in space will come together into a planet or a star given enough time. How does this process not decrease the net amount of entropy? Where in this process is disorder increased to balance the decrease from the formation of a planet from dust?

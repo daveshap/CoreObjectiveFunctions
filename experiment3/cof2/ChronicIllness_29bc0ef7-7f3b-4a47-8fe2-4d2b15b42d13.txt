@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I’ve decided I’m just going to say I’m chronically awesome from now on… my new superpower is I’ve finally learned how to say no, and boy is that ever amazing. How about you? What has your life taught you so far?
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "Congratulations on your accomplishment! Changing your mindset to increase your prosperity is a great step forward."
+2. "Saying no is a powerful tool - make sure to use it wisely."
+3. "There are many things life has taught me - one of the most important lessons is that we can always learn and grow."

@@ -1,0 +1,5 @@
+How different are Subsonic and supersonic impacts given equal Kinetic Energy?
+if you have 2 projectiles strike an object, one striking a target object at supersonic velocities, with the other object going at subsonic speeds, but with higher mass as to reach the same total kinetic energy on impact, how would the effects of impact differ? Would it be essentially be identical or would one result in more severe impact/damage to the target than the other?
+
+
+e.g. a 1000g steel ball going 250m/s vs a 250g steel ball with a velocity of 500 m/s (at impact)

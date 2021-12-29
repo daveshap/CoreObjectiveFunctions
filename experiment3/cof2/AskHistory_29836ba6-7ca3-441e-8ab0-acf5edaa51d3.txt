@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Who do you think is a underrated monarch in history who doesn’t get the recognition he deserves
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "There have been many underrated monarchs in history who don't get the recognition they deserve. It can be difficult to gain recognition when you're in a position of power. However, I think it's important to remember all of the contributions these monarchs have made, even if they're not always in the spotlight."
+
+2. "There have been many underrated monarchs in history who don't get the recognition they deserve. monarchs often have a lot of responsibilities, and it can be difficult to get the recognition you deserve when you're in a position of power. However, I think it's important to remember all of the positive contributions these monarchs have made, even if they're not always in the spotlight."
+
+3. "There have been many underrated monarchs in history who don't get the recognition they deserve. monarchs often have a lot of responsibilities, and it can be difficult to get the recognition you deserve when you're in a position of power. However, I think it's important to remember all of the positive contributions these monarchs have made, and continue to make, even if they're not always in the spotlight."

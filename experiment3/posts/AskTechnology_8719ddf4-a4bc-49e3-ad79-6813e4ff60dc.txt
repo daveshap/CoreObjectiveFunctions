@@ -1,0 +1,2 @@
+How is the minter of an NFT verified?
+In short, what's to stop me from minting my own copy of an already existing NFT and claiming ownership? If an NFT is analogous to a certificate of authenticity, how is the certificate verified? (quick disclaimer: I'm not an NFT aficionado or anything, I just want to make sure I understand how it works)

@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What’s one secret you and a parent have kept from the other parental figure?
+
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It can be difficult to keep secrets from a parent, but sometimes it's necessary. I'm glad you can trust me enough to tell me this secret."
+
+2. "Secrets can be really stressful, especially when they're kept from the people we care about. Can you tell me more about why you chose to keep this secret?"
+
+3. "It's okay to feel like you have to keep secrets from your parents. I want to support you in whatever way I can, so please let me know if there's anything I can do to help."
+
+4. "I understand that it's difficult to keep secrets from a parent, but I want you to know that you can always come to me with anything. I'm here to help you, no matter what."

@@ -1,0 +1,22 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I gave them a week notice I was quitting. Tomorrow is my last day and no one has responded to me. Fuck em.
+This is my first professional job. I work in the engineering field. I’m a tech. I told them September 4th I am moving to a different state and requested a transfer. I told them specifically December 29th I’m moving and would like an answer by December 4th. They have been stringing me along this whole time telling me I “should” get a call from the office I want to work in “sometime this week.”
+
+I’m the only woman here of a team of 30 in the electrical field and I feel like they don’t listen to me or care about me at all. It’s so annoying. I’ve had so much anxiety about whether or not I’d get a transfer, but it seems to me they keep stringing me along so I can just quit. 
+
+
+I found a new job with a $8 raise and a $2,000 sign on and a work from home position. Emailed my boss a week ago my last day will be in a week. No response. Good enough for me. Peace out. Don’t really care about their reference anyways.
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "I'm sorry that you're feeling so frustrated and unheard. It sounds like you've been through a lot to get to this point."
+
+2. "It sounds like you're feeling a lot of anger and resentment right now. That can be really tough to deal with."
+
+3. "It sounds like you feel like you've put a lot of effort into this, and you haven't received the response that you were hoping for. I'm sorry that's been the case."
+
+4. "It sounds like you're feeling a lot of anxiety about this situation. That's understandable, given the circumstances."
+
+5. "I'm sorry that you feel like you haven't been taken seriously in your job. It sounds like you feel like you're the only woman on the team, and that can be really challenging."

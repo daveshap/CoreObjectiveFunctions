@@ -1,0 +1,3 @@
+Problem with display, horizontal line in center of monitor
+Hello everyone, I've experienced some problem with computer/videocard/monitor/etc. in last 3 days. It doesnt appear always. Its a horizontal pixel line with some colors that may change. It always appears when i close everything and just watch on desktop. Appears on youtube, and on some other sites, cant even understand what is the logic of that. So I added video and picture of that 'bug' or whatever is this. And I would like you to help me understand what kind of problem can be that and what should I do to solve this problem.  
+I've already tried to clean my PC inside, reinstall windows and some other small things that i thought could help by the advises in internet but it didnt help.

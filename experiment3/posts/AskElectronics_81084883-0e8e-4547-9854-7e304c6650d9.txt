@@ -1,0 +1,1 @@
+16V to 6V converter circuit outputting 0V

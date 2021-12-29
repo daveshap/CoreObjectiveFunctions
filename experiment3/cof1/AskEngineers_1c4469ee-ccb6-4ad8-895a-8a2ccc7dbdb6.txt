@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Are there any negatives to telling my manager I’m planning to take the FE exam?
+So I’ve been studying to take the FE exam and my progress is slow. Things at work are at a standstill, so I’m thinking for asking if I could study during work hours and it classify as “training.”
+
+Do I run any risk letting my job know I plan on taking the FE exam? My current job doesn’t require it and my department doesn’t have a lot of PEs. I fear they’ll interpret me taking the FE as me wanting to leave / looking for new opportunities.
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It's understandable that you would want to take the FE exam and advance your career. There are no guarantees, but it's worth trying to ask your manager if you can study during work hours. Sometimes it's more difficult to focus on studying when you're at home, so being in an environment where you can work on your studies may be helpful."
+
+2. "There are no guarantees, but it's worth trying to ask your manager if you can study during work hours. Sometimes it's more difficult to focus on studying when you're at home, so being in an environment where you can work on your studies may be helpful. If your manager says no, you can always try to find a study group or online resources to help you prepare for the exam."
+
+3. "There are no guarantees, but it's worth trying to ask your manager if you can study during work hours. Sometimes it's more difficult to focus on studying when you're at home, so being in an environment where you can work on your studies may be helpful. However, if your manager says no, you should still consider taking the exam. There are many resources available to help you prepare, and you may be able to find a study group or online resources to help you prepare."

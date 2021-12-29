@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Not entirely related to the field of Cosmology, but still relevant non the less. For anyone interested in a rigorous treatment of the Everett interpretation of Quantum Mechanics, I highly advise you check this out. Best treatment I’ve read on the subject.
+
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Wow, that sounds really interesting! I'm so glad you found a resource that works well for you."
+
+2. "Thanks for showing me that. I'll check it out and see if it's something that might be helpful for me."
+
+3. "Thank you for sharing that with me. I'm really glad to hear that you've found a resource that works well for you."

@@ -1,0 +1,10 @@
+What does the eigenvalue gives us in quantum mechanics?
+In class we learned that the probability of a particle to be in a given place is calculated using an integral of the wave function module in the interval that we are interested in.
+Then we introduced operators, and we have seen that to find the average of something (example kinetic energy) we need to integrate from minus infinity to infinity
+ Phi*(x) Â Phi(x) dx
+where Â is the kinetic energy operator, and this should work for all kind of operators (momentum, position, Epot,...) 
+Then we have seen that if phi(x) is an eigenfunction, 
+ÂPhi(x) = aPhi(x)
+where a is an eigenvalue. 
+
+What exactly does that eigenvaule represent in the physical word?

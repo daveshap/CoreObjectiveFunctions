@@ -1,0 +1,6 @@
+Do you think scientific articles are too inaccessible?
+I recently had to read an article about biology for a project I'm working on and, as a CS student, it was nearly impossible! Obviously academic papers need to be phrased that way because it's shared primarily with other experts in the same field, but do you think these articles can be described in a more concise way for the public to understand?
+
+I think COVID really highlighted why the public needs more access to scientific data. If someone wants to get statistics on the efficacy of the vaccines, they usually have to go through a scientific journal where the information is behind a paywall, buried under mountains of jargon, and worded formally. This makes it much less likely that everyone will understand or believe those statistics.
+
+Are these papers inherently impossible to 'dumb down', or can they be compressed into a way for the public to easily digest?

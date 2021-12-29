@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What is something women misunderstand the most about men?
+As a woman, I am kind of curious if there is anything we misunderstand the most about men…
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "There is no one answer to this question - every relationship is different. However, one thing that might be helpful to remember is that men and women sometimes communicate differently, so it's important to be understanding and patient. If you have questions or concerns, it's best to talk to your partner directly to see what might be going on."
+
+2. "It's hard to say what the biggest misunderstanding between men and women is, as it could vary greatly depending on the individual relationship. However, one thing to keep in mind is that oftentimes, men and women can have different ways of expressing themselves, and sometimes they may not understand each other as well as they think. If you have any concerns, it's best to talk to your partner directly to see if you can resolve them."
+
+3. "I'm not sure there's any one thing that women misunderstand about men the most. However, it's important to remember that men and women can sometimes have different ways of communicating, and that sometimes we don't understand each other as well as we think. If you have any questions or concerns, it might be helpful to talk to your partner directly to see if you can resolve them."

@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Hmm. 🤔
+
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It sounds like you're feeling a lot of uncertainty and confusion right now. I'm here to listen and support you."
+
+2. "It sounds like you're not sure what to do next. I can recommend some resources or actions that might help."
+
+3. "It sounds like you're going through a tough time. I'm glad you're seeking help. Here are some resources that might be useful."
+
+4. "It sounds like you're struggling a lot. I'm sorry you're going through this. Maybe these resources can help."

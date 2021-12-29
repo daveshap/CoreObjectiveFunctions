@@ -1,0 +1,4 @@
+WiFi driver not working on laptop
+So I recently got this old laptop from a close relative because they didn't need it anymore. It's an old Acer laptop running Windows 10 pro (Acer aspire 6930G). So when I tried to connect it to the internet and couldn't. (and no the problem isn't with the router, it works on every other device), I did a full factory reset and it still wouldn't work. The wifi button doesn't even work. You have to go into wifi settings to turn it on then a few seconds later it turns back off again. It literally says "disabled" in the box when you click the wifi option in the bottom right corner. Apparently it's a WiFi driver thing that I don't understand at all. (my WiFi driver is "Intel(R) Wifi link 5100 AGN"). In the settings I'm pretty sure the driver is turned on. I followed like 10 different youtube tutorials and non of them worked. If anyone knows what and how to fix it please let me know.
+
+Thanks in advance!

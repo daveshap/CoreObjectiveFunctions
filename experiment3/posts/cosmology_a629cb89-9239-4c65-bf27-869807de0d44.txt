@@ -1,0 +1,11 @@
+Is the universe pixelated?
+I've heard about the quantization of spacetime, and I'm confused on whether spacetime really is quantized, as I've seen various accounts. The evidence for it is provided here: 
+
+"the evidence suggests that popular approaches are flawed. Correct formulation of the atoms of space and time is a prerequisite to formulating Quantum gravity, the holy grail of modern physics.
+
+Current theories mostly depend on Planck scale structure, the smallest distance allowed in quantum physics. However if there were such small scale structure there should be anomalies in light from distant sources that have been excluded by experiment. I believe we can exclude Planck scale structure on the based that discrimination of such small distances would require energies much higher than have ever been observed, the Planck Energy.
+
+A second major stumbling block, in my view, is the lack of understanding of the vacuum, or zero point energy (ZPE) of space. The popular view is that there are intrinsically random fluctuations in the vacuum accounting for energy in the order of 185 GeV/cm^3, which as Wheeler remarked, is an energy density only marginally less than that matter. If instead we postulate that the vacuum energy is ordinary energy measured to be zero because it is uniform and the lowest energy we can measure relative to then the obvious solution is that space and time are quantized by spacetime intervals exhibited by well understood quanta of ordinary energy. 
+A third stumbling block in my view is that the universe is a continuum of fixed dimension. Quantum mechanics places no limit on the numbers of dimensions required to represent a quantum system. We can always consider a more complex systems having more dimensions without limit. The evidence is that these dimension are constructed locally within a quantum mechanical systems and do not obey any large scale a prriori extent on our world. General relativity shows space and time bends in on itself such that space and time is bounded within a hypersphere having a radius of the time since the apparent big bang times light speed. No dimensions extend forever. 
+
+Is this true? Are there explanations? Also, if electrons and quarks are quantized, doesn't this make them pixelated? What about gravity? More links in comments as I couldn't fit them all

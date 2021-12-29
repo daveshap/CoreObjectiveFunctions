@@ -1,0 +1,2 @@
+Are atoms exchanged every single time two objects collide?
+Within the scope of a collision that a human could feel.

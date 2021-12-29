@@ -1,0 +1,2 @@
+Dvi to displayport
+Hi, my sister got a new monitor for her computer but my parents didn't check the outputs and inputs so I need to get a new cable for her. The gpu output is dvi-d and the monitor accepts only hdmi and displayport. Is there any way she can get 144hz on the monitor with such a cable?

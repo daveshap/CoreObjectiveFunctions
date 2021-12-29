@@ -1,0 +1,6 @@
+What should I do to fix fast internet that has high ping?
+I'm using an internet that  has about 1000 Mbps download speed in speed test, but the ping is really high. In ping test it's about a 60 median, and 60ms in league, 30\~40 in apex, but it looks fine in pinging google server - around 15.  (I was expecting a ping under 20 for internet at this speed)
+
+I had a technical support from my internet provider try to fix this for me, but it didn't work. The technical support guy said that he treid everything he can (mostly on hardwares and wires), the internet speed looks fine and thats what theri troubleshooting is all about, and he can do nothing about it and don't know how to fix it.
+
+I also considered if it's problem with my pc, but i also tested on my labtop the ping remains the same.

@@ -1,0 +1,1 @@
+Amateur question: How do I wire this 3 pin illuminated switch to this 2 pin On/Off on the PCB?

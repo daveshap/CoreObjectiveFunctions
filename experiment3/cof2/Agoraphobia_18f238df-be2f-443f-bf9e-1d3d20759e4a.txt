@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Great day!
+Okay today went PERFECT! Don't trust that anticipatory anxiety!
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It sounds like today was a great day! Congratulations on your success."
+2. "It's great that you were able to notice your anticipatory anxiety and manage it effectively. Well done!"
+3. "I'm glad to hear that everything went according to plan. Congratulations on your victory!"

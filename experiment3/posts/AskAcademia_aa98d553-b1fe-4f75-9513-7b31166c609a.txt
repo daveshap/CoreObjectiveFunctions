@@ -1,0 +1,2 @@
+Is there a good reddit community for stats questions or R?
+I realize this is a bit off-topic, but academic Twitter only gets you so far. I have some genuine concerns about how to run some of my stats through R and I want to find some (non-Stack Exchange) place to get some feedback without it turning into a collaboration that warrants discussing co-authorship, lol.

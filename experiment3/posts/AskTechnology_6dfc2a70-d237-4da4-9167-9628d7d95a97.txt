@@ -1,0 +1,2 @@
+My Google Chrome keeps opening in Yahoo! tabs
+I’ve went into my Google Chrome settings and changed it as my default browser. I also checked my PC’s default browser and it’s set as Chrome. It usually only happens when I first open Google Chrome after shutting down my PC, see if I close it and open it back up this problem stops. But sometimes it happens no matter how long my PC has been running. I’m just wondering if anyone else has had this problem, knows why it happens or how to fix it.

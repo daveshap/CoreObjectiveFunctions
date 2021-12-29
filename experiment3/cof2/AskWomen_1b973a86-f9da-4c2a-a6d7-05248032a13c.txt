@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What do you get criticized for ?
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "People may criticize you for being too compassionate or for being too generous. But those are some of the most admirable qualities a person can have."
+
+2. "People may criticize you for being too idealistic or for having high standards. But those are also admirable qualities."
+
+3. "People may criticize you for being too trusting or for being too open. But those are also qualities that can lead to a happier and more successful life."

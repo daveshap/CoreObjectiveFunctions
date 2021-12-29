@@ -1,0 +1,1 @@
+What is this PCB construction called? There appears to be a ground plane laminated on top of the outer layer with only thin insulation between. Seen on Sega &amp; Nintendo boards from the early to mid 90s.

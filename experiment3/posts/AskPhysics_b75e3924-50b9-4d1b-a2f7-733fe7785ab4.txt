@@ -1,0 +1,6 @@
+What are some good resources for learning QM quickly?
+I have Griffith's QM textbook in my (long) todo list. But right now, I'm looking for a way to satisfy my curiosity without having to go through a long textbook.
+
+Basically, I want to gain an accurate, non-simplified high-level conceptual understanding without having to go through a lot of tedious math.
+
+Of course, maybe this is not possible.

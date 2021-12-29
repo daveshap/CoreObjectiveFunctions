@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Does anyone with DPDR ever feel like they’re ignoring something doom like and can’t explain it
+
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "It's common for people with DPDR to feel like they're ignoring something doom like and can't explain it. This is because the symptoms of DPDR can be very frightening and confusing. It's important to remember that you're not alone in this. There are many people who are living with DPDR and can understand what you're going through."
+
+2. "It's understandable that you're feeling this way. DPDR can be very frightening and confusing. It's important to remember that you're not alone in this. There are many people who are living with DPDR and can understand what you're going through."
+
+3. "This is a common feeling for people with DPDR. It's very frightening and confusing to experience the symptoms of this disorder. It's important to remember that you're not alone in this. There are many people who are living with DPDR and can understand what you're going through."

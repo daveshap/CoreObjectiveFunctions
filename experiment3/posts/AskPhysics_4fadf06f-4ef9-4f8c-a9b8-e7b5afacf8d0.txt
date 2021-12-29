@@ -1,0 +1,5 @@
+How did Archimedes create the buoyancy formula before the discovery of Gravity?
+Formula for buoyancy = F = pgV 
+(Density * volume * gravitational acceleration)
+
+How could Archimedes make a formula that uses gravity without actually knowing what gravity is? What did the original formula look like without “g”?

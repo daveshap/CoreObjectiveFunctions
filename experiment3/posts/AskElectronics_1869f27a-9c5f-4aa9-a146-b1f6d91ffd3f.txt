@@ -1,0 +1,1 @@
+First soldering: This keyboard switch placement is not working, what can be the problem? All the other switches are working.

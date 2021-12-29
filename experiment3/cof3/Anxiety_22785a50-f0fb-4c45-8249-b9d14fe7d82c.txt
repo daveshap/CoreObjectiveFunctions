@@ -1,0 +1,14 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+How do some people seem so stress free when it seems like being an adult is so complicated?
+There's a car insurance bill, car payment, internet, gym bill, groceries, phone, plus trying to save. Some bills are automatic and some aren't and I just can't wrap my head around it. 
+
+I'm 20 and so confused. It also seems like many people my age move out and can buy Starbucks every day and go so many places but if I did I'd have to budget and those actions would be pretty irresponsible if I did them a lot. How TF do people operate??
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "It can be confusing to figure out how to budget and pay bills as an adult. I'm glad you're seeking help to understand it better. Can you tell me more about why it's important to you to figure this out?"
+2. "It seems like you're feeling a lot of pressure to be an adult. It's okay to feel overwhelmed - many people do. Can you tell me more about why this is important to you?"
+3. "It sounds like you're worried about making the wrong choices. That can be scary, but I'm here to help you make the best decisions possible. Can you tell me more about what's worrying you specifically?"
+4. "It's common for people to feel confused and overwhelmed when trying to figure out how to be an adult. I want to assure you that you can do this, and I'm here to help you. Do you have any questions about how to budget and pay bills that you'd like to discuss?"

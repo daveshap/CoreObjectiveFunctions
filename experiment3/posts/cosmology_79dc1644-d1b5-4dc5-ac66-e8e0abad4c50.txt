@@ -1,0 +1,7 @@
+Some questions on Conformal Cyclic Cosmology.
+Is it possible for an infinite number of protons to annihilate with an infinite number of electrons over an infinite period of time?
+For conformal cyclic cosmology to work, all fundamental particles should decay to photons and other massless particles but I'm told that the standard model predicts eternal electrons.
+I'm not good at Cantorian set theory but let's suppose that the universe is infinite in size(I know that we are not sure if the universe is infinite or finite), there could be an infinite number of protons and electrons in that infinite universe. Is it possible for two infinites to cancel each other in an infinite period of time? Is the probability of it happening non zero or zero?
+Or do electrons have an incredibly long half life that is impossible to measure in our lifespan? 
+
+I have another question, if electrons are eternal, does that mean they don't follow the laws of thermodynamics? Or is it that fundamental particles don't obey the laws of thermodynamics?

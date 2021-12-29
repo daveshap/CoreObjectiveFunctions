@@ -1,0 +1,4 @@
+SD card manufacturing
+i don't quite know how to search google for this, but i *think* i read somewhere once that SD cards are made by making them all identical and then testing to see how much of the storage actually works, locking off the rest, and then labeling them
+
+is this accurate in any way? did i read some nonsense or did i make this up?

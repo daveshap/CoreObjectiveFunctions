@@ -1,0 +1,12 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Serious!! Im getting kicked out before my 18h birthday!
+So in another postI told you all that when im 18 she wants me out well today, I was in the kitchen fixing something to eat and i feel her lift up my shirt, "your underwear is out" she said it with a tone of disgust, I turned around and she was giving me a death stare, I was embarrassed "Im sorry I didnt know" so after her and her Boyfreind get into a huge fught she calls me into her room " I need to talk to you, I want you to move out, im tired of you" I never felt so happy and scared in my whole life, Im happy I just dont have any place to go or enough money to move out HELP!
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "I'm so sorry that you are going through this. It sounds like this is really tough for you. I want to do everything I can to help you through this. Can you tell me more about what is happening?"
+2. "I'm glad you came to talk to me. It sounds like you are feeling a lot of emotions right now. It's okay to feel all of those things. Can you tell me more about what is happening?"
+3. "It sounds like you are in a really difficult situation. I want to support you as much as I can. Are you feeling like you want to talk about what is going on?"
+4. "moving out is a really big decision. It can be really scary. I want to support you through this process. Can you tell me more about why you want to move out?"

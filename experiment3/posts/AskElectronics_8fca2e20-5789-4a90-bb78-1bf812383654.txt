@@ -1,0 +1,1 @@
+Replaced Xbox joystick character won't stop moving left

@@ -1,0 +1,1 @@
+This is the output on the left Channel of my NJM5532DD... Is it the opamp or a nearby cap causing issues?

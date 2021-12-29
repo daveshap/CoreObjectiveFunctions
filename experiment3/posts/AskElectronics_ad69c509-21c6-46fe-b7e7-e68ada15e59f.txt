@@ -1,0 +1,1 @@
+What would be the best way to make this look tidy, this is my first attempt at working with perfboard.

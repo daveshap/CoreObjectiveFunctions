@@ -1,0 +1,2 @@
+Volume control?
+This is something that always bugs me- the abrupt volume changes between channels or commercials.  Why isn’t tv volume based on a set decibel level so it will never cross a specified ceiling?  Is the technology there to “smooth out” the annoying differences across different programming?  Do any tvs already have this feature?

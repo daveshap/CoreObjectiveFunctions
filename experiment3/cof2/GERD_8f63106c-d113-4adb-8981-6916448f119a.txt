@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Hot drinks for esophagus health?
+Hey guys, wondering if anyone had some hot drinks that have helped heal their esophagus? I heard ginger is good but I had one of the branded teas before and it aggravated my acid build up.
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "I'm sorry to hear that. Are there any other drinks that you've found helpful? I'm happy to provide some suggestions."
+2. "There are a few different things that can help with healing the esophagus. I would recommend trying ginger tea, or any drink with ginger in it."
+3. "It sounds like you've been through a lot. I'm glad to hear you're trying to find ways to help your esophagus heal. I would recommend talking to your doctor about what they recommend."

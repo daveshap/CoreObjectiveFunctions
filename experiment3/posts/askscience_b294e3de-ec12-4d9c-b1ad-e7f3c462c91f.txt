@@ -1,0 +1,8 @@
+How can 30-40 GPS satellites cover all of the world's GPS needs?
+So, I've always wondered how GPS satellites work (albeit I know the basics, I suppose) and yet I still cannot find an answer on google regarding my question. How can they cover so many signals, so many GPS-related needs with so few satellites? Do they not have a limit?
+
+I mean, Elon is sending way more up just for satellite internet, if I am correct. Can someone please explain this to me?
+
+Disclaimer: First ever post here, one of the first posts/threads I've ever made. Sorry if something isn't correct. Also wasn't sure about the flair, although I hope Engineering covers it. Didn't think Astronomy would fit, but idk. It's "multiple fields" of science. 
+
+And ~ thank you!

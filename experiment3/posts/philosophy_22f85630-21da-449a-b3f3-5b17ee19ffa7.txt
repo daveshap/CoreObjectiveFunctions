@@ -1,0 +1,199 @@
+Aristotle‘s Metaphysics Book Β – put in my own words, my notes &amp; reflections
+**Aristotle‘s Metaphysics Book Β** **– notes**
+
+**A prologue – clarification, explanation, recapitulation**
+
+As we set out on this philosophical treasure hunt, the X on our map is always the first philosophy, i.e. the highest and most authoritative of sciences. It is the science which investigates the first principles and causes. In other words, we long and pursue to find out not only the how but also the why of the universe, sophia itself. Our thoughts are raised high and a rare excitement stirs our spirit and mind. Yet, the road is long. It is easy to miss the forest for the trees, or in this case to focus on particular words of Aristotle and miss his contemplations, the texts he passed on to us.
+
+Therefore, whenever Aristotle mentions, and I paraphrase, *“our investigation”*, *“system of study”* or *“the science we are seeking”* which he then describes as *“the most fundamental”* or *“prior”* or *“authoritative”* or with some similar qualification, he is referring to the first philosophy.
+
+In turn, with the first philosophy, we mean the pursuit of sophia. Sophia we tentatively interpret as the highest level of knowledge, i.e. the knowledge of the first principles and causes. In other words, the why and the how of the universe, of existence itself.
+
+Now, when we use the word science, we mean episteme and define it as a principled system of studying and understanding a particular kind of knowledge.
+
+The word aporia(pl. aporiai) we understand as a challenging question or puzzle that can be answered or solved through the dialectic.
+
+Aristotle‘s four causes (aitiai) which he brings up very often, we agree to understand more as explanations. We find them below:
+
+1. the material cause - What something is made of – e.g. this table is made of wood
+2. the efficient cause – How it came to existence – e.g. the carpenter made it
+3. the formal cause – The structure of its form and becoming – e.g. the table design blueprint
+4. the final cause – The function it fulfils – e.g. it‘s a dining table
+
+**Chapter 1 – the Path of the 15 Knots**
+
+ (a) General Introduction Aristotle writes Book Β of the Metaphysics in the form of a mental map, wherein he strives to clearly define and delimit the path we must take to find the knowledge we seek, i.e. sophia. This path he carves out in the form of a number of hurdles that we must overcome or more specifically 15 aporiai which we must (i) now deeply understand in order to (ii) seek to solve later. We note that Aristotle offers no solutions in this book. He tries, instead, to articulate these 15 aporiai in the most coherent and comprehensive way possible.
+
+(b) What is an aporia? Aporia is a word central to this book. We cannot afford to settle for a general definition. Instead, we set out to identify and keep as close to Aristotle‘s meaning of the word. The philosopher illustrates this with a metaphor. He gives aporia the form of a knot that keeps thinkers tied down and unable to move forward. A knot that may be complex but not unsolvable. In order to loosen and untie this knot, we must first survey its form, seek to deeply understand how it is tied together. In this way, Aristotle points us towards the 15 aporia knots which he plans to elaborate on in the following chapters.
+
+**A presentation of the 15 Aporiai**
+
+From here on and for the rest of book Β, Aristotle deals with the 15 aporiai in detail. He presents each aporia following a format specific to the dialectic: (i) first, he poses the problem, i.e. he asks the question. (ii) He follows up with a thesis, a first statement that remains to be proven correct. (iii) He then proposes an antithesis, i.e. he offers a second statement as a challenge to the first.
+
+Does Aristotle mean to keep the aporiai of what he calls “the first philosophy” for the eyes of “dialecticians” only? No. The philosopher meticulously follows this exact format in order to enable us, his readers, to form our own opinions and come to our conclusions.
+
+**Chapter 2 – Aporiai 1 to 5**
+
+**Aporia 1**
+
+**(problem)** Does the investigation of the first causes and principles belong to one science or more than one?
+
+**(thesis)** How can all principles belong to the domain of one science if they share no relation with one another, whether it be relations (i) of opposition *e.g. thesis and antithesis,* or (ii) of relevance *e.g. we cannot find the principles of motion or finality in things unchangeable*?
+
+**(antithesis)** Whereas it does appear appropriate for the principles to be investigated across a number of sciences which one would we deem the one we seek, the most “architectonic” and prior, i.e. the first philosophy?
+
+**Aporia 2**
+
+**(problem)** is it the domain of one science to investigate both the principles of substance and those of logic?
+
+clarification → with principles of logic we refer to axioms such as (i) the law of identity A=A, i.e. A is equal to itself, or (ii) the law of non-contradiction (if A=B then A≠ not B), i.e. A cannot be equal and not equal to B at the same time.
+
+clarification → with principles of substance we mean the underlying substance or substratum from which all things are made of and which we can find in everything e.g. fire for Heraclitus or water for Thales.
+
+**(thesis)** We already apply the principles of logic across many sciences such as geometry or astronomy and cannot therefore claim them as exclusive to one science. In fact, we can easily claim that logic belongs to its own system of study, i.e. science.
+
+**(antithesis)** Having acknowledged that the investigation of logic principles is separate to that of substance, which of the two investigations do we accept as the prior and most fundamental?
+
+**Aporia 3**
+
+**(problem)** Do all substances fall under one science or under more than one?
+
+**(thesis)** Should we happen to distinguish a number of sciences as dealing with substances, then which one of them do we consider the most authoritative?
+
+**(antithesis)** How can we make sense of a single science dealing with all substances when we perceive some substances as sense-perceptible and others as suprasensible?
+
+**Aporia 4**
+
+**(problem)** Does our investigation deal with substances alone or with their attributes as well?
+
+**(thesis)** If we are investigating both substances and the attributes of substances, then our system of study must be demonstrative in nature. However, as we believe, the science of substance cannot be a demonstrative one.
+
+**(antithesis)** If we leave the study of the attributes of substance to another science then which science would that be and what priority would we give it?
+
+**Aporia 5**
+
+**(problem)** Do only sense-perceptible substances exist or are there others beside them such as Platonic forms or Pythagorean mathematical entities? If there are, are these of one kind or more than one?
+
+**(thesis)** The Platonic treating of forms as immanent and imperishable &amp; mathematical entities as intermediate to the forms and the perishable, sense-perceptible world poses several problems and paradoxes. (Aristotle elaborates on this in book Α Ch. 9)
+
+**(antithesis)** When we study geometry or mathematics, we may say that e.g. the circle we drew on the blackboard refers to the abstract form circle and that the π equation we wrote next to it refers to an abstract mathematical entity. To claim, however, that these abstracts are imperishable, yet occupy the same space as their perishable counterparts? Once again, this creates many logical difficulties and pushes to the paradoxical.
+
+**Chapter 3 – Aporiai 6 &amp; 7**
+
+**Aporia 6**
+
+**(problem)** Do we understand the principles and elements of things as (i) the classes or genera under which they fall or (ii) the parts of which they are composed?
+
+**(thesis)** We already know of several arts and sciences where the principles are treated as the primary constituent parts: (i) One is phonetics, where the principles and elements of words are the individual sounds which make them up. (ii) Another is geometry, where basic geometrical proofs are implied in more advanced ones (Euclid calls basic math. proofs “elements”). (iii) Furthermore, Empedocles calls fire, water and so on as the constituent elements of things. In a nutshell, we have plenty of examples where we count principles as composite parts.
+
+**(antithesis)** We can also make a case for viewing the genera as the principles of things provided that knowledge of the genera of something provides us with (i) its definition, (ii) a framework of knowledge on it, (iii) its point of origination. Let us note, however, that the principles cannot be both the constituent parts and the genera at the same time.
+
+**Aporia 7**
+
+**(problem)** Supposing we understand the genera as the principles, do we limit our study to only the most abstract and primary genera or do we focus instead on the more concrete, yet ultimate ones? To illustrate, do we regard “insect” as a principle or do we think more in terms of “monarch butterfly” and “hercules beetle”?
+
+**(thesis)** If we consider the primary genera as principles, then we will have to admit *being* and *unity* as the highest principles and substances of the universe. How can we go about this, though, when we distinguish each subordinate class by its marked differences from all the rest? We would then have to consider each subordinate class as a further principle to the point of absurdity.
+
+**(antithesis)** If we consider the ultimate genera as principles, we will not be able to pose principles as separate of the individual things of which they form the substance. A principle, however, is by definition a substance prior and external to the things it makes up.
+
+**Chapter 4 – Aporiai 8 to 11**
+
+**Aporia 8**
+
+**(problem)** We know and make sense of things only in so far as they carry some identity or unity or share some attribute universally. Yet, if this is a necessary precondition for the existence of knowledge, then we admit the existence of something outside and above particular things which allows us to ponder them, systematise and order them, i.e. genera.
+
+These are objects of thought, things we can contemplate in our mind. In the absence of thought-objects, however, we have nothing more than a sea of infinite sense-perceptible particulars. How can we then gain knowledge of them or systematise this knowledge into a science?
+
+**(thesis)** If there was nothing apart from an infinity of material things, then (i) we would have no capacity to gain knowledge of something, only to perceive it with our senses. Furthermore, (ii) there would be nothing eternal, nothing unchanging for, as we know, material things are always in a process of coming-to-be and always perish.
+
+If there is nothing eternal, then how can this continuous process of coming-to-be exist? There ought to be something suprasensible and imperishable which pervades sense-perceptible, perishable things and gives them their form across the different stages of their coming-to-be like a form or schema. (e.g. the journey from acorn to great oak tree)
+
+**(antithesis)** If we suppose that these eternal, unchanging thought-objects or forms exist, how do they work?
+
+(i) What criteria do we follow to know in which cases they do exist and which not? *e.g. is there a form for Socrates which pervades all people called Socrates or is there instead just the form man e.t.c*
+
+(ii) How do the finite and eternal thought-objects constitute the substance of the infinite material objects?
+
+**Aporia 9**
+
+**(problem)** Do principles have formal or numerical unity?
+
+clarification → Formal unity refers to the unity of the form which several particular things may share. To illustrate, a butterfly and a beetle are both insects, i.e. they are of one kind. When we talk of numerical unity, we consider individual things only in terms of their number. To continue the illustration, a particular butterfly and beetle may be of one kind, yet they are two in number.
+
+**(thesis)** If we claim that principles only have formal unity, then we also deny the many sense-perceptible particulars their numerical unity, i.e. that they are many in number.
+
+**(antithesis)** Supposing, on the other hand, that principles are limited to numerical unity, we then have to acknowledge the absurdity that every particular sense-perceptible thing comes with its own individual principle. To illustrate, it is as though we lose the capacity to acknowledge that H2O and CO2 both have oxygen(O) in them.
+
+**Aporia 10**
+
+**(problem)** Do perishable and imperishable things proceed both from the same principles or from separate ones?
+
+**(thesis)** If all things proceed from the same principles, then (i) how can some be perishable while others imperishable and (ii) why?
+
+Aristotle contends that his forerunners have not treated this question sufficiently in spite of its deserved gravity.
+
+(i) Hesiod the mythologist, the philosopher mentions, pointed to nectar and ambrosia as the means to immortality. Yet, if the gods require these to remain in existence, then how can they be considered immortal?
+
+(ii) Empedocles, who Aristotle considers a forerunner, treats of things as separated by *“strife”.* In doing so he produces a paradox, however, where *“strife”*, the nominal cause of destruction and separation, becomes also the cause of all creation. At the same time, Empedocles regards *“love”* as causing creation. Yet, when *“love”* brings things together and subsumes them into something new it destroys them instead.
+
+**(antithesis)** If perishable things proceed from perishable principles specific to them, then (i) how are these perishable principles born in the first place and (ii) do they not have to resolve into other principles when they perish? If so, they are not to be counted among the first principles we are looking for in the first place.
+
+**Aporia 11**
+
+**(problem)** Do *unity (the One)* and *being* exist in themselves as the first principles which comprise the substance of all things *(position of the Platonists and Pythagoreans)* or are they instead composed of an underlying substance prior to them? *(As the Ionian physicists suggest)*
+
+**(thesis)** If we refuse to consider *being* and *unity* as substances which exist in themselves and are separate of individual particulars, then we can no longer acknowledge numbers nor any other universal as existing in themselves, separate of individual particulars either.
+
+**(antithesis)** In the case we do consider that *being* and *unity* exist apart from and prior to all other things, then not only do we have to recognise them as substances in themselves but also have to accept that they pervade all other things to the degree that we can only admit *being* and *unity* as having a true and positive existence. In other words, should we follow this argument to its rational conclusion, we end up denying the many particulars and adopting a monist worldview as expressed by Parmenides: *“All things that are are one and this is being”*.
+
+**Chapter 5 – Aporia 12**
+
+**Aporia 12**
+
+**(problem)** Are numbers, bodies, planes, points, substances or not?
+
+**(thesis)** Among philosophers, the Ionian physicists especially counted the first principles and elements of being among material bodies such as those of water, fire, earth. Mathematical instances they regarded as attributes of these substances.
+
+Later thinkers such as the Pythagoreans, nevertheless, argued that these corporeal elements consisted, in fact, of mathematical objects such as points, planes, lines and numbers. In this way, they regarded mathematical entities as existing in themselves, prior and more universal to any bodies of matter. Pythagoreans considered numbers to be the first principles.
+
+**(antithesis)** Yet, how can suprasensible thought-objects like numbers and lines bring forth sense-perceptible matter? If mathematical instances are eternal and unchanging, how do they constitute the world of becoming? In what way do we account for continuous change, generation and destruction? We can clearly make a case that mathematical objects are not the substances which make up the material world but rather simply have the potential to appear in it.
+
+**Chapter 6 – Aporiai 13 to 15**
+
+**Aporia 13**
+
+**(problem)** Why do we find it necessary to posit an additional class of entities, i.e. the (Platonic) forms, beside the sense-perceptible and the mathematical ones?
+
+**(thesis)** Much like the letters of the alphabet, there is an infinite variety of ways we may combine mathematical expressions. Thus, we have to accept that the objects of mathematics lack numerical unity, i.e. a limit in number and only have a limit in kind or formal unity.
+
+This is ground enough for the Platonists to propose the forms to exist as substances which maintain both a numerical and a formal unity and advance them as the first principles of being.
+
+**(antithesis)** If we suppose, however, that the forms do exist, then we have to deal with all the problems, pitfalls and paradoxes which we expressed previously, including aporiai 5, 8, 9 and so forth.
+
+**Aporia 14**
+
+**(problem)** Do the principles exist potentially or actually?
+
+clarification → When we speak about potentiality in Aristotle, we mean the possibility of a thing to exist. Actuality, in this regard, is the fulfilment of a possibility, the coming of a potentiality into being. Thus, potentiality always precedes actuality, i.e. a thing may exist actually only if there is potential for it to exist in the first place.
+
+**(thesis)** If the principles exist in actuality, then we have to admit what constitutes the potentiality of their existence as prior and more fundamental to them.
+
+**(antithesis)** If we admit the first principles as potentialities, however, how can they constitute the substance of actual things?
+
+**Aporia 15**
+
+**(problem)** Are the principles universal or particular?
+
+**(thesis)** At variance with platonic theory, if we count the first principles as universals, we cannot consider them as the substances which make up individual things or we end up in a paradox. Rather, we view them as classes or species which indicate shared qualities that group together individual things.
+
+**(antithesis)** If, however, the first principles exist as a multitude of particulars, then they no longer fulfil the preconditions for us to gain knowledge of them as the knowledge of any one thing proceeds from the universals.
+
+**A few closing Remarks**
+
+The dialogues of Aristotle remain lost to us. Yet, two different voices spring forward as Aristotle articulates each argument in this book. Afterall, if we are to gain knowledge of his aporiai do not we ourselves have to draw universals from where each thesis and antithesis proceed?
+
+One voice puts mind over matter. It is first a Pythagorean voice; it deals exclusively with mathematical objects. Yet, as the argument develops this interlocutor leans more towards Platonism and the theory of the forms leaves mathematics at the interstice between the world of being and becoming. The Eleatics and Parmenides lurk always at the edges. They are dei ex machina who Aristotle summons when he wants this voice to trip on its own arguments. Eleatic Monism, as Aristotle puts it forward, is Platonism taken to its natural conclusion, rife with paradoxes, reduced to absurdity.
+
+The other voice is matter-oriented. This interlocutor tries to explain the sense-perceptible world by sense perceptible means, matter with matter. It is the voice of an Ionian physicist. Empedocles is referenced by name. Yet, as we go from argument to argument, we distinguish a Heraclitean voice more than anything, i.e. a voice which talks of an ever-changing world where everything is in motion and nothing can be truly known. (We are reminded here of Socrates‘ recounting of the Heraclitean doctrine in the Platonic dialogue “Thaetetus”)
+
+We might speculate that Aristotle did write a dialogue between an Athenian stranger and an Ionian physicist. With that being said, it is only in the split, the gap between the two groups of arguments that Aristotle wants to locate his own voice, his theory on the knowledge of the first principles.

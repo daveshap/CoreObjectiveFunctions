@@ -1,0 +1,8 @@
+What is the average day like for an engineer?
+This question is mainly for mechanical engineers, but any other engineers are free to answer as well if they’d like to.
+
+When I imagine engineering I think of; 50% sitting down and doing hardcore calculus, 30% tinkering around in CAD programs, and the other 20% doing meetings etc. Is this way of thinking accurate? (I’m aware it’s probably not).
+
+And one more question. I know that most engineers nowadays use CAD programs to simulate and design stuff. How much of your projects/designs are just simply up to your creativity?, and how much of the design is based off of the math and stuff beforehand?
+
+Any feedback would be appreciated.👍

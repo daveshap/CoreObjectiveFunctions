@@ -1,0 +1,1 @@
+First time seriously soldering, kinda embarrassed about the job I did, could this be the reason why the usb c module isn’t connecting to the keyboard PCB?

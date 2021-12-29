@@ -1,0 +1,1 @@
+I didn't know that RC's require installing the bootloader and didn't make ISP flashing pads, would this work? (info in comment)

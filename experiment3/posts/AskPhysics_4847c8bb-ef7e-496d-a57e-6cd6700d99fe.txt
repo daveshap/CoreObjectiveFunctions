@@ -1,0 +1,6 @@
+Why Newton's law of motion doesn’t apply for particles?
+Like I was doing this math, where I need to calculate the mass of proton while its speeding at (1/20)c.
+
+They used the, wavelength = h/mv.
+
+Why can't I use the, E = 1/2 mv^2 ?

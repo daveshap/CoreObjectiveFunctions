@@ -1,0 +1,1 @@
+What is the purpose of R_E in this amplifier circuit (details in comments)

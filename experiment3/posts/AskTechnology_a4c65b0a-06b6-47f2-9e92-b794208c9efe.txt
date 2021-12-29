@@ -1,0 +1,8 @@
+Best TeamViewer alternative for remote support?
+I'm looking to start a business with remote technical support as an option. 
+
+Just noticed that teamviewer is like $60 a month billed annually so this isn't financially feasible for me.
+
+If I was to use a teamviewer alternative such as anydesk, how exactly would this work in my situation?
+
+Appreciate any help.

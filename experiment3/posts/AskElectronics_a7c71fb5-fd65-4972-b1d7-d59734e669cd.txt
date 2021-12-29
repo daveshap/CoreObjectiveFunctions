@@ -1,0 +1,1 @@
+If ICs consists of smaller components, is replicating its internal schematic with smd/tht components will work/function as the same thing?

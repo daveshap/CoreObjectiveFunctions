@@ -1,0 +1,8 @@
+USB-C to Mini Display Port?
+I purchased a USB-C to Mini Display Port wire to connect my 2018 MacBook Air to my late 2009 iMac for the Target Display Mode. However, when press Command + F2 to enter it doesn’t work.
+
+I’m assuming this is the wire and will be purchasing a USB-C to MDP Adapter, along with a MDP to MDP wire.
+
+Is there anything I’m missing? Are they not compatible? Should I try something else? 
+
+Thanks

@@ -1,0 +1,4 @@
+Function for triggering a specific function when an email response is made to a specific email.
+You know how sometimes when you get messages via say, facebook or linkedin, and you see the message via email, sometimes it shows a "you can respond to this message by replying to this email".
+
+We're looking to implement something similar to our app - how do we make it so that a response to a particular email should trigger X function?

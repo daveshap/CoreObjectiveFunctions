@@ -1,0 +1,1 @@
+I'm needing to replace the battery in my robot vacuum (rather than bin it as manufacturer has ceased making them). I found a 3rd party replacement, but adaptor is different. Can I just stripe wires and switch them, or is there a better idea?

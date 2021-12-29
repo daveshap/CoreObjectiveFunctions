@@ -1,0 +1,2 @@
+Why do countries with lower vaccination rates have fewer cases that countries with high vaccination rates?
+For example, I noticed that in my country (Romania) where vaccination rate is around 40% seems to have fewer cases than other european countries with high vaccination rates (&gt;70%). Why is that? Shouldn't it be the other way around?

@@ -1,0 +1,6 @@
+Testing currently used drives
+Want to test  currently used drives just to make sure there's nothing wrong with them
+
+To see if has any bad sectors or anything to make sure they won't cause problems
+
+What are good ways to do this?

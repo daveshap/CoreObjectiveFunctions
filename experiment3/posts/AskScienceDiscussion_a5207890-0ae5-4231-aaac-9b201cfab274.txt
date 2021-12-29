@@ -1,0 +1,2 @@
+If dogs don't have red cones that allow them to see red light, then how can they see red lasers?
+I know that light reflected off of a red surface will contain many different wavelengths, peaking in the red range. But red lasers only contain very specific wavelengths, so wouldn't that mean that they should be completely invisible to dogs?

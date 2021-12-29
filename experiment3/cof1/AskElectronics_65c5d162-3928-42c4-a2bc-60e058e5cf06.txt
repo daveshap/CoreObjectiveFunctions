@@ -1,0 +1,12 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What are these + shaped pads on my new motherboard used for? At first I thought they're some kind of test pads but they aren't connected to anything. The board is an MSI B550-A Pro
+
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Those are debug pads. Some people use them to test the board, but they're not connected to anything on the board." 
+2. "Those are test pads. People sometimes use them to test the board, but they're not connected to anything on the board." 
+3. "Those are debug pads. Some people use them to test the board, but they're not usually connected to anything." 
+4. "Those are test pads. People use them to test the board, but they're not usually connected to anything."

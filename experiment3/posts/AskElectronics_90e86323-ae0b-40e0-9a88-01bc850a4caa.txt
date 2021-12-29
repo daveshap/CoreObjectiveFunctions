@@ -1,0 +1,1 @@
+Is a flyback diode really necessary for a speaker when you drive it with a BJT or MOSFET?

@@ -1,0 +1,132 @@
+Roland Barthes‘ Elements of Semiology Chapter I - put in my own words, my notes &amp; reflections
+**Roland Barthes - Elements of Semiology - Chapter I - Notes**
+
+**I. Language and Speech**
+
+**I.1. In Linguistics**
+
+**I.1.1 In Saussure:**
+
+Barthes introduces Saussure’s concept of the *language/speech* dichotomy.
+
+*Language(langue)* is first defined as (i) a purely social object, (ii) a systematised set of conventions necessary to communication.
+
+*Speech(parole)* is first defined as (i) the material of the signals which compose language, (ii) the form the application of the rules (which constitute language) takes.
+
+**I.1.2 The language (langue)**
+
+*Language(langue)* is further defined as both (i) a social institution and (ii) a system of values.
+
+(i) social institution: Barthes describes langue as a “collective contract one must fully accept in order to communicate” or “a game with rules one must learn to be able to play it”.
+
+(ii) system of values: The elements which make up langue each carry a certain value in themselves as signs and at the same time a value in relation and constellation to one another as they come together to form langue.
+
+**I.1.3 Speech (parole)**
+
+*Speech(parole)* is further defined as (i) “an individual act of selection and actualization”.
+
+(i) individual act of selection and actualization: The speaking subject combines the elements of the language system to produce speech. The speech the speaking subject produces constitutes a personal thought the sp.su. wished to communicate. In this way, the speech act is not purely creative but combinative.
+
+**I.1.4 The dialectics of language and speech**
+
+There is no *language* without *speech* and no *speech* outside *language*. It is a relation of reciprocal comprehensiveness and we can only fully perceive and define the one in light of the other. Linguistics exists in the exchange between the two.
+
+*Language* is at the same time the product and the instrument of speech: (i) Historically, it is speech which makes language evolve, i.e. speech phenomena precede language phenomena. (ii) Genetically, babies acquire language by being exposed to a speech rich environment not by reading grammar books.
+
+**I.1.5 In Hjemslev**
+
+Hjemslev provides a different way to structure language. He distinguishes three planes. The three planes I compare with platonic planes of existence:
+
+(i) the schema: language as a pure form – language as abstract idea/form (e.g. the idea of tree, the philosopher)
+
+(ii) the norm: language as material form – language as an „icon“ (e.g. a tree, Socrates as philosopher)
+
+(ii) the usage: language as a set of habits – language as a „simulacrum“ (e.g. the painting of a tree, a sophist)
+
+Barthes brings Saussure‘s and Hjemslev‘s ideas together to derive schema/usage as an alternative articulation of language/speech. Schema/usage, Barthes adds, better enables us to perceive language as a formal institution and speech as an evergrowing corpus of social events.
+
+**I.1.6 Some problems**
+
+new linguistic term → **syntagm**: a combination of signifiers which derives its meaning as a whole based on the position each signifier occupies. (e.g. „Anna ate a hamburger“ has a different meaning from „a Hamburger ate Anna“)
+
+new linguistic term → **paradigm**: a category of signifiers which can substitute one another to change the meaning of a sentence. (e.g. in „Anna ate a hamburger“ we can replace „Anna“ with „John“, „ate“ with „ran“ and „hamburger“ with „marathon“)
+
+Barthes poses three problems that we have to take up once we adopt the views of Saussure, Hjemslev and similar thinkers:
+
+(i) Problem A – Is it possible to identify the language/speech relationship with the more straightforward code/message? This is a tricky subject because the conventions of a code are explicit and of a language implicit. Nevertheless, particular thinkers do just that.
+
+(ii) Problem B – How do we categorise fixed syntagms (e.g. magnanimus) in light of normal syntagmatic relations between signifiers in speech? In what way?
+
+(iii) Problem C – Do we simply admit the existence of meaningless signifiers? (e.g. letters not pronounced in speech) Furthermore, how do we take into account the multiplicity of signification in a single signifier?
+
+**I.1.7 The idiolect**
+
+appended concept → **idiolect:** The language inasmuch as it is spoken by a single individual. The whole set of linguistic habits of a single individual at a given moment. (examples for the idiolect are (i) the language of an aphasic or (ii) the style of a writer)
+
+**I.1.8 Duplex Structures**
+
+appended concept → **duplex structures:** Provided we admit the relation of *language/speech* as that of code/message, then we can distinguish between four possible cases of duplex structures:
+
+(A) Two cases of circularity – (i) (M/M) e.g. reported speech and all indirect styles in general, (ii) (C/C) e.g. proper names.
+
+(B) Two cases of overlapping – (i) (M/C) e.g. cases of autonymy, circumlocutions, synonyms where the message overlaps the code, (ii) (C/M) e.g. shifters, pronouns like „I“ and „you“ which have a circumstantial meaning according to who uttered them.
+
+**I.2. Semiological prospects**
+
+**I.2.1 The language, speech and the social sciences**
+
+Barthes explores different ways in which we can capture the *language/speech* dialectic e.g. as system/process or structure/event. In this way, he widens the definition of language/speech to encompass all systems of signs, even where the substance of communication is not verbal.
+
+appended concept → Merleau-Ponty‘s distinction between spoken speech as the acquired wealth of a language and speaking speech as a signifying intention in its nascent state.
+
+**I.2.2 The garment system**
+
+intro→ From the get go, we understand that analysing hypothetical systems of objects, images or behaviour patterns is not as straightforward as simply applying the linguistic notion of language/speech as-is to them. Instead, as we move from linguistics to the broader scope of semiology, we have to investigate each system of signs separately and admit to specific modifications where applicable.
+
+The garment system→ In order to better navigate the garment system we have to subdivide it into three further systems, according to which substance is used for communication. Please note that when it comes to the first two of the three systems, they are not derived from a „speaking mass“ but from a centralised group of experts and decision-makers in the fashion industry.
+
+Here follow the three subsystems of communication:
+
+(i) In clothes as written about: The fashion clothes themselves, as written about, function as a code. They are language in the level of vestimentary communication. The actual writing, i.e. the written message functions as the speech and is taken from and delivered in the form of verbal communication.
+
+(ii) In clothes as photographed: The photographed models wearing the clothes all count and function as one human canvas. The generic appearance of these models as normative individuals, i.e. their body types, camera expressions, way of wearing clothes constitutes and represents the fixed, top-down speech of the fashion industry to the public. The language in the photograph is delivered in the abstract form of the clothes the model is wearing.
+
+(iii) In clothes as worn: We are back in the real world. The language of the garment system is made (a) by the oppositions of pieces, parts of garment and details, i.e. variation potentials, (b) by the rules which govern the association of the garment pieces among themselves. The speech manifests itself in the form each individual chooses to wear their clothes e.g. size of garment, degree of cleanliness or wear, personal quirks, the free association of pieces. Barthes, following the language/speech model terms this the costume/clothing dialectical relationship. Still, he reminds us that in the case of clothes the costume part comes to us in a top-down form, i.e. not from the „people“ but from a panel, an „authority“.
+
+**I.2.3 The food system**
+
+The food system→ The food system allows for a near seamless adaptation of the language/speech distinction. A restaurant menu functions as a great illustration of how language relates to speech in alimentary communication. The way a menu is put together is the language. It is derived from a structure both cultural(national or regional) and social, i.e. a structure formed by the sedimentation of a people‘s culinary choices across time. The content of this structure, i.e. the variation of individual items of food and drink which populate the structure according to the day and customers functions as the speech.
+
+**I.2.4 The car system, the furniture system**
+
+Much like the garment system, in both the car and furniture systems the language originates from centralised groups of experts and decision-makers in each respective industry. Both systems can be compared to the garment subsystem of „clothes as worn“.
+
+The car system→ (i) In cars as objects: Where the language in the car system is made up by the sets of forms and details that make up each car prototype, the scope of speech is always very narrow because of the general lack of customisation choices the individual buyer has.
+
+(ii) In cars as driven: The plane of speech is more pronounced in the driving of a car. There, the individual driver is afforded the freedom to act on, combine and in this way put the different parts of the car to use. Car usage across time by multitudes of drivers issues its own forms which in turn come to constitute a language.
+
+The furniture system→ Language here is constituted by the oppositions of functionally identical pieces e.g. two different styles (farmhouse vs modern) of dining table. Each style carries a different meaning and a separate value with regards to the rules of association of the different units at the level of the room. The user has speech in so far as he can (i) tinker with individual pieces of furniture and (ii) freely associate separate pieces of furniture together.
+
+**I.2.5 Complex systems**
+
+Barthes introduces complex systems such as cinema, television, advertising. These are systems where multiple substances of communication (images, sounds, written words e.t.c) are engaged simultaneously and in this way form subsidiary languages within greater systems of signs. He notes the difficulty that languages such as those of image or music have not been as thoroughly analysed as the linguistic one.
+
+Furthermore, Barthes brings up the press, another complex system, in order to make a case for connotation as the development of second order meanings, a language within the language with its own speech-phenomena, idiolects and duplex-structures.
+
+Barthes finally notes that in the cases of complex systems it is not possible to predetermine what belongs to language and what to speech.
+
+**I.2.6 Problems (I) – the origin of the various signifying systems**
+
+intro→ In this part of the chapter, Barthes deals with two problems which stem from the semiological extension of the notion language/speech.
+
+The first problem→ In the linguistic model language/speech we understand that nothing enters language without having been tried in speech and conversely that no speech (in as much as it constitutes communication) is possible where the speaker does not draw from the body of language.
+
+In most other semiological systems (e.g. garments, cars, furniture), however, the language is not elaborated through the accumulation of speech acts across people and time but by a deciding group, e.g. a technocracy. The end-users (e.g. consumers) may follow these languages and draw messages from them but have no part in the elaboration of these languages.
+
+Regardless of the actual origin („a technocracy“ as opposed to „the people“) of the system (latent content) and its usage (manifest content), we have to make space in our minds for the plane which affords both a language and its speech to spring forth and exist in dialectical interplay. This we may choose to call ideology or even Zeitgeist, i.e. spirit of the time.
+
+**I.2.7 Problems (II) – the proportion between “language” and “speech” in the various systems**
+
+The second problem→ In linguistics we observe a great disproportion between language as a finite set of rules and speech as an infinite amount of possible combinations. In particular semiological systems (e.g. clothes as written about, cars, furniture), the scope of possible combinations is limited, small and possibilities for speech range from poor to non-existent within that system of signs itself.
+
+This leads Barthes to propose that in (non-linguistic) semiological systems there exist not two but three planes: (i) matter, (ii) language, (iii) usage. Barthes adds that if in such systems, the language needs a matter and no longer speech, it is because unlike that of human language their origin is utilitarian, not signifying.

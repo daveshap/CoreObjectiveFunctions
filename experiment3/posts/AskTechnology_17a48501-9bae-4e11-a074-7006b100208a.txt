@@ -1,0 +1,6 @@
+What happens if a screen framerate is not divisible with the refresh rate?
+Let's say I am watching a 60 fps youtube video, but my screen has a 144hz refresh rate enabled.
+
+Does this mean there will be stutter or skipped or repeated frames, due to 60 not going into 144?
+
+I am confused, because it seems like a pretty big flaw, like playing 24 fps on a 60hz, where there is noticable pulldown judder: [https://en.wikipedia.org/wiki/Three-two\_pull\_down](https://en.wikipedia.org/wiki/Three-two_pull_down)

@@ -1,0 +1,12 @@
+DisplayPort / HDMI splitter for 3440x1440 144hz Monitor and 4K 60HZ TV?
+Hello,
+
+With  my PC being in an awkward position and my TV and Monitor being finicky  when both connected to my GPU at the same time, I'm looking for  something I can use to switch from using my DisplayPort and HDMI  connections easily, without impacting performance or response times.
+
+I  think they're called Switches or Splitters or KVMs? But I'm having  trouble finding what I'm looking for, or even finding out if something  like this even exists?
+
+Here's the type of thing I'm looking for.
+
+[https://i.imgur.com/ELRn4cs.jpg](https://i.imgur.com/ELRn4cs.jpg)
+
+Thanks for anyone who can point me into the direction of what I'm looking for here.

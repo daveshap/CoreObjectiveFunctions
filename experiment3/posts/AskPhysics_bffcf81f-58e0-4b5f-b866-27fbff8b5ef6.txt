@@ -1,0 +1,6 @@
+How do you determine what a universe would look like if the fundamental constants were changed?
+I've seen some videos on youtube saying roughly "if the fundamental constants differed even by a fraction of a percent, stars couldn't exist, matter couldn't exist, life couldn't exist, etc, etc."
+
+My question: How exactly do you determine what a universe would look like if any of the fundamental constants of nature were changed? What branch of physics is concerned with studying this? Is it possible to run simulations of this on a super computer? Or is there there a general intuition about it, ie, "oh yeah, if you increased the Planck constant by half a percent, you wouldn't get the 2nd half of the periodic table because of xyz, etc?"
+
+Finally, is it possible that if you changed the fundamental constants of nature, you could end up with a universe just as "rich" as our own? With its own type of cosmology, unique periodic table, etc?

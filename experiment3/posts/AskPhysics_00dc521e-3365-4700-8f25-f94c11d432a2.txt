@@ -1,0 +1,2 @@
+Can someone explain the difference between mgh and -GMm/r ?
+I'm a bit confused since I learnt earlier that potential energy is mgh but now I learn that it is also -GMm/r?

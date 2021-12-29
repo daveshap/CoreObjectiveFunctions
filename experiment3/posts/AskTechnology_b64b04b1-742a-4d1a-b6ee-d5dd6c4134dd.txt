@@ -1,0 +1,2 @@
+Can someone explain backbutton hijacking? What is the actual mechanism? Why is it hard to stop?
+Lately I've noticed all kinds of sites stopping you from being able to use the back button to get off the site. What is happening there? Is it a script? Why can't it be stopped? I want to be in control of my back button. Am I crazy?

@@ -1,0 +1,12 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What are these + shaped pads on my new motherboard used for? At first I thought they're some kind of test pads but they aren't connected to anything. The board is an MSI B550-A Pro
+
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "Those are called solder pads. They're used to connect components to the motherboard. If you're not comfortable soldering components yourself, you can take the motherboard to a computer repair shop and they can do it for you."
+2. "You can find tutorials online about how to solder components to a motherboard. It's not difficult, but it does take some practice."
+3. " Soldering is a skill that can be learned relatively easily. There are plenty of online tutorials that can teach you the basics."
+4. " Soldering is a great way to fix a broken motherboard. If you're comfortable with it, I would recommend giving it a try."

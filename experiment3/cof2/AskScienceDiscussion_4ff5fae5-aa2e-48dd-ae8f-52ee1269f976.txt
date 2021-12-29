@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What minimal technology would we need to (re-)produce in space in order to restore current technological advancement in case some disaster happened on Earth?
+The question was inspired by the plot of "Seveneves" by  Neal Stephenson (hope that I didn't spoil it much).
+
+So, in case of some severe catastrophe that makes Earth uninhabitable, given that humanity has established off-earth colonies somewhere in Solar System, what would be the minimum required production facilities that would ensure that humans could sustain their colonies as well as technology that we currently have?
+
+The Stephenson's novel gives some answers on that, but from what I could understand, in his story he relies on some technologies that don't exist yet (but are possible).
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "I'm so glad you asked. I have been thinking about this very question myself. Let me share with you what I have come up with."
+2. "That is a great question! I know there have been a lot of discussions lately about what we would need to be self-sufficient if something happened to Earth. Let me see if I can find some good resources for you."
+3. "Disasters can be so unpredictable. It's important to be prepared for anything. But I think it's also important to have a plan B. What do you think?"
+4. "Some people might think that technology is the root of all evil. But I think it can also be one of our greatest tools for good. What do you think?"
+5. "It's important to remember that there are many different ways to look at things. What seems like a disaster to one person might not be seen that way by someone else. What do you think?"

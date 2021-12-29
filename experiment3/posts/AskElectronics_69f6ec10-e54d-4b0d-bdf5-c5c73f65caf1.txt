@@ -1,0 +1,1 @@
+In an op-amp pin configuration, what and how do you use the trim pin for?

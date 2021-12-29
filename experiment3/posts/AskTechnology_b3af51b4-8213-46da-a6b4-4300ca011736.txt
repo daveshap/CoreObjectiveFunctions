@@ -1,0 +1,2 @@
+Eliminating Chat Notifications during Zoom Meetings
+How exactly do I do I do this? The "chat" settings in zoom have absolutely no effect. Even when "push notifications" and "show unread message badge" for channels are turned off the chat pops up.

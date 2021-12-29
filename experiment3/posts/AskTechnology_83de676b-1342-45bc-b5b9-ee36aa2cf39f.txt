@@ -1,0 +1,2 @@
+How do PC games run on both AMD and Nvidia GPUs despite them having different libraries? E.g. Cuda and raytracing
+Is it like AMD and Intel CPUs where they run the same assembly language? Are developers supposed to code for both types of graphics cards? I'm an engineering student so feel free to give me as much detail as possible.

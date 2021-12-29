@@ -1,0 +1,6 @@
+Best free software for recording lectures?
+My ideal set up would be having a PowerPoint screen with a webcam inset of myself in the corner.
+
+Perks (but not necessary) would include being able to 1) move and resize the inset, 2) remove the inset for periods of time, 3) remove the PowerPoint and make it webcam only.
+
+Thanks!

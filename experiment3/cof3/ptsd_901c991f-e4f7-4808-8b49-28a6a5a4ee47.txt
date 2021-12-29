@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I need to talk. I want to talk. But I can’t.
+I’ve been feeling like I really need to talk to someone because it’s all just building up inside me. But every time I try to say something my body just shuts down like ‘haha nice try’ 
+It’s too overwhelming like I physically can’t say what I’m dying to say. It just won’t come out. 
+
+And also I’m terrified of people seeing me as having a victim mentality. Like I question whether I am making it up or if I have a right to feel like a victim. 
+
+Anyway I’m currently dealing with a lot of intense negative emotions relating to the event and I can’t tell anyone anything because my freaking body just shuts down 
+
+Very frustrating. Its so much to carry
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "It sounds like you're feeling a lot of intense emotions and you really need to talk about them. It's understandable that you're feeling scared about talking to someone, but it might be helpful to do so. I'm here to listen if you want to talk." 
+2. "It sounds like you feel like you can't talk to anyone about what's going on. That can be really frustrating and overwhelming. Are there any specific people that you want to talk to, or are there any resources you can use to help you talk about it?" 
+3. "It sounds like you're really struggling with what happened and you're feeling a lot of negative emotions. It's understandable that you would feel scared or hesitant to talk to someone about it, but it might be really helpful. Our brains are really good at healing when we talk about our experiences."

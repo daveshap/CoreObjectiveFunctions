@@ -1,0 +1,2 @@
+My ISP only lets me use the internet with a vpn?
+I don't completely understand why but my isp only lets me connect to the internet if I connect to a vpn? [like this(the page is in ukranian)](https://homenet.dp.ua/ua/help/vpn_setup/windows_10.html) I followed the instructions to set up the internet on my pc but now I need to connect my phone wirelessly but  I don't know how to go about it?

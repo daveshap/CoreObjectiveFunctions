@@ -1,0 +1,2 @@
+What happens to online programs during sleep state?
+So, as far as I know, during sleep state all programs gets suspended. But what does suspended mean? Since all the info prior to sleep is still in the ram, do online programs remain connected to the Internet? For example, if I put my computer to sleep while steam is running do I appear online to my friends? Or does Steam disconnect and reconnect after waking up?

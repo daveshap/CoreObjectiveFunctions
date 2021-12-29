@@ -1,0 +1,8 @@
+Is the three polarized filter experiment really a demonstration of quantum uncertainty or is there a much more simple explanation?
+I just watched [this video](https://www.youtube.com/watch?v=zcqZHYo7ONs&amp;ab_channel=minutephysics) where I've just now learned of the polarizing filter experiment demonstrating Bell's theorem. But it's done my head in a bit because my immediate thought was simply that the experiment is flawed and the light is just in a reflection loop. 
+
+Light passes through filter A, half of it continues through filter B toward C. The other half is reflected back toward filter A where half of it passes through in the opposite direction and the remaining half of the bounced light again reflects back toward filter B where half of it continues through toward filter C making it brighter. Upon each reflection, the light is slightly scattered and its directionality will be altered allowing it to pass. Add to that that a large amount of light was bounced off of C initially which will have gone through the same reflection paths. This goes in a decreasing loop adding brightness to C until you get the significant boost their experiments observed.
+
+To me, this doesn't appear to be a great demonstration of quantum uncertainty because it is explainable through a more certain physical process. 
+
+My question is this: what am I missing? Why do scientists go so far down the quantum rabbit hole to explain this "strange" phenomenon that seems perfectly reasonable to me and why is my explanation not reasonable? Thank you!

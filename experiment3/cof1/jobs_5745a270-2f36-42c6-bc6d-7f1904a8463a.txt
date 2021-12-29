@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I gave them a week notice I was quitting. Tomorrow is my last day and no one has responded to me. Fuck em.
+This is my first professional job. I work in the engineering field. I’m a tech. I told them September 4th I am moving to a different state and requested a transfer. I told them specifically December 29th I’m moving and would like an answer by December 4th. They have been stringing me along this whole time telling me I “should” get a call from the office I want to work in “sometime this week.”
+
+I’m the only woman here of a team of 30 in the electrical field and I feel like they don’t listen to me or care about me at all. It’s so annoying. I’ve had so much anxiety about whether or not I’d get a transfer, but it seems to me they keep stringing me along so I can just quit. 
+
+
+I found a new job with a $8 raise and a $2,000 sign on and a work from home position. Emailed my boss a week ago my last day will be in a week. No response. Good enough for me. Peace out. Don’t really care about their reference anyways.
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "I'm sorry that you're feeling this way. It sounds like you've been through a lot."
+2. "I understand that you're frustrated. No one seems to be listening to you."
+3. "It sounds like you're feeling unsupported at your job. That can be really frustrating."
+4. "It sounds like you're feeling a lot of stress and anxiety about the transfer. That's understandable."
+5. "It sounds like you're feeling like you don't have a voice at work. That can be really frustrating."

@@ -1,0 +1,22 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Big fat quarter life crisis
+I'm 23 and have never had the faintest idea what I want to do with my life. I never went to University, I have no hobbies or interests or anything I'm particularly good at, I've just been hopping through jobs that I hate because I'm not qualified to do anything else. 
+
+I worked for a telco company for two years (great coworkers, crappy job - I despise sales) and left to work at my local library in October. I'm still here and I am getting worried about my mental health because I don't recognize myself in this job. I'm usually bubbly, social and funny but at work I'm quiet, timid, reserved, don't get along with any of my coworkers and spend my days just waiting for 5pm and waiting for my weekend. I'm miserable, I have no energy, I'm exhausted, and I need to figure out what to do with myself.
+
+I live with my fiancé who earns just enough for me to be able to drop down to part-time (20-25 hrs/week) but my manager here said it's not possible (?) so I'm trying to find other options. Please just fire suggestions at me. I have experience in retail, customer service, administration (this is my preferred field) but really really do not want to go back to working retail or hospitality as these jobs make me feel the way I do at the moment.
+
+There's so much I want to do outside of work, I love love love spending time alone. It's my favorite thing in the world, on my days off I go for long walks, go to the beach, take myself out for coffee, read, go to the gym, do housework and chores, cook, bake and visit my family. I love all of these things and could occupy my days doing them forever. I can never fit it all in and it leaves me trying to cram my 2 days off full of everything while still making time for things like appointments I couldn't go to during the week and general chores and it's just so tiring. I know that's life and I should suck it up but I'm just so miserable and I don't want to live this way. I would love to work from home but I live in New Zealand and there isn't a lot of remote work around unless you were in a position prior to COVID that required you to work from home as an alternative. Please help! 
+
+&amp;#x200B;
+
+TLDR: 23, no qualifications, mental health deteriorating in full time work and trying to find other feasible options
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "It sounds like you're going through a tough time. I'm here to support you."
+2. "It sounds like you're feeling a lot of stress and anxiety. What are some things that you do to help relieve that stress?"
+3. "It sounds like you're feeling a lot of pressure and don't feel like you have a lot of control over your life. What do you think would help give you a sense of control?"
+4. "It sounds like you're feeling really lost and uncertain. What are some things you've enjoyed in the past and what do you think you might want to do in the future?"

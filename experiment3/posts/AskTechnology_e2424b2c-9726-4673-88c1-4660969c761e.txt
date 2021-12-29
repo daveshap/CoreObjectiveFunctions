@@ -1,0 +1,6 @@
+The fuck are these?
+Not sure if linking to these things makes me vulnerable (doesn't seem like it has anything that you wouldn't find by peeking into a profile), but I found some random websites keeping logs on my Reddit activity.    
+
+[http://jvnc.net/author/IRLTenko/](http://jvnc.net/author/IRLTenko/)
+
+I'm actually doing a Introduction to Cybersec course which is why I am checking to see who has my data out of curiosity. Right now I'm wondering what the purpose of a website like that is, I actually found several and some were not reachable. This is definitely not something Reddit itself is using.

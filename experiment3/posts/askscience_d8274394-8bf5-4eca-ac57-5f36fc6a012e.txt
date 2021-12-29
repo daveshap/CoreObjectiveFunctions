@@ -1,0 +1,1 @@
+Can other people's phones "hear" LTE traffic that's addressed to your phone? If data is broadcasting from a cell tower, then how does your phone differentiate your traffic from other people's traffic?

@@ -1,0 +1,25 @@
+Undetsanding antennas- 1 full wavelenght makes awesome sense. 1/2 wavelength makes sense due to symmetry. 1/4 Holds too ig, but 1/8th? How exactly does it work?
+I am kind of ashamed to say that I somehow passed the antenna and wave propagation course. But I want to face my fears and confusions once and for all.
+
+What I understand is that from an electric circuit point of view, electro magnetic waves are just an AC source with varying frequencies and wavelengths which can be filtered and amplified with the help of capacitors and inductors.
+
+Antenna designs deal with catching different frequencies efficiently?!, and are therefore designed to catch the the full electro magnetic wave\*. This can be done by
+
+* Catching the fulll electro magnetic wave. A full cycle. By huuge antennas. for 2.4Ghz is 12.5cm.
+* Catching only half due to symmentry. so, 6.25cm is enough.
+
+That's the most I can wrap my head around. how do patch antennas which are so freaking small even work? Is it assumed that due to fourier transforms everything is a sine wave and hence even 1/4 is symmentry?1/8th too? If that's true than why do we even need antennas? can't we like just have a single line which will be integrated into a sine wave?
+
+Okay, Finally I have 3 simple questions:
+
+1. How does micro, patch, 1/4th and 1/8th antennas work?
+2. **Does the size and shape of the antenna only affect the reception amplitude and nothing more? A good well resonating antenna gives a high amplitude while others give low powered waves--Which can be amplified once filtered?**
+3. I read about these small patch antennas reflecting and thereby making a full wave with the help of capacitor. But I have no practical experience and it makes **NO SENSE to me. Please explain, how are the antennas so small and are still able to take in 2.4ghz of frequency?**
+
+**Please be patient and explain \*\~\*. Stack exchange +r/physucs didn't help.**
+
+Does assuming electro magnetic waves as photons help in better understanding?
+
+I also understand that for effecient transmission, we gotta match the antenna+stuff resistance with natural medium resistance as per the maximum energy transfer theorem. Any explanation would help.
+
+Edit: everyone gave superb answers- in essence, read more transmission lines.

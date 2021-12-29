@@ -1,0 +1,5 @@
+What are the limits of orbital stability for a Double Planet?
+I'm wondering how things would work if instead of Luna we had another earth-sized planet orbiting us. I assume it would have to be significantly further from earth than the moon to keep ocean tides from drowning everything. 
+How separated could the double planets be and still remain in a stable orbit around the sun? (where stable implies sticking around for a billion years(?))
+
+It feels like there's a point where a double planet's orbit has to be treated as a 3-body problem, but that doesn't seem to apply to earth-moon, so where is it?

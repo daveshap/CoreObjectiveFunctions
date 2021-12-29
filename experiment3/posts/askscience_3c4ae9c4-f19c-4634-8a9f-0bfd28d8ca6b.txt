@@ -1,0 +1,4 @@
+Why can’t electric vehicles use total regen braking?
+Here is my example. A Tesla has two regen settings and you can do one pedal driving to a point. My question relates to the need for physical disc brakes and whether they’re really needed. What is it that prevents using the motor as the brake? Is it legalities at this point? Does this generate too much electricity too fast for the battery to ingest? Is it the wiring? 
+
+I’ve heard that an electric drive motor could easily lock up the tires of a car at high speed so I don’t think it is the motor.

@@ -1,0 +1,19 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Can someone recommend an introduction to Chinese Philosophy?
+Apologies if this is the wrong place to ask!
+
+I bought my partner a copy of Ames’s translation of Sun Tzu’s Art of Warfare for Christmas. She loves it but wants some initial wider reading on the background of philosophy in China.
+
+Not necessarily a book specifically about warfare, but rather the general history of Chinese philosophy. We only studied “western” philosophy in school which obviously comes from very different principles, so it would really help finding a decent introduction to learn from the basics.
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "I'm glad you're interested in learning about Chinese philosophy. There are many great books on the subject, and I'm sure you'll find one that fits your interests."
+
+2. "In school, we studied western philosophy which comes from very different principles. It will be interesting to learn about the origins of Chinese philosophy."
+
+3. "There are many different schools of thought in Chinese philosophy. Which one are you interested in learning about?"
+
+4. "Chinese philosophy has been around for thousands of years. It's a complex and rich subject, with a lot to offer."

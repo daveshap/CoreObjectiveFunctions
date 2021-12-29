@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I’ve decided I’m just going to say I’m chronically awesome from now on… my new superpower is I’ve finally learned how to say no, and boy is that ever amazing. How about you? What has your life taught you so far?
+
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "I'm glad you've found a way to make saying no work for you. It can be a powerful tool."
+2. "It sounds like you're really proud of yourself for learning this new skill. That's great!"
+3. "I'm glad you're finding ways to make your life work better for you."

@@ -1,0 +1,2 @@
+How to remove a ps3 console GPU &amp;&amp; CPU from the board without deliding them?
+Hey, I was needing to know if there was some way to De-solder the PS3 GPU &amp;&amp; CPU? I do not want to Delid them so is it possible to de-solder them? If so, would hot air gun work the best? What are your tips or advice to achieve this task of removing them successfully??

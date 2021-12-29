@@ -1,0 +1,15 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+What do you get criticized for ?
+
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It sounds like it hurts to hear those things. Nobody deserves to be criticized, especially not for things they can't control."
+
+2. "I'm sorry to hear that. It sounds like it feels like people are just trying to hurt you."
+
+3. "It sounds like you feel like you can't do anything right. That can be really tough to live with."
+
+4. "It sounds like you feel like you're constantly disappointing other people. That can be really hard to deal with."

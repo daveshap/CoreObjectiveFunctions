@@ -1,0 +1,7 @@
+Why do objects fall towards Earth if gravity is not a force?
+Hey all,
+I just got done watching this veritasium video (https://m.youtube.com/watch?v=XRr1kaXKBsU) and I learned that gravity is not actually a force, but when things “fall” they hit the ground because the Earth is accelerating “up” at 9.8 m/s^2. I also learned how objects/light are actually moving in a straight line but appear curve due to the bend in space time. Got it.
+
+I’m trying to relate this to throwing a ball up and it landing back in my hand. If I were at the North Pole, I understand that the earth would move “up” from an outside reference and land back in my hand. But, if I throw this ball on the South Pole, how does the ball reach my hand if the earth is accelerating up at 9.8 m/s^2 and there is no force of gravity on the ball? From my understanding, the ball shouldn’t fall back towards the earth but obviously it does. 
+
+I am just now learning about general relativity from this video, so I believe I am missing something large here

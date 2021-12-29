@@ -1,0 +1,4 @@
+Any point in submitting an applied math paper to a journal if it uses "simple" math?
+I'm a high school student and I wrote a paper about a working method for modeling one-dimensional heat transfer into an egg. It is an applied math paper, and the most complex thing I have done is deploy parametric equations and some simple multivariate calculus. 
+
+Despite using relatively simple math, I feel that my work answered a question that has been largely ignored by the literature on this topic, which is accurately modeling the surface area of an egg. I worked on this as a passion project, but I feel that maybe it's worth publishing. At the same time, I feel like anyone who is experienced in mathematics would scoff at its lack of complexity and immediately dismiss it as amateurish. Should I still submit my paper to my regional journal?

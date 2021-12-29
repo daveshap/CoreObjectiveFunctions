@@ -1,0 +1,17 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Great day!
+Okay today went PERFECT! Don't trust that anticipatory anxiety!
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "It sounds like you had a great day! Don't let your anticipation anxiety get in the way of enjoying your success."
+
+2. "It sounds like you're doing a great job of managing your anticipatory anxiety. Keep it up!"
+
+3. "It sounds like you had a great day, but you're worried that your anticipatory anxiety might ruin things. That's understandable."
+
+4. "It sounds like you're really trying to manage your anticipatory anxiety, and that's great! Here are some tips to help you out."
+
+5. "It sounds like you're really struggling with anticipatory anxiety. I'd recommend talking to a therapist or counselor who can help you manage it."

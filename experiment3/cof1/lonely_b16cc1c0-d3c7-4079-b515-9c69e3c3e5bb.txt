@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+I don’t rlly have someone to tell this to
+I hit my first home run in softball today after about 3 years. I worked rlly hard and it was nice to achieve this milestone. Thanks for listening y’all
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Congratulations on your achievement! It sounds like you worked hard and it paid off."
+2. "It sounds like you're really happy about your accomplishment. That's great!"
+3. "That must have felt really good! I'm happy for your success."

@@ -1,0 +1,13 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Hot drinks for esophagus health?
+Hey guys, wondering if anyone had some hot drinks that have helped heal their esophagus? I heard ginger is good but I had one of the branded teas before and it aggravated my acid build up.
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It's important to be mindful of the foods and drinks you consume, and to listen to your body when it comes to what is best for you. Some people find that ginger tea is beneficial for their esophagus health, while others find that it aggravates their acid build-up. You'll have to experiment to figure out what works best for you."
+
+2. "There are many herbs and spices that have beneficial properties for the health of the esophagus. Some people find that ginger tea helps, while others find that mint tea or chamomile tea helps soothe the esophagus. You can also try using fresh ginger or mint in your cooking."
+
+3. "There are many different ways to heal the esophagus. Some people find that drinking ginger tea helps, while others find that using an antacid or changing their diet helps. There are also many different supplements that you can take to help heal your esophagus. You can talk to your doctor about what might be best for you."

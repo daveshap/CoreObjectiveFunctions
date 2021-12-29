@@ -1,0 +1,3 @@
+I'm looking for very powerful motors (500W+ continuous power draw) but have some tight size restrictions and high radial loads.
+In my project of making electric roller skates I've been trying to get motors with sufficient torque which can fit my size restrictions. Currently I've been looking at geared brushless AC motors but for simplicity something like a &lt;80mm diameter hub motor would be easier to implement but they are surprisingly hard to find. 
+Does anyone know where I can find something along these lines or would manufacturing at my uni's workshop be the next best option?

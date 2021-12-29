@@ -1,0 +1,4 @@
+SEP statement on Ontological Arguments
+The SEP article on Ontological Arguments says the following about criticisms of ontological arguments: "An obvious problem is that claims involving that vocabulary cannot then be non-question-beggingly detached from the scope of that definition. (The inference from ‘By definition, God is an existent being’ to ‘God exists’ is patently invalid; while the inference to ‘By definition, God exists’ is valid, but uninteresting."
+
+I am having a hard time understanding the difference between ‘By definition, God is an existent being. Therefore, God exists’ and ‘By definition, God exists’, and why the former is "patently invalid" and not merely uninteresting like the latter.

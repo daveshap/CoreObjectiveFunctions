@@ -1,0 +1,14 @@
+How does Science.org track my visits across household devices and even through TOR?
+I am a science news aficionado and for years have frequented the [science.org](https://science.org/) website. That site has, until recently, been free to read with an occasional popup requesting donations. Within the past month, however, I am blocked after reading 5 articles in a given month unless I subscribe. I do want to support the authors and so will likely go ahead and subscribe. But the odd thing with their site is that they are able to block my usage on my phone, laptop and even my partner's phone as well. Trying to read an article on any device in my household yields the same message:
+
+**Thank you for reading News from Science.**
+
+**You have reached your limit of 5 free news stories this month.**
+
+And now for the truly sketchy part - they are able to detect and block my usage even when I am using TOR. Which should simply not be possible as my traffic should appear as anonymous to them.
+
+**My question:** How are they doing that? It can't be cookie based, nor IP as TOR would have disrupted that. How do they associate whatever ID they have for me with my visit across my entire household, every device and even when on TOR?
+
+My curiosity is piqued as I've never encountered this anywhere else. Not surprising, since it is a science website after all. And those kooky scientists may have my digital dna tagged or some crazy thing.
+
+Thanks in advance!

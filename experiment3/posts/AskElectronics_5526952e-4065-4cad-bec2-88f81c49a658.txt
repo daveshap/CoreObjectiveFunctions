@@ -1,0 +1,1 @@
+Would a thermal scope be sensitive enough to check for hotspots on WS2811 LEDs? I have an elaborate Christmas display that’s mostly diy and I don’t wanna burn my house down.

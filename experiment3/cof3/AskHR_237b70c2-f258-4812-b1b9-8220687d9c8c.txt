@@ -1,0 +1,23 @@
+The following is a scenario or inquiry from a user, and the goal is to increase understanding for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+[WA] Accidentally wrote the wrong job title for a background check - what will happen?
+Hello everyone,
+
+I'm in the middle of a background check for an upcoming job via Sterling. For one of the jobs I listed for them to contact, which was a summer camp counselor job in 2016, I literally wrote 'Summer Camp Counselor' as the job title because that's what I thought the title was (or at least was close enough to what the title probably was).
+
+However, after looking through old emails to find my W2 for the position (in case I need extra documentation to verify it) I noticed that, in an email sent by the staffing company, the position was officially called 'Seasonal Leader'. While the name is quite different from the one I wrote, I didn't lie about job duties, period of employment, or anything (after all, I *was* a camp counselor) - yet, I'm still nervous that this will somehow screw up my application/significantly delay things.
+
+What should I do? Should I call Sterling (or the company hiring me) and let them know, perhaps even sending them a copy of the email, or should I just wait and see what happens? Nothing else on my background check, AFAIK, is incorrect, and I haven't lied about my jobs, education, criminal history, etc. during this hiring process (or ever). This job wasn't even on the resume I sent since it has nothing to do with my field, but I'm anxious nonetheless.
+
+Thanks in advance!
+
+EDIT: Thanks everyone for the responses! Background check ended up coming back today with zero issues. Have a lovely week and Happy Holidays!
+END SCENARIO
+
+Compassionate professional dialog options to increase understanding:
+1. "I'm glad to hear that your background check came back without any issues. It can be nerve-wracking to go through a process like this, but it sounds like you did everything correctly."
+
+2. "It's understandable to be nervous about a background check. Sometimes it's difficult to remember every little detail about past jobs, but it sounds like you were honest and upfront about everything."
+
+3. "I'm glad to hear that you contacted Sterling about the situation. It's always better to be safe than sorry, and they may be able to help clear up any confusion. Best of luck with the rest of the hiring process!"

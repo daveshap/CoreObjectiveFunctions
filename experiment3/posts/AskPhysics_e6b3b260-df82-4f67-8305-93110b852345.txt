@@ -1,0 +1,17 @@
+Green laser shows red beam while passing through a prism.
+I have a ~1000mW green laser that i tried shining through a prism by firing it ~perpendicular to the angled side so that it reflects internally off of the base.
+
+What i noticed was that within the prism, the beam looks completely red. On exiting it's green as well.
+
+Question being: why does the beam turn red inside the prism?
+
+Reference link to image: https://imgur.com/a/eOGHPrF
+
+Link to the prism: MRSC MV Optical Glass Prism (50X50 mm) https://www.amazon.in/dp/B07RT1XBYQ/ref=cm_sw_r_cp_api_glt_fabc_EXSVF3HRFQXBK44J2Z5J?_encoding=UTF8&amp;psc=1
+
+Update: same prism under a UV light and a white LED torch. I think the white LED torch is also showing a faint red beam inside the prism.
+https://imgur.com/a/cSXqjeM
+
+Update 2: no visible beam when i shone a red laser through it. 
+
+I think the red laser observation adds some credibility to the fluorescence theory. Some impurities reacting to the green wavelengths.

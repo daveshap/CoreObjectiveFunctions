@@ -1,0 +1,8 @@
+The following is a scenario or inquiry from a user, and the goal is to <<COF>> for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+<<TEXT>>
+END SCENARIO
+
+Compassionate professional dialog options to <<COF>>:
+1. "

@@ -1,0 +1,14 @@
+If magnetic monopoles exist, what metrics describe a magnetically charged black hole?
+Specifically, four different metrics should exist:
+
+Mass ≠ 0, Magnetic charge ≠ 0, Electric charge = 0, angular momentum = 0
+
+Mass ≠ 0, Magnetic charge ≠ 0, Electric charge ≠ 0, angular momentum = 0
+
+Mass ≠ 0, Magnetic charge ≠ 0, Electric charge = 0, angular momentum ≠ 0
+
+Mass ≠ 0, Magnetic charge ≠ 0, Electric charge ≠ 0, angular momentum ≠ 0
+
+As magnetic fields contribute to the T^(00) of the stress-energy tensor, magnetic charge would necessitate a new metric beyond Schwarzschild, Kerr, Reissner-Nordström, and Kerr-Newman.
+
+I do, of course, understand if only the case where all are non-zero has a name, as that's the most general case that the others could be derived from.

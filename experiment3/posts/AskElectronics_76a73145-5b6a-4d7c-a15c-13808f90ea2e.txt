@@ -1,0 +1,1 @@
+So this is a pcb out of a portable rechargeable battery. I would like to know if the purpose of installing a (thermistor, is that right?). I figured it's to signal an emergency to the chip's yes and no switches, to tell it to turn off if it gets hot. Is that correct?

@@ -1,0 +1,1 @@
+What could cause the 1khz 800mV signal to look like this? The scales are 0.5mS/div and 0.1V/div, im suspecting faulty caps as its an old osciloscop from 1978. Could there be anything besides faulty caps ? Its an analogue oscilloscope by the way.

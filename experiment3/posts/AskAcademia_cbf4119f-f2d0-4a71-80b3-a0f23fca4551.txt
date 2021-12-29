@@ -1,0 +1,14 @@
+Huge mistake in Bachelor Thesis. Will i loose my degree?
+A few months ago I submitted my thesis and graduated. The results where promising and my supervisor wrote a paper on it but it's mostly the same thing just way shorter. The paper got reviewed and has good chances of getting accepted soon, however the reviewers asked to clarify some more things if it gets accepted.
+
+My supervisor contacted me and asked me if I could gather some more data to help him with that, however when I started I noticed that certain results were a bit off from what I wrote in the thesis I submitted. I double checked and found out that during the thesis I mistakenly took the wrong dataset for the evaluation.
+
+Basically I created a dataset that i used to generate some indicators, and I was supposed to evaluate the indicators on another dataset. Probably because of the lack of sleep, stress and tiredness I copy/pasted the first one to the folder for the evaluation and evaluated the indicators on the same dataset that created them...
+The conclusion and discussion don't change much as the results are a bit worse but still promising.
+
+However right now I'm panicking because tomorrow i will call the supervisor to tell him about the mistake, also in order to not publish the wrong data, but I'm really afraid I will lose my degree because of this. Do any of you have any experience with something similar?
+
+
+EDIT: Thank you so much for the support and the comments. It really helped me to calm down and see this from an objective point of view. I spoke with the supervisor and no, I won't lose my degree. He mentioned that the evaluation was just a minimal part of the work (given as a proof-of-concept) and that the contribution as a whole was still solid. The results also showed that, while being  ~10-15% worse in two particular cases, hold true for the purpose of the work and for the most important case where there is no difference even when the indicators were overfitting the wrong dataset and therefore there is no need for a revision (although I disagree on this last point, however I'll see what I can do after the Christmas holidays).
+
+To reply to the comment about the paper authorship: I got help during the thesis and I won't be continuing my studies, therefore for me it's indifferent whose name is the first. About the "accusation" of plagiarism, since he supervised the thesis I don't believe this is the case. He also asked me if I agreed to him writing a paper about this and I was ok with that.

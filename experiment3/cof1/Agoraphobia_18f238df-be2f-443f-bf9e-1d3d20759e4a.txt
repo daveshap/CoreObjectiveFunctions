@@ -1,0 +1,12 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Great day!
+Okay today went PERFECT! Don't trust that anticipatory anxiety!
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "Congratulations on having a great day! Don't let your anticipatory anxiety ruin things, though. Just enjoy the good feelings and let them carry you through."
+2. "It sounds like you had a great day! Remember that anxious thoughts are just that - thoughts. They don't control you."
+3. "You had a great day! Make sure to take some time to enjoy and savor the good feelings."
+4. "It sounds like you had a great day! Remember that tomorrow is a new day, and you can approach it with anticipation and excitement."

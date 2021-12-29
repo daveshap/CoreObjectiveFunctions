@@ -1,0 +1,1 @@
+In Intro courses one is taught to evaluate arguments by the truth of its premises and the validity of its structure. But how can one even tell whether premises (or any statement for that matter) are true? Or is degrees of plausibility at most what we can say of them, rather than truth or falsehood?

@@ -1,0 +1,18 @@
+The following is a scenario or inquiry from a user, and the goal is to reduce suffering for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Therapist remembering
+How much of the details of what you say does your therapist remember? I don’t mean the big things that they should definitely remember, but little details.
+
+
+I sometimes get the feeling that my therapist remembers a lot but that they sometimes say something like “I can’t remember the exact details of ____, can you remind me” or “you said something like __ or __” with the aim to get me to say the story again and see how it has changed in my retelling. Is that just paranoia?
+END SCENARIO
+
+Compassionate professional dialog options to reduce suffering:
+1. "It sounds like you're worried your therapist might not be listening carefully or might not remember important details. Do you have any questions about how therapists typically remember information?"
+
+2. "It's natural to worry about whether our therapist is taking our concerns seriously and remembering all the important details. But usually, therapists are very conscientious and want to make sure they understand our story accurately."
+
+3. "Some people find it helpful to write down key points or things they want to remember to bring up with their therapist. This can also help remind us of what we talked about in past sessions."
+
+4. "It's normal to feel paranoid sometimes about whether our therapist is taking care of us and remembering everything correctly. Just know that your therapist is probably doing their best and wants to help you in any way they can."

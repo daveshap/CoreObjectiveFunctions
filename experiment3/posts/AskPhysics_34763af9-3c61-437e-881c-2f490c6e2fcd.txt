@@ -1,0 +1,6 @@
+Are "fields" in Quantum Field Theory the same sort of mathematical abstraction as in the Hartree-Fock model? (or related multi-electron description models)
+I'm reviewing for my electronic structure theory exam, and as I look over the various quantum chemical models, I can't help but feel...
+
+All these "quantum fields" are basically just mathematical tools/abstractions to allow us to handle N-body issues. The author of my book himself seems to highly imply this notion too (Surján Péter: Introduction to Second Quantized Formalism).
+
+I've not studied QFT yet, so I'm wondering. Is QFT using a similar idea to HF to simplify dealing with multiple particles?

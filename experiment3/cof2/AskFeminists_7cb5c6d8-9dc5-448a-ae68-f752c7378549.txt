@@ -1,0 +1,25 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+do you recall how sites like memecenter were filled with sexism?
+I used to visit websites like that and so many memes were riddled with misogyny and sexism:
+
+Saying women on their periods are like monsters
+
+women only date douches 
+
+women can't drive
+
+women have faulty logic
+
+the amount of hatred for justin bieber and women can't be nerds
+
+and wow...looking back it was so toxic? I was wondering, why is it like that?
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It's sad that these websites were filled with misogyny and sexism. It's important to remember that not everyone is like that, and there are people who care about creating a more equal and just world."
+
+2. "It's disappointing that these websites were filled with misogyny and sexism. It's important to remember that we can all do better and create a more equal and just world."
+
+3. "It's disturbing that these websites were filled with misogyny and sexism. It's important to remember that we can all make a difference and create a more equal and just world."

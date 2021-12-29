@@ -1,0 +1,2 @@
+What happens when screen refresh rate is not divisible with frame rate?
+Let's say 60 fps on a 144hz screen. What happens? 120 hz makes sense, but where does the rest go with higher framerate?

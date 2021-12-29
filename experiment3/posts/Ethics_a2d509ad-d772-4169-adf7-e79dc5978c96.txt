@@ -1,0 +1,14 @@
+Consequentialism and Metaphysical Indeterminism
+Thought I'd post here an explanation of an idea I had a few months ago and which I have been mulling over since. So far I haven't really found any objections so I thought opening a discussion here might be a good shout.
+
+I suppose the idea sprung out of re-considering the 'impossibility of predicting consequences' objection to consequentialism and specifically utilitarianism. Briefly, this argument says that consequentialist ethical theories are no good because predicting the consequences of our actions is extremely difficult and we would need to be some sort of omniscient observer to make reliable moral judgements. Call this is the 'epistemic indeterminacy' criticism.
+
+Considering utilitarianism not as a practical tool towards making the world a better place as Bentham may have done but as a **description of moral facts**, this argument doesn't seem to get off the ground. Our actions still have consequences, even if we can't know about them precisely. It might mean that we aren't very competent moral judges, but it doesn't mean that the moral dimension of our acts isn't entirely determined by the consequences.
+
+In my assessment, this line of argument starts to fall apart if we modify the epistemic indeterminacy criticism and replace it instead with what I'm calling the 'metaphysical indeterminacy' criticism.
+
+If we assume metaphysical indeterminism, then **the** future, and therefore **the** consequences, don't really exist. Instead, countless, (perhaps an infinite number under some models) of futures exist, with one of many simply waiting to be instantiated by probability and happenstance.
+
+This is dangerous for consequentialism because it means that no physically possible future is more real than another, and therefore no consequence of any action is more real than another. The consequences of an action are in flux, and will never stop being in flux; as by some fluke of probability it is always possible that any action could cause the most immense torment, or the most immense happiness.
+
+So as far as I can tell, if metaphysical indeterminism is true then not only are the consequences of actions impossible to predict, but they are literally not real (yet). To me it looks like consequentialism and metaphysical indeterminism are logically incompatible; or strict determinism is a necessary condition for the truth of consequentialism.

@@ -1,0 +1,29 @@
+Advice: Is it really worth spending money on predictive maintenance when machines are insured?
+One of my ex-colleagues turned entrepreneur runs an automobile workshop. A few months back he has purchased a couple of hydraulic hacksaw machines. These machines are under warranty for 1 year. The warranty says, if any defect arises with any component, the component will be replaced by the OEM free of cost.
+
+## Known Risk
+
+An agency regularly conducts predictive maintenance of the machinery at the workshop. Every month a field engineer visits the workshop, analyses the machinery, and reports on the health of the internal components. 
+
+The last report surprisingly stated that there is a problem developing in the gearbox in one of those new machines. The agency has alerted my friend on the possible failure and told him to replace the component within a week.
+
+When my friend has asked for the component replacement, the OEM has denied the report. Says the warranty clause applies only when the component fails. They do not consider the predictive analysis as a norm to replace the component.
+
+The warranty stands void for the entire machine if a third party opens the machine to repair.
+
+## Confusion
+
+It's a tough situation now to take a call. We are both very much confused about what would be the optimum action now.
+
+**Should he or should not he get the machine proactively repaired at his own cost?**
+
+In case if he does, then he may save a break-down but incur the cost of repair. Also, he bags the risk of other component failures for the rest of the warranty period.
+
+If he doesn't, then he may save on the repair cost but could incur a heavy loss on the business revenue. If the machine finally breaks down at a critical business hour then that results in business loss. OEM pays only for the component but not for the loss of business. 
+
+Moreover, if there is no intention of taking an action, then there is no point to conduct predictive maintenance for these machines. The same scenario may also apply to the insured machines as well.
+
+## Optimum Decision
+
+I'm just wondering what the community would advise on the best course of action.   
+If a machine is covered under warranty or insurance, would it be worth spending on predictive maintenance?

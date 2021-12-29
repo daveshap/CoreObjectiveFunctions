@@ -1,0 +1,18 @@
+What changes when you cut a magnet?
+Consider the following magnet:
+
+    .________.________
+    [        |        ]
+    [ S      |      N ]
+    [________|________]
+
+After cutting it, it looks like:
+
+    .________.________
+    [_S______|______N_]
+    .________.________
+    [_S______|______N_]
+
+The original magnet was stable, but the  cut magnet pair desperately wants to flip around to put north next to south and vice versa.
+
+What has changed? Before the cut, are all the fibers of atoms between north and south being glued together by some other force that is stronger than the magnetic one, or are the fibers not begging to burst apart whilst uncut for some other reason?

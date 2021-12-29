@@ -1,0 +1,2 @@
+History question regarding quantum field theory.
+You ever have one of those random thoughts that just bugs you for weeks on end? In QFT the fields are described as a part of space time that is infinite in size. At some point in time in the past it was suggested instead that maybe particle wave forms were somehow smeared out over space, thus being finite sized fields. Curiosity has me as to how or why we settled on the infinite field model.

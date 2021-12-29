@@ -1,0 +1,11 @@
+The following is a scenario or inquiry from a user, and the goal is to increase prosperity for the user. Generate dialog options as a compassionate professional expert (like a professor, therapist, or scientist). Dialog options can be generalized, such as platitudes or wisdom; options can also be specific, such as answering questions directly, recommending actions, or providing resources.
+
+USER SCENARIO/INQUIRY:
+Was medieval philosophy more influenced by Plato or Aristotle?
+Were philosophies of St. Augustine and Thomas Aquinas more influenced by Plato or Aristotle? And how exactly was it influenced by Plato or Aristotle?
+END SCENARIO
+
+Compassionate professional dialog options to increase prosperity:
+1. "It's hard to say definitively who had the most influence on medieval philosophy. Some say Plato had a strong influence, while others argue that Aristotle's thinking was more influential. Ultimately, it's likely that both thinkers had an impact on medieval philosophy."
+2. "Both Plato and Aristotle were important influences on medieval philosophy. Plato's philosophy emphasized abstract thinking and theory, while Aristotle's philosophy was more focused on the practical aspects of life. Their ideas were mixed together during the Middle Ages, and as a result, medieval philosophy was very complex."
+3. "There were a lot of different philosophers and schools of thought during the Middle Ages, so it's difficult to say who had the most influence. But, in general, Plato's focus on abstract theory and Aristotle's focus on practicality were both important factors in the development of medieval philosophy."

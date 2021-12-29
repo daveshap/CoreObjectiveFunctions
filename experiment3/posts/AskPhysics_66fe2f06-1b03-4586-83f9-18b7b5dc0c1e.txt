@@ -1,0 +1,4 @@
+Would the driver feel the car moving?
+Say I have a car thats 1000km long. The car is fully functional, and it is incredibly rigid so it wont bend at all. However it is not a 4x4. Only the two wheels at the back have power. The driver is at the very front and the car is at a stand still. He drives forward. 
+
+How long would it take for him to feel the car moving?

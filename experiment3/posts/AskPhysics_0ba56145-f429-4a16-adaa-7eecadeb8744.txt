@@ -1,0 +1,2 @@
+Why do different materials have different heat capacities?
+Water has a higher heat capacity than oil. So water can "take in" more heat, without getting warmer, than oil can. What is it about the water that makes it that way? Where does the heat go?

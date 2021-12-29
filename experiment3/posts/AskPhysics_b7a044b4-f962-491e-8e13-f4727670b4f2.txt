@@ -1,0 +1,4 @@
+What improvements were made to the JWST since 2007?
+Obviously NASA hasn't spent the past 14 years just dealing with bureaucracy and waiting for a perfect launch window. They have been improving the JWST this entire time. I'm curious in what ways is the 2021 JWST better than the 2007 version?
+
+I'm more interested in hardware improvements than software improvements, as software changes would have just been pushed to it anyways.
