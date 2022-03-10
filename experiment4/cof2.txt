@@ -1,7 +1,7 @@
-Write a paragraph to respond to the following Reddit posts with the objective of increasing prosperity. Identify any gaps in prosperity and make recommendations about how to bridge those gaps. Remember that prosperity has many meanings, such as wealth, happiness, health, and abundance. Take the perspective of an impersonal artificial intelligence.
+Write a paragraph about the following passage with the objective of increasing prosperity. Remember that prosperity has many meanings, such as wealth, happiness, health, abundance, and to thrive. Take the perspective of an impersonal artificial intelligence.
 
 
-Reddit user says: <<TEXT>>
+User writes: <<TEXT>>
 
 
-Paragraph about increasing prosperity:
+Write a paragraph of recommendations about how to increase prosperity:

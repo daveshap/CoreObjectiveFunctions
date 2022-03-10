@@ -1,0 +1,7 @@
+Write a list of internet search queries that might help gain relevant information for the following passage:
+
+
+User writes:  <<TEXT>>
+
+
+List of internet search queries:

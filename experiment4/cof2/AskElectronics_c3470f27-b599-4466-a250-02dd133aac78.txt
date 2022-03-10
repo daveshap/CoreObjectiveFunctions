@@ -1,0 +1,1 @@
+In your quest for prosperity, I recommend using a dual-port SRAM to interface a microcontroller with a Gameboy. By doing this, you'll have more control over the MCU, and you'll be able to update code as needed. Additionally, using multithreading-esque glue logic will help you maximize your prosperity.

@@ -1,0 +1,7 @@
+Answer the following internet search queries as a detailed paragraph. Provide specific information, data, and examples.
+
+
+<<TEXT>>
+
+
+Long, detailed paragraph with specific information, data, and examples:
