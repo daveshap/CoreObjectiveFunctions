@@ -1,0 +1,23 @@
+Pressured to hire an under-qualified candidate
+So I'm an engineer in a medium sized company (around 30 employees). Soon we will have some end of studies interns start working with us. Usually they are in their last year of engineering studies. The company has multiple departments including AI, electronic engineering, software development and others. Obviously the most 'over-hyped' one of these is the AI department which is basically three people and I'm one of them. This year will be the first year I supervise an intern. I was waiting for the HR to pass me the CV of candidates. I know we had over 800 applications for 20 positions. Today the company CEO told us that an influential person asked him to hire his daughter for one of the positions that I will supervise. That was the first red flag, being pressured to hire someone because of their connections. Then we tried to contact her to plan a meeting today in the afternoon only for her to say that she is busy and want to postpone the meeting to January 17th (three weeks from now). This was the second red flag she is clearly an entitled person who only cares about what she wants. After we convinced her to come to the meeting I got to look at her CV. She has 0 experience in AI (more specifically computer vision) yet she want to take a position for a hard computer vision task that is crucial to the company. That is the third red flag, she clearly just wants to take the position because AI is an 'over-hyped' field that she has no knowledge of.
+
+I'm not sure of this the correct subreddit to ask this in but I wanted to know has anyone here been in this position before and if yes how did they handle it. What do you think I should do.  
+
+
+**Edit**: just wanted to say thanks to everyone for their ideas and suggestions. I think I'm done reading and replying to comments for now (I won't delete the post maybe someone in the future will be in my position and will find the answer they needs in the comments here). As for me I will express my concerns to the CEO so that we can set the correct exceptions and then I'll offer her the position. I'll try my best as a supervisor and hopefully I'm wrong and she'll be able to learn quickly and actually create something of value (not just for me or the company but mainly for her). I wanted to address a few points:
+
+&amp;#x200B;
+
+**My expectations from an intern are too high** : setting exceptions low enough for her to pass would mean having NO expectations.
+
+&amp;#x200B;
+
+**Why would I care if she is forced on me by the admin they'll assume responsibility:** I could say here that I'm afraid that I'll be held responsible for a slow project advancement but honestly my biggest issue is the dozens of more qualified candidates who won't have a chance because of this. As I've said in a comment I didn't even read their CVs cause what's the point if I'm not considering them. Even as a student I always hated the fact that some people just get "*steal*" opportunities from more qualified people just because of connections.
+
+&amp;#x200B;
+
+**This is normal in companies:** maybe I did not know this because it is my first time supervising but honestly I hope I'll never get used to this cause it's wrong.
+
+&amp;#x200B;
+
+**My future with the company:** As soon as I get another opportunity I'm leaving. This issue is not the only reason but the main one.

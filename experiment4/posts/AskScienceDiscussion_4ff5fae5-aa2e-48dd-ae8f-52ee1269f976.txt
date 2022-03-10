@@ -1,0 +1,6 @@
+What minimal technology would we need to (re-)produce in space in order to restore current technological advancement in case some disaster happened on Earth?
+The question was inspired by the plot of "Seveneves" by  Neal Stephenson (hope that I didn't spoil it much).
+
+So, in case of some severe catastrophe that makes Earth uninhabitable, given that humanity has established off-earth colonies somewhere in Solar System, what would be the minimum required production facilities that would ensure that humans could sustain their colonies as well as technology that we currently have?
+
+The Stephenson's novel gives some answers on that, but from what I could understand, in his story he relies on some technologies that don't exist yet (but are possible).

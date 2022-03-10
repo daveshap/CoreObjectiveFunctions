@@ -1,0 +1,12 @@
+[Confused...again] 2008 Financial Crisis
+So....this may not be a very profound question....
+
+I am a university econ senior that has learned about the 2008 financial crisis over and over again. Even after reviewing it and watching documentaries I simply can't consolidate information and summarize what happened in a few sentences without also doing every part justice.
+
+So i'm currently stuck in understanding where the fraudulent banking happened and where fault occurred and who is mostly responsible. As of now I understand this:
+
+In lieu of a possible recession, the fed slashed interest rates on loans and subsequently encouraged banks to lend more and take on higher risk. This risk came in the form of subprime mortgage-backed securities that were credit-rated incorrectly or fraudulently. The credit rating formed the basis of how insurers, funds, banks, and other investors selected to purchase collateral debt obligations (CDOs) and thus, further expand the market and economy with lofty financial instruments. Unfortunately, the housing bubble naturally popped and people who bought houses at lower payment rates could not keep up with the newly adjusted rate and thus, defaulted on their mortgage. This led to the massive deflation and breakdown of mortgage-backed securities and created a bearish market due to lack of confidence in major financial institutions...which lead to a recession. This recession obviously reached broader markets even remotely attached to them of companies trading them and the banks with massive mortgage portfolios failed and were acquired via the help of other banks and a crapload of quantitative easing.
+
+I know that the last part got a little more summarized, but overall how did I do? Is there anything i'm missing? And is the fault just with bankers giving out mortgages to anyone with a pulse and credit rating people fraudulently rated subprime mortgages as good?
+
+Thanks

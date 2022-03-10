@@ -1,0 +1,18 @@
+Does redshift decrease the energy of light?
+I've been trying to understand why redshift happens. The closest I've got so far has been through the help of this video: [How Relativity Redshifts Light - The Relativistic Doppler Shift](https://www.youtube.com/watch?v=lF69kBZE-vI)
+
+So as I understand things: The energy a particle or wave of light is apparent from its wavelength (as light will always travel the same speed regardless of how much energy it has), and this wavelength is simply the frequency of oscillations in a point on the electromagnetic field.
+
+But, because space is expanding, and because of an observer moving away from the lightsource, the crests of these oscilations are perceved as less frequent by an observer seeing redshift.
+
+Does this mean that redshifted light really has the same amount of light as it did billions of years ago, and it only *looks* like it has less energy because of this phenomenon?
+
+Is this also true of the cosmic microwave background radiation? And that that radiation still possesses the same amount of energy as it did roughly 14 billion years ago, and its only just been redshifted all the way down to microwave levels, so it only *looks* like it has less energy?
+
+Or have I got it backwards, and redshift is physically decreasing the energy of these light waves? If that's the case, where does the energy go (conservation of energy and all that)?
+
+Finally, [Wikipedia says in its opening section that](https://en.wikipedia.org/wiki/Redshift) redshift is caused by three things: The two I've already mentioned (the expansion of space and a moving observer), and the observer being in a less curved region of spacetime than the lightsource. Am I right in assuming that this cause is basically due to the same thing is the first cause, the expansion/contraction/shape of spacetime?
+
+Thanks in advance!
+
+Edit: Spelling

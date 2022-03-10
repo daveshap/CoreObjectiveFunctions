@@ -1,0 +1,4 @@
+Wittgenstein: How can there be objective standards of rule-following? What makes my use of a word objectively right or wrong?
+As I understand it, the main thrust of the Private Langaueg Argument is as follows: The notion of a logically private name S - referring to an inner experience - is incoherent, for there would be no way to be wrong (and thus no way to be right) when truthfully stating that I am experencing S again; it makes no sense to say that I truthfully thought I was experiencing S but in fact wasn't. There is no rule that I am objectively following or violating.
+
+However, I don't understand how such an objective standard could exist at all - in a public language so to say. What makes me objectively wrong in saying that 77+33=100? That the largest part of the language community would disagree? That doesn't really sound objective. That I might come to realize that I am wrong if I calculate again? I might just not.

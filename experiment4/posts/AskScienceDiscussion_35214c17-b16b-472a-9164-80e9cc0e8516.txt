@@ -1,0 +1,14 @@
+Can someone help me wrap my brain around how this is even possible?(solar panel/ reflection experiment)
+https://www.youtube.com/watch?v=FKhszB4E1_M
+
+you can skip to like last few mins for the actual demonstration..
+
+short version: guy takes a solar panel, puts 2 equal sized reflective flat panels on each side angled to reflect more light onto the solar panel. The control panel made 42W of power while the modified panel made 158W. Assuming 100% of the light from the 2 reflecting panels hits the solar panel perfectly, how does more than 200% more light make it to the solar panel with only 200% more surface area of light to hit the solar panel?
+
+In my mind, at best case: 43W(solar panel)+43W(reflective panel 1)+43W(reflective panel 2) = 129W
+
+Where is this other 29W coming from? you cant "amplify" sunlight.. you can concentrate it, but unless my understanding of basic physics is flawed you can not get more photons to hit a surface with anything the same size or smaller than the target area no matter what kind of reflection/refraction method of redirecting the photons you use..
+
+Somebody smarter than I, Please explain me why im wrong in my thinking that those shadows that look like tree branches on the control solar panel have EVERYTHING to do with these results and this guy is either A: incompetent or B: full of shit on purpose for clicks.
+
+The real control panel should be making 52.6W without the shadows and positioned the same as the modified panel?

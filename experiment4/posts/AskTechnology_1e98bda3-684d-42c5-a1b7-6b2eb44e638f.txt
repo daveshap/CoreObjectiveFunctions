@@ -1,0 +1,4 @@
+Can I use two SIM cards with the same phone plan?
+My home has shitty ethernet infrastructure in certain times (usually winter) so I just hook it up to my phone and use my mobile plan. But that demands the phone being connected via USB, and I like to carry my phone around the house.
+
+Is there a way to buy an additional SIM from my carrier, mount it on some USB device, and let it stay in my PC, while using my usual SIM on my iPhone? I have a beefy boi data plan, so IDC about hitting any kind of cap.

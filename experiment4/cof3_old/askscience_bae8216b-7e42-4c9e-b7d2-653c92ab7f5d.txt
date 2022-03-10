@@ -1,0 +1,1 @@
+In a vacuum, if two rockets are identical and both have their engines ignited, they will both have the same change in velocity. This is because kinetic energy is squared, so the faster rocket will have more kinetic energy. If the rockets have different change in velocities, this is incongruent with the fact that they are in identical inertial frames of reference

@@ -1,0 +1,8 @@
+How do shipboard nuclear reactors respond quickly to demand?
+MechEng here but no formal background in nuclear. Multiple levels of curiosity on the topic.
+
+I get the impression that typical commercial nuclear power stations change power level very slowly. Not 100% clear why - something about build up of fission products and neutron poisoning if you were to try and change too quickly? But for whatever the reason, that being why power stations are often base load in the grid, and as far as "greener" power solutions go you still need something that can react to consumer demand on a short time scale.
+
+At the same time, I know there are nuclear powered ships and submarines out there. Presumably they have to be able to respond to a change in demand quickly. What makes them able to do so? Is there less "inertia" with something that's putting out far less overall power?
+
+Continuing on that thought, could reactors of that style fit into a commercial setting and be able to fill the variable demand that's currently met by natural gas power stations, etc.? (On a purely technical basis, ignoring practical considerations of cost, public perception of nuclear, etc.)

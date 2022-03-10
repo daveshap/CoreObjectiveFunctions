@@ -1,0 +1,6 @@
+[CAN] The recruiter’s email address I replied to is different from the email address in her email signature. Does it matter?
+Last week a HR person sent me an email to sign an offer letter. I clicked the “Reply” button on gmail to respond with an attached signed offer letter. My response email was sent to firstnamelastname@companyname.com. 
+
+However, I noticed in her email signature (where you write your name, title, company name blah blah blah) that her email address is written as firstnamelastname@companynameLLC.com 
+
+Is there a difference between @companyname.com and @companynameLLC.com? Like I said, I simply clicked the reply button on gmail so that the recipient email address would conveniently be filled in for me.  I didn’t realize until now that the “LLC” part was in her email signature. I’m worried my response email won’t be in her inbox now.

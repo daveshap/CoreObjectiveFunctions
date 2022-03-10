@@ -1,0 +1,6 @@
+Why can't you trap light in a mirror box?
+Have just been thinking about this recently.
+
+Suppose you have a box with perfect mirrors, meaning the reflect 100% of the light that hit the surface, all facing in. You then have some kind of camera attached to the box that will let you see inside once it is closed but not effect the mirrors ability to perfectly reflect light, and a light source that will eventually go out and not leave anything behind to absorb any light.
+
+Why can't this trap the light in the box so you can look in with your camera and see not pitch black?

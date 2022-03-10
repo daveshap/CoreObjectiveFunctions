@@ -1,0 +1,1 @@
+In this scenario, the rocket that is already moving at 1000kmh will experience a greater change in velocity than the stationary rocket. This is due to the kinetic energy, which is the square of velocity. The faster rocket will have more kinetic energy, despite using the same engine as the other rocket. This is due to the fact that it is already in motion.

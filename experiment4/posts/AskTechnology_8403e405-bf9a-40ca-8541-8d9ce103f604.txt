@@ -1,0 +1,7 @@
+My laptop won't turn on without the charger being plugged in? But once it turns on the charger being plugged in, it runs fine even if I plug out the charger.
+Moreover, if I shut it down and try to turn it on, it will turn on without the charger being plugged in. It just needs the charger to be plugged in one time if I want to turn on my laptop after not using it for a few hours or so.   
+
+
+PS: Recently, I changed my battery.
+
+Edit: I forgot to mention everytime it needs to start with charger being plugged in, it shows error 502(cmos reset).

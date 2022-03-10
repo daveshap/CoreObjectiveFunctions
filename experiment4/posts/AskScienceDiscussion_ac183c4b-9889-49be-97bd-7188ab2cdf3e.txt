@@ -1,0 +1,6 @@
+Can you have H- in a proton beam?
+So I work at a cyclotron and we accelerate H- and strip the electrons with a carbon foil. The stripped protons then bend to the beam pipe and hit the target.
+
+Can a H or H- atom end up traveling with the beam of protons? I would assume not since its charge is opposite/neutral and thus would not bend the same through the magnets. My engineering coworker says they can from momentum, but he is very much not scientific. 
+
+Hopefully this question makes sense.

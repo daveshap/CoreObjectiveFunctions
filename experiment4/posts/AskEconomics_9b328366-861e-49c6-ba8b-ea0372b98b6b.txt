@@ -1,0 +1,10 @@
+Why do the World Bank and the OECD have such diffrent GDP values for Portugal?
+I'm looking into Portugal's government expenditure by function as % of GDP and noticed that the World Bank values are quite different from the OECD ones; I decided to look at both of their values for GDP (2019) and they're pretty different too.
+
+World Bank GDP: [https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2019&amp;locations=PT&amp;start=1960](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2019&amp;locations=PT&amp;start=1960)
+
+OECD GDP: [https://data.oecd.org/gdp/gross-domestic-product-gdp.htm](https://data.oecd.org/gdp/gross-domestic-product-gdp.htm)
+
+Can anyone please explain why this is?
+
+Thanks

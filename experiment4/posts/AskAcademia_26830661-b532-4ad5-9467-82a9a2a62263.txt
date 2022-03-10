@@ -1,0 +1,22 @@
+What do you think of the concept of a continuously changing publication in the form of a website page?
+How it would work is this:
+
+\- You have a website page that explains a concept with the goal of providing the newest most accurate version of the information. 
+
+\- Since science sometimes discovers new things or feedback is provided for clarification, this could be continuously changed to the page. 
+
+\- People can mark a line in the text and add a comment suggesting an improvement or add sources that might disprove or align with the idea. 
+
+\- Every time the page is updated with information, it becomes a new "version". 
+
+\- A button on the page exist called "download document and citation" and the citation will include the name of the latest version that was downloaded. 
+
+\- You will also have access to previous versions, where the text that has been changed is marked in a colour. 
+
+Questions:
+
+\- Do you think this is a good way of holding updated information and managing the citation?
+
+\- Do you think this could be applied to academic publications as well? Where the feedback or new discoverings could be data added to a model inside the publication, and the publication would then automatically be updated and uploaded with this extra data using a coding programme. Next gen automated science? 
+
+\- When would this be a good use and when would it be a bad use?

@@ -1,0 +1,21 @@
+How did you learn to get over the frustration of solving exercise problems?
+Initially I posted this in /r/physics because I wasn't aware that this subreddit exists. Perhaps this is a bit more "meta" of a question but I would sincerely love people's opinions and input.
+___________________________
+
+Hi,
+
+I'm in my third year of university studying Physics at a bachelor level, and I've always just somehow managed to "get through it", either by communicating with fellow students about problems, or by attending out of class sessions.
+
+However, I've found that in my third year of Physics, I've kind of hit a bit of a brick wall in terms of my attitude. To be frank -- I give up way too easily.
+
+I'm currently taking a thermodynamics and heat transfer course, and after the lecture, I sit down with the notes I've taken and attempt to solve the problem. But the problem has something I've never encountered before, and have no idea how to deal with it. I kind of freeze and say "Well I guess I'll just look at the worked solutions to see what the next step is" -- and although this has worked for me so far, I'm fed up with relying on it.
+
+I've had friends at uni (before COVID started where it was all physical) who just seemed to be able to take it like a champion. One of them used to just sit with the problem for hours. I don't get how people have the resolve to do it.
+
+I want to be a good problemsolver so badly, but I just give up so quickly when there's something in the problem that I don't recognise at all. 
+
+The thing that triggered this post is that I'm studying 1D heat flow in a pipe, and suddenly the problem has introduced an external heat flow along a separate axis. I don't even know where to begin. I get so discouraged when I go back to the textbook because I don't remember seeing it.
+
+Has anyone else here experienced similar and finally started to develop good habits after a while?
+
+How do you learn to be comfortable with being completely clueless as to where to begin solving a problem?

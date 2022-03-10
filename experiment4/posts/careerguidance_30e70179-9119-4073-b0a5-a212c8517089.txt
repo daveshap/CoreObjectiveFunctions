@@ -1,0 +1,8 @@
+Is it normal to feel like you barely even contribute at your job and you don't get fired?
+I was hired as a Software Developer at a company. I've been here for about a year.
+
+Over the course of a year, I've created about 3 bug fixes for a mobile app. The changes seem pretty minor to me. For example, making it show numbers on certain screens no longer contain decimals.
+
+I was given one task to do an enhancement for an app a few months ago. I failed pretty horribly on it and then a Senior Developer finished the enhancemt for me. 
+
+For about 3 months now I basically just sit in meetings where I don't say anything, watch tutorials, or work on changes on my local computer that will most likely not get deployed due to requirements changes.

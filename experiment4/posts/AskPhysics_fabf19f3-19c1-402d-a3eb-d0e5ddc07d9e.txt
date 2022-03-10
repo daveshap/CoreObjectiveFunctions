@@ -1,0 +1,6 @@
+What happens inside a battery when you use and charge it simultaneously?
+I was watching several YouTube videos about how batteries work. The general idea is when a load is connected, ions travel from one electrode to the other, releasing electrons through the negative terminal into the circuit. The reverse happens during charging; an external voltage is applied to force electrons back through the negative terminal, causing the ions to move the opposite way.
+
+However, according to this conceptual understanding, both electrodes are like one way roads for electrons; each can only push or pull current at a given time, not both. Therefore, it should not be possible to use your phone / laptop while charging it simultaneously, because the electrons travelling in opposing directions would form a deadlock and prevent current from flowing.
+
+So why doesn't this happen? When you connect your device to the charger, how does it supply current to the battery while drawing current at the same time? And what goes on in the battery during this? None of the videos I watched shows what happens if you use **and** charge it at once. Or maybe the device runs on external power while charging the battery? I am interested to know this. Thanks.

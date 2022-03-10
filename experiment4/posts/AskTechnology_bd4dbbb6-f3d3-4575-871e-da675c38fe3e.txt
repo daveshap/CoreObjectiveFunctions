@@ -1,0 +1,12 @@
+Need a way to run an email campaign that uses logic that comes from within our database.
+So we want to run an email campaign that works off of logic in our database.
+
+Fundamentally it's quite simple, it's stuff like:
+
+1. On user's first sign-up, send email 1.
+2. On user's first use of X feature, send email 2.
+3. 7 days after user's first use of X feature, send email 3.
+
+The thing is, values like when a user used X feature and so on are all in our database.
+
+We can code all the logic out, but I figure there might be a tool to do this off the shelf. Sending emails themselves using generic services like mailchimp seems easy enough, but it's the part where we need to use logic determined by values in the database that we have to solve.

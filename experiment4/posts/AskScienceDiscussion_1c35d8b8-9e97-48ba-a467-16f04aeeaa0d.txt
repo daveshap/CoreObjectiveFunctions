@@ -1,0 +1,3 @@
+When sending a signal through an object, does an electron actual flow through it?
+Do example, the other day I placed one hand on a microcontroller data pin and my other hand on an led strip. The signal went through me and the light show worked perfectly, although I did need to hold tight.
+What exactly is happening? Are electrons flowing through me? How does an electron know how to travel through my body and where to exit? I'm not a simple wire with two ends.

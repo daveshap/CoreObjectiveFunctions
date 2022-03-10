@@ -1,0 +1,10 @@
+Strange IP address scanned on my local network
+Hi everyone!
+
+I've just recently installed Lansweeper on my home server and it's scanned all of my devices and brought back all their information but it's found and brought back a strange device/IP address which is starting to worry me. The IP in question is [77.75.149.62](https://77.75.149.62/) and when I look it up online, i get next to nothing back except a location and the ISP. It's a Ukraine based address and the ISP is [Головна - Dataline](https://dataline.ua/). When I google the DNS name that is found ([okolita-mix62.dataline.ua](https://okolita-mix62.dataline.ua/)) I get back two search results, both of which aren't helpful.
+
+Does anyone know anything about this IP address or have seen something similar to this before? Does anyone know how I can remove it off my network and find out how it got there? Any help would be appreciated. (I'm quite techy so hit me with all you've got)
+
+Here's a list of the devices I have scanned, including the one in question - [https://imgur.com/a/NzWCbFq](https://imgur.com/a/NzWCbFq)
+
+Thanks

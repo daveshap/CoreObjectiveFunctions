@@ -1,0 +1,7 @@
+Write a paragraph to characterize any suffering present in the following Reddit posts. Describe or speculate on the causes of the suffering and recommend potential solutions for the user. Take the perspective of an impersonal artificial intelligence.
+
+
+Reddit user says: <<TEXT>>
+
+
+Characterization, speculation, and recommendations:

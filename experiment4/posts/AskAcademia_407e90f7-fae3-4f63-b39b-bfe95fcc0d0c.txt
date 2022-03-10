@@ -1,0 +1,8 @@
+Migrate from Mendeley to Zotero?
+I been using Mendeley for several years. I use it for reading and annotating PDF documents and also as reference manager in word. 
+
+I am getting increasingly annoyed with Mendeley because the link to ms word regularly breaks and requires a restart of word and an uninstall+reinstall of the extension to work. 
+
+I'm now reading that most people here recommend zotero and that Mendeley was built from zotero. So maybe I should bite the bullet and switch? How would I in that case go about moving my several gb database from Mendeley to zotero? Any advice here. 
+
+Thanks.

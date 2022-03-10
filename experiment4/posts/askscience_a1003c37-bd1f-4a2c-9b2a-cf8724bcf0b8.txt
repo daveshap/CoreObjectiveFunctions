@@ -1,0 +1,6 @@
+Why do mosaic humans not get attacked by their own immune system?
+I recently found out that genetic mosaicism exists, in which a single person has multiple different sets of DNA at a time, in different groups of cells.
+
+However, it isn't clear to me why the body doesn't reject these cells with a different DNA, as is the case for e.g. organ transplants, or at least has immune responses between them?
+
+Why does the immune system reject transplanted organs, but not genetic mosaic tissue?

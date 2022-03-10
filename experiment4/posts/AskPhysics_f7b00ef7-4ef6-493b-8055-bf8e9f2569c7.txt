@@ -1,0 +1,4 @@
+How fast does the electric field expand around a charged particle?
+So if I move some charge to somewhere else, let's say very fast, will the field around it drag somewhat behind? Or will it move with the charge regardless of the speed of motion (which would make it seem instantaneous), not being affected by the speed at all?
+
+edit: I have posted this question on /r/askscience as well, but after a few hours I figured they rejected it (this happens often and you dont get a message telling you). So I posted it here as well, after a few hours. Now I see it has been accepted. Sorry for the split up. Here is the other thread: https://old.reddit.com/r/askscience/comments/retekl/how_fast_does_the_electric_field_expand_around_a/

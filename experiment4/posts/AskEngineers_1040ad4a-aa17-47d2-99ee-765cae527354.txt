@@ -1,0 +1,4 @@
+Managers that are non-engineers
+Im on a technical team at a large company where the majority of employees are non-technical. This company believes that a good leader should be able to manage any team. This has resulted in my team getting a carousel of different managers, none with engineering experience. Ive found it difficult to communicate some of the daily struggles to these managers as they seem to think things should be done faster than what is reasonable. Im also finding it difficult to filter any work through them, because they dont understand what our team is capable of doing, or what type of work load an engineer should be able to handle. There isnt much of a team environment as a result, and all the engineers are working solo and just reporting to this person. 
+
+Any advice or experience on how to handle this type of situation would be very appreciated.

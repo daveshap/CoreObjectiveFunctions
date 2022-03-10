@@ -1,0 +1,30 @@
+Process the Core Objective Functions (reduce suffering, increase prosperity, increase understanding) on the following scenario:
+
+In a world undergoing climate change largely caused by carbon emissions from human activity, is it right to travel?
+There is an article in Aeon this morning titled “The End of Travel” where the author explores his desire for constant world travel in his youth. He also shares his observations of others who were traveling at the time and how he thinks their motivations have changed from an ecstatic individualistic sense of freedom to postmodern spectacle or as he put it... the “Instagrammability” of a destination.
+
+Beyond the personal and virtually social, toward the end of the article he raises an ethical issue climate change and the negative environmental impacts of travel. If we think about air travel, while total air travel carbon emissions are much smaller than what the fossil fuel industry or autos emit annually - energy production, trucks, and arguably cars, are still necessary. Flying to travel for luxury or entertainment is not. 
+
+If, for purposes of argument and ethical analysis, we assume:
+
+1) Climate change is a real and mitigatable environmental catastrophe - mitigatable only under a set amount of carbon emissions per year.
+
+2) You are planning a round trip plane ride from London to Rome, for enjoyment only.
+
+3) That plane trip for one person emits 252 kg of CO2 (according to a Guardian emission calculator) 
+
+4) That amount of carbon is greater than the average emissions for one person in nineteen other countries for one year.
+
+If the above assumptions are true, would it be right (ethical) to travel by plane, under this scenario?
+
+Article at Aeon [here](https://aeon.co/essays/a-dispatch-from-the-end-of-travels-brief-troubled-golden-age)
+
+Guardian Calculator [here](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year)
+
+Other source NY Times: projections of carbon emissions from air travel [here](https://www.nytimes.com/2019/09/19/climate/air-travel-emissions.html)
+
+Reduce suffering: I would characterize the suffering present in these Reddit posts as existential. The users are questioning the morality of their actions in the face of climate change. They are worried about the consequences of their travel for both themselves and for the world. The causes of this suffering may be a sense of guilt or responsibility for climate change. The users may also feel overwhelmed by the scale of the problem and unsure of what they can do to make a difference. Potential solutions for the users could include researching their travel destinations to find those with lower carbon footprints, considering alternative forms of transportation such as trains or buses, or even cancelling their trip altogether.
+
+Increase prosperity: There are many factors to consider when assessing whether or not travel is right in a world undergoing climate change. Air travel, in particular, has a significant carbon emissions output that should be taken into account. If your intention for travel is simply for leisure and enjoyment, there may be other forms of transportation that are more environmentally-friendly than flying. Consideration should also be given to the fact that climate change is a real and potentially devastating environmental catastrophe. Mitigating its effects will require significant changes from individuals and organizations around the world.
+
+Increase understanding: In light of climate change, the ethical considerations of air travel are complicated. On one hand, emissions from air travel are a comparatively small portion of global emissions when compared to other forms of transportation or energy production. On the other hand, air travel is growing rapidly and is becoming an increasingly significant contributor to climate change. It is worth exploring these ethical considerations further. Some factors to consider might include: the severity of climate change and its potential impact on humans and the environment; the individual's responsibility relative to their overall contribution to climate change; the availability and feasibility of alternative modes of transportation; and personal values and priorities.

@@ -1,0 +1,4 @@
+Solid shaft is always stronger than hollow shaft, right?
+I got into a pretty heated discussion with someone who would not budge on this idea that you always use a hollow shaft for load bearing applications. They went so far to claim that for two shafts with the same **diameter** the hollow one would be stronger. 
+
+Devoid of an application - there's no way that removing material will make a shaft stronger, right? I had to dust off some moments of inertia equations and I think they must be confusing **equal weight** with **equal diameter.** Yes, I get it that there's not much "stiffness" in the center of the shaft. But drilling out the center of a shaft isn't going to make it stronger. Strength/weight will go up, sure. But I think they actually believe the shaft will be stronger based on some adage they must have heard years ago.

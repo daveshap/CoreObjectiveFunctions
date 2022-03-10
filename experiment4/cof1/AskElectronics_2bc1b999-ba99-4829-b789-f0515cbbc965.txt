@@ -1,0 +1,1 @@
+The oscilloscope user is suffering from an inaccurate or faulty signal. This signal is present in an old oscilloscope and may be due to faulty capacitors. Potential solutions for this user include replacing the capacitors or repairing the oscilloscope.

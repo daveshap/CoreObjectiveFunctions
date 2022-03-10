@@ -30,7 +30,7 @@ def completion(prompt, engine='davinci-instruct-beta-v3', temp=1.0, top_p=1.0, t
 
 
 def load_subs():
-    with open('subreddits.txt.', 'r', encoding='utf-8') as infile:
+    with open('subreddits.txt', 'r', encoding='utf-8') as infile:
         return infile.read().splitlines()
 
 

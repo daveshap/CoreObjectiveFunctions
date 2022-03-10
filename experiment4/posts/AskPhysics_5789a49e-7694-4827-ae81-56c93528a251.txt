@@ -1,0 +1,16 @@
+How does the curvature of space-time change when dropping some massive object in a black hole?
+For example: 
+
+You are distance x from some big black hole that pulls you at 50m/s
+
+You find something really dense, that when standing close to it and it being between you and the big black hole you feel the total acceleration of 100m/s.
+
+Of course, you are hovering and accelerating at 100m/s in the opposite direction, maintaining some certain altitude, over the black hole.
+
+The smaller object falls and for example, when it reaches the horizon you feel only a total force of 55m/s.
+
+Now, what happens when it crosses the event horizon? 
+
+Does the force decrease smoothly as expected by an object falling further away? If so then would that mean we can track it while it is inside the black hole?
+
+If not then, would there be a discontinuity in how much mass the black hole that just ate the object contains? Eg one way to measure would be simply checking how much thrust we need, to not fall in.

@@ -1,0 +1,4 @@
+What are the current COVID tests in use that are capable of determining the exact variant being detected as present? How do they do it?
+With the recent discovery of Omicron and it’s apparent rapid transmission and positive identification across the globe, how do current COVID tests determine which variant is being detected as present? Which tests have this capability? I have only ever seen tests that detect the presence of a coronavirus, but not the exact variant. 
+
+If the Omicron variant was just discovered days ago in South Africa, how would tests already in use in Europe, USA and Asia be able to not only detect the presence of  but also positively determine which variant was detected, especially when that variant was not known to exist until this week?

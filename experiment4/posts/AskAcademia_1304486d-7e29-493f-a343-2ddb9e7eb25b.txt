@@ -1,0 +1,24 @@
+Workflow for organizing notes on papers / research?
+Hey all!
+
+As the new year rolls around I'm making it a point to start reading more papers once again. One problem I've faced in the past is finding a good workflow for collecting my ideas and notes. I always end up with a jumbled mess of disconnected ideas for things that really should be connected. Things I've tried in the past include:
+
+- pen and paper, then adding notes as PDF pages to the PDF version
+
+- boox tablet where I write in my notes directly to the PDF. The issue here is that all those notes are pretty disjoint.
+
+- roam research, but I ended up using it as a bullet point taking tool. It was useful to be able to use backlinks, but it was pretty expensive, and the cloud-only setting was a huge thorn in my side.
+
+Ideally the workflow would be something like the following:
+
+- notes directly onto the PDF
+- easy export of the notes + relevant sections
+- a way to backlink everything to easily jump around between ideas.
+
+P.s I work in a computational area, so math equations and such are a nice-to-have for me.
+
+Alternative tools include:
+- obsidian note taking
+- logseq (roam research-like tool with less features, but allows local storage)
+
+for those interested in note taking tools.

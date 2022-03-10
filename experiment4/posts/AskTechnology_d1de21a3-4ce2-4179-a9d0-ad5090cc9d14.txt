@@ -1,0 +1,2 @@
+Transferring files to new computer
+Hello, I have recently purchased a new PC. Basically my question is, can I simply plug in my old SSD and HHD from my old computer into this new one via sata cables? The new PC has its own separate SSD with the OS (windows 10) installed already. The SSD I want to plug in has windows 7 on it(it was the drive i would boot to on my old PC), will that interfere with the fact that the new computer is running on windows 10? Thank you.

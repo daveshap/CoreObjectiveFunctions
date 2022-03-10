@@ -1,0 +1,2 @@
+How are people who test positive with an at home rapid test accounted for in totals and R0 figures?
+I know of dozens of people who tested positive in the last week (Colorado) and all of them with an at home test.  Case numbers are spiking like crazy in surrounding counties, but I have to imagine with how many people are discovering they're infected outside the medical system it has to be significantly worse than reported.  Do statisticians attempt to estimate the number of people in this scenario?  Or is every number you see from total cases to R0 drastically undervalued?

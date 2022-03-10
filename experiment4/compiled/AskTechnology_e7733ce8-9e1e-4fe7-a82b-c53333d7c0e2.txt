@@ -1,0 +1,14 @@
+Process the Core Objective Functions (reduce suffering, increase prosperity, increase understanding) on the following scenario:
+
+What should I do to fix fast internet that has high ping?
+I'm using an internet that  has about 1000 Mbps download speed in speed test, but the ping is really high. In ping test it's about a 60 median, and 60ms in league, 30\~40 in apex, but it looks fine in pinging google server - around 15.  (I was expecting a ping under 20 for internet at this speed)
+
+I had a technical support from my internet provider try to fix this for me, but it didn't work. The technical support guy said that he treid everything he can (mostly on hardwares and wires), the internet speed looks fine and thats what theri troubleshooting is all about, and he can do nothing about it and don't know how to fix it.
+
+I also considered if it's problem with my pc, but i also tested on my labtop the ping remains the same.
+
+Reduce suffering: This user is experiencing significant suffering from high ping rates. This can lead to frustration in online gaming, and decreased productivity when using the internet for work. There are several potential solutions that this user could explore. One solution is to speak with their internet service provider about the issue. The provider may be able to help troubleshoot or fix the problem. Another solution is to check the wiring and hardware in their home to ensure everything is working properly. If everything appears to be in order, then it may be necessary to upgrade their internet plan in order to get a higher speed with a lower ping rate.
+
+Increase prosperity: To increase prosperity, it is important to identify and address any gaps in access to resources and opportunities. In this case, it appears that the individual's internet connection is not providing the desired results. There may be a number of reasons for this, such as a poor quality connection or an incorrect setup. It is important to work with a qualified technician to troubleshoot and fix the issue. Additionally, it may be helpful to explore other options for connecting to the internet, such as using a different service provider or switching to a wired connection.
+
+Increase understanding: The Reddit user has a high ping when testing their internet speed, but the ping is fine when pinging Google servers. The user has already spoken to technical support from their internet provider, but the support couldn't find a solution. The user also tested their internet speed on a laptop and found the same results.

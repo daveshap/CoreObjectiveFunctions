@@ -1,0 +1,4 @@
+If there are two identical rockets in vacuum, one stationary and one somehow already moving at 1000kmh, and their identical engines are both ignited, would they have the same change in velocity?
+Given that kinetic energy is the square of velocity, if both rockets' change in velocity is the same, that seems to suggest that the faster rocket gained more kinetic energy from the same energy source (engine).
+
+However, if both rockets' change in velocity are not the same, this seems to be incongruent with the fact that they are both in identical inertial frames of reference.

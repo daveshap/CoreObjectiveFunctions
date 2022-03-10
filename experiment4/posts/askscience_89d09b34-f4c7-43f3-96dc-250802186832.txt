@@ -1,0 +1,12 @@
+How can you estimate the temperature of an arc discharge in air generated through high-frequency AC?
+Hi everyone. I'm wondering if it is possible or if there are methods to estimate the temperature of a plasma generated from an high-frequency arc discharge in air, like arcs generated from an arc lighter.
+
+Would it be dependant on the frequency, the distance between the electrodes or other things? The closest thing I found is related to the concept of electron temperature, but I haven't found any clear way to compute it.
+
+&amp;#x200B;
+
+Thanks for your help and have a nice day!
+
+&amp;#x200B;
+
+Edit: it would be in order to build an arc furnace capable of reaching temperatures up to 2100°C, to melt corundum

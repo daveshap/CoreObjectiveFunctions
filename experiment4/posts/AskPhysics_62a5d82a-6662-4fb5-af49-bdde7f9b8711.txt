@@ -1,0 +1,10 @@
+A non physics person asking a physics question.
+I was sent here from another subreddit, saying that this is the place to ask. I read the thread about how to effectively ask a question and if this violates any rules I apologise and fully understand if it is removed.
+
+I am a person who hardly knows anything about physics. However, I have a dilemma in daily life,the answer to which may depend on physics.
+
+I do know that pulleys are like machines, and they reduce the force necessary to lift a load on the other end of a cable. However, does it reduce the tension on the cable also, allowing it to lift heavier loads than it is rated for?
+
+For example, if a certain cable is rated to be able to withstand 100kg of weight hanging straight down. Now you put this pulley system on it with a number of pulleys. Let's say, it halves the force it is needed to pull on the other end, so you can lift the 100kg with only 50kg of force. Does it also reduce the tension on the cable, allowing it to lift more than 100kg of weight?
+
+Please keep in mind that the weight is not hanging on one end of the cable. There is a pulley attached to the weight, and the cable goes through a series of pulleys, including that one, and is anchored at a fixed point. OK here is a link to the picture of the pulley system. https://imgur.com/gallery/qQ7Dzmd

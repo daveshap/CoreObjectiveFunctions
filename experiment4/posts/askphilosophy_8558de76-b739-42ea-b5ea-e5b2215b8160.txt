@@ -1,0 +1,22 @@
+In a world undergoing climate change largely caused by carbon emissions from human activity, is it right to travel?
+There is an article in Aeon this morning titled “The End of Travel” where the author explores his desire for constant world travel in his youth. He also shares his observations of others who were traveling at the time and how he thinks their motivations have changed from an ecstatic individualistic sense of freedom to postmodern spectacle or as he put it... the “Instagrammability” of a destination.
+
+Beyond the personal and virtually social, toward the end of the article he raises an ethical issue climate change and the negative environmental impacts of travel. If we think about air travel, while total air travel carbon emissions are much smaller than what the fossil fuel industry or autos emit annually - energy production, trucks, and arguably cars, are still necessary. Flying to travel for luxury or entertainment is not. 
+
+If, for purposes of argument and ethical analysis, we assume:
+
+1) Climate change is a real and mitigatable environmental catastrophe - mitigatable only under a set amount of carbon emissions per year.
+
+2) You are planning a round trip plane ride from London to Rome, for enjoyment only.
+
+3) That plane trip for one person emits 252 kg of CO2 (according to a Guardian emission calculator) 
+
+4) That amount of carbon is greater than the average emissions for one person in nineteen other countries for one year.
+
+If the above assumptions are true, would it be right (ethical) to travel by plane, under this scenario?
+
+Article at Aeon [here](https://aeon.co/essays/a-dispatch-from-the-end-of-travels-brief-troubled-golden-age)
+
+Guardian Calculator [here](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year)
+
+Other source NY Times: projections of carbon emissions from air travel [here](https://www.nytimes.com/2019/09/19/climate/air-travel-emissions.html)

@@ -1,0 +1,1 @@
+The user is asking a question about two rockets in vacuum. The user seems to be trying to understand how the energy from the engines would affect the change in velocity of the rockets. If the change in velocity is not the same, it is incongruent with the fact that they are in identical inertial frames of reference.

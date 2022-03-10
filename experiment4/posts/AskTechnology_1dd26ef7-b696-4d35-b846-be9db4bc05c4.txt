@@ -1,0 +1,12 @@
+Why is my laptop performing poorly?
+My laptop is Dell Inspiron 5402 with the ff specs:  
+CPU: Intel 1135g7  
+GPU: Nvidia GEForce MX330  
+12 GB ram  
+and runs league and valorant at about 60fps on low settings. 
+
+My friend's laptop is  HP Laptop 14s-dk1505AU  
+CPU: Ryzen 3 3250U  
+GPU: AMD Radeon Graphics, which afaik is integrated  
+8GB ram  
+and I noticed that league and valorant run better on his device averaging about 100+fps on both games running on low settings. I know that league and valorant are games that are not too demanding on a device but does anyone know why my device performing so poorly when it has arguably better specs?

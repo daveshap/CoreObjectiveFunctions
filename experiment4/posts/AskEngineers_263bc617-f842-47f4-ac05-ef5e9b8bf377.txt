@@ -1,0 +1,30 @@
+What are some simple equations engineers use in their work?
+Are there simple\* equations you use in your work?
+
+These might include formulas that are used to estimate in place of more complicated formulas.
+
+(\* I understand that this is a relative term. By way of example, Ohm's law is a very simple equation.)
+
+For context, I teach upgrading math to adults and am rebuilding some materials. The math itself is pretty basic, but I try to include as much of the real world as I can. This often includes a lot of shopping and distance travelled examples, but I'd like to diversify a bit.
+
+For example, in the past I have brought in a little physics. For example, using this video only ([https://www.youtube.com/watch?v=f1EQdWp0Ggo](https://www.youtube.com/watch?v=f1EQdWp0Ggo)), how far did the diver fall ? Using the formula for acceleration due to gravity, an average, and knowledge about rate, time and distance, we try for a decent estimate (acknowledging that we are not accounting for air resistance, there are some difficulties timing the jump, and that working off an old video converted to digital all introduce other sources of error). We usually get a reasonably close answer.
+
+Any help is appreciated.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+To the r/AskEngineers community: Thanks so much for sharing your insights. You have given me a pile of homework for over the break. I am looking forward to it!
+
+I have cross-posted this with r/matheducation/
+
+Other math teachers might be interested in the thoughts you've generously shared.
+
+Thanks again
+
+&amp;#x200B;
+
+The original thread can be found here: 
+
+[https://www.reddit.com/r/AskEngineers/comments/rlscmg/what\_are\_some\_simple\_equations\_engineers\_use\_in/](https://www.reddit.com/r/AskEngineers/comments/rlscmg/what_are_some_simple_equations_engineers_use_in/)

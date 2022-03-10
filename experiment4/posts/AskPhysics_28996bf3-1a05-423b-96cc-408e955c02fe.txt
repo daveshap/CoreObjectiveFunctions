@@ -1,0 +1,38 @@
+"speed of entanglement": why is it impossible?
+Ok, I know entanglement needs a local interaction to setup. And I'm also aware that we "cannot exchange data FTL" (no communication theorem).
+
+It feels like this setup should work, but also that it violates FTL communication. I know some of the resolutions for QM is non locality, despite the no communication theorem, and it feels like that's the only thing I'm exploiting here, which is probably wrong...
+
+My understanding of QM is, admittedly not very strong, but I'm looking forward to developing a better intuition for it.
+
+Here is my experimental protocol.
+
+1. Setup a (huge) bunch of entangled pairs of qbits |00&gt;, I don't mean they are always the same, I mean that in a given base of measurement (let's call it "vertical", whatever that means), they always both give 0. But also, since they are entangled and not just (|0&gt; x |0&gt;, unsure x is the proper operator here, but bear with me), any change to one, would impact the other.
+
+The way I see it, this could be achieve by generating triads of 1/✓2|000&gt; + 1/✓2|111&gt;, measure one of the qbits, if it outputs a 1, discard the remaining pair, otherwise, keep it.
+
+
+2. Split and ship away one qbit from each pair. At some distance so light takes a measurable amount of time to travel from here (A) to there (B).
+
+3. At A, start measuring the qbits, by batches of, say, 100 using the vertical base. And send a light pulse to B. (This is obviously only going to output a bunch of 0 for now).
+
+4. Once B recieves the pulse, reflect it back and measures all the qbits, at once, in a perpendicular base (let's say horizontal).
+
+Now, since the qbits pairs are all |00&gt; in the vertical base, they will be (1/✓2 |00&gt; + 1/✓2 |11&gt;) in horizontal base.
+And so, the output at B will all be random 0 and 1s. However, once measured, the remaining qubit of the pair at A will be 50% chance of |0&gt; and 50% chance of |1&gt; in the horizontal base.
+
+This isn't a superposition anymore, only a statistical mix. Each being equivalent to (1/✓2 |00&gt; + 1/✓2 |11&gt;) in the original vertical base. There might be a sign change or a missing i factor to make everything work out, but I don't think it changes the rest of my argument.
+
+5. Reducing that state, the remaining qbit at A now have only 50% chance of being measured as 0 in the vertical base.
+
+Since they are measured by batches of 100, the probability of all of them outputing 0 until the return light speed signal arrives at A is quite low. And could be made arbitrarily low by using bigger batches. We should be able to find an upper limit on entanglement speed.
+
+It feels like that would allow us to setup a FTL clock (and therefore carrier wave, are therefore FTL data exchange, which should be impossible.
+
+This can't be a new idea either and I see two places where my reasoning could fail:
+
+1. My understanding of entanglement is broken at step 1, there are no fundamental differences between |0&gt; x |0&gt; and |00&gt;. (I need to read up on the mathematical framework).
+
+2. My understanding of entanglement is broken at step 4 and measuring one of the qbit in an alternative base doesn't impact the original one. Although, from what I understand of quantum teleportation, that's actually the crux of it...
+
+So where did I get it wrong? Or do we actually have some sort of interesting experiment here?

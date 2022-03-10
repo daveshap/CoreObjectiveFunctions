@@ -1,0 +1,6 @@
+[IN] What’s the point of being paid by the hour if you don’t get paid for every minute you work? Is this legal?
+The time clock system at my work clocks us in/out to the nearest 5-10 minutes. It always rounds up or down, which ever benefits the company more. 
+
+For example: If I start at 8am, I might clock in at 7:50-7:55 (it wont let you clock in any earlier than that) to get a head start on my work, but I automatically get clocked in for 8. I clock out at the end of the day and it’s 4:07, I automatically get clocked out for 4pm. 
+
+It’s just frustrating in which my lunch breaks involve staff breaking each other for lunch. One of my co-workers is always late coming back from her lunch break, so if I’m scheduled to be on break at 1:30, my coworker is pulling into the parking lot at 1:35 and doesn’t get to relieving me until 1:40ish. I clock out but I’m automatically clocked out for 1:30. So basically just missed out on 10 minutes of my own lunch break and can’t ever get paid for that.

@@ -1,0 +1,1 @@
+The Reddit user has a high ping when testing their internet speed, but the ping is fine when pinging Google servers. The user has already spoken to technical support from their internet provider, but the support couldn't find a solution. The user also tested their internet speed on a laptop and found the same results.

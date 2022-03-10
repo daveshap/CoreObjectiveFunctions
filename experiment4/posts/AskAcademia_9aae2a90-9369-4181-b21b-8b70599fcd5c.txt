@@ -1,0 +1,26 @@
+Very Questionable Scientific Paper in “Predatory” Journal
+tl;drGrad student in CFD lab, read an extremely questionable (and supposedly peer-reviewed) paper in an [MDPI journal](https://en.wikipedia.org/wiki/MDPI) (MPDI publisher seems to be controversial and linked to the topic of "[predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)"). My supervisor agrees with the assessment. How should I proceed? Should I even bother with a letter to the editor. I've only published one paper so far, so rather inexperienced with the day-to-day nature and politics of academia.
+
+Hello everyone,I'm a grad student in mechanical engineering, doing research in a CFD / Fluids lab.
+
+A few days ago, I've read a paper on my research topic and was very excited by the content of their work. They applied a very novel technique / idea to the problem I am currently working on, and after skipping over the abstract and conclusion, I was left a little underwhelmed. It had seemingly no real content. But when reading scientific work as a student, my first intuition is always that *I* have to read it more carefully and probably am not understanding everything.
+
+So I completely worked through the paper, and with every additional page it got worse. The paper was written very nicely, good figures – at a first glance it is not obvious that this might be a low quality publication. But the content was full of mistakes I would expect my undergraduate students to make in their first CFD semester. Some bizarre decisions such as applying incompressible CFD solver to highly compressible flow cases etc.
+
+After working through it and making notes on everything that seemed out of place to me, I talked with my supervisor about it, and he fully agrees with my assessment. The paper is not only full of (for ease of writing I call the mistakes now..) mistakes, but also just – in my mind – bad scientific style. There are lots of words seemingly describing the methodology, but basically not real content behind those words.
+
+So, long story short, my advisor and I basically get a few chuckles out of but didn't really discuss anything further. But now I got the feeling "to do something about it", hence I talked to my supervisor again, and he said, if I wanted, he'd support me in writing a letter to the editor.
+
+Then I looked up the journal, which is part of the [MDPI family of journals](https://en.wikipedia.org/wiki/MDPI), and stumbled upon their Wikipedia article.. Puuh, half the Wikipedia page is about controversies concerning journals published by the MDPI publisher, with the phrase "[predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)" in the third paragraph.
+
+To be honest, I am a bit unsure how to pursue this and was looking for some input from more experienced people in the field of academia. Do I even bother to write such a letter? This might sound a bit weird, but I don't want to but my hand in a bee's nest.. But it bothers me that such blatantly problematic research was (supposedly peer-reviewed) and published. What if they don't care at all?
+
+I won't name the researchers, paper or even specific journal at this point in time. This is not about blaming someone or creating drama. I hope some of you have a few insights to help me make my mind up about what to do.
+
+Thank you &amp; cheers!
+
+&amp;#x200B;
+
+Small addition: I looked up the authors, first author seems to be a student with no other publications. So no red flag so far. But the second (and final) author has never published anything in the field of fluid dynamics. Some "meta" and broad-engineering papers, mostly methods and strategies paper tangent to engineering. But no previous work in CFD or fluid dynamics.
+
+Edits: Spelling mistake, English is not my mother tongue, sorry!

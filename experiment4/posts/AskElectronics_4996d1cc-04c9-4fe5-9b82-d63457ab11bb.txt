@@ -1,0 +1,2 @@
+what kinda solder are modern game controllers using?
+Not too long ago I had to replace the sticks on a friends ps5 controller, my iron is one of those little pen stick ones and it caps off at 400C, had a super hard time desoldering the joints, what I had to end up doing was clip the sticks clean off the board and then use the iron to clean out the holes, is there something I'm missing here that would make this process easier or does my iron just not get hot enough to desolder whatever solder they use to make controllers these days?

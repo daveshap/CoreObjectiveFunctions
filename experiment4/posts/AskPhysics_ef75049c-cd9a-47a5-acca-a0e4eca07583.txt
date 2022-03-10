@@ -1,0 +1,16 @@
+Anxiety Over my Master Thesis
+Hello Physicists!
+
+Let me try and give you the full picture. I'm writing about "Decoherence, the Quantum-to-Classical Transition and the Interpretation of Quantum Mechanics" for my master thesis in theoretical physics , which in its final form should be a litterary study on these broad subjects. The thesis is devided into several parts: an introduction to decoherence, a problem formulation of the measurement problem and its relation to decoherence, a problem formulation of the Quantum-to-Classical transition and its relation to decoherence and a section outlying fundamental disagreements of interpretational veiws. Right now, I am just about to finish the first part about the introduction to decoherence. 
+
+&amp;#x200B;
+
+As of now, this section contains a scattering example which shows how coherence terms of the system density operator reduces under environmental entanglement, as well as a more concrete example regarding the double slit experiment in the position representation. After this, I show how a projective measurement on an environmental probe can gives us information about the system entangled with the probe. After discussing the meaning of these results, I derive the Born-Markov and Lindblad Master equations, and discuss the four system-environment spin-1/2 or harmonic oscillator combinations, as well as derive some key results regarding quantum brownian motion.
+
+I have two supervisors, one working with information theory in QM and one philosopher and physicist working on the measurement problem. I presented my work to the philosopher, and he wondered where I would go from here. My problem here is that I am really not sure myself. I feel as though I have just written a lot about decoherence without any real regard for how this should tie together with the rest of the subjects on my paper. 
+
+My initial plan was to give a hefty introduction to decoherence, in part to show my technical skill before a subject which might be a bit more "wordy", and to always have something practical to fall back on during more fundamental questions. I realize now that I have not read enough about the later subjects of my thesis to seamlessly tie it together, especially regarding the quantum-toclassical transition.
+
+I hope that you realize my problem despite my babbling. I am writing to you to get some suggestions. For example, do you have any good papers regarding the quantum-to-classical transition relating to quantum brownian motion? Do you think this is a good start for what I am about to discuss? 
+
+Thank you.

@@ -1,0 +1,8 @@
+Moral Realism: How can the normative affect the non-normative? How can we know of the normative by non-normative means?
+Similarly to substance dualism within the philosophy of science debate, moral realism seems to invoke a sort of dualism. 
+
+There are normative ("Killing is wrong") and non-normative properties and utterances ("Jim kills Tom") which are both real, and normative properties seem to affect non-normative ones in particular ways. After all, assuming moral realism to be true, we don't banish normative properties to an isolationist existence within the normative realm never to affect anything non-normative, e.g. whether Jim actually kills Tom or not, as in whether his neurons are fired in such a way or not that he actually does kill Tom or not.
+
+As moral realists, we want "Killing is wrong" to affect "Jim kills Tom" (preferably, in a way for the latter to be wrong as Jim refrains from killing) and we don't want "Killing is wrong" to be purely subjective or even non-normative, e.g. as in "My neurons are arranged in such a way that I dislike killing".
+
+However, there is no "ought" value of neurons or the such. It either fires or it doesn't. How do normative properties affect non-normative ones? How do they determine or increase the likelihood of neurons to be fired in such a way that Jim kills Tom or not? Or even more importantly: How do we even know that "Killing is wrong" in the first place if our whole capacity of knowing is based on a very much non-normative instrument, the brain, consisting of very much non-normative entities, neurons, who either fire or not, but surely don't "ought" to fire or not. How can normativity arise from such non-normativity?

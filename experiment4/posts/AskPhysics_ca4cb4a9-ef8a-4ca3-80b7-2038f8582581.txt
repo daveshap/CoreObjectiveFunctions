@@ -1,0 +1,8 @@
+What does V=+400v mean?
+Hello, I’m struggling to understand a physics question that I’ve come across. Any help is appreciated.
+
+A point, P, in space near a charged object has a voltage of V=+400v. What does a voltage of V=+400v mean?
+
+My own interpretation of the question is as follows. Since we assume that the point is positive, the fact that the voltage is positive means that the point has 400 joules of potential energy and it’s positive energy. Is that right? It’s not making much sense.
+
+Thanks in Advance

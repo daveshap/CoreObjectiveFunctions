@@ -1,0 +1,12 @@
+A convenient way to store private and sensitive files
+**TL:DR- I want a Google Photos, but with a password. Paid or free**
+
+Hi, I have some private files that only I want access to. (as we all do)  
+Since, people around me have constant access to all my devices, I want a folder or an app where these are tucked away neatly, locked with a password.
+
+Now, I have a Samsung Android phone, and Google Photos already has a feature called "locked folder". But it doesn't back up to cloud, making it pointless because the files are important and I don't want to lose them if I lose my phone.  
+And Samsung has a "secure folder" but it doesn't work on non-samsung products, so losing my phone, I would have to buy a samsung phone to ever see those files again which puts unnecessary restriction on me.
+
+These files are not SO sensitive that I mind backing up to a cloud.
+
+So I want a private cloud backup that can store these files and **works cross device** so if I lose one device, I can access it on other without hesitation. Of course, I am willing to pay.

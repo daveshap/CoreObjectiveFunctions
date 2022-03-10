@@ -1,0 +1,4 @@
+Could an IR camera in sensitive around 1600nm see well through fog, with little impediment?
+Hi!
+
+I'm thinking this might be the case because looking at the [solar radiation](https://en.wikipedia.org/wiki/File:Solar_Spectrum.png), this part is not absorbed by the atmosphere. Also the wavelength is [apparently](https://www.researchgate.net/figure/Typical-droplet-distribution-for-different-kinds-of-fog_fig1_243483550) larger than most water droplets. And as far as I know if the size is smaller than the wavelength there's no refraction/reflection. (At least that was my conclusion from the explanation of how moth-eye anti-glare works)

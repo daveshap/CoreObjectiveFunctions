@@ -1,0 +1,25 @@
+What is post-structuralism's gripe with linguistics?
+This is hard post to write, because it's a huge topic. I'll try my best though.   
+
+
+I studied linguistics in a college that was very concerned with empirical research, quantitative analysis, and that kind of thing. The department didn't care much for philosophy of language; however, I am very interested in this subject and read much on it in my free time. In particular, I read a lot of continental philosophy. Some people I read: Voloshinov, Lacan, Derrida, Deleuze, Kristeva, etc. 
+
+It seems that, in the works of these philosophers, there's a general skepticism towards linguistics as a science. With the post-structuralists specifically, if I understand it correctly, it started with Derrida and his critique of Saussure. Derrida deconstructed Saussure's opposition between speech and writing, saying there's no reason to think of speech as more natural than writing. Furthermore, he took Saussure's idea of signs being determined by their relationship to other signs and claimed that meaning was produced that an "endless play of differences".   
+
+
+Though the critique started with critiquing Saussure, other philosophers have also critiqued more modern forms of linguistics; both Deleuze and Kristeva seem skeptical of Chomsky's theories in particular. 
+
+Deleuze, in *Postulates of Linguistics,* seems to suggest that Chomsky's syntactic theories are ultimately a form of "arborescent" thinking, depending on hierarchy, strict binaries, etc. Deleuze wants to have a more rhizomatic account of language by talking about "order-words" and how using them, the very act of speaking, affects the world around them. Furthermore, Deleuze criticizes the idea that language can be separated from its social, political, geographic, etc. context. For Deleuze (or at least, how I understand him in *A Thousand Plateaus*), there is no abstract "language"; there is only the set of all order-words used at a given moment. 
+
+Kristeva disagrees with Chomsky on psychoanalytic grounds, arguing that Chomsky's theories imply a Cartesian subject and don't take into consideration the unconscious. 
+
+With all these critiques and all the other ones I have seen, I always get the sense that I'm either not fully understanding them or that they seem wrong somewhere. 
+
+Generally speaking, most of these claims seem to rely on the assumption that linguists is meant to do things that it is not. Linguistics isn't meant to be some field where people try to figure out metaphysics; it's meant to explain and make predictions about the world.  It's meant to predict what phonological, syntactic, etc. changes will happen and give an account for those that we already see. Most of the questions that these philosophers are bringing are ones that the vast majority of linguists (at least, the ones I've interacted with) don't care about. 
+
+Also, it seems like some of these authors are just empirically wrong. From what I understand, we do have good evidence that speech is more "natural" than writing; neurologically, when you write, you actually using the same part of your brain as when you speak (I believe). People learn to speak naturally; people learn to write by being taught, etc. Similarly, it doesn't make sense to me to suppose that there is no language in the abstract; we are all speaking to each other and, more or less, understanding each other. There has to be some thing to explain why this is the case. With Kristeva, I never really understood her argument. 
+
+I suppose, ultimately, while I sometimes see the points that these philosophers are making, I generally feel like they're missing the point a bit or are making claims that don't seem to hold up empirically.  
+
+
+Sorry if I said something wrong about these philosophers; I haven't read them in a while. But any help understanding this whole thing would be appreciated.

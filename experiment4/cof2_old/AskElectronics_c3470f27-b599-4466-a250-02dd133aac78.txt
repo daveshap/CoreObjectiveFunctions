@@ -1,0 +1,1 @@
+I think a dual-port SRAM would be a great way to interface a microcontroller with a Gameboy. This would allow for more flexibility in code updates and would not require a direct connection between the MCU and the GB CPU. Additionally, multithreading-esque glue logic could help to increase efficiency.

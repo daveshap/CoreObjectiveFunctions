@@ -1,0 +1,14 @@
+Limit usable RAM only to dual channel portion (8+32 configuration)
+So I recently got a new laptop equipped with a 3070 and i7 11800H. Originally it had 16GB (8GB soldered). I upgraded it to 40GB (8+32) knowing I would lose some performance, but in most games the difference isn't huge and even if it is, it's usually in e-sports title where you still get 100+ fps even in single channel. 
+So far so good, I tested some games using an external screen (connected directly to the GPU, no MUX switch sadly) and the performance is good even when it is running in single channel (after the first 16GB). The problem arose when I tried using the built-in screen and hence the iGPU to deliver the frames from the dGPU to the screen. In fact, here I get a huge (like -70% or even -90% fps) performance drop if i am using single channel memory since (i guess) the iGPU needs the dual channel memory to be fast.
+
+
+Ok, so you might say, just don't go over 16GB of RAM utilization and use the dual channel memory but there are some problems:
+
+1) Apparently Windows doesn't really prefer to use the dual channel memory over the single channel portion. Simply, initially after a reboot it first utilizes the 16GB of RAM in dual channel but then it gets random pretty quickly and it is quite likely you will end up in a single channel portion of the RAM.
+
+2) Even if I try to limit the maximum amount of RAM in the Windows settings, it still suffers from the problem above and doesn't seem to really prefer the dual channel portion.
+
+So, I wonder if this is simply not possible to solve or if there are some ways to either force Windows to use preferably (or even only) the dual channel portion of the RAM or to at least assign the iGPU always dual channel memory instead of it being "random".
+
+P.S. Yes I need the large capacity for work and I knew about the downsides, I just didn't fully realize the impact on the iGPU with Optimus. And most of the time I use an external screen but still I am curious to know if this is possible to fix or alleviate.

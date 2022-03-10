@@ -1,0 +1,14 @@
+Why does having a number of neutrons more than a proton inside the nucleus of an atom make it "Unstable"?
+In physics textbooks we are thaught
+
+&gt;If the number of neutrons are much more than number of protons in their nucleus atoms are unstable and undergo radioactive decay
+
+In chemistry textbooks we are thaught
+
+&gt;Elements with n/p(neutron/proton)ratio around 1 are stable.  
+&gt;  
+&gt;Elements with n/p ratio more than 1.5 are unstable and are radioactive
+
+But none of the textbooks actually explain why they are stable or unstable. 
+
+Can anyone explain it to me?

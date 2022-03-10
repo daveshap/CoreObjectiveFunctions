@@ -1,0 +1,18 @@
+Why is the Latin Script relatively similar across European languages, while almost all languages in the Indian Subcontinent have their own unique writing systems?
+Across most Germanic and Latin based European languages, varied from Hungarian to English, the Latin script is used, with only very minor changes.
+
+However, in the Indian Subcontinent, almost all languages have their own unique script. These scripts are significantly different from each other. However all these writing systems developed from a single script called the Brahmi Script: 
+
+https://en.m.wikipedia.org/wiki/Brahmi_script
+
+"The Brahmi writing system, or script, appeared as a fully developed universal one in South Asia in the third century BCE, and is a forerunner of all writing systems that have found use in South Asia with the exception of the Indus script of the third millennium BCE, the Kharosthi script, which originated in what today is northwestern Pakistan in the fourth or possibly fifth century BCE, the Perso–Arabic scripts since the medieval period, and the Latin scripts of the modern period."
+
+Accross languages, modern scripts descended from the Brahmi Script look significantly different from each other. Examples of which can be found in the following links:
+
+https://imgur.com/MlkYC6S
+
+And,
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Phrase_sanskrit.svg/1788px-Phrase_sanskrit.svg.png
+
+Why has Indian Subcontinental writing systems evolved so widely and drastically from a single source, while the Latin alphabet remains relatively similar accross European languages?

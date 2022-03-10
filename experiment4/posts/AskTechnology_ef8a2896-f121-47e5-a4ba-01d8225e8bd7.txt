@@ -1,0 +1,12 @@
+Is there anyway to download an audio file from an audio player on a webpage?
+Firstly apologies if this is not the correct place to ask this question.
+
+Hello,  I would like to download some drum-loops from a webpage that allows me  to listen to them through an audio player that's embedded on the  webpage.
+
+I've tried combing through the page's source code and source files but I wasn't able to find anything.
+
+Is there anyway to accomplish my goal?
+
+Screenshot of webpage: [https://imgur.com/gallery/KVK9dlq](https://imgur.com/gallery/KVK9dlq)
+
+Link to webpage: [https://www.talkingbass.net/top-20-bass-riffs-beginners/](https://www.talkingbass.net/top-20-bass-riffs-beginners/)

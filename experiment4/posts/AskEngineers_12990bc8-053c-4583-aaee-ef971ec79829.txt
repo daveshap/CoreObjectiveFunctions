@@ -1,0 +1,6 @@
+How does SpaceX develop hardware so quickly without having an extensive historical archive of data and experience to draw on?
+Title is a little generic so I’ll just give an example. For example, I’m working on qualifying a new piece of critical hardware for commercial aviation use and I frequently have to verify tiny little details against the company’s very extensive archive of previous test data, usually in the form of extremely thorough and detailed formal processes, procedures, etc. One such detail could be ensuring the grease in a grease packed bearing is compatible with the very specific flavor of steel the bear is made from or something like that. So I go through all these documents looking for approved greases in this particular use case to make everything is all good. 
+
+This level of scrutiny gets applied to every conceivable detail of every piece of hardware before it goes into production. 
+
+How does SpaceX seemingly develop production hardware so quickly that’s rated for manned space flight without decades of data to fall back on? Are they just getting this info from suppliers or NASA?
